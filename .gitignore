@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (don't commit API keys)
+.env
+*.env.local
+secrets.yaml
+
+# Keep data directory structure but not large files
+# Uncomment below if you want to ignore job data
+# data/jobs/*.json

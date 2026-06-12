@@ -1,0 +1,102 @@
+# Your Profile Configuration
+profile:
+  name: "Jyot Harshadkumar Bhavsar"
+  email: "jyotbhavsar2003@gmail.com"
+  phone: "+1-647-572-0375"
+  location: "Brampton, Ontario, Canada"
+  linkedin: "https://www.linkedin.com/in/jyot-bhavsar-5221b922b/"
+  github: "https://github.com/Jybhavsar12"
+  portfolio: "https://jyot-portfolio.vercel.app/"
+
+# Target job preferences
+preferences:
+  titles:
+    - "Software Engineer"
+    - "Software Developer"
+    - "Full Stack Developer"
+    - "Backend Developer"
+    - "Frontend Developer"
+    - "Python Developer"
+    - "Junior Developer"
+    - "New Grad Developer"
+  
+  locations:
+    - "Remote"
+    - "Toronto, ON"
+    - "Brampton, ON"
+    - "Mississauga, ON"
+    - "Greater Toronto Area"
+    - "Canada"
+  
+  experience_levels:
+    - "Entry Level"
+    - "Junior"
+    - "New Grad"
+    - "0-2 years"
+  
+  job_types:
+    - "Full-time"
+    - "Contract"
+    - "Internship"
+  
+  salary:
+    min: 50000
+    max: 90000
+    currency: "CAD"
+
+# Your skills for job matching
+skills:
+  languages:
+    - Python
+    - JavaScript
+    - TypeScript
+    - Java
+    - C
+  
+  frontend:
+    - React.js
+    - Next.js
+    - React Native
+    - HTML5
+    - CSS3
+    - Tailwind CSS
+  
+  backend:
+    - Node.js
+    - Express.js
+    - Django
+    - Flask
+    - REST APIs
+  
+  databases:
+    - MySQL
+    - MongoDB
+    - PostgreSQL
+  
+  cloud_devops:
+    - AWS
+    - Docker
+    - Kubernetes
+    - Git
+    - GitHub Actions
+    - Vercel
+  
+  other:
+    - Machine Learning
+    - TensorFlow
+    - Linux
+    - Agile
+
+# Keywords that boost job score
+priority_keywords:
+  - "new grad"
+  - "entry level"
+  - "junior"
+  - "python"
+  - "react"
+  - "full stack"
+  - "no experience required"
+
+# Companies to skip
+excluded_companies:
+  - "Fake Company Inc"
