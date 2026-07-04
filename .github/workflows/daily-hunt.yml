@@ -35,14 +35,18 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}/src
       
+      - name: Update README stats
+        run: |
+          python src/update_readme_stats.py
+
       - name: Configure Git
         run: |
           git config --local user.email "115662331+Jybhavsar12@users.noreply.github.com"
           git config --local user.name "Jyot Bhavsar"
-      
+
       - name: Commit and push changes
         run: |
-          git add data/
+          git add data/ README.md
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
