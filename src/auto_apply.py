@@ -14,12 +14,24 @@ from job_sources import JobAggregator
 from tracker import ApplicationTracker
 
 
+def make_scorer(engine: str = "semantic"):
+    """Build the configured scorer, falling back to keyword matching
+    when sentence-transformers is unavailable."""
+    if engine == "semantic":
+        try:
+            from semantic_scorer import SemanticScorer
+            return SemanticScorer()
+        except ImportError:
+            print("⚠️  sentence-transformers not installed; using keyword scorer")
+    return JobScorer()
+
+
 class AutoApply:
     def __init__(self):
-        self.scorer = JobScorer()
+        self.config = self._load_config()
+        self.scorer = make_scorer(self.config.get('scoring', {}).get('engine', 'semantic'))
         self.aggregator = JobAggregator()
         self.tracker = ApplicationTracker()
-        self.config = self._load_config()
         
         # Settings
         self.min_score = 40  # Minimum score to consider applying
