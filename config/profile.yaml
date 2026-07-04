@@ -100,3 +100,7 @@ priority_keywords:
 # Companies to skip
 excluded_companies:
   - "Fake Company Inc"
+
+# Scoring engine: "semantic" (embeddings) or "keyword" (legacy substring match)
+scoring:
+  engine: semantic

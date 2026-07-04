@@ -68,7 +68,7 @@ class ApplicationTracker:
         self._update_stats()
         self._save_applications()
         
-        print(f"✅ Applied to {job.get('title')} at {job.get('company')}")
+        print(f"Applied to {job.get('title')} at {job.get('company')}")
         return application
     
     def update_status(self, app_id: str, status: str, notes: str = ""):
@@ -118,7 +118,7 @@ class ApplicationTracker:
         with open(stats_file, 'w') as f:
             json.dump(daily_stats, f, indent=2)
         
-        print(f"📊 Daily stats saved to {stats_file}")
+        print(f"Daily stats saved to {stats_file}")
         return daily_stats
     
     def get_pending_applications(self) -> List[Dict]:
@@ -132,7 +132,7 @@ class ApplicationTracker:
         """Generate summary text"""
         stats = self.get_stats()
         lines = [
-            f"📊 Application Summary",
+            f"Application Summary",
             f"Total Applications: {stats['total']}",
             f"By Status:"
         ]

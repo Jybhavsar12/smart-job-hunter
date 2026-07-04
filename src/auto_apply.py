@@ -14,12 +14,24 @@ from job_sources import JobAggregator
 from tracker import ApplicationTracker
 
 
+def make_scorer(engine: str = "semantic"):
+    """Build the configured scorer, falling back to keyword matching
+    when sentence-transformers is unavailable."""
+    if engine == "semantic":
+        try:
+            from semantic_scorer import SemanticScorer
+            return SemanticScorer()
+        except ImportError:
+            print("WARNING: sentence-transformers not installed; using keyword scorer")
+    return JobScorer()
+
+
 class AutoApply:
     def __init__(self):
-        self.scorer = JobScorer()
+        self.config = self._load_config()
+        self.scorer = make_scorer(self.config.get('scoring', {}).get('engine', 'semantic'))
         self.aggregator = JobAggregator()
         self.tracker = ApplicationTracker()
-        self.config = self._load_config()
         
         # Settings
         self.min_score = 40  # Minimum score to consider applying
@@ -34,10 +46,10 @@ class AutoApply:
         """Search for jobs and score them"""
         queries = self.config['preferences']['titles'][:5]  # Top 5 job titles
         
-        print("🔍 Searching for jobs...")
+        print("Searching for jobs...")
         jobs = self.aggregator.search_all(queries)
         
-        print("📊 Scoring jobs...")
+        print("Scoring jobs...")
         scored_jobs = self.scorer.rank_jobs(jobs)
         
         # Save to file
@@ -90,19 +102,19 @@ class AutoApply:
     def run_daily_hunt(self, dry_run: bool = True) -> Dict:
         """Run the daily job hunt routine"""
         print("=" * 50)
-        print(f"🎯 Smart Job Hunter - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+        print(f"Smart Job Hunter - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
         print("=" * 50)
         
         # Search and score
         jobs = self.search_and_score()
-        print(f"\n📋 Found {len(jobs)} jobs total")
+        print(f"\nFound {len(jobs)} jobs total")
         
         # Get candidates
         candidates = self.get_apply_candidates(jobs)
-        print(f"✨ {len(candidates)} jobs meet criteria (score >= {self.min_score})")
+        print(f"{len(candidates)} jobs meet criteria (score >= {self.min_score})")
         
         # Show top jobs
-        print("\n🏆 Top 10 Job Matches:")
+        print("\nTop 10 Job Matches:")
         for i, job in enumerate(candidates[:10], 1):
             print(f"  {i}. [{job['match_score']:.0f}] {job['title']} @ {job['company']}")
         
@@ -128,9 +140,9 @@ class AutoApply:
         
         applied_count = results["applied"]
         if dry_run:
-            print("\n🏃 DRY RUN - No applications submitted")
+            print("\nDRY RUN - No applications submitted")
         else:
-            print(f"\n✅ Applied to {applied_count} jobs")
+            print(f"\nApplied to {applied_count} jobs")
         print(self.tracker.summary())
         
         return results

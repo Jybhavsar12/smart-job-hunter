@@ -1,4 +1,4 @@
-# 🎯 Smart Job Hunter
+# Smart Job Hunter
 
 Automated job searching, scoring, and application tracking system.
 
@@ -6,11 +6,11 @@ Automated job searching, scoring, and application tracking system.
 
 ## Features
 
-- 🔍 **Multi-source job search** - Aggregates jobs from RemoteOK, Arbeitnow, and more
-- 📊 **Smart scoring** - Ranks jobs based on your profile match (skills, location, title)
-- 📝 **Application tracking** - Track all applications, statuses, and responses
-- ⚡ **Auto-apply ready** - Prepared for browser automation integration
-- 🤖 **Daily automation** - GitHub Actions runs daily and commits job data
+- **Multi-source job search** - Aggregates jobs from RemoteOK, Arbeitnow, and more
+- **Smart scoring** - Ranks jobs based on your profile match (skills, location, title)
+- **Application tracking** - Track all applications, statuses, and responses
+- **Auto-apply ready** - Prepared for browser automation integration
+- **Daily automation** - GitHub Actions runs on a schedule and commits job data
 
 ## Quick Start
 
@@ -65,7 +65,15 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-*Stats will be updated automatically*
+**Last updated:** 2026-07-04 04:54 UTC
+
+| Metric | Value |
+|--------|-------|
+| Search runs | 22 |
+| Jobs found (all time) | 107 |
+| Jobs found (latest run, 2026-07-03) | 6 |
+| Best match (latest run) | Full Stack Developer first UK at Better Futures Multi Academy Trust (score 42) |
+| Applications tracked | 0 |
 <!-- STATS_END -->
 
 ## License
