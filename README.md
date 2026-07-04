@@ -1,4 +1,4 @@
-# 🎯 Smart Job Hunter
+# Smart Job Hunter
 
 Automated job searching, scoring, and application tracking system.
 
@@ -6,11 +6,11 @@ Automated job searching, scoring, and application tracking system.
 
 ## Features
 
-- 🔍 **Multi-source job search** - Aggregates jobs from RemoteOK, Arbeitnow, and more
-- 📊 **Smart scoring** - Ranks jobs based on your profile match (skills, location, title)
-- 📝 **Application tracking** - Track all applications, statuses, and responses
-- ⚡ **Auto-apply ready** - Prepared for browser automation integration
-- 🤖 **Daily automation** - GitHub Actions runs daily and commits job data
+- **Multi-source job search** - Aggregates jobs from RemoteOK, Arbeitnow, and more
+- **Smart scoring** - Ranks jobs based on your profile match (skills, location, title)
+- **Application tracking** - Track all applications, statuses, and responses
+- **Auto-apply ready** - Prepared for browser automation integration
+- **Daily automation** - GitHub Actions runs on a schedule and commits job data
 
 ## Quick Start
 

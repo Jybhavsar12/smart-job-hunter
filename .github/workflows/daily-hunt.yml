@@ -2,8 +2,8 @@ name: Daily Job Hunt
 
 on:
   schedule:
-    # Runs at 9 AM EST (14:00 UTC) every day
-    - cron: '0 14 * * *'
+    # Runs 5 times a day (UTC): 06:00, 10:00, 14:00, 18:00, 22:00
+    - cron: '0 6,10,14,18,22 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -51,6 +51,7 @@ jobs:
             DATE=$(date +%Y-%m-%d)
             JOBS_COUNT=$(cat data/jobs/jobs_${DATE}.json 2>/dev/null | python -c "import sys,json; print(json.load(sys.stdin).get('count', 0))" 2>/dev/null || echo "0")
             
-            git commit -m "🎯 Daily job hunt: ${DATE} - Found ${JOBS_COUNT} jobs"
+            TIME=$(date +%H:%M)
+            git commit -m "Job hunt run: ${DATE} ${TIME} UTC - Found ${JOBS_COUNT} jobs"
             git push
           fi
