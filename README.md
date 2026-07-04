@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-04 04:54 UTC
+**Last updated:** 2026-07-04 08:20 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 22 |
-| Jobs found (all time) | 107 |
-| Jobs found (latest run, 2026-07-03) | 6 |
-| Best match (latest run) | Full Stack Developer first UK at Better Futures Multi Academy Trust (score 42) |
+| Search runs | 23 |
+| Jobs found (all time) | 113 |
+| Jobs found (latest run, 2026-07-04) | 6 |
+| Best match (latest run) | Full Stack Developer first UK at Better Futures Multi Academy Trust (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
