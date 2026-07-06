@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "count": 13,
+  "count": 4,
   "jobs": [
     {
       "id": "remoteok_1134395",
@@ -19,7 +19,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-07-02T11:52:54+00:00",
-      "fetched_at": "2026-07-06T13:37:36.799629",
+      "fetched_at": "2026-07-06T16:47:59.902347",
       "match_score": 42.55,
       "score_breakdown": {
         "semantic_similarity": 0.3772,
@@ -27,7 +27,7 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-06T13:37:56.051847"
+      "scored_at": "2026-07-06T16:48:16.104368"
     },
     {
       "id": "arbeitnow_senior-embedded-software-engineer-reliant-gilching-357524",
@@ -43,7 +43,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783329612,
-      "fetched_at": "2026-07-06T13:37:41.079183",
+      "fetched_at": "2026-07-06T16:48:03.887836",
       "match_score": 21.6,
       "score_breakdown": {
         "semantic_similarity": 0.3697,
@@ -51,28 +51,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-06T13:37:56.051903"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-core-experiences-cologne-germany-495846",
-      "title": "Senior Software Engineer, Core Experiences - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-cologne-germany-495846",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080042",
-      "match_score": 12.63,
-      "score_breakdown": {
-        "semantic_similarity": 0.2993,
-        "semantic_score": 12.63,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052166"
+      "scored_at": "2026-07-06T16:48:16.104471"
     },
     {
       "id": "arbeitnow_embedded-software-developer-fur-den-bereich-high-power-munich-245178",
@@ -88,7 +67,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783333830,
-      "fetched_at": "2026-07-06T13:37:42.208941",
+      "fetched_at": "2026-07-06T16:48:04.976684",
       "match_score": 12.5,
       "score_breakdown": {
         "semantic_similarity": 0.2982,
@@ -96,202 +75,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-06T13:37:56.052204"
+      "scored_at": "2026-07-06T16:48:16.104544"
     },
     {
-      "id": "arbeitnow_senior-software-developer-nuremberg-81279",
-      "title": "Senior Software Developer (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6n",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-81279",
+      "id": "arbeitnow_senior-data-engineer-hamburg-116855",
+      "title": "Senior Data Engineer (f/m/d)",
+      "company": "VOIDS Technology GmbH",
+      "location": "Hamburg",
+      "description": "<p><strong>We maximize product availability with minimal cashflow investment in 1/10 of the time. We solve a real problem for SMEs. With AI.</strong></p>\n<p><em>The problem we solve:</em> Mid-size Shopify brands lose revenue and cash to stockouts and inefficiencies every day. They can see the problem. They can't fix it fast enough.</p>\n<p><em>What VOIDS does:</em> VOIDS is the AI brain for mid-size Shopify brands. We forecast demand at the product level, catch stockouts and inefficiencies before",
+      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/senior-data-engineer-hamburg-116855",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Data Processing",
+        "Data Engineer"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1783323031,
-      "fetched_at": "2026-07-06T13:37:42.209913",
-      "match_score": 5.87,
-      "score_breakdown": {
-        "semantic_similarity": 0.2461,
-        "semantic_score": 5.87,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052242"
-    },
-    {
-      "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-406661",
-      "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013 Martin Fowler</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es ",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-406661",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783323031,
-      "fetched_at": "2026-07-06T13:37:42.209916",
-      "match_score": 2.17,
-      "score_breakdown": {
-        "semantic_similarity": 0.2171,
-        "semantic_score": 2.17,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052277"
-    },
-    {
-      "id": "arbeitnow_fullstack-software-entwickler-java-angular-nuremberg-182196",
-      "title": "Fullstack Software Entwickler Java, Angular (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013 Martin Fowler</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. F\u00fcr eines unserer Teams suchen wir aktuell Unterst\u00fctzung. Als Software Developer bringst Du Dich dort bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unseres Kun",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-entwickler-java-angular-nuremberg-182196",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783323031,
-      "fetched_at": "2026-07-06T13:37:42.209940",
-      "match_score": 1.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2135,
-        "semantic_score": 1.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052311"
-    },
-    {
-      "id": "arbeitnow_software-engineer-platform-munich-germany-83715",
-      "title": "Software Engineer, Platform - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-83715",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.079962",
+      "posted_at": 1783342830,
+      "fetched_at": "2026-07-06T16:48:03.886499",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1385,
+        "semantic_similarity": 0.1095,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-06T13:37:56.051948"
-    },
-    {
-      "id": "arbeitnow_tech-lead-android-core-product-berlin-germany-142914",
-      "title": "Tech Lead, Android Core Product - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Berlin, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/tech-lead-android-core-product-berlin-germany-142914",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080031",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1325,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.051989"
-    },
-    {
-      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-frankfurt-germany-60496",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Frankfurt, Germany",
-      "company": "Speechify",
-      "location": "Frankfurt, Hesse, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-frankfurt-germany-60496",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080033",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1791,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052025"
-    },
-    {
-      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-berlin-germany-312490",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Berlin, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-312490",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080036",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1752,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052060"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-cologne-germany-474984",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-cologne-germany-474984",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080038",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1191,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052091"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-berlin-germany-78413",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Berlin, Germany",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-78413",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1783320325,
-      "fetched_at": "2026-07-06T13:37:41.080040",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1217,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T13:37:56.052130"
+      "scored_at": "2026-07-06T16:48:16.104418"
     }
   ]
 }
