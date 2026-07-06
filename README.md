@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-06 16:48 UTC
+**Last updated:** 2026-07-06 19:30 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 25 |
-| Jobs found (all time) | 121 |
-| Jobs found (latest run, 2026-07-06) | 4 |
-| Best match (latest run) | Full Stack Developer first UK at Better Futures Multi Academy Trust (score 43) |
+| Jobs found (all time) | 123 |
+| Jobs found (latest run, 2026-07-06) | 6 |
+| Best match (latest run) | Frontend Developer (React) at Persohap GmbH (score 54) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

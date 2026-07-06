@@ -1,7 +1,54 @@
 {
   "date": "2026-07-06",
-  "count": 4,
+  "count": 6,
   "jobs": [
+    {
+      "id": "arbeitnow_frontend-developer-react-berlin-405524",
+      "title": "Frontend Developer (React)",
+      "company": "Persohap GmbH",
+      "location": "Berlin",
+      "description": "<p>Persohap builds AI-powered coaching and interview experiences. We're a small, fast-moving team shipping products that put AI in front of real users.</p>\n<h3>Tasks</h3>\n<p>Build responsive, accessible user interfaces in React. Turn designs into clean, reusable components. Integrate with backend APIs and handle app state. Take part in code reviews and help keep the frontend fast and maintainable.</p>\n<h3>Requirements</h3>\n<p>Solid experience building web apps with React. Strong JavaScript/TypeS",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-developer-react-berlin-405524",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783357240,
+      "fetched_at": "2026-07-06T19:30:10.222078",
+      "match_score": 54.3,
+      "score_breakdown": {
+        "semantic_similarity": 0.5874,
+        "semantic_score": 49.3,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-06T19:30:18.878153"
+    },
+    {
+      "id": "arbeitnow_backend-developer-python-berlin-104687",
+      "title": "Backend Developer (Python)",
+      "company": "Persohap GmbH",
+      "location": "Berlin",
+      "description": "<p>Persohap builds AI-powered coaching and interview experiences. We're a small, fast-moving team shipping products that put AI in front of real users.</p>\n<h3>Tasks</h3>\n<p>Design, build, and maintain backend services and REST APIs. Model data and work with relational databases. Integrate third-party services and AI providers. Take part in code reviews and help keep the backend fast, reliable, and secure.</p>\n<h3>Requirements</h3>\n<p>Solid experience building production backend services. Strong",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/backend-developer-python-berlin-104687",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783359120,
+      "fetched_at": "2026-07-06T19:30:09.133530",
+      "match_score": 47.14,
+      "score_breakdown": {
+        "semantic_similarity": 0.5311,
+        "semantic_score": 42.14,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-06T19:30:18.878122"
+    },
     {
       "id": "remoteok_1134395",
       "title": "Full Stack Developer first UK",
@@ -19,7 +66,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-07-02T11:52:54+00:00",
-      "fetched_at": "2026-07-06T16:47:59.902347",
+      "fetched_at": "2026-07-06T19:30:01.699899",
       "match_score": 42.55,
       "score_breakdown": {
         "semantic_similarity": 0.3772,
@@ -27,31 +74,7 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-06T16:48:16.104368"
-    },
-    {
-      "id": "arbeitnow_senior-embedded-software-engineer-reliant-gilching-357524",
-      "title": "(Senior) Embedded Software Engineer - Reliant",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching",
-      "description": "<p>As an <strong>Embedded Software Engineer</strong>, you are a key member of our Architecture team, developing and implementing the core embedded software that enables our autonomous long-range VTOL platforms to operate safely, reliably, and intelligently in highly demanding operational environments.</p><p style=\";\"></p><p>In this role, you will be dedicated to our <strong>Reliant</strong> platform \u2013 our next-generation long-range VTOL UAS designed for autonomous ISR missions in GNSS-denied and",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-embedded-software-engineer-reliant-gilching-357524",
-      "remote": false,
-      "tags": [
-        "Internet and software",
-        "professional"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783329612,
-      "fetched_at": "2026-07-06T16:48:03.887836",
-      "match_score": 21.6,
-      "score_breakdown": {
-        "semantic_similarity": 0.3697,
-        "semantic_score": 21.6,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-06T16:48:16.104471"
+      "scored_at": "2026-07-06T19:30:18.877955"
     },
     {
       "id": "arbeitnow_embedded-software-developer-fur-den-bereich-high-power-munich-245178",
@@ -67,7 +90,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783333830,
-      "fetched_at": "2026-07-06T16:48:04.976684",
+      "fetched_at": "2026-07-06T19:30:06.869400",
       "match_score": 12.5,
       "score_breakdown": {
         "semantic_similarity": 0.2982,
@@ -75,7 +98,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-06T16:48:16.104544"
+      "scored_at": "2026-07-06T19:30:18.878089"
+    },
+    {
+      "id": "arbeitnow_technischer-werkstudent-mit-perspektive-auf-founding-engineer-co-founder-munchen-241891",
+      "title": "Technischer Werkstudent mit Perspektive auf Founding Engineer / Co-Founder",
+      "company": "Qentin",
+      "location": "M\u00fcnchen",
+      "description": "<p>Qentin ist ein M\u00fcnchner AI Startup und Teil des Media Startup Fellowship Programms von Media Lab Bayern. Wir bauen einen neuen Guide f\u00fcr Film und Serien Discovery, der Menschen schneller zu einer passenden Entscheidung f\u00fchrt. Statt klassischer Genrelisten verbindet Qentin Stimmung, Kontext, pers\u00f6nliche Vorlieben und KI gest\u00fctzte Empfehlungen.</p>\n<p>Als Arbeitgeber bieten wir viel Gestaltungsspielraum, kurze Entscheidungswege und die M\u00f6glichkeit, sehr fr\u00fch an einem echten Consumer Produkt mit",
+      "url": "https://www.arbeitnow.com/jobs/companies/qentin/technischer-werkstudent-mit-perspektive-auf-founding-engineer-co-founder-munchen-241891",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783362630,
+      "fetched_at": "2026-07-06T19:30:05.800287",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1714,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-06T19:30:18.878010"
     },
     {
       "id": "arbeitnow_senior-data-engineer-hamburg-116855",
@@ -91,7 +137,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783342830,
-      "fetched_at": "2026-07-06T16:48:03.886499",
+      "fetched_at": "2026-07-06T19:30:05.801339",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1095,
@@ -99,7 +145,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-06T16:48:16.104418"
+      "scored_at": "2026-07-06T19:30:18.878049"
     }
   ]
 }
