@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-06 22:56 UTC
+**Last updated:** 2026-07-07 09:20 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 25 |
-| Jobs found (all time) | 123 |
-| Jobs found (latest run, 2026-07-06) | 6 |
+| Search runs | 26 |
+| Jobs found (all time) | 129 |
+| Jobs found (latest run, 2026-07-07) | 6 |
 | Best match (latest run) | Frontend Developer (React) at Persohap GmbH (score 54) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
