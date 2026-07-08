@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-08 15:57 UTC
+**Last updated:** 2026-07-08 19:03 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 27 |
-| Jobs found (all time) | 133 |
-| Jobs found (latest run, 2026-07-08) | 4 |
+| Jobs found (all time) | 135 |
+| Jobs found (latest run, 2026-07-08) | 6 |
 | Best match (latest run) | Freelance Software Engineer (Full Stack: Node.js, React, TypeScript) at Atmen Solutions GmbH (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->

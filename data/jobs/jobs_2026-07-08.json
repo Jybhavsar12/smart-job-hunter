@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 4,
+  "count": 6,
   "jobs": [
     {
       "id": "arbeitnow_freelance-software-engineer-full-stack-nodejs-react-typescript-munich-431194",
@@ -16,7 +16,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783519435,
-      "fetched_at": "2026-07-08T15:57:37.532208",
+      "fetched_at": "2026-07-08T19:03:34.138691",
       "match_score": 37.69,
       "score_breakdown": {
         "semantic_similarity": 0.4176,
@@ -24,7 +24,31 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-07-08T15:57:51.648065"
+      "scored_at": "2026-07-08T19:03:48.492492"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-software-engineer-mwd-kotlin-react-aws-berlin-205936",
+      "title": "(Senior) Full Stack Software Engineer (m|w|d) - Kotlin, React, AWS",
+      "company": "idealo internet GmbH",
+      "location": "Berlin",
+      "description": "<p>Millions of shopping decisions rely on data flowing reliably through idealo's platform every day. In this role, you'll build and evolve the systems that enable our marketing channels with high-quality product and offer data, ensure accurate billing of paid traffic, and provide reliable tracking that makes marketing initiatives measurable.</p><p style=\";\"></p><p>You'll work across the full stack using Kotlin, TypeScript, React, Kafka and AWS while taking ownership of services from design to pr",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-full-stack-software-engineer-mwd-kotlin-react-aws-berlin-205936",
+      "remote": false,
+      "tags": [
+        "Technical",
+        "bachelor's degree"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783524015,
+      "fetched_at": "2026-07-08T19:03:34.137197",
+      "match_score": 35.98,
+      "score_breakdown": {
+        "semantic_similarity": 0.4041,
+        "semantic_score": 25.98,
+        "location_match": 0,
+        "priority_keywords": 10
+      },
+      "scored_at": "2026-07-08T19:03:48.492310"
     },
     {
       "id": "arbeitnow_senior-qa-engineer-payments-all-genders-berlin-175378",
@@ -40,7 +64,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783509613,
-      "fetched_at": "2026-07-08T15:57:37.532429",
+      "fetched_at": "2026-07-08T19:03:34.138914",
       "match_score": 15.44,
       "score_breakdown": {
         "semantic_similarity": 0.3213,
@@ -48,7 +72,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T15:57:51.648104"
+      "scored_at": "2026-07-08T19:03:48.492528"
     },
     {
       "id": "arbeitnow_golang-developer-hamburg-292801",
@@ -63,7 +87,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783519443,
-      "fetched_at": "2026-07-08T15:57:37.531378",
+      "fetched_at": "2026-07-08T19:03:34.137865",
       "match_score": 11.85,
       "score_breakdown": {
         "semantic_similarity": 0.2931,
@@ -71,7 +95,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T15:57:51.648021"
+      "scored_at": "2026-07-08T19:03:48.492449"
     },
     {
       "id": "arbeitnow_praxissemester-softwareentwicklung-heimertingen-235265",
@@ -86,7 +110,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783519445,
-      "fetched_at": "2026-07-08T15:57:37.531192",
+      "fetched_at": "2026-07-08T19:03:34.137685",
       "match_score": 0.44,
       "score_breakdown": {
         "semantic_similarity": 0.2034,
@@ -94,7 +118,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T15:57:51.647965"
+      "scored_at": "2026-07-08T19:03:48.492407"
+    },
+    {
+      "id": "arbeitnow_head-of-software-engineering-for-elmi-ai-plattform-berlin-147397",
+      "title": "Head of Software Engineering (m/w/d) for ELMI AI Plattform",
+      "company": "ELMI Power GmbH",
+      "location": "Berlin",
+      "description": "<p><strong>Baue die Softwareplattform, die unsere Ladeinfrastruktur intelligent</strong></p>\n<p><strong>macht!</strong></p>\n<p>ELMI Power entwickelt und vertreibt batteriegest\u00fctzte DC-Schnellladestationen und</p>\n<p>Batteriespeichersysteme. Mit ELMI AI bauen wir jetzt die softwareseitige Erg\u00e4nzung dazu auf: eine Plattform,</p>\n<p>die unsere Ladestationen und Batteriespeicher intelligent steuert \u2013 sie liest und verarbeitet Daten aus dem</p>\n<p>Energiemanagementsystem, analysiert Preise umliegende",
+      "url": "https://www.arbeitnow.com/jobs/companies/elmi-power-gmbh/head-of-software-engineering-for-elmi-ai-plattform-berlin-147397",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783522825,
+      "fetched_at": "2026-07-08T19:03:34.137317",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1955,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-08T19:03:48.492367"
     }
   ]
 }
