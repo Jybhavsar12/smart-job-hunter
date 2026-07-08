@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-08 19:03 UTC
+**Last updated:** 2026-07-08 22:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 27 |
-| Jobs found (all time) | 135 |
-| Jobs found (latest run, 2026-07-08) | 6 |
-| Best match (latest run) | Freelance Software Engineer (Full Stack: Node.js, React, TypeScript) at Atmen Solutions GmbH (score 38) |
+| Jobs found (all time) | 134 |
+| Jobs found (latest run, 2026-07-08) | 5 |
+| Best match (latest run) | (Senior) Full Stack Software Engineer (m|w|d) - Kotlin, React, AWS at idealo internet GmbH (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

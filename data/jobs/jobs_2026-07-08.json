@@ -1,31 +1,7 @@
 {
   "date": "2026-07-08",
-  "count": 6,
+  "count": 5,
   "jobs": [
-    {
-      "id": "arbeitnow_freelance-software-engineer-full-stack-nodejs-react-typescript-munich-431194",
-      "title": "Freelance Software Engineer (Full Stack: Node.js, React, TypeScript)",
-      "company": "Atmen Solutions GmbH",
-      "location": "Munich",
-      "description": "<p><strong>\ud83d\ude80 About Atmen</strong></p>\n<p>Atmen is a Munich-based RegTech startup revolutionising green certification. Our SaaS platform helps energy-intensive industries (fuels, chemicals, materials) automate compliance and certification\u2014cutting down time by up to 90%.</p>\n<p>We replace today's manual, costly, and unpredictable certification processes with continuous, technology-driven verification. Our mission? Making sustainable production simple, scalable, and cost-effective.<br>\n**<br>\nAbout",
-      "url": "https://www.arbeitnow.com/jobs/companies/atmen-solutions-gmbh/freelance-software-engineer-full-stack-nodejs-react-typescript-munich-431194",
-      "remote": true,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783519435,
-      "fetched_at": "2026-07-08T19:03:34.138691",
-      "match_score": 37.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.4176,
-        "semantic_score": 27.69,
-        "location_match": 0,
-        "priority_keywords": 10
-      },
-      "scored_at": "2026-07-08T19:03:48.492492"
-    },
     {
       "id": "arbeitnow_senior-full-stack-software-engineer-mwd-kotlin-react-aws-berlin-205936",
       "title": "(Senior) Full Stack Software Engineer (m|w|d) - Kotlin, React, AWS",
@@ -40,7 +16,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783524015,
-      "fetched_at": "2026-07-08T19:03:34.137197",
+      "fetched_at": "2026-07-08T22:54:44.848073",
       "match_score": 35.98,
       "score_breakdown": {
         "semantic_similarity": 0.4041,
@@ -48,31 +24,30 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-07-08T19:03:48.492310"
+      "scored_at": "2026-07-08T22:54:57.391608"
     },
     {
-      "id": "arbeitnow_senior-qa-engineer-payments-all-genders-berlin-175378",
-      "title": "Senior QA Engineer - Payments (All genders)",
-      "company": "Distribusion Technologies",
+      "id": "arbeitnow_frontend-developer-intern-berlin-337196",
+      "title": "Frontend Developer (Intern)",
+      "company": "Heidi Systems",
       "location": "Berlin",
-      "description": "<p><strong>About us</strong></p><p><strong>Distribusion</strong> is the world\u2019s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and <a rel=\"noopener\" target=\"_blank\" href=\"http://Booking.com\">Booking.com</a>. </p><p>We are shaping th",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-qa-engineer-payments-all-genders-berlin-175378",
+      "description": "<p><strong>About Heidi Systems</strong><br>\nHeidi Systems is building the data infrastructure layer for buildings and energy. We help property owners and managers digitize metering, consumption data, reporting, and billing workflows in one of the largest and most outdated infrastructure markets in Europe.</p>\n<p>We are looking for a skilled frontend engineer who wants to own the product layer that makes complex infrastructure data legible, actionable, and fast. You will work directly on our Svel",
+      "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/frontend-developer-intern-berlin-337196",
       "remote": false,
       "tags": [
-        "Engineering",
-        "bachelor's degree"
+        "Web Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1783509613,
-      "fetched_at": "2026-07-08T19:03:34.138914",
-      "match_score": 15.44,
+      "posted_at": 1783533633,
+      "fetched_at": "2026-07-08T22:54:49.132853",
+      "match_score": 26.81,
       "score_breakdown": {
-        "semantic_similarity": 0.3213,
-        "semantic_score": 15.44,
+        "semantic_similarity": 0.4106,
+        "semantic_score": 26.81,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T19:03:48.492528"
+      "scored_at": "2026-07-08T22:54:57.391792"
     },
     {
       "id": "arbeitnow_golang-developer-hamburg-292801",
@@ -87,7 +62,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783519443,
-      "fetched_at": "2026-07-08T19:03:34.137865",
+      "fetched_at": "2026-07-08T22:54:44.848733",
       "match_score": 11.85,
       "score_breakdown": {
         "semantic_similarity": 0.2931,
@@ -95,7 +70,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T19:03:48.492449"
+      "scored_at": "2026-07-08T22:54:57.391757"
     },
     {
       "id": "arbeitnow_praxissemester-softwareentwicklung-heimertingen-235265",
@@ -110,7 +85,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783519445,
-      "fetched_at": "2026-07-08T19:03:34.137685",
+      "fetched_at": "2026-07-08T22:54:44.848552",
       "match_score": 0.44,
       "score_breakdown": {
         "semantic_similarity": 0.2034,
@@ -118,7 +93,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T19:03:48.492407"
+      "scored_at": "2026-07-08T22:54:57.391715"
     },
     {
       "id": "arbeitnow_head-of-software-engineering-for-elmi-ai-plattform-berlin-147397",
@@ -133,7 +108,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783522825,
-      "fetched_at": "2026-07-08T19:03:34.137317",
+      "fetched_at": "2026-07-08T22:54:44.848194",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1955,
@@ -141,7 +116,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-08T19:03:48.492367"
+      "scored_at": "2026-07-08T22:54:57.391671"
     }
   ]
 }
