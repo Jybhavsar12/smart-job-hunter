@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-08 08:05 UTC
+**Last updated:** 2026-07-08 11:41 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 27 |
-| Jobs found (all time) | 134 |
-| Jobs found (latest run, 2026-07-08) | 5 |
-| Best match (latest run) | Full Stack Developer first UK at Better Futures Multi Academy Trust (score 43) |
+| Jobs found (all time) | 133 |
+| Jobs found (latest run, 2026-07-08) | 4 |
+| Best match (latest run) | AI Full Stack Software Engineer im E-Commerce Startup (E-Commerce & Data) at Sayano Deutschland GmbH (score 17) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
