@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-08 11:41 UTC
+**Last updated:** 2026-07-08 15:57 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 27 |
 | Jobs found (all time) | 133 |
 | Jobs found (latest run, 2026-07-08) | 4 |
-| Best match (latest run) | AI Full Stack Software Engineer im E-Commerce Startup (E-Commerce & Data) at Sayano Deutschland GmbH (score 17) |
+| Best match (latest run) | Freelance Software Engineer (Full Stack: Node.js, React, TypeScript) at Atmen Solutions GmbH (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
