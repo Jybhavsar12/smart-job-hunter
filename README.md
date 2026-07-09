@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-09 09:01 UTC
+**Last updated:** 2026-07-09 16:21 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 28 |
-| Jobs found (all time) | 143 |
-| Jobs found (latest run, 2026-07-09) | 9 |
-| Best match (latest run) | (Senior) Full Stack Software Engineer (m|w|d) - Kotlin, React, AWS at idealo internet GmbH (score 36) |
+| Jobs found (all time) | 137 |
+| Jobs found (latest run, 2026-07-09) | 3 |
+| Best match (latest run) | Senior AI Engineer | Agentic Systems (w/m/d) at FlexIT Consulting GmbH (score 18) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
