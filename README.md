@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-09 16:21 UTC
+**Last updated:** 2026-07-09 19:18 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 28 |
 | Jobs found (all time) | 137 |
 | Jobs found (latest run, 2026-07-09) | 3 |
-| Best match (latest run) | Senior AI Engineer | Agentic Systems (w/m/d) at FlexIT Consulting GmbH (score 18) |
+| Best match (latest run) | Embedded Software Engineer (m/f/d) at ANGEHEUERT GmbH Personalberatung (score 14) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
