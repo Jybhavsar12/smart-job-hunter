@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-08 22:54 UTC
+**Last updated:** 2026-07-09 09:01 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 27 |
-| Jobs found (all time) | 134 |
-| Jobs found (latest run, 2026-07-08) | 5 |
+| Search runs | 28 |
+| Jobs found (all time) | 143 |
+| Jobs found (latest run, 2026-07-09) | 9 |
 | Best match (latest run) | (Senior) Full Stack Software Engineer (m|w|d) - Kotlin, React, AWS at idealo internet GmbH (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
