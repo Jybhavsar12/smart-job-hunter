@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-10 12:18 UTC
+**Last updated:** 2026-07-10 16:13 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 29 |
-| Jobs found (all time) | 146 |
-| Jobs found (latest run, 2026-07-10) | 9 |
-| Best match (latest run) | Founding Engineering Team Lead (HandsOn) at Techbiz Global (score 21) |
+| Jobs found (all time) | 139 |
+| Jobs found (latest run, 2026-07-10) | 2 |
+| Best match (latest run) | Senior Software Engineer (m/f/d) Perception & Autonomous Systems at MOTOR Ai (score 15) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
