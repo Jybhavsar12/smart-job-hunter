@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-09 23:01 UTC
+**Last updated:** 2026-07-10 08:57 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 28 |
-| Jobs found (all time) | 137 |
-| Jobs found (latest run, 2026-07-09) | 3 |
-| Best match (latest run) | Embedded Software Engineer (m/f/d) at ANGEHEUERT GmbH Personalberatung (score 14) |
+| Search runs | 29 |
+| Jobs found (all time) | 142 |
+| Jobs found (latest run, 2026-07-10) | 5 |
+| Best match (latest run) | Software-Entwickler:in / Mentor:in (AI Software Engineering Bootcamp) at Digitale Leute School (score 21) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
