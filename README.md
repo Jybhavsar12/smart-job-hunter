@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-10 16:13 UTC
+**Last updated:** 2026-07-10 19:14 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 29 |
-| Jobs found (all time) | 139 |
-| Jobs found (latest run, 2026-07-10) | 2 |
-| Best match (latest run) | Senior Software Engineer (m/f/d) Perception & Autonomous Systems at MOTOR Ai (score 15) |
+| Jobs found (all time) | 140 |
+| Jobs found (latest run, 2026-07-10) | 3 |
+| Best match (latest run) | (Senior) Full Stack Java Entwickler (m/w/d) at MY Humancapital GmbH (score 21) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
