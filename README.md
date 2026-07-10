@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-10 08:57 UTC
+**Last updated:** 2026-07-10 12:18 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 29 |
-| Jobs found (all time) | 142 |
-| Jobs found (latest run, 2026-07-10) | 5 |
-| Best match (latest run) | Software-Entwickler:in / Mentor:in (AI Software Engineering Bootcamp) at Digitale Leute School (score 21) |
+| Jobs found (all time) | 146 |
+| Jobs found (latest run, 2026-07-10) | 9 |
+| Best match (latest run) | Founding Engineering Team Lead (HandsOn) at Techbiz Global (score 21) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
