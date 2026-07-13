@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-13 16:20 UTC
+**Last updated:** 2026-07-13 19:09 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 32 |
-| Jobs found (all time) | 156 |
-| Jobs found (latest run, 2026-07-13) | 10 |
+| Jobs found (all time) | 153 |
+| Jobs found (latest run, 2026-07-13) | 7 |
 | Best match (latest run) | Software Engineer (f/m/x) - TypeScript (NestJS or React) at OneTutor (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
