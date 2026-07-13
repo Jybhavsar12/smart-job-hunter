@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-13 08:43 UTC
+**Last updated:** 2026-07-13 12:26 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 32 |
-| Jobs found (all time) | 154 |
-| Jobs found (latest run, 2026-07-13) | 8 |
-| Best match (latest run) | (Senior) Full Stack Java Entwickler (m/w/d) at MY Humancapital GmbH (score 21) |
+| Jobs found (all time) | 151 |
+| Jobs found (latest run, 2026-07-13) | 5 |
+| Best match (latest run) | Senior Software Developer (m/w/d) at isento GmbH (score 6) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
