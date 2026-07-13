@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "count": 7,
+  "count": 9,
   "jobs": [
     {
       "id": "arbeitnow_software-engineer-typescript-nestjs-or-react-munich-443607",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783953058,
-      "fetched_at": "2026-07-13T19:09:23.792415",
+      "fetched_at": "2026-07-13T22:43:36.514951",
       "match_score": 41.44,
       "score_breakdown": {
         "semantic_similarity": 0.4863,
@@ -23,7 +23,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-13T19:09:36.221175"
+      "scored_at": "2026-07-13T22:43:50.413700"
     },
     {
       "id": "arbeitnow_software-engineer-berlin-167036",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783944024,
-      "fetched_at": "2026-07-13T19:09:23.793166",
+      "fetched_at": "2026-07-13T22:43:36.515700",
       "match_score": 21.88,
       "score_breakdown": {
         "semantic_similarity": 0.3719,
@@ -46,7 +46,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221303"
+      "scored_at": "2026-07-13T22:43:50.413820"
     },
     {
       "id": "arbeitnow_platform-engineer-devops-ai-govtech-startup-munich-225129",
@@ -61,7 +61,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783945865,
-      "fetched_at": "2026-07-13T19:09:23.793044",
+      "fetched_at": "2026-07-13T22:43:36.515578",
       "match_score": 21.34,
       "score_breakdown": {
         "semantic_similarity": 0.3677,
@@ -69,7 +69,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221262"
+      "scored_at": "2026-07-13T22:43:50.413781"
     },
     {
       "id": "arbeitnow_working-student-qa-automation-engineering-munich-344238",
@@ -84,7 +84,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783962041,
-      "fetched_at": "2026-07-13T19:09:23.791554",
+      "fetched_at": "2026-07-13T22:43:36.514126",
       "match_score": 12.66,
       "score_breakdown": {
         "semantic_similarity": 0.2995,
@@ -92,7 +92,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221116"
+      "scored_at": "2026-07-13T22:43:50.413654"
+    },
+    {
+      "id": "arbeitnow_software-engineer-net-munich-422254",
+      "title": "Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<h3>Join Apaleo and Shape the Future of Hospitality Tech!</h3>\n<p>Apaleo is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay.</p>\n<p>If you're driven by the idea of making hospitality sm",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/software-engineer-net-munich-422254",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1783975527,
+      "fetched_at": "2026-07-13T22:43:36.513593",
+      "match_score": 11.84,
+      "score_breakdown": {
+        "semantic_similarity": 0.2931,
+        "semantic_score": 11.84,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T22:43:50.413618"
     },
     {
       "id": "arbeitnow_frontend-developer-e-commerce-hamburg-211075",
@@ -107,7 +128,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783958427,
-      "fetched_at": "2026-07-13T19:09:28.026827",
+      "fetched_at": "2026-07-13T22:43:40.737830",
       "match_score": 11.78,
       "score_breakdown": {
         "semantic_similarity": 0.2925,
@@ -115,7 +136,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221375"
+      "scored_at": "2026-07-13T22:43:50.413899"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-net-munich-86775",
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<h3>Join Apaleo and Shape the Future of Hospitality Tech!</h3>\n<p>Apaleo is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay.</p>\n<p>If you're driven by the idea of making hospitality sm",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-software-engineer-net-munich-86775",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1783975527,
+      "fetched_at": "2026-07-13T22:43:36.513581",
+      "match_score": 9.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.2777,
+        "semantic_score": 9.89,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T22:43:50.413554"
     },
     {
       "id": "arbeitnow_technical-project-manager-heartbeat-ai-berlin-478987",
@@ -131,7 +173,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783953057,
-      "fetched_at": "2026-07-13T19:09:23.792474",
+      "fetched_at": "2026-07-13T22:43:36.515009",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1995,
@@ -139,7 +181,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221220"
+      "scored_at": "2026-07-13T22:43:50.413740"
     },
     {
       "id": "arbeitnow_mes-consultant-paderborn-380020",
@@ -154,7 +196,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783942232,
-      "fetched_at": "2026-07-13T19:09:23.793221",
+      "fetched_at": "2026-07-13T22:43:36.515754",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1505,
@@ -162,7 +204,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T19:09:36.221339"
+      "scored_at": "2026-07-13T22:43:50.413863"
     }
   ]
 }
