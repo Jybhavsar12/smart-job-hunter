@@ -1,7 +1,76 @@
 {
   "date": "2026-07-13",
-  "count": 5,
+  "count": 10,
   "jobs": [
+    {
+      "id": "arbeitnow_software-engineer-typescript-nestjs-or-react-munich-443607",
+      "title": "Software Engineer (f/m/x) - TypeScript (NestJS or React)",
+      "company": "OneTutor",
+      "location": "Munich",
+      "description": "<p><em>We actively encourage applications from women and underrepresented genders in tech. Diverse teams build better products \u2014 and we mean it.</em></p>\n<p>OneTutor is an AI-powered tutoring platform spun off from the Technical University of Munich (TUM). We give every student a personalized AI tutor grounded in their actual course materials \u2014 no hallucinations, full source citations, GDPR-compliant. We also serve B2B organizations as an AI-powered learning platform for employees.</p>\n<p>We're ",
+      "url": "https://www.arbeitnow.com/jobs/companies/onetutor/software-engineer-typescript-nestjs-or-react-munich-443607",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783953058,
+      "fetched_at": "2026-07-13T16:19:57.873003",
+      "match_score": 41.44,
+      "score_breakdown": {
+        "semantic_similarity": 0.4863,
+        "semantic_score": 36.44,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-13T16:20:11.309665"
+    },
+    {
+      "id": "arbeitnow_software-engineer-berlin-167036",
+      "title": "Software Engineer (m/f/d)",
+      "company": "Amperecloud GmbH",
+      "location": "Berlin",
+      "description": "<h2>Job Description</h2>\n<p>Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform \u2013 for a world where green energy drives growth.</p>\n<p>We're looking for a sharp, product-first fullstack engineer to build the platform that 300+ energy operators rely on every day: monitoring 8,000+ solar and wind plants with more than 10 GWp under management. This is re",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-167036",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783944024,
+      "fetched_at": "2026-07-13T16:19:57.873762",
+      "match_score": 21.88,
+      "score_breakdown": {
+        "semantic_similarity": 0.3719,
+        "semantic_score": 21.88,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T16:20:11.309830"
+    },
+    {
+      "id": "arbeitnow_platform-engineer-devops-ai-govtech-startup-munich-225129",
+      "title": "Platform Engineer / DevOps (m/f/d) | AI GovTech Startup | Munich",
+      "company": "Ayunis",
+      "location": "Munich",
+      "description": "<p>Ayunis is a leading GovTech startup from Munich. Over 800 cities and municipalities across the DACH region already work with our software \u2014 with Ayunis, we're bringing AI to the public sector: secure, compliant, and actually useful.</p>\n<h2>Tasks</h2>\n<p>You will own how Ayunis runs in production \u2014 not just keeping services up, but the whole package around them: how code gets deployed, how secrets are handled, how we observe our systems, how we get alerted when things go wrong or get slow, an",
+      "url": "https://www.arbeitnow.com/jobs/companies/ayunis/platform-engineer-devops-ai-govtech-startup-munich-225129",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783945865,
+      "fetched_at": "2026-07-13T16:19:57.873637",
+      "match_score": 21.34,
+      "score_breakdown": {
+        "semantic_similarity": 0.3677,
+        "semantic_score": 21.34,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T16:20:11.309764"
+    },
     {
       "id": "arbeitnow_senior-software-developer-nuremberg-102598",
       "title": "Senior Software Developer (m/w/d)",
@@ -15,7 +84,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783924233,
-      "fetched_at": "2026-07-13T12:26:04.021055",
+      "fetched_at": "2026-07-13T16:19:58.936006",
       "match_score": 5.87,
       "score_breakdown": {
         "semantic_similarity": 0.2461,
@@ -23,7 +92,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T12:26:17.928215"
+      "scored_at": "2026-07-13T16:20:11.310067"
     },
     {
       "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-102026",
@@ -38,7 +107,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783924233,
-      "fetched_at": "2026-07-13T12:26:04.021051",
+      "fetched_at": "2026-07-13T16:19:58.936002",
       "match_score": 2.17,
       "score_breakdown": {
         "semantic_similarity": 0.2171,
@@ -46,7 +115,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T12:26:17.928177"
+      "scored_at": "2026-07-13T16:20:11.310032"
     },
     {
       "id": "arbeitnow_fullstack-software-entwickler-java-angular-nuremberg-63041",
@@ -61,7 +130,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783924234,
-      "fetched_at": "2026-07-13T12:26:04.021017",
+      "fetched_at": "2026-07-13T16:19:58.935963",
       "match_score": 1.72,
       "score_breakdown": {
         "semantic_similarity": 0.2135,
@@ -69,7 +138,54 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T12:26:17.928137"
+      "scored_at": "2026-07-13T16:20:11.309993"
+    },
+    {
+      "id": "arbeitnow_technical-project-manager-heartbeat-ai-berlin-478987",
+      "title": "Technical Project Manager Heartbeat AI (m/f/d)",
+      "company": "1KOMMA5\u02da",
+      "location": "Berlin",
+      "description": "<h2>1KOMMA5\u00b0</h2>\n<p>At <strong>1KOMMA5\u00b0</strong>, we pursue a clear vision: <strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?</p>\n<p>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-project-manager-heartbeat-ai-berlin-478987",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783953057,
+      "fetched_at": "2026-07-13T16:19:57.873069",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1995,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T16:20:11.309720"
+    },
+    {
+      "id": "arbeitnow_mes-consultant-paderborn-380020",
+      "title": "MES Consultant (m/w/d)",
+      "company": "FASTEC GmbH",
+      "location": "Paderborn",
+      "description": "<p><strong>\u00dcber uns</strong></p>\n<p>Vernetzt denken und digital arbeiten - das ist unser Antrieb! Wir von FASTEC sind spezialisiert auf die Digitalisierung von Fertigungsprozessen basierend auf unserer selbstentwickelten Software FASTEC 4 PRO. Die modulare Standardsoftware ist vom Lebensmittelproduzenten \u00fcber den Automobilzulieferer bis hin zum Pharmaunternehmen branchen\u00fcbergreifend einsetzbar. Mittlerweile setzen rund 450 Unternehmen in \u00fcber 30 L\u00e4ndern FASTEC 4 PRO an \u00fcber 12.000 Produktionsanl",
+      "url": "https://www.arbeitnow.com/jobs/companies/fastec-gmbh/mes-consultant-paderborn-380020",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1783942232,
+      "fetched_at": "2026-07-13T16:19:57.873830",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1505,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-13T16:20:11.309869"
     },
     {
       "id": "arbeitnow_software-engineer-platform-berlin-germany-471527",
@@ -82,7 +198,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1783925126,
-      "fetched_at": "2026-07-13T12:26:02.965759",
+      "fetched_at": "2026-07-13T16:19:57.875148",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1439,
@@ -90,7 +206,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T12:26:17.928031"
+      "scored_at": "2026-07-13T16:20:11.309909"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-stuttgart-germany-275854",
@@ -103,7 +219,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1783925126,
-      "fetched_at": "2026-07-13T12:26:02.965767",
+      "fetched_at": "2026-07-13T16:19:57.875152",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1854,
@@ -111,7 +227,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-13T12:26:17.928093"
+      "scored_at": "2026-07-13T16:20:11.309946"
     }
   ]
 }

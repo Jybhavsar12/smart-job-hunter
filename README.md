@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-13 12:26 UTC
+**Last updated:** 2026-07-13 16:20 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 32 |
-| Jobs found (all time) | 151 |
-| Jobs found (latest run, 2026-07-13) | 5 |
-| Best match (latest run) | Senior Software Developer (m/w/d) at isento GmbH (score 6) |
+| Jobs found (all time) | 156 |
+| Jobs found (latest run, 2026-07-13) | 10 |
+| Best match (latest run) | Software Engineer (f/m/x) - TypeScript (NestJS or React) at OneTutor (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
