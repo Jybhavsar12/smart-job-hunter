@@ -1,75 +1,53 @@
 {
   "date": "2026-07-14",
-  "count": 9,
+  "count": 13,
   "jobs": [
     {
-      "id": "arbeitnow_software-engineer-typescript-nestjs-or-react-munich-443607",
-      "title": "Software Engineer (f/m/x) - TypeScript (NestJS or React)",
-      "company": "OneTutor",
-      "location": "Munich",
-      "description": "<p><em>We actively encourage applications from women and underrepresented genders in tech. Diverse teams build better products \u2014 and we mean it.</em></p>\n<p>OneTutor is an AI-powered tutoring platform spun off from the Technical University of Munich (TUM). We give every student a personalized AI tutor grounded in their actual course materials \u2014 no hallucinations, full source citations, GDPR-compliant. We also serve B2B organizations as an AI-powered learning platform for employees.</p>\n<p>We're ",
-      "url": "https://www.arbeitnow.com/jobs/companies/onetutor/software-engineer-typescript-nestjs-or-react-munich-443607",
+      "id": "arbeitnow_staff-software-engineer-ai-data-platform-snowflake-berlin-75874",
+      "title": "Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin)",
+      "company": "Monda Labs",
+      "location": "Berlin",
+      "description": "<p>Data is the oxygen for AI. Yet, providing <strong>secure, governed data access</strong> to AI agents, applications, and users is overly complex today. Monda's AI data platform lets anyone <strong>easily ship AI data analysts</strong> for conversational analytics and <strong>share AI-ready data to any destination</strong> without coding \u2014 powered by Snowflake's AI Data Cloud.</p>\n<p>Engineer the data backbone of the AI economy: We're looking for an individual contributor (IC) with proven exper",
+      "url": "https://www.arbeitnow.com/jobs/companies/monda-labs/staff-software-engineer-ai-data-platform-snowflake-berlin-75874",
       "remote": false,
       "tags": [
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1783953058,
-      "fetched_at": "2026-07-14T07:44:26.488206",
-      "match_score": 41.44,
+      "posted_at": 1784017865,
+      "fetched_at": "2026-07-14T11:16:31.116685",
+      "match_score": 25.29,
       "score_breakdown": {
-        "semantic_similarity": 0.4863,
-        "semantic_score": 36.44,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-14T07:44:40.266161"
-    },
-    {
-      "id": "arbeitnow_software-engineer-berlin-167036",
-      "title": "Software Engineer (m/f/d)",
-      "company": "Amperecloud GmbH",
-      "location": "Berlin",
-      "description": "<h2>Job Description</h2>\n<p>Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform \u2013 for a world where green energy drives growth.</p>\n<p>We're looking for a sharp, product-first fullstack engineer to build the platform that 300+ energy operators rely on every day: monitoring 8,000+ solar and wind plants with more than 10 GWp under management. This is re",
-      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-167036",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783944024,
-      "fetched_at": "2026-07-14T07:44:26.488951",
-      "match_score": 21.88,
-      "score_breakdown": {
-        "semantic_similarity": 0.3719,
-        "semantic_score": 21.88,
+        "semantic_similarity": 0.3987,
+        "semantic_score": 25.29,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266283"
+      "scored_at": "2026-07-14T11:16:43.621574"
     },
     {
-      "id": "arbeitnow_platform-engineer-devops-ai-govtech-startup-munich-225129",
-      "title": "Platform Engineer / DevOps (m/f/d) | AI GovTech Startup | Munich",
-      "company": "Ayunis",
+      "id": "arbeitnow_robotics-embedded-software-engineer-munich-21807",
+      "title": "Robotics / Embedded Software Engineer (m/f/d)",
+      "company": "Nomadic GmbH",
       "location": "Munich",
-      "description": "<p>Ayunis is a leading GovTech startup from Munich. Over 800 cities and municipalities across the DACH region already work with our software \u2014 with Ayunis, we're bringing AI to the public sector: secure, compliant, and actually useful.</p>\n<h2>Tasks</h2>\n<p>You will own how Ayunis runs in production \u2014 not just keeping services up, but the whole package around them: how code gets deployed, how secrets are handled, how we observe our systems, how we get alerted when things go wrong or get slow, an",
-      "url": "https://www.arbeitnow.com/jobs/companies/ayunis/platform-engineer-devops-ai-govtech-startup-munich-225129",
+      "description": "<p>At Nomadic Drones we build autonomous drones that land and recharge on high-voltage power lines. Our drones sit on live 380kV lines today, harvest energy from the grid, and deliver continuous monitoring data to grid operators across Europe and America. In this role you write the software that runs onboard our drones. You will be involved in every part of the system and lifecycle, from conception to deployment. We need someone who's excited about owning problems end-to-end rather than waiting ",
+      "url": "https://www.arbeitnow.com/jobs/companies/nomadic-gmbh/robotics-embedded-software-engineer-munich-21807",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Embedded Systems",
+        "Firmware Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1783945865,
-      "fetched_at": "2026-07-14T07:44:26.488829",
-      "match_score": 21.34,
+      "posted_at": 1784019798,
+      "fetched_at": "2026-07-14T11:16:31.116583",
+      "match_score": 18.98,
       "score_breakdown": {
-        "semantic_similarity": 0.3677,
-        "semantic_score": 21.34,
+        "semantic_similarity": 0.3491,
+        "semantic_score": 18.98,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266244"
+      "scored_at": "2026-07-14T11:16:43.621529"
     },
     {
       "id": "arbeitnow_working-student-qa-automation-engineering-munich-344238",
@@ -84,7 +62,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783962041,
-      "fetched_at": "2026-07-14T07:44:26.487395",
+      "fetched_at": "2026-07-14T11:16:31.118269",
       "match_score": 12.66,
       "score_breakdown": {
         "semantic_similarity": 0.2995,
@@ -92,7 +70,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266113"
+      "scored_at": "2026-07-14T11:16:43.621885"
+    },
+    {
+      "id": "arbeitnow_software-engineer-wien-hamburg-frankfurt-451553",
+      "title": "Software Engineer (w/m/d) - Wien | Hamburg | Frankfurt",
+      "company": "everii Group GmbH",
+      "location": "Hamburg",
+      "description": "<p>Work @ everii</p>\n<p>Du willst mit deinem Code echten Mehrwert schaffen und an einer smarten All-in-one ERP-Software f\u00fcr Agenturen, Beratungen und IT-Dienstleister mitbauen? Du liebst sauberen Code, pragmatische L\u00f6sungen und hast Freude daran, echten Produkt-Impact zu schaffen?Dann bist du bei everii genau richtig!Baue mit uns Teambox weiter aus \u2013 und gestalte die Arbeitswelt von morgen.</p>\n<p><strong>Was dich erwartet:</strong></p>\n<p>Als Software Engineer / Developer arbeitest du an unsere",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/software-engineer-wien-hamburg-frankfurt-451553",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784021436,
+      "fetched_at": "2026-07-14T11:16:31.116392",
+      "match_score": 11.88,
+      "score_breakdown": {
+        "semantic_similarity": 0.2933,
+        "semantic_score": 11.88,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621476"
     },
     {
       "id": "arbeitnow_software-engineer-net-munich-422254",
@@ -105,7 +106,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1783975527,
-      "fetched_at": "2026-07-14T07:44:26.486916",
+      "fetched_at": "2026-07-14T11:16:31.117803",
       "match_score": 11.84,
       "score_breakdown": {
         "semantic_similarity": 0.2931,
@@ -113,7 +114,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266077"
+      "scored_at": "2026-07-14T11:16:43.621854"
     },
     {
       "id": "arbeitnow_frontend-developer-e-commerce-hamburg-211075",
@@ -128,7 +129,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1783958427,
-      "fetched_at": "2026-07-14T07:44:30.835182",
+      "fetched_at": "2026-07-14T11:16:35.349270",
       "match_score": 11.78,
       "score_breakdown": {
         "semantic_similarity": 0.2925,
@@ -136,7 +137,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266362"
+      "scored_at": "2026-07-14T11:16:43.621925"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-core-experiences-frankfurt-germany-459377",
+      "title": "Senior Software Engineer, Core Experiences - Frankfurt, Germany",
+      "company": "Speechify",
+      "location": "Frankfurt, Hesse, Germany",
+      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-frankfurt-germany-459377",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117120",
+      "match_score": 10.96,
+      "score_breakdown": {
+        "semantic_similarity": 0.2861,
+        "semantic_score": 10.96,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621793"
     },
     {
       "id": "arbeitnow_senior-software-engineer-net-munich-86775",
@@ -149,7 +171,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1783975527,
-      "fetched_at": "2026-07-14T07:44:26.486904",
+      "fetched_at": "2026-07-14T11:16:31.117800",
       "match_score": 9.89,
       "score_breakdown": {
         "semantic_similarity": 0.2777,
@@ -157,54 +179,112 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266034"
+      "scored_at": "2026-07-14T11:16:43.621827"
     },
     {
-      "id": "arbeitnow_technical-project-manager-heartbeat-ai-berlin-478987",
-      "title": "Technical Project Manager Heartbeat AI (m/f/d)",
-      "company": "1KOMMA5\u02da",
-      "location": "Berlin",
-      "description": "<h2>1KOMMA5\u00b0</h2>\n<p>At <strong>1KOMMA5\u00b0</strong>, we pursue a clear vision: <strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?</p>\n<p>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-project-manager-heartbeat-ai-berlin-478987",
-      "remote": true,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1783953057,
-      "fetched_at": "2026-07-14T07:44:26.488263",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1995,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-14T07:44:40.266202"
-    },
-    {
-      "id": "arbeitnow_mes-consultant-paderborn-380020",
-      "title": "MES Consultant (m/w/d)",
-      "company": "FASTEC GmbH",
-      "location": "Paderborn",
-      "description": "<p><strong>\u00dcber uns</strong></p>\n<p>Vernetzt denken und digital arbeiten - das ist unser Antrieb! Wir von FASTEC sind spezialisiert auf die Digitalisierung von Fertigungsprozessen basierend auf unserer selbstentwickelten Software FASTEC 4 PRO. Die modulare Standardsoftware ist vom Lebensmittelproduzenten \u00fcber den Automobilzulieferer bis hin zum Pharmaunternehmen branchen\u00fcbergreifend einsetzbar. Mittlerweile setzen rund 450 Unternehmen in \u00fcber 30 L\u00e4ndern FASTEC 4 PRO an \u00fcber 12.000 Produktionsanl",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastec-gmbh/mes-consultant-paderborn-380020",
+      "id": "arbeitnow_senior-software-engineer-core-experiences-munich-germany-193604",
+      "title": "Senior Software Engineer, Core Experiences - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-munich-germany-193604",
       "remote": false,
-      "tags": [
-        "IT"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1783942232,
-      "fetched_at": "2026-07-14T07:44:26.489005",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117112",
+      "match_score": 9.07,
+      "score_breakdown": {
+        "semantic_similarity": 0.2712,
+        "semantic_score": 9.07,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621690"
+    },
+    {
+      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-munich-germany-382903",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-382903",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117106",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1505,
+        "semantic_similarity": 0.1762,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-14T07:44:40.266325"
+      "scored_at": "2026-07-14T11:16:43.621619"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-munich-germany-484546",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-munich-germany-484546",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117109",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1181,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621653"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-dusseldorf-germany-dusseldorf-164606",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - D\u00fcsseldorf, Germany",
+      "company": "Speechify",
+      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-dusseldorf-germany-dusseldorf-164606",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117115",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1266,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621722"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-hamburg-germany-63852",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-hamburg-germany-63852",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784011527,
+      "fetched_at": "2026-07-14T11:16:31.117118",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1249,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-14T11:16:43.621759"
     }
   ]
 }

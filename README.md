@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-14 07:44 UTC
+**Last updated:** 2026-07-14 11:16 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 33 |
-| Jobs found (all time) | 164 |
-| Jobs found (latest run, 2026-07-14) | 9 |
-| Best match (latest run) | Software Engineer (f/m/x) - TypeScript (NestJS or React) at OneTutor (score 41) |
+| Jobs found (all time) | 168 |
+| Jobs found (latest run, 2026-07-14) | 13 |
+| Best match (latest run) | Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin) at Monda Labs (score 25) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
