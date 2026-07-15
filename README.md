@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-15 07:48 UTC
+**Last updated:** 2026-07-15 11:20 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 34 |
-| Jobs found (all time) | 173 |
-| Jobs found (latest run, 2026-07-15) | 6 |
-| Best match (latest run) | Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin) at Monda Labs (score 25) |
+| Jobs found (all time) | 171 |
+| Jobs found (latest run, 2026-07-15) | 4 |
+| Best match (latest run) | Software Engineer - Automation & Operations (m/w/d, FT) at Finton Advisors by EFPINAI GmbH (score 14) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
