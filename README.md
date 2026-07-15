@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-14 22:45 UTC
+**Last updated:** 2026-07-15 07:48 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 33 |
-| Jobs found (all time) | 167 |
-| Jobs found (latest run, 2026-07-14) | 12 |
+| Search runs | 34 |
+| Jobs found (all time) | 173 |
+| Jobs found (latest run, 2026-07-15) | 6 |
 | Best match (latest run) | Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin) at Monda Labs (score 25) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
