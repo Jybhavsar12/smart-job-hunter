@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-15 22:46 UTC
+**Last updated:** 2026-07-16 07:53 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 34 |
-| Jobs found (all time) | 170 |
-| Jobs found (latest run, 2026-07-15) | 3 |
+| Search runs | 35 |
+| Jobs found (all time) | 172 |
+| Jobs found (latest run, 2026-07-16) | 2 |
 | Best match (latest run) | Full Stack Software Engineer (m/w/x) Software Systems at K-tronik GmbH (score 22) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
