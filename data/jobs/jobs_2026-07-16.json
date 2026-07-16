@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "count": 2,
+  "count": 4,
   "jobs": [
     {
       "id": "arbeitnow_senior-full-stack-developerin-furth-107822",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784192428,
-      "fetched_at": "2026-07-16T11:25:50.786547",
+      "fetched_at": "2026-07-16T15:24:44.036940",
       "match_score": 22.57,
       "score_breakdown": {
         "semantic_similarity": 0.338,
@@ -23,7 +23,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-16T11:26:00.592444"
+      "scored_at": "2026-07-16T15:24:54.600787"
     },
     {
       "id": "arbeitnow_werkstudent-recruiting-all-genders-hamburg-21979",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784190632,
-      "fetched_at": "2026-07-16T11:25:48.680756",
+      "fetched_at": "2026-07-16T15:24:41.920912",
       "match_score": 21.34,
       "score_breakdown": {
         "semantic_similarity": 0.3677,
@@ -46,7 +46,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-16T11:26:00.592396"
+      "scored_at": "2026-07-16T15:24:54.600642"
+    },
+    {
+      "id": "arbeitnow_full-stack-developer-schmalkalden-370081",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "dSign Systems GmbH",
+      "location": "Schmalkalden",
+      "description": "<p><strong>Starke Systeme. Klare L\u00f6sungen. dSign Systems.</strong></p>\n<p>Die dSign Systems GmbH ist ein etabliertes IT-Systemhaus mit Sitz in Schmalkalden und seit \u00fcber 20 Jahren zuverl\u00e4ssiger Partner f\u00fcr Kunden aus Handwerk, Industrie, Medizin und Bildung. Mit einem interdisziplin\u00e4ren Team von \u00fcber 20 Mitarbeitenden bieten wir ganzheitliche IT-Services \u2013 von Infrastruktur und Support bis hin zu digitalen Informations- und Kommunikationsl\u00f6sungen.</p>\n<p>Wir suchen einen engagierten <strong>Full",
+      "url": "https://www.arbeitnow.com/jobs/companies/dsign-systems-gmbh/full-stack-developer-schmalkalden-370081",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784203237,
+      "fetched_at": "2026-07-16T15:24:44.036360",
+      "match_score": 8.19,
+      "score_breakdown": {
+        "semantic_similarity": 0.225,
+        "semantic_score": 3.19,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-16T15:24:54.600701"
+    },
+    {
+      "id": "arbeitnow_it-projektleiter-honorarabrechnung-munich-449737",
+      "title": "IT Projektleiter (m/w/d) Honorarabrechnung",
+      "company": "hubside - Die Recruitingwerkstatt",
+      "location": "Munich",
+      "description": "<p><strong>Sind Sie es auch leid, st\u00e4ndig Angebote zu erhalten, die nicht auf Ihr Profil zutreffen?</strong> M\u00f6chten Sie stattdessen nicht lieber passgenaue Offerten erhalten, die Ihren W\u00fcnschen und Vorstellungen entsprechen? Wir h\u00f6ren Ihnen zu und begleiten Sie auf Ihrem Karriereweg \u2013 egal ob Berufseinsteiger oder erfahrener ITler. Von uns erhalten Sie nur lokale Angebote aus dem Gro\u00dfraum M\u00fcnchen.</p>\n<p><strong>Bei einer Vermittlung durch hubside</strong> helfen uns vor allem unsere durch lang",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/it-projektleiter-honorarabrechnung-munich-449737",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784201438,
+      "fetched_at": "2026-07-16T15:24:44.036446",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.064,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-16T15:24:54.600747"
     }
   ]
 }
