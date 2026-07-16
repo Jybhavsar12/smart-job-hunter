@@ -65,14 +65,15 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-16 15:24 UTC
+**Last updated:** 2026-07-16 18:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 35 |
-| Jobs found (all time) | 174 |
-| Jobs found (latest run, 2026-07-16) | 4 |
-| Best match (latest run) | Senior Full Stack Developer*in (m/w/d) at NeoBird Digital (score 23) |
+| Jobs found (all time) | 175 |
+| Jobs found (latest run, 2026-07-16) | 5 |
+| Best match (latest run) | Software development
+Frontend Developer at defdone (score 78) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
