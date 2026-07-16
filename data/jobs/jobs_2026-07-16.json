@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "count": 5,
+  "count": 8,
   "jobs": [
     {
       "id": "remoteok_1134928",
@@ -57,7 +57,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-07-13T16:51:54+00:00",
-      "fetched_at": "2026-07-16T18:53:49.395033",
+      "fetched_at": "2026-07-16T22:46:27.281541",
       "match_score": 77.74,
       "score_breakdown": {
         "semantic_similarity": 0.7322,
@@ -65,7 +65,28 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-07-16T18:54:04.990934"
+      "scored_at": "2026-07-16T22:46:41.966696"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-cologne-205456",
+      "title": "Senior Software Engineer",
+      "company": "Catapult Sports",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "description": "<p>Our mission is to improve the performance of athletes and teams, which we do by engineering the premier technology platform for sport. We've been at the forefront of sports technology and science since 2006 - we don't just work in the sporting industry, we are actively changing its future.&nbsp; Our solutions are designed to help athletes and coaches \"play smart\" in a world where 1% can literally mean the difference between winning and losing.</p>\n<p>We work with over 4,600 teams around the w",
+      "url": "https://www.arbeitnow.com/jobs/companies/catapult-sports/senior-software-engineer-cologne-205456",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784234723,
+      "fetched_at": "2026-07-16T22:46:28.355365",
+      "match_score": 24.83,
+      "score_breakdown": {
+        "semantic_similarity": 0.3951,
+        "semantic_score": 24.83,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-16T22:46:41.966744"
     },
     {
       "id": "arbeitnow_senior-full-stack-developerin-furth-107822",
@@ -80,7 +101,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784192428,
-      "fetched_at": "2026-07-16T18:53:52.582104",
+      "fetched_at": "2026-07-16T22:46:30.459150",
       "match_score": 22.57,
       "score_breakdown": {
         "semantic_similarity": 0.338,
@@ -88,7 +109,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-16T18:54:04.991118"
+      "scored_at": "2026-07-16T22:46:41.967009"
     },
     {
       "id": "arbeitnow_werkstudent-recruiting-all-genders-hamburg-21979",
@@ -103,7 +124,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784190632,
-      "fetched_at": "2026-07-16T18:53:50.476814",
+      "fetched_at": "2026-07-16T22:46:28.357431",
       "match_score": 21.34,
       "score_breakdown": {
         "semantic_similarity": 0.3677,
@@ -111,7 +132,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-16T18:54:04.990986"
+      "scored_at": "2026-07-16T22:46:41.966884"
+    },
+    {
+      "id": "arbeitnow_software-engineer-full-stack-munich-319540",
+      "title": "Software Engineer (Full-Stack)",
+      "company": "HospiChef",
+      "location": "Munich",
+      "description": "<p>Als <strong>Software Engineer (m/w/d)</strong> treibst du unsere Produktentwicklung voran. Wir suchen jemanden, der Verantwortung entlang des gesamten Entwicklungszyklus \u00fcbernehmen m\u00f6chte.</p>\n<p>Du solltest dich in einem dynamischen Umfeld wohlf\u00fchlen und hervorragende organisatorische Kompetenzen mitbringen. Wir suchen eine proaktive, verl\u00e4ssliche, teamf\u00e4hige und ergebnisorientierte Person mit \"Builder-Mentalit\u00e4t\".</p>\n<h2>Aufgaben</h2>\n<p>Das ist eine <strong>Full-Stack Engineering-Rolle</s",
+      "url": "https://www.arbeitnow.com/jobs/companies/hospichef/software-engineer-full-stack-munich-319540",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784233827,
+      "fetched_at": "2026-07-16T22:46:28.355391",
+      "match_score": 17.73,
+      "score_breakdown": {
+        "semantic_similarity": 0.3393,
+        "semantic_score": 17.73,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-16T22:46:41.966806"
     },
     {
       "id": "arbeitnow_full-stack-developer-schmalkalden-370081",
@@ -126,7 +170,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784203237,
-      "fetched_at": "2026-07-16T18:53:52.581523",
+      "fetched_at": "2026-07-16T22:46:30.458559",
       "match_score": 8.19,
       "score_breakdown": {
         "semantic_similarity": 0.225,
@@ -134,7 +178,31 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-16T18:54:04.991035"
+      "scored_at": "2026-07-16T22:46:41.966927"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-276710",
+      "title": "Senior Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote",
+      "company": "GFN GmbH",
+      "location": "Heidelberg",
+      "description": "<p>Die GFN GmbH begleitet als Bildungsanbieter mit IT-Spezialisierung deutschlandweit Menschen bei ihrer Weiterbildung und beruflichen Neuorientierung. Die GFN GmbH sucht dich f\u00fcr die Schwestergesellschaft EduTech GmbH, die Produktentwicklung der GFN.</p>\n<p>Du hast Lust auf eine spannende Herausforderung im Bildungsbereich? Du m\u00f6chtest Teil eines dynamischen Teams sein und den digitalen Wandel aktiv mitgestalten? Dann bist du bei uns genau richtig!</p>\n<p><strong>F\u00fcr unsere AI &#x26; Learning D",
+      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/senior-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-276710",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784232027,
+      "fetched_at": "2026-07-16T22:46:28.355395",
+      "match_score": 6.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.2523,
+        "semantic_score": 6.65,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-16T22:46:41.966847"
     },
     {
       "id": "arbeitnow_it-projektleiter-honorarabrechnung-munich-449737",
@@ -149,7 +217,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784201438,
-      "fetched_at": "2026-07-16T18:53:52.581609",
+      "fetched_at": "2026-07-16T22:46:30.458641",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.064,
@@ -157,7 +225,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-16T18:54:04.991079"
+      "scored_at": "2026-07-16T22:46:41.966967"
     }
   ]
 }
