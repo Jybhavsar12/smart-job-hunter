@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-16 07:53 UTC
+**Last updated:** 2026-07-16 11:26 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 35 |
 | Jobs found (all time) | 172 |
 | Jobs found (latest run, 2026-07-16) | 2 |
-| Best match (latest run) | Full Stack Software Engineer (m/w/x) Software Systems at K-tronik GmbH (score 22) |
+| Best match (latest run) | Senior Full Stack Developer*in (m/w/d) at NeoBird Digital (score 23) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
