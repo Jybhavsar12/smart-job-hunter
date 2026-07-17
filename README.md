@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-17 15:06 UTC
+**Last updated:** 2026-07-17 18:51 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 36 |
-| Jobs found (all time) | 181 |
-| Jobs found (latest run, 2026-07-17) | 3 |
-| Best match (latest run) | AI Engineer (m/w/d) - LLM, RAG, Agentic Systems at Cadaico GmbH (score 8) |
+| Jobs found (all time) | 183 |
+| Jobs found (latest run, 2026-07-17) | 5 |
+| Best match (latest run) | Junior Software Engineer at Lockwood Publishing Ltd (score 40) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
