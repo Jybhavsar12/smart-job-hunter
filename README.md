@@ -65,15 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-17 07:50 UTC
+**Last updated:** 2026-07-17 11:13 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 36 |
-| Jobs found (all time) | 185 |
-| Jobs found (latest run, 2026-07-17) | 7 |
-| Best match (latest run) | Software development
-Frontend Developer at defdone (score 78) |
+| Jobs found (all time) | 183 |
+| Jobs found (latest run, 2026-07-17) | 5 |
+| Best match (latest run) | Senior Software Engineer at Catapult Sports (score 25) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
