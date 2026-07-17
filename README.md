@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-16 22:46 UTC
+**Last updated:** 2026-07-17 07:50 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 35 |
-| Jobs found (all time) | 178 |
-| Jobs found (latest run, 2026-07-16) | 8 |
+| Search runs | 36 |
+| Jobs found (all time) | 185 |
+| Jobs found (latest run, 2026-07-17) | 7 |
 | Best match (latest run) | Software development
 Frontend Developer at defdone (score 78) |
 | Applications tracked | 0 |
