@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-20 19:22 UTC
+**Last updated:** 2026-07-20 22:45 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 39 |
-| Jobs found (all time) | 203 |
-| Jobs found (latest run, 2026-07-20) | 4 |
-| Best match (latest run) | Junior Software Engineer at Lockwood Publishing Ltd (score 41) |
+| Jobs found (all time) | 209 |
+| Jobs found (latest run, 2026-07-20) | 10 |
+| Best match (latest run) | Junior Software Engineer at Lockwood Publishing Ltd (score 40) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
