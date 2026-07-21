@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-20 22:45 UTC
+**Last updated:** 2026-07-21 08:05 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 39 |
-| Jobs found (all time) | 209 |
-| Jobs found (latest run, 2026-07-20) | 10 |
-| Best match (latest run) | Junior Software Engineer at Lockwood Publishing Ltd (score 40) |
+| Search runs | 40 |
+| Jobs found (all time) | 218 |
+| Jobs found (latest run, 2026-07-21) | 9 |
+| Best match (latest run) | Founding Mobile Engineer (React Native) at acemate.ai (score 33) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
