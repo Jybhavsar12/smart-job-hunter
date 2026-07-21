@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "count": 9,
+  "count": 11,
   "jobs": [
     {
       "id": "arbeitnow_founding-mobile-engineer-react-native-berlin-187747",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784547036,
-      "fetched_at": "2026-07-21T08:05:19.293506",
+      "fetched_at": "2026-07-21T11:41:31.295362",
       "match_score": 32.76,
       "score_breakdown": {
         "semantic_similarity": 0.4181,
@@ -23,30 +23,54 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-21T08:05:32.871178"
+      "scored_at": "2026-07-21T11:41:42.336312"
     },
     {
-      "id": "arbeitnow_backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
-      "title": "Backend Developer Kotlin & Java (m/w/d) | bis 85.000 \u20ac",
-      "company": "buesken strategy & consulting",
-      "location": "D\u00fcsseldorf",
-      "description": "<p>F\u00fcr ein wachsendes Technologieunternehmen in D\u00fcsseldorf suche ich einen Kotlin Backend Developer (m/w/d), der moderne Softwarel\u00f6sungen mitgestalten und sich langfristig in einem zukunftsorientierten Umfeld weiterentwickeln m\u00f6chte.</p>\n<p>Dich erwartet ein junges, dynamisches Team mit kurzen Entscheidungswegen, viel Gestaltungsspielraum und der M\u00f6glichkeit, den weiteren Aufbau eines wirtschaftlich soliden Unternehmens aktiv zu begleiten. Dabei arbeitest du an technisch anspruchsvollen und lang",
-      "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
+      "id": "arbeitnow_full-stack-software-engineer-software-systems-munich-243719",
+      "title": "Full Stack Software Engineer (m/w/d) Software Systems",
+      "company": "citema systems GmbH",
+      "location": "Munich",
+      "description": "<p><strong>Driving Digital Technologies</strong><br>\nDen digitalen Wandel begleiten und aktiv mitgestalten \u2013 unsere Mission bei citema. Mit unseren innovativen Ans\u00e4tzen beraten und unterst\u00fctzen wir unsere Kunden in den Technologiefeldern Cyber Security, KI und Blockchain. Ebenso geh\u00f6rt die Umsetzung system- und sicherheitsrelevanter Softwareprojekte zu unserem Portfolio. So verbinden wir die neuen Technologien mit der klassischen Softwarewelt. Bei uns wird ein professionelles, kollegiales Mitein",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/full-stack-software-engineer-software-systems-munich-243719",
       "remote": false,
       "tags": [
-        "IT"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1784539840,
-      "fetched_at": "2026-07-21T08:05:21.502330",
-      "match_score": 18.37,
+      "posted_at": 1784624430,
+      "fetched_at": "2026-07-21T11:41:30.244191",
+      "match_score": 15.14,
       "score_breakdown": {
-        "semantic_similarity": 0.3443,
-        "semantic_score": 18.37,
+        "semantic_similarity": 0.2797,
+        "semantic_score": 10.14,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-21T11:41:42.335902"
+    },
+    {
+      "id": "arbeitnow_senior-ait-technician-optical-payloads-munich-251479",
+      "title": "Senior AIT Technician (Optical Payloads)",
+      "company": "constellr GmbH",
+      "location": "Munich",
+      "description": "<p style=\";\"><strong><span style=\"color: #121317\">Location:</span></strong><span style=\"color: #121317\">\u00a0Hybrid, Munich</span></p><p style=\";\"><strong><span style=\"color: #121317\">Team &amp; Reporting line:</span></strong><span style=\"color: #121317\"> \u00a0Satellite Systems team, reporting to the Satellite Systems Lead</span></p><p style=\";\"></p><p><strong><span style=\"\">Our Mission</span></strong><span style=\"\">\u00a0</span></p><p><span style=\"color: #121317\">At constellr, we're harnessing the power of ",
+      "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/senior-ait-technician-optical-payloads-munich-251479",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "vocational"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784618422,
+      "fetched_at": "2026-07-21T11:41:31.293300",
+      "match_score": 13.63,
+      "score_breakdown": {
+        "semantic_similarity": 0.3071,
+        "semantic_score": 13.63,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.871218"
+      "scored_at": "2026-07-21T11:41:42.336281"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-berlin-germany-211686",
@@ -59,7 +83,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193092",
+      "fetched_at": "2026-07-21T11:41:30.245048",
       "match_score": 10.9,
       "score_breakdown": {
         "semantic_similarity": 0.2856,
@@ -67,7 +91,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.870950"
+      "scored_at": "2026-07-21T11:41:42.336034"
+    },
+    {
+      "id": "arbeitnow_senior-embedded-software-engineer-software-defined-radio-sdr-munich-460232",
+      "title": "Senior Embedded Software Engineer (m/w/x) - Software Defined Radio (SDR)",
+      "company": "K-tronik GmbH",
+      "location": "Munich",
+      "description": "<h2>Projektbeschreibung:</h2>\n<p>Technologie begeistert Sie? Uns auch! Zur Verst\u00e4rkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Senior Embedded Software Engineer (m/w/x) - Software Defined Radio (SDR) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie pers\u00f6nlich kennen zu lernen - und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.</p>\n<h2>Aufgaben:</h2>\n<ul>\n<li>Hard",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/senior-embedded-software-engineer-software-defined-radio-sdr-munich-460232",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784619032,
+      "fetched_at": "2026-07-21T11:41:30.244566",
+      "match_score": 2.23,
+      "score_breakdown": {
+        "semantic_similarity": 0.2175,
+        "semantic_score": 2.23,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-21T11:41:42.335951"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
@@ -80,7 +127,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193078",
+      "fetched_at": "2026-07-21T11:41:30.245045",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1752,
@@ -88,7 +135,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.870895"
+      "scored_at": "2026-07-21T11:41:42.335998"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
@@ -101,7 +148,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193095",
+      "fetched_at": "2026-07-21T11:41:30.245051",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.177,
@@ -109,7 +156,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.870993"
+      "scored_at": "2026-07-21T11:41:42.336071"
     },
     {
       "id": "arbeitnow_software-engineer-platform-dusseldorf-germany-dusseldorf-45606",
@@ -122,7 +169,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193097",
+      "fetched_at": "2026-07-21T11:41:30.245054",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1494,
@@ -130,7 +177,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.871032"
+      "scored_at": "2026-07-21T11:41:42.336145"
     },
     {
       "id": "arbeitnow_software-engineer-platform-hamburg-germany-238356",
@@ -143,7 +190,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193100",
+      "fetched_at": "2026-07-21T11:41:30.245056",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1443,
@@ -151,7 +198,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.871069"
+      "scored_at": "2026-07-21T11:41:42.336183"
     },
     {
       "id": "arbeitnow_software-engineer-platform-munich-germany-304246",
@@ -164,7 +211,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T08:05:18.193103",
+      "fetched_at": "2026-07-21T11:41:30.245058",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1385,
@@ -172,7 +219,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.871103"
+      "scored_at": "2026-07-21T11:41:42.336224"
     },
     {
       "id": "arbeitnow_principal-rf-engineer-munich-345155",
@@ -185,7 +232,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784555120,
-      "fetched_at": "2026-07-21T08:05:18.194012",
+      "fetched_at": "2026-07-21T11:41:30.246097",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1816,
@@ -193,7 +240,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T08:05:32.871136"
+      "scored_at": "2026-07-21T11:41:42.336257"
     }
   ]
 }

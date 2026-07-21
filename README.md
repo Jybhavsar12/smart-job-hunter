@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-21 08:05 UTC
+**Last updated:** 2026-07-21 11:41 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 40 |
-| Jobs found (all time) | 218 |
-| Jobs found (latest run, 2026-07-21) | 9 |
+| Jobs found (all time) | 220 |
+| Jobs found (latest run, 2026-07-21) | 11 |
 | Best match (latest run) | Founding Mobile Engineer (React Native) at acemate.ai (score 33) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
