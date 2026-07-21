@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-21 15:29 UTC
+**Last updated:** 2026-07-21 19:01 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 40 |
-| Jobs found (all time) | 219 |
-| Jobs found (latest run, 2026-07-21) | 10 |
+| Jobs found (all time) | 211 |
+| Jobs found (latest run, 2026-07-21) | 2 |
 | Best match (latest run) | Full Stack Software Engineer (m/w/d) Software Systems at citema systems GmbH (score 15) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
