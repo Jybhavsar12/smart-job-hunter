@@ -1,30 +1,7 @@
 {
   "date": "2026-07-21",
-  "count": 11,
+  "count": 10,
   "jobs": [
-    {
-      "id": "arbeitnow_founding-mobile-engineer-react-native-berlin-187747",
-      "title": "Founding Mobile Engineer (React Native)",
-      "company": "acemate.ai",
-      "location": "Berlin",
-      "description": "<p>acemate is building an AI learning &#x26; teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate <strong>Founding Mobile Engineer (React Native)</strong> to drive our product forward and help us scale.</p>\n<p><strong>About acemate</strong></p>\n<p>Founded in 2024, acemate has quickly become the leading AI learning platform for higher and further education, trusted by top",
-      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1784547036,
-      "fetched_at": "2026-07-21T11:41:31.295362",
-      "match_score": 32.76,
-      "score_breakdown": {
-        "semantic_similarity": 0.4181,
-        "semantic_score": 27.76,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-21T11:41:42.336312"
-    },
     {
       "id": "arbeitnow_full-stack-software-engineer-software-systems-munich-243719",
       "title": "Full Stack Software Engineer (m/w/d) Software Systems",
@@ -38,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784624430,
-      "fetched_at": "2026-07-21T11:41:30.244191",
+      "fetched_at": "2026-07-21T15:28:57.991255",
       "match_score": 15.14,
       "score_breakdown": {
         "semantic_similarity": 0.2797,
@@ -46,7 +23,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-21T11:41:42.335902"
+      "scored_at": "2026-07-21T15:29:13.141449"
     },
     {
       "id": "arbeitnow_senior-ait-technician-optical-payloads-munich-251479",
@@ -62,7 +39,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784618422,
-      "fetched_at": "2026-07-21T11:41:31.293300",
+      "fetched_at": "2026-07-21T15:28:59.042222",
       "match_score": 13.63,
       "score_breakdown": {
         "semantic_similarity": 0.3071,
@@ -70,7 +47,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336281"
+      "scored_at": "2026-07-21T15:29:13.141744"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-berlin-germany-211686",
@@ -83,7 +60,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245048",
+      "fetched_at": "2026-07-21T15:28:57.992075",
       "match_score": 10.9,
       "score_breakdown": {
         "semantic_similarity": 0.2856,
@@ -91,7 +68,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336034"
+      "scored_at": "2026-07-21T15:29:13.141567"
     },
     {
       "id": "arbeitnow_senior-embedded-software-engineer-software-defined-radio-sdr-munich-460232",
@@ -106,7 +83,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784619032,
-      "fetched_at": "2026-07-21T11:41:30.244566",
+      "fetched_at": "2026-07-21T15:28:57.991607",
       "match_score": 2.23,
       "score_breakdown": {
         "semantic_similarity": 0.2175,
@@ -114,7 +91,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.335951"
+      "scored_at": "2026-07-21T15:29:13.141489"
+    },
+    {
+      "id": "arbeitnow_compiler-software-engineer-bochum-423612",
+      "title": "Compiler / Software Engineer",
+      "company": "Variant Security",
+      "location": "Bochum",
+      "description": "<p><strong>About Variant Security</strong></p>\n<p>Variant Security is securing the world's critical fleets for the AI era. Today nearly every device runs identical software, so a single exploit can cascade across an entire fleet of satellites, drones, vehicles, and defense systems, and AI has made finding that one exploit cheaper than ever. Variant breaks that pattern, so compromising one device gives an attacker nothing against the rest and no single failure can bring down the fleet. AI made ex",
+      "url": "https://www.arbeitnow.com/jobs/companies/variant-security/compiler-software-engineer-bochum-423612",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784638822,
+      "fetched_at": "2026-07-21T15:28:57.990150",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1947,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-21T15:29:13.141391"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
@@ -127,7 +127,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245045",
+      "fetched_at": "2026-07-21T15:28:57.992072",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1752,
@@ -135,7 +135,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.335998"
+      "scored_at": "2026-07-21T15:29:13.141532"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
@@ -148,7 +148,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245051",
+      "fetched_at": "2026-07-21T15:28:57.992078",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.177,
@@ -156,7 +156,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336071"
+      "scored_at": "2026-07-21T15:29:13.141605"
     },
     {
       "id": "arbeitnow_software-engineer-platform-dusseldorf-germany-dusseldorf-45606",
@@ -169,7 +169,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245054",
+      "fetched_at": "2026-07-21T15:28:57.992080",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1494,
@@ -177,7 +177,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336145"
+      "scored_at": "2026-07-21T15:29:13.141641"
     },
     {
       "id": "arbeitnow_software-engineer-platform-hamburg-germany-238356",
@@ -190,7 +190,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245056",
+      "fetched_at": "2026-07-21T15:28:57.992083",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1443,
@@ -198,7 +198,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336183"
+      "scored_at": "2026-07-21T15:29:13.141683"
     },
     {
       "id": "arbeitnow_software-engineer-platform-munich-germany-304246",
@@ -211,7 +211,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1784580327,
-      "fetched_at": "2026-07-21T11:41:30.245058",
+      "fetched_at": "2026-07-21T15:28:57.992085",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1385,
@@ -219,28 +219,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-21T11:41:42.336224"
-    },
-    {
-      "id": "arbeitnow_principal-rf-engineer-munich-345155",
-      "title": "Principal RF Engineer",
-      "company": "Spire",
-      "location": "Munich, Bavaria, Germany",
-      "description": "<p><strong><u>Principal RF Engineer</u></strong></p>\n<p>You will own the mathematical and physical foundations of one of the few operational commercial space-based RF geolocation systems in active customer use today. The core problem: estimating the position of RF emitters using time difference of arrival (TDOA), frequency difference of arrival (FDOA), and angle of arrival (AoA) measurements collected by a constellation of low Earth orbit (LEO) satellites. You will formulate estimation problems,",
-      "url": "https://www.arbeitnow.com/jobs/companies/spire/principal-rf-engineer-munich-345155",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1784555120,
-      "fetched_at": "2026-07-21T11:41:30.246097",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1816,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-21T11:41:42.336257"
+      "scored_at": "2026-07-21T15:29:13.141719"
     }
   ]
 }
