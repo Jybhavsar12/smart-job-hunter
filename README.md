@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-21 19:01 UTC
+**Last updated:** 2026-07-21 22:43 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 40 |
-| Jobs found (all time) | 211 |
-| Jobs found (latest run, 2026-07-21) | 2 |
-| Best match (latest run) | Full Stack Software Engineer (m/w/d) Software Systems at citema systems GmbH (score 15) |
+| Jobs found (all time) | 212 |
+| Jobs found (latest run, 2026-07-21) | 3 |
+| Best match (latest run) | Senior Software Developer (m/f/d) Java/Kotlin with Spring Boot at etalytics gmbh (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
