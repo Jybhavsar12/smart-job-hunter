@@ -1,29 +1,69 @@
 {
   "date": "2026-07-22",
-  "count": 3,
+  "count": 5,
   "jobs": [
     {
-      "id": "arbeitnow_associate-product-manager-delivery-berlin-42622",
-      "title": "Associate Product Manager, Delivery (m/f/d)",
-      "company": "Future Demand",
-      "location": "Berlin",
-      "description": "<p>We are looking for a Associate Product Delivery Manager to help turn product priorities into clear, well-organized work for our engineering and design teams.</p>\n<p>Working closely with our Product Lead, you will help define new features, prepare upcoming work, coordinate requirements, and keep track of sprint progress. You will bring structure and clarity to the product-development process while growing your product-management skills through hands-on experience and mentorship.</p>\n<p>This is",
-      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-42622",
+      "id": "arbeitnow_senior-software-engineer-mobile-android-berlin-494099",
+      "title": "Senior Software Engineer - Mobile/Android (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "description": "<p><span style=\"font-size: 12pt;\">At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership.</span></p>\n<p><span style=\"font-size: 12pt;\">We're looking for a <strong>Senior Software Engineer - Android (m/f/d)</strong> to help shape the future of Flix mobile experiences, making travel seamless for millions of users worldwide. In this role, you'll be a key contributor to deve",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-mobile-android-berlin-494099",
       "remote": false,
-      "tags": [
-        "Product Management"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1784707229,
-      "fetched_at": "2026-07-22T18:55:02.312324",
-      "match_score": 21.34,
+      "posted_at": 1784753124,
+      "fetched_at": "2026-07-22T22:51:25.760225",
+      "match_score": 35.04,
       "score_breakdown": {
-        "semantic_similarity": 0.3677,
-        "semantic_score": 21.34,
+        "semantic_similarity": 0.4753,
+        "semantic_score": 35.04,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-22T18:55:17.104359"
+      "scored_at": "2026-07-22T22:51:41.559254"
+    },
+    {
+      "id": "arbeitnow_senior-python-engineer-network-planning-berlin-142549",
+      "title": "Senior Python Engineer (m/f/d) - Network Planning",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "description": "<p><span style=\"font-size: 12pt;\"><span data-contrast=\"none\">At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay,&nbsp;strong growth&nbsp;opportunities, and a culture of collaboration and ownership.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:281}\">&nbsp;</span></span></p>\n<p><span style=\"font-size: 12pt;\"><s",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-python-engineer-network-planning-berlin-142549",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784753124,
+      "fetched_at": "2026-07-22T22:51:25.760319",
+      "match_score": 29.82,
+      "score_breakdown": {
+        "semantic_similarity": 0.395,
+        "semantic_score": 24.82,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-22T22:51:41.559289"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-kotlin-engineer-station-management-inventory-berlin-305464",
+      "title": "Senior Full-Stack Kotlin Engineer (m/f/d) - Station Management & Inventory",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "description": "<p><span style=\"font-size: 12pt;\"><span data-contrast=\"none\">We are looking for a motivated and curious<strong> Senior Full-Stack Engineer </strong></span><strong><span data-contrast=\"none\">(Kotlin)</span></strong><span data-contrast=\"none\">&nbsp;to&nbsp;join our team&nbsp;in&nbsp;Supply&nbsp;Division&nbsp;and drive customer station experience to the next level!</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335557856&quot;:16777215,&quot;335559738&quo",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-kotlin-engineer-station-management-inventory-berlin-305464",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1784753124,
+      "fetched_at": "2026-07-22T22:51:25.760388",
+      "match_score": 17.11,
+      "score_breakdown": {
+        "semantic_similarity": 0.3344,
+        "semantic_score": 17.11,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-22T22:51:41.559318"
     },
     {
       "id": "arbeitnow_werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
@@ -38,7 +78,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784721633,
-      "fetched_at": "2026-07-22T18:55:04.412457",
+      "fetched_at": "2026-07-22T22:51:27.903611",
       "match_score": 7.39,
       "score_breakdown": {
         "semantic_similarity": 0.2188,
@@ -46,7 +86,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-22T18:55:17.104410"
+      "scored_at": "2026-07-22T22:51:41.559359"
     },
     {
       "id": "arbeitnow_full-stack-developer-augsburg-148333",
@@ -61,7 +101,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784721632,
-      "fetched_at": "2026-07-22T18:55:04.412467",
+      "fetched_at": "2026-07-22T22:51:27.903620",
       "match_score": 7.01,
       "score_breakdown": {
         "semantic_similarity": 0.2158,
@@ -69,7 +109,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-22T18:55:17.104446"
+      "scored_at": "2026-07-22T22:51:41.559393"
     }
   ]
 }

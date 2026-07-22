@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-22 18:55 UTC
+**Last updated:** 2026-07-22 22:51 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 41 |
-| Jobs found (all time) | 215 |
-| Jobs found (latest run, 2026-07-22) | 3 |
-| Best match (latest run) | Associate Product Manager, Delivery (m/f/d) at Future Demand (score 21) |
+| Jobs found (all time) | 217 |
+| Jobs found (latest run, 2026-07-22) | 5 |
+| Best match (latest run) | Senior Software Engineer - Mobile/Android (m/f/d) at Flix (score 35) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
