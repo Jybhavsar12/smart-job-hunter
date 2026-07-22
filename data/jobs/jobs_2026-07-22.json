@@ -1,31 +1,7 @@
 {
   "date": "2026-07-22",
-  "count": 2,
+  "count": 3,
   "jobs": [
-    {
-      "id": "arbeitnow_senior-software-developer-java-kotlin-with-spring-boot-darmstadt-436777",
-      "title": "Senior Software Developer (m/f/d) Java/Kotlin with Spring Boot",
-      "company": "etalytics gmbh",
-      "location": "Darmstadt",
-      "description": "<p>Do you want to build software that truly makes an impact? At etalytics, we develop intelligent energy management solutions that help industrial companies reduce energy consumption, lower CO\u2082 emissions, and cut costs. With our AI- and data-driven products, we actively contribute to a more sustainable future.</p><p>As a Senior Software Developer, you will join our backend team in Darmstadt and work on our etaONE\u00ae platform. You will take technical ownership, actively contribute to architectural ",
-      "url": "https://www.arbeitnow.com/jobs/companies/etalytics-gmbh/senior-software-developer-java-kotlin-with-spring-boot-darmstadt-436777",
-      "remote": false,
-      "tags": [
-        "Information technology",
-        "associate's degree"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1784661614,
-      "fetched_at": "2026-07-22T11:41:51.317729",
-      "match_score": 38.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.5042,
-        "semantic_score": 38.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-22T11:42:04.040108"
-    },
     {
       "id": "arbeitnow_associate-product-manager-delivery-berlin-42622",
       "title": "Associate Product Manager, Delivery (m/f/d)",
@@ -39,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784707229,
-      "fetched_at": "2026-07-22T11:41:51.316891",
+      "fetched_at": "2026-07-22T15:26:13.726514",
       "match_score": 21.34,
       "score_breakdown": {
         "semantic_similarity": 0.3677,
@@ -47,7 +23,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-22T11:42:04.040057"
+      "scored_at": "2026-07-22T15:26:29.104639"
+    },
+    {
+      "id": "arbeitnow_werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
+      "title": "Werkstudent oder Praxissemester als Full Stack Developer  (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "description": "<p>Bei <strong>UNIQBIT</strong> entwickeln wir intuitive Apps, passgenaue Plattformen und performante Webl\u00f6sungen. Wir automatisieren Prozesse mit ma\u00dfgeschneiderten BI-Anwendungen, implementieren innovative eCommerce-L\u00f6sungen, optimieren IT-Infrastrukturen und beraten Unternehmen strategisch auf ihrem Weg zur <strong>digitalen Transformation</strong>.</p>\n<p>Wir verbinden somit die analoge mit der digitalen Welt um unseren Kunden ein durchgehendes Markenerlebnis zu bieten.</p>\n<p>Arbeite in inte",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784721633,
+      "fetched_at": "2026-07-22T15:26:15.856584",
+      "match_score": 7.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.2188,
+        "semantic_score": 2.39,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-22T15:26:29.104689"
+    },
+    {
+      "id": "arbeitnow_full-stack-developer-augsburg-148333",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "description": "<p>Bei <strong>UNIQBIT</strong> entwickeln wir intuitive Apps, passgenaue Plattformen und performante Webl\u00f6sungen. Wir automatisieren Prozesse mit ma\u00dfgeschneiderten BI-Anwendungen, implementieren innovative eCommerce-L\u00f6sungen, optimieren IT-Infrastrukturen und beraten Unternehmen strategisch auf ihrem Weg zur <strong>digitalen Transformation</strong>.</p>\n<p>Wir verbinden somit die analoge mit der digitalen Welt um unseren Kunden ein durchgehendes Markenerlebnis zu bieten.</p>\n<p>Arbeite in inte",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/full-stack-developer-augsburg-148333",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784721632,
+      "fetched_at": "2026-07-22T15:26:15.856593",
+      "match_score": 7.01,
+      "score_breakdown": {
+        "semantic_similarity": 0.2158,
+        "semantic_score": 2.01,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-22T15:26:29.104724"
     }
   ]
 }
