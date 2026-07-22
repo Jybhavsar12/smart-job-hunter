@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-21 22:43 UTC
+**Last updated:** 2026-07-22 08:06 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 40 |
-| Jobs found (all time) | 212 |
-| Jobs found (latest run, 2026-07-21) | 3 |
+| Search runs | 41 |
+| Jobs found (all time) | 214 |
+| Jobs found (latest run, 2026-07-22) | 2 |
 | Best match (latest run) | Senior Software Developer (m/f/d) Java/Kotlin with Spring Boot at etalytics gmbh (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
