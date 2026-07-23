@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-23 11:46 UTC
+**Last updated:** 2026-07-23 15:47 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 42 |
-| Jobs found (all time) | 225 |
-| Jobs found (latest run, 2026-07-23) | 8 |
-| Best match (latest run) | Senior Software Engineer - Mobile/Android (m/f/d) at Flix (score 35) |
+| Jobs found (all time) | 220 |
+| Jobs found (latest run, 2026-07-23) | 3 |
+| Best match (latest run) | Backend Developer at albo (score 19) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
