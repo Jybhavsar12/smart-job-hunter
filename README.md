@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-23 15:47 UTC
+**Last updated:** 2026-07-23 18:57 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 42 |
-| Jobs found (all time) | 220 |
-| Jobs found (latest run, 2026-07-23) | 3 |
-| Best match (latest run) | Backend Developer at albo (score 19) |
+| Jobs found (all time) | 223 |
+| Jobs found (latest run, 2026-07-23) | 6 |
+| Best match (latest run) | Full Stack Developer at Elite Worldgroup Inc. (score 68) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
