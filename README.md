@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-24 15:20 UTC
+**Last updated:** 2026-07-24 19:09 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 43 |
-| Jobs found (all time) | 226 |
-| Jobs found (latest run, 2026-07-24) | 5 |
-| Best match (latest run) | Senior Frontend Developer (m/w/d) at dokSAFE GmbH (score 21) |
+| Jobs found (all time) | 229 |
+| Jobs found (latest run, 2026-07-24) | 8 |
+| Best match (latest run) | (Senior) Full Stack Java Entwickler (m/w/d) at MY Humancapital GmbH (score 21) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
