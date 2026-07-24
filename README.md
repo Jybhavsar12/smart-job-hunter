@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-24 08:05 UTC
+**Last updated:** 2026-07-24 11:30 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 43 |
-| Jobs found (all time) | 224 |
-| Jobs found (latest run, 2026-07-24) | 3 |
-| Best match (latest run) | Junior Software Engineer at Haystack (score 67) |
+| Jobs found (all time) | 225 |
+| Jobs found (latest run, 2026-07-24) | 4 |
+| Best match (latest run) | Senior Full Stack Developer | Java / React (f/m/d) at Accurids GmbH (score 27) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

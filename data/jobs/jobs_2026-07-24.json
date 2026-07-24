@@ -1,42 +1,7 @@
 {
   "date": "2026-07-24",
-  "count": 3,
+  "count": 4,
   "jobs": [
-    {
-      "id": "remoteok_1135318",
-      "title": "Junior Software Engineer",
-      "company": "Haystack",
-      "location": "Bayern, Bayern, Deutschland",
-      "description": "<p>We're hiring on behalf of a Haystack partner!</p><p><br></p><p>The Role</p><p>\u00e2\u0080\u00a2 Working with information and telecommunication technology</p><p>\u00e2\u0080\u00a2 Engaging in software development and cloud technologies</p><p>\u00e2\u0080\u00a2 Developing secure data exchange solutions between computer systems</p><p>\u00e2\u0080\u00a2 Adapting user interfaces (GUIs) to specific requirements</p><p>\u00e2\u0080\u00a2 Gaining practical experience in a central research and development department</p><p><br></p><p>What You'll Need</p><p>\u00e2\u0080\u00a2 Intermediate sc",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-haystack-1135318",
-      "salary": "",
-      "tags": [
-        "design",
-        "designer",
-        "part time",
-        "digital nomad",
-        "dev",
-        "sys admin",
-        "technical",
-        "javascript",
-        "cloud",
-        "css",
-        "html",
-        "junior",
-        "engineer"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-07-21T13:27:30+00:00",
-      "fetched_at": "2026-07-24T08:04:49.385058",
-      "match_score": 66.79,
-      "score_breakdown": {
-        "semantic_similarity": 0.6855,
-        "semantic_score": 61.79,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-24T08:05:12.776044"
-    },
     {
       "id": "arbeitnow_senior-full-stack-developer-java-react-koln-106604",
       "title": "Senior Full Stack Developer | Java / React (f/m/d)",
@@ -50,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1784817034,
-      "fetched_at": "2026-07-24T08:04:58.882094",
+      "fetched_at": "2026-07-24T11:29:52.635264",
       "match_score": 26.73,
       "score_breakdown": {
         "semantic_similarity": 0.3314,
@@ -58,7 +23,7 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-07-24T08:05:12.776126"
+      "scored_at": "2026-07-24T11:30:04.097066"
     },
     {
       "id": "remoteok_1135217",
@@ -87,7 +52,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-07-22T16:00:20+00:00",
-      "fetched_at": "2026-07-24T08:04:53.844804",
+      "fetched_at": "2026-07-24T11:29:47.901665",
       "match_score": 3.08,
       "score_breakdown": {
         "semantic_similarity": 0.2242,
@@ -95,7 +60,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-24T08:05:12.776086"
+      "scored_at": "2026-07-24T11:30:04.096924"
+    },
+    {
+      "id": "arbeitnow_software-entwickler-c-grobenzell-176040",
+      "title": "Software Entwickler C++ (m/w/d)",
+      "company": "hubside - Die Recruitingwerkstatt",
+      "location": "Gr\u00f6benzell",
+      "description": "<p><strong>Sind Sie es auch leid, st\u00e4ndig Angebote zu erhalten, die nicht auf Ihr Profil zutreffen?</strong> M\u00f6chten Sie stattdessen nicht lieber passgenaue Offerten erhalten, die Ihren W\u00fcnschen und Vorstellungen entsprechen? Wir h\u00f6ren Ihnen zu und begleiten Sie auf Ihrem Karriereweg \u2013 egal ob Berufseinsteiger oder erfahrener ITler. Von uns erhalten Sie nur lokale Angebote aus dem Gro\u00dfraum M\u00fcnchen.</p>\n<p><strong>Bei einer Vermittlung durch hubside</strong> helfen uns vor allem unsere durch lang",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/software-entwickler-c-grobenzell-176040",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784885429,
+      "fetched_at": "2026-07-24T11:29:52.633495",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1634,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-24T11:30:04.096983"
+    },
+    {
+      "id": "arbeitnow_isms-experte-edling-433807",
+      "title": "ISMS Experte (m/w/d)",
+      "company": "hubside - Die Recruitingwerkstatt",
+      "location": "Edling",
+      "description": "<p><strong>Sind Sie es auch leid, st\u00e4ndig Angebote zu erhalten, die nicht auf Ihr Profil zutreffen?</strong> M\u00f6chten Sie stattdessen nicht lieber passgenaue Offerten erhalten, die Ihren W\u00fcnschen und Vorstellungen entsprechen? Wir h\u00f6ren Ihnen zu und begleiten Sie auf Ihrem Karriereweg \u2013 egal ob Berufseinsteiger oder erfahrener ITler. Von uns erhalten Sie nur lokale Angebote aus dem Gro\u00dfraum M\u00fcnchen.</p>\n<p><strong>Bei einer Vermittlung durch hubside</strong> helfen uns vor allem unsere durch lang",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/isms-experte-edling-433807",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1784883632,
+      "fetched_at": "2026-07-24T11:29:52.633615",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1485,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-24T11:30:04.097024"
     }
   ]
 }
