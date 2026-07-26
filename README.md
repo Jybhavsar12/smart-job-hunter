@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-26 14:56 UTC
+**Last updated:** 2026-07-26 18:53 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 45 |
-| Jobs found (all time) | 237 |
-| Jobs found (latest run, 2026-07-26) | 4 |
+| Jobs found (all time) | 236 |
+| Jobs found (latest run, 2026-07-26) | 3 |
 | Best match (latest run) | (Senior) Full Stack Java Entwickler (m/w/d) at MY Humancapital GmbH (score 21) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
