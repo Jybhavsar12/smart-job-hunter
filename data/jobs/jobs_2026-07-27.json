@@ -1,98 +1,30 @@
 {
   "date": "2026-07-27",
-  "count": 15,
+  "count": 10,
   "jobs": [
     {
-      "id": "arbeitnow_remote-senior-software-engineer-token-factory-489348",
-      "title": "Senior Software Engineer (Token Factory)",
-      "company": "Nebius",
-      "location": "Amsterdam, Czech Republic; Remote - Europe; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-token-factory-489348",
-      "remote": false,
+      "id": "arbeitnow_senior-software-engineer-berlin-242205",
+      "title": "Senior Software Engineer (m/f/d)",
+      "company": "Credibur",
+      "location": "Berlin",
+      "description": "<p>At <strong>Credibur</strong>, we are building a debt management platform for non-bank lenders that must work reliably under real operational pressure. As our customer base and data volume grow, the hard problems are no longer features, but correctness, performance, and robustness.</p>\n<p>We are looking for an <strong>experienced backend-focused Software Engineer</strong> (m/f/d) who helps us stabilize and scale our core systems without unnecessary complexity.</p>\n<p>This role is about buildin",
+      "url": "https://www.arbeitnow.com/jobs/companies/credibur/senior-software-engineer-berlin-242205",
+      "remote": true,
       "tags": [
-        "Backend"
+        "Remote",
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301664",
-      "match_score": 33.93,
+      "posted_at": 1785144643,
+      "fetched_at": "2026-07-27T12:48:58.375453",
+      "match_score": 37.0,
       "score_breakdown": {
-        "semantic_similarity": 0.3488,
-        "semantic_score": 18.93,
-        "location_match": 15,
+        "semantic_similarity": 0.4907,
+        "semantic_score": 37.0,
+        "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.462750"
-    },
-    {
-      "id": "arbeitnow_staff-backend-engineer-tech-lead-manager-291128",
-      "title": "Staff Backend Engineer / Tech Lead Manager",
-      "company": "Nebius",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/staff-backend-engineer-tech-lead-manager-291128",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301623",
-      "match_score": 33.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.3469,
-        "semantic_score": 18.69,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462691"
-    },
-    {
-      "id": "arbeitnow_remote-senior-backend-developer-token-factory-349593",
-      "title": "Senior Backend Developer (Token Factory)",
-      "company": "Nebius",
-      "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-backend-developer-token-factory-349593",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122149,
-      "fetched_at": "2026-07-27T09:23:28.301904",
-      "match_score": 33.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.3451,
-        "semantic_score": 18.47,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462964"
-    },
-    {
-      "id": "arbeitnow_remote-senior-software-engineer-c-339587",
-      "title": "Senior Software Engineer (C++)",
-      "company": "Nebius",
-      "location": "Czech Republic; Remote - Europe; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-c-339587",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301671",
-      "match_score": 32.03,
-      "score_breakdown": {
-        "semantic_similarity": 0.3338,
-        "semantic_score": 17.03,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462828"
+      "scored_at": "2026-07-27T12:49:14.051038"
     },
     {
       "id": "arbeitnow_senior-principal-software-engineer-remote-berlin-434331",
@@ -108,7 +40,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785139246,
-      "fetched_at": "2026-07-27T09:23:28.300646",
+      "fetched_at": "2026-07-27T12:48:58.376200",
       "match_score": 30.14,
       "score_breakdown": {
         "semantic_similarity": 0.4368,
@@ -116,168 +48,54 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.462647"
+      "scored_at": "2026-07-27T12:49:14.051153"
     },
     {
-      "id": "arbeitnow_remote-senior-software-engineer-ydb-team-48438",
-      "title": "Senior Software Engineer (YDB Team)",
-      "company": "Nebius",
-      "location": "Czech Republic; Remote - Europe; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-ydb-team-48438",
+      "id": "arbeitnow_conformity-engineer-embedded-software-oberkochen-257277",
+      "title": "Conformity Engineer Embedded Software (m/w/d)",
+      "company": "cigus GmbH",
+      "location": "Oberkochen",
+      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
+      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/conformity-engineer-embedded-software-oberkochen-257277",
       "remote": false,
       "tags": [
-        "Backend"
+        "Engineering",
+        "master's degree"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301662",
-      "match_score": 29.62,
+      "posted_at": 1785144018,
+      "fetched_at": "2026-07-27T12:48:58.375553",
+      "match_score": 7.41,
       "score_breakdown": {
-        "semantic_similarity": 0.3148,
-        "semantic_score": 14.62,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462722"
-    },
-    {
-      "id": "arbeitnow_remote-senior-ml-engineer-token-factory-30647",
-      "title": "Senior ML Engineer (Token Factory)",
-      "company": "Nebius",
-      "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-30647",
-      "remote": false,
-      "tags": [
-        "ML"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122149,
-      "fetched_at": "2026-07-27T09:23:28.301712",
-      "match_score": 27.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.2985,
-        "semantic_score": 12.53,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462892"
-    },
-    {
-      "id": "arbeitnow_remote-senior-ml-engineer-token-factory-223220",
-      "title": "Senior ML Engineer (Token Factory)",
-      "company": "Nebius",
-      "location": "Czech Republic; Remote - Europe; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-223220",
-      "remote": false,
-      "tags": [
-        "ML"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122149,
-      "fetched_at": "2026-07-27T09:23:28.301761",
-      "match_score": 27.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.2985,
-        "semantic_score": 12.53,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462916"
-    },
-    {
-      "id": "arbeitnow_remote-senior-site-reliability-engineer-token-factory-inference-platform-125814",
-      "title": "Senior Site Reliability Engineer \u2014 Token Factory (Inference Platform)",
-      "company": "Nebius",
-      "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-site-reliability-engineer-token-factory-inference-platform-125814",
-      "remote": false,
-      "tags": [
-        "SRE"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122149,
-      "fetched_at": "2026-07-27T09:23:28.301704",
-      "match_score": 27.13,
-      "score_breakdown": {
-        "semantic_similarity": 0.2953,
-        "semantic_score": 12.13,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462864"
-    },
-    {
-      "id": "arbeitnow_senior-backend-engineer-44929",
-      "title": "Senior Backend Engineer",
-      "company": "Nebius",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-44929",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122149,
-      "fetched_at": "2026-07-27T09:23:28.301787",
-      "match_score": 26.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2921,
-        "semantic_score": 11.72,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462940"
-    },
-    {
-      "id": "arbeitnow_remote-senior-software-engineer-storage-virtualization-team-281845",
-      "title": "Senior Software Engineer (Storage Virtualization Team)",
-      "company": "Nebius",
-      "location": "Czech Republic; Remote - Europe; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-storage-virtualization-team-281845",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301667",
-      "match_score": 25.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.2823,
-        "semantic_score": 10.47,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T09:23:41.462776"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-data-platform-c-czech-republic-united-kingdom-57791",
-      "title": "Senior Software Engineer (Data Platform, C++)",
-      "company": "Nebius",
-      "location": "Czech Republic; United Kingdom",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-data-platform-c-czech-republic-united-kingdom-57791",
-      "remote": false,
-      "tags": [
-        "Backend"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785122150,
-      "fetched_at": "2026-07-27T09:23:28.301669",
-      "match_score": 16.06,
-      "score_breakdown": {
-        "semantic_similarity": 0.3262,
-        "semantic_score": 16.06,
+        "semantic_similarity": 0.2583,
+        "semantic_score": 7.41,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.462803"
+      "scored_at": "2026-07-27T12:49:14.051078"
+    },
+    {
+      "id": "arbeitnow_typescript-full-stack-developer-munster-115439",
+      "title": "TypeScript Full Stack Developer (m/w/d)",
+      "company": "MedNet EC-REP GmbH",
+      "location": "M\u00fcnster",
+      "description": "<p>Die MedNet EC-REP GmbH mit Hauptsitz in M\u00fcnster ist ein f\u00fchrender Dienstleister f\u00fcr regulatorische Vertretung und Marktzugang in Europa. Als European Authorized Representative, UK Responsible Person und Swiss Authorized Representative unterst\u00fctzt MedNet EC-REP aktuell ca. 700 Hersteller aus dem Nicht-EU-Ausland beim schnellen, sicheren und regelkonformen Zugang zu den M\u00e4rkten der EU, Gro\u00dfbritanniens und der Schweiz. Das Unternehmen ist auf Medizinprodukte, In-vitro-Diagnostika, Kosmetika und ",
+      "url": "https://www.arbeitnow.com/jobs/companies/mednet-ec-rep-gmbh/typescript-full-stack-developer-munster-115439",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785148233,
+      "fetched_at": "2026-07-27T12:49:00.511009",
+      "match_score": 6.45,
+      "score_breakdown": {
+        "semantic_similarity": 0.2114,
+        "semantic_score": 1.45,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-27T12:49:14.051338"
     },
     {
       "id": "arbeitnow_senior-software-developer-nuremberg-70671",
@@ -292,7 +110,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T09:23:29.355825",
+      "fetched_at": "2026-07-27T12:48:59.444702",
       "match_score": 5.87,
       "score_breakdown": {
         "semantic_similarity": 0.2461,
@@ -300,7 +118,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.463042"
+      "scored_at": "2026-07-27T12:49:14.051263"
     },
     {
       "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-110294",
@@ -315,7 +133,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T09:23:29.355828",
+      "fetched_at": "2026-07-27T12:48:59.444704",
       "match_score": 2.17,
       "score_breakdown": {
         "semantic_similarity": 0.2171,
@@ -323,7 +141,77 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.463076"
+      "scored_at": "2026-07-27T12:49:14.051302"
+    },
+    {
+      "id": "arbeitnow_senior-ait-technician-munich-448288",
+      "title": "Senior AIT Technician",
+      "company": "constellr GmbH",
+      "location": "Munich , Bayern, Germany",
+      "description": "<p class=\"Paragraph SCXW174304641 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#121317\">Location:</span></strong><span style=\"color:#121317\">&nbsp;Hybrid, Munich</span></p><p class=\"Paragraph SCXW174304641 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#121317\">Team &amp; Reporting line:</span></strong><span style=\"color:#121317\"> &nbsp;Satellite Systems team, reporting to the Satellite Systems Lead</span></p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW139",
+      "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/senior-ait-technician-munich-448288",
+      "remote": false,
+      "tags": [
+        "Satellite Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785151806,
+      "fetched_at": "2026-07-27T12:48:59.442836",
+      "match_score": 1.19,
+      "score_breakdown": {
+        "semantic_similarity": 0.2093,
+        "semantic_score": 1.19,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T12:49:14.051177"
+    },
+    {
+      "id": "arbeitnow_software-engineer-schwabisch-hall-485888",
+      "title": "Software Engineer (m/w/d)",
+      "company": "bessr.",
+      "location": "Schw\u00e4bisch Hall",
+      "description": "<p>bessr. ist eine KI-gest\u00fctzte Ern\u00e4hrungs-App aus dem Raum Schw\u00e4bisch Hall. Wir tracken Mahlzeiten per Sprache oder Barcode und rechnen in Echtzeit Makros und \u00fcber 30 Mikron\u00e4hrstoffe, mit KI-Beratung auf der deutschen Lebensmitteldatenbank. Kernfunktionen bleiben kostenlos und werbefrei. Wir sind ein vierk\u00f6pfiges, EXIST-gef\u00f6rdertes Gr\u00fcnderteam, die App ist live in der Alpha. Ehrlich vorab: das ist ein Startup, kein sicherer Nebenjob, wir suchen jemanden, der Teil davon werden will.</p>\n<h2>Aufg",
+      "url": "https://www.arbeitnow.com/jobs/companies/bessr/software-engineer-schwabisch-hall-485888",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785153647,
+      "fetched_at": "2026-07-27T12:48:58.374284",
+      "match_score": 0.28,
+      "score_breakdown": {
+        "semantic_similarity": 0.2022,
+        "semantic_score": 0.28,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T12:49:14.050950"
+    },
+    {
+      "id": "arbeitnow_director-of-engineering-berlin-125556",
+      "title": "Director of Engineering (m/f/d)",
+      "company": "affinidi",
+      "location": "Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;strong&gt;About the Company&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;strong&gt;Affinidi&amp;nbsp;&lt;/strong&gt;is a technology company dedicated to changing data ownership for good. We empower businesses and individuals with control and ownership of their data, with a comprehensive approach to managing their holistic identity \u2013 accounting for al",
+      "url": "https://www.arbeitnow.com/jobs/companies/affinidi/director-of-engineering-berlin-125556",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785153304,
+      "fetched_at": "2026-07-27T12:48:58.374564",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1844,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T12:49:14.050999"
     },
     {
       "id": "arbeitnow_developer-fokus-secure-software-nuremberg-271473",
@@ -338,7 +226,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T09:23:29.355814",
+      "fetched_at": "2026-07-27T12:48:59.444698",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1734,
@@ -346,7 +234,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T09:23:41.463005"
+      "scored_at": "2026-07-27T12:49:14.051218"
     }
   ]
 }

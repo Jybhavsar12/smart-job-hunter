@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-27 09:23 UTC
+**Last updated:** 2026-07-27 12:49 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 46 |
-| Jobs found (all time) | 255 |
-| Jobs found (latest run, 2026-07-27) | 15 |
-| Best match (latest run) | Senior Software Engineer (Token Factory) at Nebius (score 34) |
+| Jobs found (all time) | 250 |
+| Jobs found (latest run, 2026-07-27) | 10 |
+| Best match (latest run) | Senior Software Engineer (m/f/d) at Credibur (score 37) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
