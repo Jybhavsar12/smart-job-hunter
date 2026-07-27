@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-27 16:07 UTC
+**Last updated:** 2026-07-27 19:09 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 46 |
-| Jobs found (all time) | 256 |
-| Jobs found (latest run, 2026-07-27) | 16 |
-| Best match (latest run) | Senior Software Engineer (m/f/d) at Credibur (score 37) |
+| Jobs found (all time) | 251 |
+| Jobs found (latest run, 2026-07-27) | 11 |
+| Best match (latest run) | Senior Data Scientist (m/f/x) at Makersite GmbH (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

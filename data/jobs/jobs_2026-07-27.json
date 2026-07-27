@@ -1,76 +1,99 @@
 {
   "date": "2026-07-27",
-  "count": 16,
+  "count": 11,
   "jobs": [
     {
-      "id": "arbeitnow_senior-software-engineer-berlin-242205",
-      "title": "Senior Software Engineer (m/f/d)",
-      "company": "Credibur",
-      "location": "Berlin",
-      "description": "<p>At <strong>Credibur</strong>, we are building a debt management platform for non-bank lenders that must work reliably under real operational pressure. As our customer base and data volume grow, the hard problems are no longer features, but correctness, performance, and robustness.</p>\n<p>We are looking for an <strong>experienced backend-focused Software Engineer</strong> (m/f/d) who helps us stabilize and scale our core systems without unnecessary complexity.</p>\n<p>This role is about buildin",
-      "url": "https://www.arbeitnow.com/jobs/companies/credibur/senior-software-engineer-berlin-242205",
+      "id": "arbeitnow_remote-senior-data-scientist-berlin-366454",
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "description": "<p class=\"Paragraph SCXW111181217 BCX4\">Data Scientist (m/f/x)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">Location: EU</p><p class=\"Paragraph SCXW111181217 BCX4\">(Remote)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><h4><strong><span style=\"color:#000000\">Who You\u2019ll Work For</span><span style=\"color:#2F5496\">:</span></strong><span style=\"color:#2F5496\">&nbsp;</span></h4><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\"><span style=\"colo",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-366454",
       "remote": true,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Engineering",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785144643,
-      "fetched_at": "2026-07-27T16:07:04.651667",
-      "match_score": 37.0,
+      "posted_at": 1785174671,
+      "fetched_at": "2026-07-27T19:08:52.322847",
+      "match_score": 35.67,
       "score_breakdown": {
-        "semantic_similarity": 0.4907,
-        "semantic_score": 37.0,
-        "location_match": 0,
+        "semantic_similarity": 0.3624,
+        "semantic_score": 20.67,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838499"
+      "scored_at": "2026-07-27T19:09:07.090773"
     },
     {
-      "id": "arbeitnow_senior-staff-software-engineer-node-infra-london-420264",
-      "title": "Senior Staff+ Software Engineer, Node Infra",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-staff-software-engineer-node-infra-london-420264",
+      "id": "arbeitnow_tech-lead-python-ai-365396",
+      "title": "Tech Lead - Python & AI",
+      "company": "nearform",
+      "location": "",
+      "description": "&lt;p data-start=&quot;47&quot; data-end=&quot;312&quot;&gt;This is a&amp;nbsp;&lt;strong data-start=&quot;57&quot; data-end=&quot;93&quot;&gt;full-time, permanent opportunity&lt;/strong&gt; for candidates &lt;strong data-start=&quot;109&quot; data-end=&quot;182&quot;&gt;based in the UK and authorised to work without sponsorship.&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-start=&quot;314&quot; data-end=&quot;453&quot;&gt;This position also requires &lt;strong data-start=&quot;342&quot; data-end=&quot;3",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/tech-lead-python-ai-365396",
       "remote": false,
       "tags": [
-        "Software Engineering - Infrastructure"
+        "Technical Leadership"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651887",
-      "match_score": 24.53,
+      "posted_at": 1785165352,
+      "fetched_at": "2026-07-27T19:08:52.325638",
+      "match_score": 31.93,
       "score_breakdown": {
-        "semantic_similarity": 0.3927,
-        "semantic_score": 24.53,
-        "location_match": 0,
-        "priority_keywords": 0
+        "semantic_similarity": 0.2938,
+        "semantic_score": 11.93,
+        "location_match": 15,
+        "priority_keywords": 5
       },
-      "scored_at": "2026-07-27T16:07:20.838750"
+      "scored_at": "2026-07-27T19:09:07.091075"
     },
     {
-      "id": "arbeitnow_senior-staff-software-engineer-kubernetes-platform-london-203896",
-      "title": "Senior Staff+ Software Engineer, Kubernetes Platform",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-staff-software-engineer-kubernetes-platform-london-203896",
+      "id": "arbeitnow_technical-director-48807",
+      "title": "Technical Director",
+      "company": "nearform",
+      "location": "",
+      "description": "&lt;p&gt;This is a &lt;strong&gt;permanent full-time&amp;nbsp;remote &lt;/strong&gt;opportunity &lt;strong&gt;for those based in the UK.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Nearform&lt;br&gt;&lt;/strong&gt;Nearform is an independent team of data &amp;amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/technical-director-48807",
       "remote": false,
       "tags": [
-        "Software Engineering - Infrastructure"
+        "Technical Leadership"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651889",
-      "match_score": 22.55,
+      "posted_at": 1785165352,
+      "fetched_at": "2026-07-27T19:08:52.325586",
+      "match_score": 29.89,
       "score_breakdown": {
-        "semantic_similarity": 0.3771,
-        "semantic_score": 22.55,
-        "location_match": 0,
+        "semantic_similarity": 0.317,
+        "semantic_score": 14.89,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838779"
+      "scored_at": "2026-07-27T19:09:07.091049"
+    },
+    {
+      "id": "arbeitnow_strategic-account-director-77737",
+      "title": "Strategic Account Director",
+      "company": "nearform",
+      "location": "",
+      "description": "&lt;p&gt;This is a &lt;strong&gt;permanent full-time&amp;nbsp;remote&lt;/strong&gt; opportunity for &lt;strong&gt;those based in the UK&lt;/strong&gt;. Please note there may be&lt;strong&gt; occasional travel required.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;About Nearform&amp;nbsp;&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Nearform is an independent team of data and AI experts, engineers, and designers who build intelligent digital solutions and capabilities at pace. We create AI\u2011enabled solutions tha",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/strategic-account-director-77737",
+      "remote": false,
+      "tags": [
+        "Technical Leadership"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785165352,
+      "fetched_at": "2026-07-27T19:08:52.325682",
+      "match_score": 26.42,
+      "score_breakdown": {
+        "semantic_similarity": 0.2897,
+        "semantic_score": 11.42,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T19:09:07.091108"
     },
     {
       "id": "arbeitnow_python-software-engineer-dresden-402329",
@@ -85,7 +108,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785162636,
-      "fetched_at": "2026-07-27T16:07:04.649354",
+      "fetched_at": "2026-07-27T19:08:52.323941",
       "match_score": 22.46,
       "score_breakdown": {
         "semantic_similarity": 0.3372,
@@ -93,53 +116,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-27T16:07:20.838341"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-account-compromise-london-434563",
-      "title": "Staff+ Software Engineer, Account Compromise",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-account-compromise-london-434563",
-      "remote": false,
-      "tags": [
-        "AI Research & Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651758",
-      "match_score": 22.16,
-      "score_breakdown": {
-        "semantic_similarity": 0.3741,
-        "semantic_score": 22.16,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838693"
-    },
-    {
-      "id": "arbeitnow_staff-infrastructure-engineer-cluster-infrastructure-london-446211",
-      "title": "Staff+ Infrastructure Engineer, Cluster Infrastructure",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-infrastructure-engineer-cluster-infrastructure-london-446211",
-      "remote": false,
-      "tags": [
-        "Software Engineering - Infrastructure"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651823",
-      "match_score": 21.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.3704,
-        "semantic_score": 21.69,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838722"
+      "scored_at": "2026-07-27T19:09:07.090901"
     },
     {
       "id": "arbeitnow_contract-php-engineer-craft-cms-berlin-175146",
@@ -155,7 +132,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785157264,
-      "fetched_at": "2026-07-27T16:07:04.649952",
+      "fetched_at": "2026-07-27T19:08:52.324462",
       "match_score": 21.37,
       "score_breakdown": {
         "semantic_similarity": 0.3679,
@@ -163,168 +140,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838389"
+      "scored_at": "2026-07-27T19:09:07.090936"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-inference-london-371217",
-      "title": "Staff Software Engineer, Inference",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-inference-london-371217",
-      "remote": false,
+      "id": "arbeitnow_working-student-software-development-healthtech-all-genders-berlin-445623",
+      "title": "Working Student Software Development - HealthTech (all genders)",
+      "company": "PLANFOX GmbH",
+      "location": "Berlin",
+      "description": "<h2>WERDE TEIL UNSERER MISSION</h2>\n<p>Bei PLANFOX gestalten wir die digitale Zukunft des Gesundheitswesens. Wir entwickeln smarte und vernetzte Softwarel\u00f6sungen, die Prozesse vereinfachen, Informationsqualit\u00e4t verbessern und mehr Zeit f\u00fcr das Wesentliche schaffen \u2013 die Menschen. Entstanden aus einer Forschungskooperation der Universit\u00e4t Augsburg und mit Wurzeln in der XITASO Unternehmensgruppe verbinden wir wissenschaftliche Expertise mit technologischem Know-how und Leidenschaft f\u00fcr digitale G",
+      "url": "https://www.arbeitnow.com/jobs/companies/planfox-gmbh/working-student-software-development-healthtech-all-genders-berlin-445623",
+      "remote": true,
       "tags": [
-        "Software Engineering - Infrastructure"
+        "Remote",
+        "IT"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785164253,
-      "fetched_at": "2026-07-27T16:07:04.651752",
-      "match_score": 20.69,
+      "posted_at": 1785164432,
+      "fetched_at": "2026-07-27T19:08:52.323528",
+      "match_score": 12.94,
       "score_breakdown": {
-        "semantic_similarity": 0.3626,
-        "semantic_score": 20.69,
+        "semantic_similarity": 0.3017,
+        "semantic_score": 12.94,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838589"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-ai-reliability-engineering-london-465893",
-      "title": "Staff Software Engineer, AI Reliability Engineering",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-ai-reliability-engineering-london-465893",
-      "remote": false,
-      "tags": [
-        "Software Engineering - Infrastructure"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651756",
-      "match_score": 20.31,
-      "score_breakdown": {
-        "semantic_similarity": 0.3596,
-        "semantic_score": 20.31,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838663"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-inference-london-195401",
-      "title": "Senior Software Engineer, Inference",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-software-engineer-inference-london-195401",
-      "remote": false,
-      "tags": [
-        "Software Engineering - Infrastructure"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651891",
-      "match_score": 20.11,
-      "score_breakdown": {
-        "semantic_similarity": 0.358,
-        "semantic_score": 20.11,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838807"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-developer-productivity-london-406640",
-      "title": "Staff+ Software Engineer, Developer Productivity",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;&lt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-developer-productivity-london-406640",
-      "remote": false,
-      "tags": [
-        "Software Engineering - Infrastructure"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164252,
-      "fetched_at": "2026-07-27T16:07:04.651754",
-      "match_score": 19.01,
-      "score_breakdown": {
-        "semantic_similarity": 0.3494,
-        "semantic_score": 19.01,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838629"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-safeguards-infrastructure-london-248441",
-      "title": "Staff+ Software Engineer, Safeguards Infrastructure",
-      "company": "Anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-safeguards-infrastructure-london-248441",
-      "remote": false,
-      "tags": [
-        "Safeguards (Trust & Safety)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785164253,
-      "fetched_at": "2026-07-27T16:07:04.651749",
-      "match_score": 17.26,
-      "score_breakdown": {
-        "semantic_similarity": 0.3357,
-        "semantic_score": 17.26,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838558"
-    },
-    {
-      "id": "arbeitnow_typescript-full-stack-developer-munster-115439",
-      "title": "TypeScript Full Stack Developer (m/w/d)",
-      "company": "MedNet EC-REP GmbH",
-      "location": "M\u00fcnster",
-      "description": "<p>Die MedNet EC-REP GmbH mit Hauptsitz in M\u00fcnster ist ein f\u00fchrender Dienstleister f\u00fcr regulatorische Vertretung und Marktzugang in Europa. Als European Authorized Representative, UK Responsible Person und Swiss Authorized Representative unterst\u00fctzt MedNet EC-REP aktuell ca. 700 Hersteller aus dem Nicht-EU-Ausland beim schnellen, sicheren und regelkonformen Zugang zu den M\u00e4rkten der EU, Gro\u00dfbritanniens und der Schweiz. Das Unternehmen ist auf Medizinprodukte, In-vitro-Diagnostika, Kosmetika und ",
-      "url": "https://www.arbeitnow.com/jobs/companies/mednet-ec-rep-gmbh/typescript-full-stack-developer-munster-115439",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785148233,
-      "fetched_at": "2026-07-27T16:07:06.798688",
-      "match_score": 6.45,
-      "score_breakdown": {
-        "semantic_similarity": 0.2114,
-        "semantic_score": 1.45,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-27T16:07:20.838864"
-    },
-    {
-      "id": "arbeitnow_senior-ait-technician-munich-448288",
-      "title": "Senior AIT Technician",
-      "company": "constellr GmbH",
-      "location": "Munich , Bayern, Germany",
-      "description": "<p class=\"Paragraph SCXW174304641 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#121317\">Location:</span></strong><span style=\"color:#121317\">&nbsp;Hybrid, Munich</span></p><p class=\"Paragraph SCXW174304641 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#121317\">Team &amp; Reporting line:</span></strong><span style=\"color:#121317\"> &nbsp;Satellite Systems team, reporting to the Satellite Systems Lead</span></p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW139",
-      "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/senior-ait-technician-munich-448288",
-      "remote": false,
-      "tags": [
-        "Satellite Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785151806,
-      "fetched_at": "2026-07-27T16:07:05.732640",
-      "match_score": 1.19,
-      "score_breakdown": {
-        "semantic_similarity": 0.2093,
-        "semantic_score": 1.19,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T16:07:20.838828"
+      "scored_at": "2026-07-27T19:09:07.090860"
     },
     {
       "id": "arbeitnow_software-engineer-schwabisch-hall-485888",
@@ -340,7 +180,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785153647,
-      "fetched_at": "2026-07-27T16:07:04.650528",
+      "fetched_at": "2026-07-27T19:08:52.324964",
       "match_score": 0.28,
       "score_breakdown": {
         "semantic_similarity": 0.2022,
@@ -348,7 +188,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838430"
+      "scored_at": "2026-07-27T19:09:07.090975"
+    },
+    {
+      "id": "arbeitnow_staff-engineer-manufacturing-systems-reliability-richen-baden-wurttemberg-96228",
+      "title": "Staff Engineer - Manufacturing Systems & Reliability (f/m/d)",
+      "company": "Gropyus",
+      "location": "Richen, Baden-W\u00fcrttemberg",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/staff-engineer-manufacturing-systems-reliability-richen-baden-wurttemberg-96228",
+      "remote": false,
+      "tags": [
+        "Product Delivery"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785174942,
+      "fetched_at": "2026-07-27T19:08:52.322650",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1762,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T19:09:07.090729"
+    },
+    {
+      "id": "arbeitnow_ai-research-engineer-medical-imaging-dusseldorf-94004",
+      "title": "AI Research Engineer - Medical Imaging",
+      "company": "Nano4Imaging",
+      "location": "D\u00fcsseldorf",
+      "description": "<p>At Nano4Imaging, we are redefining image-guided therapy. Our mission is to make endovascular procedures safer, faster, and more precise through real-time MRI navigation. We combine cutting-edge medical devices with state-of-the-art artificial intelligence to enable interventions without ionizing radiation.</p>\n<h2>Tasks</h2>\n<p>As part of our AI team, you will contribute to our next-generation AI-powered navigation platform for MRI-guided interventions. Your work will be centered about resear",
+      "url": "https://www.arbeitnow.com/jobs/companies/nano4imaging/ai-research-engineer-medical-imaging-dusseldorf-94004",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785166246,
+      "fetched_at": "2026-07-27T19:08:52.323397",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1758,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T19:09:07.090814"
     },
     {
       "id": "arbeitnow_director-of-engineering-berlin-125556",
@@ -363,7 +249,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785153304,
-      "fetched_at": "2026-07-27T16:07:04.650795",
+      "fetched_at": "2026-07-27T19:08:52.325178",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1844,
@@ -371,7 +257,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T16:07:20.838466"
+      "scored_at": "2026-07-27T19:09:07.091018"
     }
   ]
 }
