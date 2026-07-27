@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-27 19:09 UTC
+**Last updated:** 2026-07-27 22:49 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 46 |
-| Jobs found (all time) | 251 |
-| Jobs found (latest run, 2026-07-27) | 11 |
+| Jobs found (all time) | 247 |
+| Jobs found (latest run, 2026-07-27) | 7 |
 | Best match (latest run) | Senior Data Scientist (m/f/x) at Makersite GmbH (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
