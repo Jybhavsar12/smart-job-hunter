@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "count": 10,
+  "count": 16,
   "jobs": [
     {
       "id": "arbeitnow_senior-software-engineer-berlin-242205",
@@ -16,7 +16,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785144643,
-      "fetched_at": "2026-07-27T12:48:58.375453",
+      "fetched_at": "2026-07-27T16:07:04.651667",
       "match_score": 37.0,
       "score_breakdown": {
         "semantic_similarity": 0.4907,
@@ -24,55 +24,261 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T12:49:14.051038"
+      "scored_at": "2026-07-27T16:07:20.838499"
     },
     {
-      "id": "arbeitnow_senior-principal-software-engineer-remote-berlin-434331",
-      "title": "Senior / Principal Software Engineer (m/f/d - Remote)",
-      "company": "Weflow",
-      "location": "Berlin",
-      "description": "<p>Weflow's Revenue AI Platform automates Salesforce data capture and provides full visibility into deal, pipeline, and forecast health.</p>\n<p>200+ fast-growing companies like Retool, BenchSci, IDnow use Weflow to improve team productivity, sales performance, and revenue predictability.</p>\n<p>Weflow is backed by Gradient Ventures, Cherry Ventures, and renowned angel investors and run by repeat founders Philipp Stelzer and Janis Zech.</p>\n<h2>Tasks</h2>\n<p>As Senior/Principal Engineer, you\u2019ll p",
-      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-principal-software-engineer-remote-berlin-434331",
-      "remote": true,
+      "id": "arbeitnow_senior-staff-software-engineer-node-infra-london-420264",
+      "title": "Senior Staff+ Software Engineer, Node Infra",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-staff-software-engineer-node-infra-london-420264",
+      "remote": false,
       "tags": [
-        "Remote",
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651887",
+      "match_score": 24.53,
+      "score_breakdown": {
+        "semantic_similarity": 0.3927,
+        "semantic_score": 24.53,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838750"
+    },
+    {
+      "id": "arbeitnow_senior-staff-software-engineer-kubernetes-platform-london-203896",
+      "title": "Senior Staff+ Software Engineer, Kubernetes Platform",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-staff-software-engineer-kubernetes-platform-london-203896",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651889",
+      "match_score": 22.55,
+      "score_breakdown": {
+        "semantic_similarity": 0.3771,
+        "semantic_score": 22.55,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838779"
+    },
+    {
+      "id": "arbeitnow_python-software-engineer-dresden-402329",
+      "title": "Python Software Engineer (m/w/d)",
+      "company": "Smart Systems Hub GmbH",
+      "location": "Dresden",
+      "description": "<p><strong>Aus Daten werden L\u00f6sungen. Aus Ideen werden Prototypen.</strong></p>\n<p>Du m\u00f6chtest nicht nur bestehende Software weiterentwickeln, sondern aus realen industriellen Herausforderungen neue technische L\u00f6sungen entstehen lassen? Du verbindest sehr gute Python- und Backend-Kenntnisse mit Erfahrung in Data Engineering, Data Science und k\u00fcnstlicher Intelligenz?</p>\n<p>Dann entwickle mit uns datenbasierte Anwendungen, Prototypen und Demonstratoren \u2013 gemeinsam mit Industrieunternehmen, Techno",
+      "url": "https://www.arbeitnow.com/jobs/companies/smart-systems-hub-gmbh/python-software-engineer-dresden-402329",
+      "remote": false,
+      "tags": [
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785139246,
-      "fetched_at": "2026-07-27T12:48:58.376200",
-      "match_score": 30.14,
+      "posted_at": 1785162636,
+      "fetched_at": "2026-07-27T16:07:04.649354",
+      "match_score": 22.46,
       "score_breakdown": {
-        "semantic_similarity": 0.4368,
-        "semantic_score": 30.14,
+        "semantic_similarity": 0.3372,
+        "semantic_score": 17.46,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-07-27T12:49:14.051153"
+      "scored_at": "2026-07-27T16:07:20.838341"
     },
     {
-      "id": "arbeitnow_conformity-engineer-embedded-software-oberkochen-257277",
-      "title": "Conformity Engineer Embedded Software (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Oberkochen",
-      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/conformity-engineer-embedded-software-oberkochen-257277",
+      "id": "arbeitnow_staff-software-engineer-account-compromise-london-434563",
+      "title": "Staff+ Software Engineer, Account Compromise",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-account-compromise-london-434563",
       "remote": false,
       "tags": [
-        "Engineering",
-        "master's degree"
+        "AI Research & Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785144018,
-      "fetched_at": "2026-07-27T12:48:58.375553",
-      "match_score": 7.41,
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651758",
+      "match_score": 22.16,
       "score_breakdown": {
-        "semantic_similarity": 0.2583,
-        "semantic_score": 7.41,
+        "semantic_similarity": 0.3741,
+        "semantic_score": 22.16,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T12:49:14.051078"
+      "scored_at": "2026-07-27T16:07:20.838693"
+    },
+    {
+      "id": "arbeitnow_staff-infrastructure-engineer-cluster-infrastructure-london-446211",
+      "title": "Staff+ Infrastructure Engineer, Cluster Infrastructure",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-infrastructure-engineer-cluster-infrastructure-london-446211",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651823",
+      "match_score": 21.69,
+      "score_breakdown": {
+        "semantic_similarity": 0.3704,
+        "semantic_score": 21.69,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838722"
+    },
+    {
+      "id": "arbeitnow_contract-php-engineer-craft-cms-berlin-175146",
+      "title": "Contract PHP Engineer (Craft CMS)",
+      "company": "YLD.com",
+      "location": "Berlin",
+      "description": "<h1>Senior Software Engineer (PHP / Craft CMS)</h1>\n<p><strong>Location:</strong> Brazil (Remote)</p>\n<p><strong>Department:</strong> Engineering</p>\n<p><strong>Employment Type:</strong> Contract (B2B)</p>\n<p><strong>Contract Length:</strong> 3 months (with potential for extension)</p>\n<h2>About YLD</h2>\n<p>Our goal is to help our clients keep moving forward. We work with them to build the skills and capabilities they need to stay ahead of the competition, and we know our success only happens wh",
+      "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-php-engineer-craft-cms-berlin-175146",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785157264,
+      "fetched_at": "2026-07-27T16:07:04.649952",
+      "match_score": 21.37,
+      "score_breakdown": {
+        "semantic_similarity": 0.3679,
+        "semantic_score": 21.37,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838389"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-inference-london-371217",
+      "title": "Staff Software Engineer, Inference",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role&",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-inference-london-371217",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164253,
+      "fetched_at": "2026-07-27T16:07:04.651752",
+      "match_score": 20.69,
+      "score_breakdown": {
+        "semantic_similarity": 0.3626,
+        "semantic_score": 20.69,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838589"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-ai-reliability-engineering-london-465893",
+      "title": "Staff Software Engineer, AI Reliability Engineering",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-ai-reliability-engineering-london-465893",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651756",
+      "match_score": 20.31,
+      "score_breakdown": {
+        "semantic_similarity": 0.3596,
+        "semantic_score": 20.31,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838663"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-inference-london-195401",
+      "title": "Senior Software Engineer, Inference",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the role&",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-software-engineer-inference-london-195401",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651891",
+      "match_score": 20.11,
+      "score_breakdown": {
+        "semantic_similarity": 0.358,
+        "semantic_score": 20.11,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838807"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-developer-productivity-london-406640",
+      "title": "Staff+ Software Engineer, Developer Productivity",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;&lt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-developer-productivity-london-406640",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164252,
+      "fetched_at": "2026-07-27T16:07:04.651754",
+      "match_score": 19.01,
+      "score_breakdown": {
+        "semantic_similarity": 0.3494,
+        "semantic_score": 19.01,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838629"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-safeguards-infrastructure-london-248441",
+      "title": "Staff+ Software Engineer, Safeguards Infrastructure",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-safeguards-infrastructure-london-248441",
+      "remote": false,
+      "tags": [
+        "Safeguards (Trust & Safety)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785164253,
+      "fetched_at": "2026-07-27T16:07:04.651749",
+      "match_score": 17.26,
+      "score_breakdown": {
+        "semantic_similarity": 0.3357,
+        "semantic_score": 17.26,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-27T16:07:20.838558"
     },
     {
       "id": "arbeitnow_typescript-full-stack-developer-munster-115439",
@@ -87,7 +293,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785148233,
-      "fetched_at": "2026-07-27T12:49:00.511009",
+      "fetched_at": "2026-07-27T16:07:06.798688",
       "match_score": 6.45,
       "score_breakdown": {
         "semantic_similarity": 0.2114,
@@ -95,53 +301,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-27T12:49:14.051338"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-nuremberg-70671",
-      "title": "Senior Software Developer (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6n",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-70671",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T12:48:59.444702",
-      "match_score": 5.87,
-      "score_breakdown": {
-        "semantic_similarity": 0.2461,
-        "semantic_score": 5.87,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T12:49:14.051263"
-    },
-    {
-      "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-110294",
-      "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013 Martin Fowler</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es ",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-110294",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T12:48:59.444704",
-      "match_score": 2.17,
-      "score_breakdown": {
-        "semantic_similarity": 0.2171,
-        "semantic_score": 2.17,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T12:49:14.051302"
+      "scored_at": "2026-07-27T16:07:20.838864"
     },
     {
       "id": "arbeitnow_senior-ait-technician-munich-448288",
@@ -156,7 +316,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785151806,
-      "fetched_at": "2026-07-27T12:48:59.442836",
+      "fetched_at": "2026-07-27T16:07:05.732640",
       "match_score": 1.19,
       "score_breakdown": {
         "semantic_similarity": 0.2093,
@@ -164,7 +324,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T12:49:14.051177"
+      "scored_at": "2026-07-27T16:07:20.838828"
     },
     {
       "id": "arbeitnow_software-engineer-schwabisch-hall-485888",
@@ -180,7 +340,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785153647,
-      "fetched_at": "2026-07-27T12:48:58.374284",
+      "fetched_at": "2026-07-27T16:07:04.650528",
       "match_score": 0.28,
       "score_breakdown": {
         "semantic_similarity": 0.2022,
@@ -188,7 +348,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T12:49:14.050950"
+      "scored_at": "2026-07-27T16:07:20.838430"
     },
     {
       "id": "arbeitnow_director-of-engineering-berlin-125556",
@@ -203,7 +363,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785153304,
-      "fetched_at": "2026-07-27T12:48:58.374564",
+      "fetched_at": "2026-07-27T16:07:04.650795",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1844,
@@ -211,30 +371,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-27T12:49:14.050999"
-    },
-    {
-      "id": "arbeitnow_developer-fokus-secure-software-nuremberg-271473",
-      "title": "Developer - Fokus Secure Software (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201c</em> <em>Security is not a product, but a process.\u201d \u2013 Bruce Schneier</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer mit Fokus Secure Software Development bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein. Dar\u00fcber hinaus unterst\u00fctzt du dabei, Sicherheit als festen Bestandteil mode",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/developer-fokus-secure-software-nuremberg-271473",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785135629,
-      "fetched_at": "2026-07-27T12:48:59.444698",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1734,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-27T12:49:14.051218"
+      "scored_at": "2026-07-27T16:07:20.838466"
     }
   ]
 }
