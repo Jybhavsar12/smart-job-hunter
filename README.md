@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-26 22:47 UTC
+**Last updated:** 2026-07-27 09:23 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 45 |
-| Jobs found (all time) | 240 |
-| Jobs found (latest run, 2026-07-26) | 7 |
-| Best match (latest run) | Engineering Manager (m/f/d) at autoscout24 (score 40) |
+| Search runs | 46 |
+| Jobs found (all time) | 255 |
+| Jobs found (latest run, 2026-07-27) | 15 |
+| Best match (latest run) | Senior Software Engineer (Token Factory) at Nebius (score 34) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
