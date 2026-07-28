@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-28 08:11 UTC
+**Last updated:** 2026-07-28 11:50 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 47 |
-| Jobs found (all time) | 256 |
-| Jobs found (latest run, 2026-07-28) | 9 |
-| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 38) |
+| Jobs found (all time) | 254 |
+| Jobs found (latest run, 2026-07-28) | 7 |
+| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
