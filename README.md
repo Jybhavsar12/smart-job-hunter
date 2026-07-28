@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-27 22:49 UTC
+**Last updated:** 2026-07-28 08:11 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 46 |
-| Jobs found (all time) | 247 |
-| Jobs found (latest run, 2026-07-27) | 7 |
-| Best match (latest run) | Senior Data Scientist (m/f/x) at Makersite GmbH (score 36) |
+| Search runs | 47 |
+| Jobs found (all time) | 256 |
+| Jobs found (latest run, 2026-07-28) | 9 |
+| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
