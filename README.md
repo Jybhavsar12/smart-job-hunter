@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-29 18:51 UTC
+**Last updated:** 2026-07-29 22:47 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 48 |
-| Jobs found (all time) | 313 |
-| Jobs found (latest run, 2026-07-29) | 41 |
-| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 44) |
+| Jobs found (all time) | 323 |
+| Jobs found (latest run, 2026-07-29) | 51 |
+| Best match (latest run) | Senior Applied AI Engineer at Forter (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
