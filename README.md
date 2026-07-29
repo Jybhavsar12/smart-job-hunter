@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-29 08:16 UTC
+**Last updated:** 2026-07-29 11:53 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 48 |
-| Jobs found (all time) | 313 |
-| Jobs found (latest run, 2026-07-29) | 41 |
-| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 42) |
+| Jobs found (all time) | 312 |
+| Jobs found (latest run, 2026-07-29) | 40 |
+| Best match (latest run) | Senior/Staff Product Engineer (Full Stack) (m/f/d) at epilot GmbH (score 65) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

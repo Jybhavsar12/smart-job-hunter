@@ -1,31 +1,54 @@
 {
   "date": "2026-07-29",
-  "count": 41,
+  "count": 40,
   "jobs": [
     {
-      "id": "remoteok_1135459",
-      "title": "Software Developer Intermediate",
-      "company": "Smile Digital Health",
-      "location": "Toronto",
-      "description": "<br/><br/>Please mention the word **AFFABLE** and tag RMjAuMTA2LjE5MS4xMTk= when applying to show you read the job post completely (#RMjAuMTA2LjE5MS4xMTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459",
-      "salary": "",
+      "id": "arbeitnow_remote-senior-staff-product-engineer-full-stack-koln-89000",
+      "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+      "company": "epilot GmbH",
+      "location": "Remote job",
+      "description": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong></p><p><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-89000",
+      "remote": true,
       "tags": [
-        "dev",
-        "medical",
-        "digital nomad"
+        "Tech",
+        "Remote"
       ],
-      "source": "RemoteOK",
-      "posted_at": "2026-07-27T08:00:17+00:00",
-      "fetched_at": "2026-07-29T08:15:45.006396",
-      "match_score": 41.92,
+      "source": "Arbeitnow",
+      "posted_at": 1785315017,
+      "fetched_at": "2026-07-29T11:53:18.382221",
+      "match_score": 65.16,
       "score_breakdown": {
-        "semantic_similarity": 0.4115,
-        "semantic_score": 26.92,
+        "semantic_similarity": 0.5548,
+        "semantic_score": 45.16,
+        "location_match": 15,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-07-29T11:53:34.018061"
+    },
+    {
+      "id": "arbeitnow_remote-senior-staff-product-engineer-frontend-koln-102759",
+      "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "location": "Remote job",
+      "description": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</a>)</p>",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-102759",
+      "remote": true,
+      "tags": [
+        "Tech",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785315017,
+      "fetched_at": "2026-07-29T11:53:18.382165",
+      "match_score": 61.51,
+      "score_breakdown": {
+        "semantic_similarity": 0.5655,
+        "semantic_score": 46.51,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686059"
+      "scored_at": "2026-07-29T11:53:34.018026"
     },
     {
       "id": "arbeitnow_staff-senior-ai-engineer-ai-for-code-amsterdam-netherlands-belgrade-serbia-berlin-germany-limassol-cyprus-london-spain-munich-germany-war-97112",
@@ -40,7 +63,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785305821,
-      "fetched_at": "2026-07-29T08:15:50.249476",
+      "fetched_at": "2026-07-29T11:53:18.384568",
       "match_score": 41.48,
       "score_breakdown": {
         "semantic_similarity": 0.5259,
@@ -48,7 +71,32 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686851"
+      "scored_at": "2026-07-29T11:53:34.018669"
+    },
+    {
+      "id": "remoteok_1135459",
+      "title": "Software Developer Intermediate",
+      "company": "Smile Digital Health",
+      "location": "Toronto",
+      "description": "<br/><br/>Please mention the word **AFFABLE** and tag RMjAuMTY4LjExMC4xODI= when applying to show you read the job post completely (#RMjAuMTY4LjExMC4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459",
+      "salary": "",
+      "tags": [
+        "dev",
+        "medical",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-07-27T08:00:17+00:00",
+      "fetched_at": "2026-07-29T11:53:11.755376",
+      "match_score": 38.38,
+      "score_breakdown": {
+        "semantic_similarity": 0.3837,
+        "semantic_score": 23.38,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-29T11:53:34.017977"
     },
     {
       "id": "arbeitnow_senior-software-engineer-java-spring-aws-munich-172125",
@@ -63,7 +111,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785302719,
-      "fetched_at": "2026-07-29T08:15:50.246714",
+      "fetched_at": "2026-07-29T11:53:18.383449",
       "match_score": 29.53,
       "score_breakdown": {
         "semantic_similarity": 0.432,
@@ -71,7 +119,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686193"
+      "scored_at": "2026-07-29T11:53:34.018185"
     },
     {
       "id": "arbeitnow_senior-software-engineer-berlin-374571",
@@ -84,7 +132,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307522,
-      "fetched_at": "2026-07-29T08:15:50.246013",
+      "fetched_at": "2026-07-29T11:53:18.382837",
       "match_score": 28.99,
       "score_breakdown": {
         "semantic_similarity": 0.4278,
@@ -92,30 +140,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686156"
-    },
-    {
-      "id": "arbeitnow_senior-frontend-engineer-react-berlin-331519",
-      "title": "Senior Frontend Engineer - React",
-      "company": "Researchgate",
-      "location": "Berlin",
-      "description": "<div>\n<p>ResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible development of AI, the challenges facing our world are complex. Still, we\u2019re optimistic about the power of millions of scientists working together to tackle them. We provide scientists with the help and support they need by connecting them to the world\u2019s most active scientific community.</p>\n<p>We've built a platform that gives the world",
-      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-331519",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785281172,
-      "fetched_at": "2026-07-29T08:15:50.247945",
-      "match_score": 25.99,
-      "score_breakdown": {
-        "semantic_similarity": 0.3649,
-        "semantic_score": 20.99,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-29T08:16:03.686424"
+      "scored_at": "2026-07-29T11:53:34.018148"
     },
     {
       "id": "arbeitnow_remote-presales-sr-solutions-architect-french-defense-and-intelligence-329348",
@@ -130,7 +155,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785282940,
-      "fetched_at": "2026-07-29T08:15:50.250966",
+      "fetched_at": "2026-07-29T11:53:18.385974",
       "match_score": 24.66,
       "score_breakdown": {
         "semantic_similarity": 0.2759,
@@ -138,53 +163,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687231"
-    },
-    {
-      "id": "arbeitnow_senior-site-reliability-engineer-paris-france-97563",
-      "title": "Senior Site Reliability Engineer (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, France",
-      "description": "&lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Senior Site Reliability Engineer&lt;/strong&gt; to join our SRE team dedicated to platform reliability within Platform Engineering.&lt;/p&gt;\n&lt;p&gt;Your mission will be to ensure Doctolib&#39;s platform remains reliable, scalable, and resilient at a European scale across infrastructure, observability, and cross-cutting reliability initiatives. You will work within a team driving reliabili",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-paris-france-97563",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785261385,
-      "fetched_at": "2026-07-29T08:15:50.248322",
-      "match_score": 23.49,
-      "score_breakdown": {
-        "semantic_similarity": 0.3846,
-        "semantic_score": 23.49,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-29T08:16:03.686451"
-    },
-    {
-      "id": "arbeitnow_senior-site-reliability-engineer-berlin-200518",
-      "title": "Senior Site Reliability Engineer (x/f/m)",
-      "company": "Doctolib",
-      "location": "Berlin",
-      "description": "&lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Senior Site Reliability Engineer&lt;/strong&gt; to join our SRE team dedicated to platform reliability within Platform Engineering.&lt;/p&gt;\n&lt;p&gt;Your mission will be to ensure Doctolib&#39;s platform remains reliable, scalable, and resilient at a European scale across infrastructure, observability, and cross-cutting reliability initiatives. You will work within a team driving reliabili",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-berlin-200518",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785261385,
-      "fetched_at": "2026-07-29T08:15:50.248331",
-      "match_score": 23.49,
-      "score_breakdown": {
-        "semantic_similarity": 0.3846,
-        "semantic_score": 23.49,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-29T08:16:03.686475"
+      "scored_at": "2026-07-29T11:53:34.019065"
     },
     {
       "id": "arbeitnow_fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
@@ -199,7 +178,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785282653,
-      "fetched_at": "2026-07-29T08:15:50.247702",
+      "fetched_at": "2026-07-29T11:53:18.384367",
       "match_score": 16.53,
       "score_breakdown": {
         "semantic_similarity": 0.2906,
@@ -207,7 +186,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-29T08:16:03.686382"
+      "scored_at": "2026-07-29T11:53:34.018327"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-birmingham-united-kingdom-202460",
@@ -220,7 +199,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249429",
+      "fetched_at": "2026-07-29T11:53:18.384524",
       "match_score": 14.83,
       "score_breakdown": {
         "semantic_similarity": 0.3166,
@@ -228,7 +207,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686727"
+      "scored_at": "2026-07-29T11:53:34.018548"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-edinburgh-united-kingdom-408340",
@@ -241,7 +220,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249431",
+      "fetched_at": "2026-07-29T11:53:18.384526",
       "match_score": 14.77,
       "score_breakdown": {
         "semantic_similarity": 0.3161,
@@ -249,7 +228,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686754"
+      "scored_at": "2026-07-29T11:53:34.018574"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-newcastle-united-kingdom-newcastle-upon-tyne-337907",
@@ -262,7 +241,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249427",
+      "fetched_at": "2026-07-29T11:53:18.384522",
       "match_score": 14.76,
       "score_breakdown": {
         "semantic_similarity": 0.316,
@@ -270,31 +249,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686698"
-    },
-    {
-      "id": "arbeitnow_software-release-configuration-manager-gilching-436987",
-      "title": "Software Release & Configuration Manager (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching",
-      "description": "<p>As a Software Release &amp; Configuration Manager (m/f/d), you will be the central point of control for all software delivery activities across multiple software engineering teams. You will oversee feature development progress, manage release schedules, and ensure timely delivery of high-quality software for our advanced drone systems.</p><p style=\";\"></p><p>You will coordinate daily operations, manage tickets and workflow, and act as the decision-maker when priorities conflict, always keepin",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-release-configuration-manager-gilching-436987",
-      "remote": false,
-      "tags": [
-        "Engineering",
-        "bachelor's degree"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785252016,
-      "fetched_at": "2026-07-29T08:15:50.248910",
-      "match_score": 13.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.3063,
-        "semantic_score": 13.53,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-29T08:16:03.686504"
+      "scored_at": "2026-07-29T11:53:34.018520"
     },
     {
       "id": "arbeitnow_working-student-tasking-berlin-13672",
@@ -309,7 +264,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293783,
-      "fetched_at": "2026-07-29T08:15:50.247033",
+      "fetched_at": "2026-07-29T11:53:18.383744",
       "match_score": 7.06,
       "score_breakdown": {
         "semantic_similarity": 0.2554,
@@ -317,7 +272,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686224"
+      "scored_at": "2026-07-29T11:53:34.018214"
     },
     {
       "id": "arbeitnow_communication-protocols-software-engineer-stuttgart-12843",
@@ -332,7 +287,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785310233,
-      "fetched_at": "2026-07-29T08:15:50.245939",
+      "fetched_at": "2026-07-29T11:53:18.382779",
       "match_score": 5.99,
       "score_breakdown": {
         "semantic_similarity": 0.2471,
@@ -340,7 +295,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686111"
+      "scored_at": "2026-07-29T11:53:34.018104"
     },
     {
       "id": "arbeitnow_technical-engineering-manager-robotics-welwyn-garden-city-204083",
@@ -355,7 +310,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293845,
-      "fetched_at": "2026-07-29T08:15:50.249623",
+      "fetched_at": "2026-07-29T11:53:18.384707",
       "match_score": 4.67,
       "score_breakdown": {
         "semantic_similarity": 0.2367,
@@ -363,7 +318,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687184"
+      "scored_at": "2026-07-29T11:53:34.019021"
     },
     {
       "id": "arbeitnow_senior-product-designer-berlin-netherlands-379549",
@@ -378,7 +333,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293783,
-      "fetched_at": "2026-07-29T08:15:50.247191",
+      "fetched_at": "2026-07-29T11:53:18.383889",
       "match_score": 2.8,
       "score_breakdown": {
         "semantic_similarity": 0.222,
@@ -386,7 +341,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686314"
+      "scored_at": "2026-07-29T11:53:34.018274"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-edinburgh-united-kingdom-468575",
@@ -401,7 +356,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304573,
-      "fetched_at": "2026-07-29T08:15:50.249541",
+      "fetched_at": "2026-07-29T11:53:18.384630",
       "match_score": 2.74,
       "score_breakdown": {
         "semantic_similarity": 0.2216,
@@ -409,7 +364,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687131"
+      "scored_at": "2026-07-29T11:53:34.018967"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-birmingham-united-kingdom-244967",
@@ -424,7 +379,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304573,
-      "fetched_at": "2026-07-29T08:15:50.249543",
+      "fetched_at": "2026-07-29T11:53:18.384632",
       "match_score": 2.36,
       "score_breakdown": {
         "semantic_similarity": 0.2186,
@@ -432,7 +387,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687161"
+      "scored_at": "2026-07-29T11:53:34.018998"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-newcastle-united-kingdom-423314",
@@ -447,7 +402,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304573,
-      "fetched_at": "2026-07-29T08:15:50.249539",
+      "fetched_at": "2026-07-29T11:53:18.384629",
       "match_score": 2.27,
       "score_breakdown": {
         "semantic_similarity": 0.2179,
@@ -455,7 +410,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687100"
+      "scored_at": "2026-07-29T11:53:34.018909"
     },
     {
       "id": "arbeitnow_robotics-hardware-engineering-manager-welwyn-garden-city-281060",
@@ -470,7 +425,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293845,
-      "fetched_at": "2026-07-29T08:15:50.249659",
+      "fetched_at": "2026-07-29T11:53:18.384742",
       "match_score": 0.3,
       "score_breakdown": {
         "semantic_similarity": 0.2023,
@@ -478,7 +433,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687205"
+      "scored_at": "2026-07-29T11:53:34.019041"
     },
     {
       "id": "arbeitnow_senior-satellite-constellation-manager-berlin-410033",
@@ -493,7 +448,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293783,
-      "fetched_at": "2026-07-29T08:15:50.247124",
+      "fetched_at": "2026-07-29T11:53:18.383828",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1689,
@@ -501,7 +456,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686252"
+      "scored_at": "2026-07-29T11:53:34.018247"
     },
     {
       "id": "arbeitnow_director-people-business-partners-emea-berlin-netherlands-london-united-kingdom-280690",
@@ -516,7 +471,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785293783,
-      "fetched_at": "2026-07-29T08:15:50.247292",
+      "fetched_at": "2026-07-29T11:53:18.383977",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1935,
@@ -524,7 +479,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686350"
+      "scored_at": "2026-07-29T11:53:34.018299"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-newcastle-united-kingdom-newcastle-upon-tyne-137659",
@@ -537,7 +492,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249414",
+      "fetched_at": "2026-07-29T11:53:18.384510",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1842,
@@ -545,7 +500,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686545"
+      "scored_at": "2026-07-29T11:53:34.018367"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-manchester-united-kingdom-20234",
@@ -558,7 +513,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249418",
+      "fetched_at": "2026-07-29T11:53:18.384513",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1793,
@@ -566,7 +521,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686579"
+      "scored_at": "2026-07-29T11:53:34.018402"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-61843",
@@ -579,7 +534,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249420",
+      "fetched_at": "2026-07-29T11:53:18.384515",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.136,
@@ -587,7 +542,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686609"
+      "scored_at": "2026-07-29T11:53:34.018433"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-406343",
@@ -600,7 +555,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249422",
+      "fetched_at": "2026-07-29T11:53:18.384517",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.133,
@@ -608,7 +563,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686638"
+      "scored_at": "2026-07-29T11:53:34.018461"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-manchester-united-kingdom-298478",
@@ -621,7 +576,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249425",
+      "fetched_at": "2026-07-29T11:53:18.384519",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1337,
@@ -629,7 +584,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686666"
+      "scored_at": "2026-07-29T11:53:34.018489"
     },
     {
       "id": "arbeitnow_software-engineer-platform-cardiff-united-kingdom-223030",
@@ -642,7 +597,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249433",
+      "fetched_at": "2026-07-29T11:53:18.384528",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1628,
@@ -650,7 +605,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686789"
+      "scored_at": "2026-07-29T11:53:34.018608"
     },
     {
       "id": "arbeitnow_software-engineer-platform-birmingham-united-kingdom-46232",
@@ -663,7 +618,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785307525,
-      "fetched_at": "2026-07-29T08:15:50.249435",
+      "fetched_at": "2026-07-29T11:53:18.384530",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1458,
@@ -671,7 +626,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686822"
+      "scored_at": "2026-07-29T11:53:34.018641"
     },
     {
       "id": "arbeitnow_software-engineer-platform-cardiff-united-kingdom-131655",
@@ -686,7 +641,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304576,
-      "fetched_at": "2026-07-29T08:15:50.249525",
+      "fetched_at": "2026-07-29T11:53:18.384614",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1255,
@@ -694,7 +649,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686885"
+      "scored_at": "2026-07-29T11:53:34.018702"
     },
     {
       "id": "arbeitnow_software-engineer-platform-birmingham-united-kingdom-8592",
@@ -709,7 +664,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304576,
-      "fetched_at": "2026-07-29T08:15:50.249527",
+      "fetched_at": "2026-07-29T11:53:18.384616",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1182,
@@ -717,7 +672,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686917"
+      "scored_at": "2026-07-29T11:53:34.018733"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-newcastle-united-kingdom-307481",
@@ -732,7 +687,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304575,
-      "fetched_at": "2026-07-29T08:15:50.249529",
+      "fetched_at": "2026-07-29T11:53:18.384618",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1627,
@@ -740,7 +695,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686948"
+      "scored_at": "2026-07-29T11:53:34.018764"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-manchester-united-kingdom-176602",
@@ -755,7 +710,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304575,
-      "fetched_at": "2026-07-29T08:15:50.249531",
+      "fetched_at": "2026-07-29T11:53:18.384620",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1608,
@@ -763,7 +718,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.686978"
+      "scored_at": "2026-07-29T11:53:34.018794"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-manchester-united-kingdom-92107",
@@ -778,7 +733,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304574,
-      "fetched_at": "2026-07-29T08:15:50.249533",
+      "fetched_at": "2026-07-29T11:53:18.384622",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.109,
@@ -786,7 +741,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687007"
+      "scored_at": "2026-07-29T11:53:34.018823"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-460913",
@@ -801,7 +756,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304574,
-      "fetched_at": "2026-07-29T08:15:50.249535",
+      "fetched_at": "2026-07-29T11:53:18.384625",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1059,
@@ -809,7 +764,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687035"
+      "scored_at": "2026-07-29T11:53:34.018851"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-61580",
@@ -824,7 +779,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785304574,
-      "fetched_at": "2026-07-29T08:15:50.249537",
+      "fetched_at": "2026-07-29T11:53:18.384626",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1075,
@@ -832,7 +787,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687067"
+      "scored_at": "2026-07-29T11:53:34.018877"
     },
     {
       "id": "arbeitnow_director-people-business-partners-emea-berlin-germany-haarlem-netherlands-london-111256",
@@ -847,7 +802,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785282940,
-      "fetched_at": "2026-07-29T08:15:50.251053",
+      "fetched_at": "2026-07-29T11:53:18.386058",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1935,
@@ -855,7 +810,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687255"
+      "scored_at": "2026-07-29T11:53:34.019089"
     },
     {
       "id": "arbeitnow_senior-data-scientist-london-179120",
@@ -870,7 +825,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785282915,
-      "fetched_at": "2026-07-29T08:15:50.251125",
+      "fetched_at": "2026-07-29T11:53:18.386130",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.159,
@@ -878,7 +833,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687303"
+      "scored_at": "2026-07-29T11:53:34.019118"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-bicester-united-kingdom-28088",
+      "title": "Senior Software Engineer",
+      "company": "Audif1",
+      "location": "Bicester United Kingdom",
+      "description": "<br><strong>Join Our Team</strong><p>We are the Audi Revolut F1\u00ae Team.<br>\u00a0\u00a0<br>\u00a0 Audi Revolut F1 Team is the official factory team of Audi, as the brand enters the FIA Formula 1 World Championship for the first time in 2026.<br>\u00a0\u00a0<br>\u00a0 The team is based in three locations: the power unit is developed by Audi Formula Racing GmbH at the Audi Competence Center Motorsport in Neuburg, Germany; the chassis is engineered and race operations are managed from the state-of-the-art facilities of Audi Moto",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/senior-software-engineer-bicester-united-kingdom-28088",
+      "remote": false,
+      "tags": [
+        "Senior Software Engineer"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785280147,
+      "fetched_at": "2026-07-29T11:53:18.386132",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1306,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-29T11:53:34.019154"
     },
     {
       "id": "arbeitnow_senior-software-engineer-europe-estonia-london-485217",
@@ -893,7 +871,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785272124,
-      "fetched_at": "2026-07-29T08:15:50.251549",
+      "fetched_at": "2026-07-29T11:53:18.386535",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1898,
@@ -901,7 +879,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687337"
+      "scored_at": "2026-07-29T11:53:34.019187"
     },
     {
       "id": "arbeitnow_lead-software-engineer-europe-estonia-london-45033",
@@ -916,7 +894,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785272124,
-      "fetched_at": "2026-07-29T08:15:50.251552",
+      "fetched_at": "2026-07-29T11:53:18.386538",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.179,
@@ -924,7 +902,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-29T08:16:03.687369"
+      "scored_at": "2026-07-29T11:53:34.019218"
     }
   ]
 }
