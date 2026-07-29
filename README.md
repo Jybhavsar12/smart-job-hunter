@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-28 22:50 UTC
+**Last updated:** 2026-07-29 08:16 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 47 |
-| Jobs found (all time) | 272 |
-| Jobs found (latest run, 2026-07-28) | 25 |
-| Best match (latest run) | Senior AI-Native Fullstack Engineer (m/f/d) - DevOps at Zvoove (score 60) |
+| Search runs | 48 |
+| Jobs found (all time) | 313 |
+| Jobs found (latest run, 2026-07-29) | 41 |
+| Best match (latest run) | Software Developer Intermediate at Smile Digital Health (score 42) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
