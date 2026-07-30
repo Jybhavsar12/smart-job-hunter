@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-30 11:45 UTC
+**Last updated:** 2026-07-30 15:46 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 49 |
 | Jobs found (all time) | 350 |
 | Jobs found (latest run, 2026-07-30) | 27 |
-| Best match (latest run) | Senior Applied AI Engineer at Forter (score 43) |
+| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
