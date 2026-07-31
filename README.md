@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-30 22:55 UTC
+**Last updated:** 2026-07-31 08:30 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 49 |
-| Jobs found (all time) | 344 |
-| Jobs found (latest run, 2026-07-30) | 21 |
+| Search runs | 50 |
+| Jobs found (all time) | 370 |
+| Jobs found (latest run, 2026-07-31) | 26 |
 | Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
