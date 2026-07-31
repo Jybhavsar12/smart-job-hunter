@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-31 15:53 UTC
+**Last updated:** 2026-07-31 19:04 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 50 |
 | Jobs found (all time) | 370 |
 | Jobs found (latest run, 2026-07-31) | 26 |
-| Best match (latest run) | Senior Software Engineer (Python) (m/f/d) at Casavi (score 72) |
+| Best match (latest run) | Senior Software Engineer, Platform (Security Focused) (m/f/d) at Casavi (score 69) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
