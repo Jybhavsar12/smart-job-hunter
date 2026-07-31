@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-31 11:52 UTC
+**Last updated:** 2026-07-31 15:53 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 50 |
-| Jobs found (all time) | 368 |
-| Jobs found (latest run, 2026-07-31) | 24 |
-| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
+| Jobs found (all time) | 370 |
+| Jobs found (latest run, 2026-07-31) | 26 |
+| Best match (latest run) | Senior Software Engineer (Python) (m/f/d) at Casavi (score 72) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

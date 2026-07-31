@@ -1,36 +1,130 @@
 {
   "date": "2026-07-31",
-  "count": 24,
+  "count": 26,
   "jobs": [
     {
-      "id": "arbeitnow_remote-software-development-engineers-in-test-python-297658",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "location": "Remote",
-      "description": "<div><strong style=\"font-size: 16px;\">The Role:</strong></div>\n<div><span style=\"font-size: 16px;\">Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. </span><span style=\"font-size: 16px;\">You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-297658",
+      "id": "arbeitnow_remote-senior-software-engineer-python-27551",
+      "title": "Senior Software Engineer (Python) (m/f/d)",
+      "company": "Casavi",
+      "location": "Munich/Berlin/Frankfurt a.M./remote",
+      "description": "<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+      "url": "https://www.arbeitnow.com/jobs/companies/casavi/remote-senior-software-engineer-python-27551",
       "remote": false,
       "tags": [
-        "Quality Assurance"
+        "Python",
+        "Backend",
+        "Entwickler",
+        "MERN",
+        "Agile",
+        "AI",
+        "KI",
+        "AWS",
+        "Scrum",
+        "SaaS",
+        "Developer"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785420279,
-      "fetched_at": "2026-07-31T11:51:56.864122",
-      "match_score": 63.68,
+      "posted_at": 1785506980,
+      "fetched_at": "2026-07-31T15:53:13.453076",
+      "match_score": 71.82,
       "score_breakdown": {
-        "semantic_similarity": 0.5432,
-        "semantic_score": 43.68,
+        "semantic_similarity": 0.6072,
+        "semantic_score": 51.82,
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-07-31T11:52:10.352198"
+      "scored_at": "2026-07-31T15:53:27.922155"
+    },
+    {
+      "id": "arbeitnow_remote-senior-software-engineer-platform-security-focused-118078",
+      "title": "Senior Software Engineer, Platform (Security Focused) (m/f/d)",
+      "company": "Casavi",
+      "location": "Munich/Berlin/Frankfurt a.M./remote",
+      "description": "<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+      "url": "https://www.arbeitnow.com/jobs/companies/casavi/remote-senior-software-engineer-platform-security-focused-118078",
+      "remote": false,
+      "tags": [
+        "AWS",
+        "GitOps",
+        "DevOps",
+        "TypeScript",
+        "Python",
+        "Scrum",
+        "Agile",
+        "Terraform",
+        "CI/CD",
+        "API",
+        "Application Security",
+        "GitHub Copilot",
+        "Claude",
+        "Codex",
+        "AI"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785506980,
+      "fetched_at": "2026-07-31T15:53:13.453061",
+      "match_score": 69.25,
+      "score_breakdown": {
+        "semantic_similarity": 0.6262,
+        "semantic_score": 54.25,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922138"
+    },
+    {
+      "id": "arbeitnow_remote-working-student-software-engineering-munchen-84616",
+      "title": "Working Student Software Engineering (d/f/m)",
+      "company": "limehome",
+      "location": "Remote job",
+      "description": "<p><strong><span style=\"color:#000000\">How you\u2019ll help us host with heart:</span></strong><span style=\"color:#000000\"> You will contribute to building internal AI tooling and processes used by in-house teams, with the opportunity to also contribute directly to the guest experience.</span></p><p><span style=\"color:#000000\">Our teams are organised along the customer journey, with each team owning its area end-to-end. We work cross-functionally and use pragmatic, lightweight agile (stand-ups, plann",
+      "url": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-software-engineering-munchen-84616",
+      "remote": true,
+      "tags": [
+        "Tech & Engineering",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785497425,
+      "fetched_at": "2026-07-31T15:53:13.454741",
+      "match_score": 46.06,
+      "score_breakdown": {
+        "semantic_similarity": 0.444,
+        "semantic_score": 31.06,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922342"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-supply-chain-management-technology-all-genders-saarbrucken-225377",
+      "title": "Staff Software Engineer, Supply Chain Management Technology (all genders)",
+      "company": "hellofresh",
+      "location": "Saarbr\u00fccken",
+      "description": "&lt;h2&gt;About the role: What&#39;s in the Box&lt;/h2&gt;\n&lt;p&gt;As a Staff Engineer in our Supply Chain Management organization, you will be responsible for defining, securing, and implementing technical solutions for business problems. You will play a critical role as our systems scale to handle a jump from 1.2 million to over 2.4 million produced boxes per week due to recent software product consolidation. You will look after speeding up development, decision-making, and problem-solving. Y",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/staff-software-engineer-supply-chain-management-technology-all-genders-saarbrucken-225377",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785500194,
+      "fetched_at": "2026-07-31T15:53:13.454101",
+      "match_score": 40.1,
+      "score_breakdown": {
+        "semantic_similarity": 0.5151,
+        "semantic_score": 40.1,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922253"
     },
     {
       "id": "remoteok_1135634",
       "title": "Software Engineer GO",
       "company": "Wakacje.pl",
       "location": "",
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...<br/><br/>Please mention the word **HEARTFELT** and tag RMTcyLjIxNC40NS4yNDU= when applying to show you read the job post completely (#RMTcyLjIxNC40NS4yNDU=). This is a beta feature to avoid spam applicants. Companies ",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...<br/><br/>Please mention the word **HEARTFELT** and tag RNjQuMjM2LjIwMS41MA== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS41MA==). This is a beta feature to avoid spam applicants. Companies ",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
       "salary": "",
       "tags": [
@@ -45,38 +139,15 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-07-29T20:00:01+00:00",
-      "fetched_at": "2026-07-31T11:51:50.163292",
-      "match_score": 41.33,
+      "fetched_at": "2026-07-31T15:53:06.126807",
+      "match_score": 36.57,
       "score_breakdown": {
-        "semantic_similarity": 0.4068,
-        "semantic_score": 26.33,
+        "semantic_similarity": 0.3695,
+        "semantic_score": 21.57,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351586"
-    },
-    {
-      "id": "arbeitnow_remote-sr-product-manager-127234",
-      "title": "Sr Product Manager",
-      "company": "dataiku",
-      "location": "Remote",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enter",
-      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-sr-product-manager-127234",
-      "remote": true,
-      "tags": [
-        "Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785478625,
-      "fetched_at": "2026-07-31T11:51:56.861132",
-      "match_score": 31.76,
-      "score_breakdown": {
-        "semantic_similarity": 0.3317,
-        "semantic_score": 16.76,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-31T11:52:10.351679"
+      "scored_at": "2026-07-31T15:53:27.922111"
     },
     {
       "id": "arbeitnow_data-engineering-manager-uk-remote-36619",
@@ -91,7 +162,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785446814,
-      "fetched_at": "2026-07-31T11:51:56.863076",
+      "fetched_at": "2026-07-31T15:53:13.458151",
       "match_score": 31.41,
       "score_breakdown": {
         "semantic_similarity": 0.3289,
@@ -99,7 +170,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351874"
+      "scored_at": "2026-07-31T15:53:27.922525"
     },
     {
       "id": "arbeitnow_ai-native-software-developer-uk-230279",
@@ -114,7 +185,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785468366,
-      "fetched_at": "2026-07-31T11:51:56.862038",
+      "fetched_at": "2026-07-31T15:53:13.456910",
       "match_score": 30.99,
       "score_breakdown": {
         "semantic_similarity": 0.4435,
@@ -122,7 +193,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351784"
+      "scored_at": "2026-07-31T15:53:27.922448"
     },
     {
       "id": "arbeitnow_software-engineer-future-hiring-west-midlands-england-439642",
@@ -137,7 +208,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785477858,
-      "fetched_at": "2026-07-31T11:51:56.861959",
+      "fetched_at": "2026-07-31T15:53:13.456807",
       "match_score": 30.69,
       "score_breakdown": {
         "semantic_similarity": 0.4411,
@@ -145,53 +216,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351721"
-    },
-    {
-      "id": "arbeitnow_software-developer-junior-typescript-groovy-munich-210840",
-      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-      "company": "MESKRU GmbH",
-      "location": "Munich",
-      "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbind",
-      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-210840",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785483032,
-      "fetched_at": "2026-07-31T11:51:57.914749",
-      "match_score": 17.89,
-      "score_breakdown": {
-        "semantic_similarity": 0.3013,
-        "semantic_score": 12.89,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-31T11:52:10.352227"
-    },
-    {
-      "id": "arbeitnow_software-developer-junior-typescript-groovy-essen-492426",
-      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-      "company": "MESKRU GmbH",
-      "location": "Essen",
-      "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbind",
-      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-492426",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785483031,
-      "fetched_at": "2026-07-31T11:51:57.914805",
-      "match_score": 17.89,
-      "score_breakdown": {
-        "semantic_similarity": 0.3013,
-        "semantic_score": 12.89,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-07-31T11:52:10.352252"
+      "scored_at": "2026-07-31T15:53:27.922386"
     },
     {
       "id": "arbeitnow_devops-engineer-london-318007",
@@ -206,7 +231,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863893",
+      "fetched_at": "2026-07-31T15:53:13.458970",
       "match_score": 17.54,
       "score_breakdown": {
         "semantic_similarity": 0.3378,
@@ -214,7 +239,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352126"
+      "scored_at": "2026-07-31T15:53:27.922777"
     },
     {
       "id": "arbeitnow_c-software-development-engineer-i-edinburgh-265968",
@@ -229,7 +254,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785434171,
-      "fetched_at": "2026-07-31T11:51:56.863357",
+      "fetched_at": "2026-07-31T15:53:13.458445",
       "match_score": 17.44,
       "score_breakdown": {
         "semantic_similarity": 0.337,
@@ -237,7 +262,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351902"
+      "scored_at": "2026-07-31T15:53:27.922552"
     },
     {
       "id": "arbeitnow_software-machine-learning-engineer-london-493945",
@@ -252,7 +277,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863705",
+      "fetched_at": "2026-07-31T15:53:13.458786",
       "match_score": 17.01,
       "score_breakdown": {
         "semantic_similarity": 0.3337,
@@ -260,7 +285,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352013"
+      "scored_at": "2026-07-31T15:53:27.922662"
     },
     {
       "id": "arbeitnow_senior-software-engineer-unified-platform-digital-assets-london-251828",
@@ -275,7 +300,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785470147,
-      "fetched_at": "2026-07-31T11:51:56.861963",
+      "fetched_at": "2026-07-31T15:53:13.456811",
       "match_score": 16.91,
       "score_breakdown": {
         "semantic_similarity": 0.3329,
@@ -283,7 +308,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351753"
+      "scored_at": "2026-07-31T15:53:27.922417"
     },
     {
       "id": "arbeitnow_rust-software-engineer-london-334355",
@@ -298,7 +323,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863777",
+      "fetched_at": "2026-07-31T15:53:13.458855",
       "match_score": 15.16,
       "score_breakdown": {
         "semantic_similarity": 0.3191,
@@ -306,7 +331,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352058"
+      "scored_at": "2026-07-31T15:53:27.922709"
     },
     {
       "id": "arbeitnow_software-data-engineer-london-333304",
@@ -321,7 +346,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863670",
+      "fetched_at": "2026-07-31T15:53:13.458748",
       "match_score": 14.93,
       "score_breakdown": {
         "semantic_similarity": 0.3173,
@@ -329,7 +354,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351964"
+      "scored_at": "2026-07-31T15:53:27.922614"
     },
     {
       "id": "arbeitnow_software-engineer-london-64752",
@@ -344,7 +369,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863673",
+      "fetched_at": "2026-07-31T15:53:13.458751",
       "match_score": 14.51,
       "score_breakdown": {
         "semantic_similarity": 0.314,
@@ -352,7 +377,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351989"
+      "scored_at": "2026-07-31T15:53:27.922638"
     },
     {
       "id": "arbeitnow_data-software-engineer-london-369758",
@@ -367,7 +392,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863896",
+      "fetched_at": "2026-07-31T15:53:13.458972",
       "match_score": 12.59,
       "score_breakdown": {
         "semantic_similarity": 0.2989,
@@ -375,30 +400,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352148"
-    },
-    {
-      "id": "arbeitnow_sap-technical-architect-scm-ewm-mm-distribution-tm-garching-366312",
-      "title": "SAP Technical Architect, SCM (EWM, MM, Distribution & TM) (m/f/d)",
-      "company": "Amer Sports",
-      "location": "Garching",
-      "description": "<p><strong>We\u2019re looking for SAP Technical Architect \u2013 SCM (EWM, MM, Distribution &#x26; TM) (m/f/d) for Amer Sports\u2019 office in Garching near Munich.</strong></p>\n<p>Amer Sports is a global collective of iconic sports and outdoor brands, powered by a community of people who share a passion for authenticity, impact, and excellence. We bring together leading brands, talented teams, and a culture built on collaboration. If you\u2019re looking for an environment where you can make an impact and grow your",
-      "url": "https://www.arbeitnow.com/jobs/companies/amer-sports/sap-technical-architect-scm-ewm-mm-distribution-tm-garching-366312",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785483032,
-      "fetched_at": "2026-07-31T11:51:56.860138",
-      "match_score": 12.14,
-      "score_breakdown": {
-        "semantic_similarity": 0.2954,
-        "semantic_score": 12.14,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-07-31T11:52:10.351648"
+      "scored_at": "2026-07-31T15:53:27.922799"
     },
     {
       "id": "arbeitnow_data-engineer-london-134322",
@@ -413,7 +415,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863963",
+      "fetched_at": "2026-07-31T15:53:13.459038",
       "match_score": 9.92,
       "score_breakdown": {
         "semantic_similarity": 0.2779,
@@ -421,7 +423,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352170"
+      "scored_at": "2026-07-31T15:53:27.922822"
     },
     {
       "id": "arbeitnow_senior-site-reliability-engineer-london-384208",
@@ -436,7 +438,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863741",
+      "fetched_at": "2026-07-31T15:53:13.458822",
       "match_score": 8.67,
       "score_breakdown": {
         "semantic_similarity": 0.2681,
@@ -444,7 +446,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352036"
+      "scored_at": "2026-07-31T15:53:27.922685"
     },
     {
       "id": "arbeitnow_elixir-software-engineer-london-215837",
@@ -459,7 +461,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863858",
+      "fetched_at": "2026-07-31T15:53:13.458934",
       "match_score": 7.77,
       "score_breakdown": {
         "semantic_similarity": 0.261,
@@ -467,7 +469,72 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352103"
+      "scored_at": "2026-07-31T15:53:27.922753"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-identity-agent-protocols-cologne-262692",
+      "title": "Senior Software Engineer \u2013 Identity & Agent Protocols (f/m/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Cologne, Nordrhein-Westfalen, Germany",
+      "description": "<p style=\"text-align:start;\"><span style=\"color:#121317\">Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&nbsp;</span></p><p style=\"text-align:start;\"><span style=\"color:#121317\">With around 700 colleagues across Europe, more than 25,000 online shops, and over 40 million ",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/senior-software-engineer-identity-agent-protocols-cologne-262692",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785497472,
+      "fetched_at": "2026-07-31T15:53:13.454440",
+      "match_score": 7.58,
+      "score_breakdown": {
+        "semantic_similarity": 0.2596,
+        "semantic_score": 7.58,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922290"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-java-springboot-berlin-489788",
+      "title": "Senior Software Engineer (Java/SpringBoot)",
+      "company": "Atolls",
+      "location": "Berlin, Germany",
+      "description": "<div class=\"content-intro\"><p><img style=\"display: block; max-width: 100%;\" src=\"https://atolls.com/wp-content/uploads/2025/10/Atolls-Banner_01_Greenhouse_1400x200-scaled.jpg\" alt=\"Atolls top banner\"></p>\n<hr>\n<h3 class=\"mb-2 whitespace-pre-wrap\"><strong>Atolls is the world's largest community-driven shopping platform, active in 20+ markets.&nbsp;</strong></h3>\n<p class=\"mb-2 whitespace-pre-wrap\">We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by ",
+      "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-berlin-489788",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1785505522,
+      "fetched_at": "2026-07-31T15:53:13.453715",
+      "match_score": 4.91,
+      "score_breakdown": {
+        "semantic_similarity": 0.2386,
+        "semantic_score": 4.91,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922179"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-java-springboot-munich-340251",
+      "title": "Senior Software Engineer (Java/SpringBoot)",
+      "company": "Atolls",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<div class=\"content-intro\"><p><img style=\"display: block; max-width: 100%;\" src=\"https://atolls.com/wp-content/uploads/2025/10/Atolls-Banner_01_Greenhouse_1400x200-scaled.jpg\" alt=\"Atolls top banner\"></p>\n<hr>\n<h3 class=\"mb-2 whitespace-pre-wrap\"><strong>Atolls is the world's largest community-driven shopping platform, active in 20+ markets.&nbsp;</strong></h3>\n<p class=\"mb-2 whitespace-pre-wrap\">We help millions make smarter spending decisions across discovery, evaluation, and (re-)purchase by ",
+      "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-software-engineer-java-springboot-munich-340251",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1785505522,
+      "fetched_at": "2026-07-31T15:53:13.453719",
+      "match_score": 4.91,
+      "score_breakdown": {
+        "semantic_similarity": 0.2386,
+        "semantic_score": 4.91,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-07-31T15:53:27.922200"
     },
     {
       "id": "arbeitnow_lead-technical-product-manager-london-468832",
@@ -482,7 +549,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785432327,
-      "fetched_at": "2026-07-31T11:51:56.863573",
+      "fetched_at": "2026-07-31T15:53:13.458648",
       "match_score": 0.28,
       "score_breakdown": {
         "semantic_similarity": 0.2022,
@@ -490,7 +557,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351935"
+      "scored_at": "2026-07-31T15:53:27.922586"
     },
     {
       "id": "arbeitnow_data-engineer-london-350221",
@@ -503,7 +570,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785447923,
-      "fetched_at": "2026-07-31T11:51:56.862414",
+      "fetched_at": "2026-07-31T15:53:13.457471",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1612,
@@ -511,7 +578,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351807"
+      "scored_at": "2026-07-31T15:53:27.922470"
     },
     {
       "id": "arbeitnow_data-engineer-london-346649",
@@ -524,7 +591,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1785447923,
-      "fetched_at": "2026-07-31T11:51:56.862469",
+      "fetched_at": "2026-07-31T15:53:13.457511",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1612,
@@ -532,7 +599,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.351835"
+      "scored_at": "2026-07-31T15:53:27.922488"
     },
     {
       "id": "arbeitnow_principal-technical-complex-claims-leader-manchester-325834",
@@ -547,7 +614,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785431104,
-      "fetched_at": "2026-07-31T11:51:56.863826",
+      "fetched_at": "2026-07-31T15:53:13.458902",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.141,
@@ -555,7 +622,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-07-31T11:52:10.352081"
+      "scored_at": "2026-07-31T15:53:27.922731"
     }
   ]
 }
