@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-07-31 22:49 UTC
+**Last updated:** 2026-08-01 07:59 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 50 |
-| Jobs found (all time) | 368 |
-| Jobs found (latest run, 2026-07-31) | 24 |
-| Best match (latest run) | Senior Software Engineer (Python) (m/f/d) at Casavi (score 66) |
+| Search runs | 51 |
+| Jobs found (all time) | 395 |
+| Jobs found (latest run, 2026-08-01) | 27 |
+| Best match (latest run) | Software Development Engineer - macOS Endpoint at beyondtrust (score 45) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
