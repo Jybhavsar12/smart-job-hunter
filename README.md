@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-01 14:52 UTC
+**Last updated:** 2026-08-01 18:50 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 51 |
-| Jobs found (all time) | 398 |
-| Jobs found (latest run, 2026-08-01) | 30 |
+| Jobs found (all time) | 395 |
+| Jobs found (latest run, 2026-08-01) | 27 |
 | Best match (latest run) | Senior Fullstack Engineer (m/f/d) at Westwing (score 52) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
