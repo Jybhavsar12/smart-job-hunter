@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-02 11:10 UTC
+**Last updated:** 2026-08-02 14:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 52 |
-| Jobs found (all time) | 410 |
-| Jobs found (latest run, 2026-08-02) | 14 |
-| Best match (latest run) | Senior Fullstack Engineer (m/f/d) at Westwing (score 52) |
+| Jobs found (all time) | 418 |
+| Jobs found (latest run, 2026-08-02) | 22 |
+| Best match (latest run) | Senior Software Engineer, Backend at Camunda (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
