@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-02 18:51 UTC
+**Last updated:** 2026-08-02 22:44 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 52 |
-| Jobs found (all time) | 406 |
-| Jobs found (latest run, 2026-08-02) | 10 |
-| Best match (latest run) | Software Engineer GO at Wakacje.pl (score 43) |
+| Jobs found (all time) | 416 |
+| Jobs found (latest run, 2026-08-02) | 20 |
+| Best match (latest run) | Staff Engineer (Founding) at Clera (score 45) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
