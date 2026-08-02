@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-02 14:54 UTC
+**Last updated:** 2026-08-02 18:51 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 52 |
-| Jobs found (all time) | 418 |
-| Jobs found (latest run, 2026-08-02) | 22 |
-| Best match (latest run) | Senior Software Engineer, Backend at Camunda (score 46) |
+| Jobs found (all time) | 406 |
+| Jobs found (latest run, 2026-08-02) | 10 |
+| Best match (latest run) | Software Engineer GO at Wakacje.pl (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
