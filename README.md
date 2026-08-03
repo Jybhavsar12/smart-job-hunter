@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-03 19:16 UTC
+**Last updated:** 2026-08-03 22:50 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 53 |
-| Jobs found (all time) | 444 |
-| Jobs found (latest run, 2026-08-03) | 28 |
-| Best match (latest run) | Data Engineer at Wayve (score 26) |
+| Jobs found (all time) | 436 |
+| Jobs found (latest run, 2026-08-03) | 20 |
+| Best match (latest run) | Staff  Research Engineer, Scientific Computing and ML/Physics Infrastructure at Lilasciences (score 30) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
