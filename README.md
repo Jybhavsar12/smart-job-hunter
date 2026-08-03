@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-03 12:48 UTC
+**Last updated:** 2026-08-03 16:14 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 53 |
-| Jobs found (all time) | 437 |
-| Jobs found (latest run, 2026-08-03) | 21 |
-| Best match (latest run) | Junior Software Developer – Graduate Programme - London, Bournemouth, Glasgow & Other UK Locations at Mthreerecruitingportal (score 55) |
+| Jobs found (all time) | 466 |
+| Jobs found (latest run, 2026-08-03) | 50 |
+| Best match (latest run) | Senior Data & Python Software Engineer at Ceartas (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
