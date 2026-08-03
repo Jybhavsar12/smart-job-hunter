@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-03 08:57 UTC
+**Last updated:** 2026-08-03 12:48 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 53 |
-| Jobs found (all time) | 435 |
-| Jobs found (latest run, 2026-08-03) | 19 |
-| Best match (latest run) | Lead Full Stack Engineer: fan3 at Fan3 (score 39) |
+| Jobs found (all time) | 437 |
+| Jobs found (latest run, 2026-08-03) | 21 |
+| Best match (latest run) | Junior Software Developer – Graduate Programme - London, Bournemouth, Glasgow & Other UK Locations at Mthreerecruitingportal (score 55) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
