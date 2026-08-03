@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-03 16:14 UTC
+**Last updated:** 2026-08-03 19:16 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 53 |
-| Jobs found (all time) | 466 |
-| Jobs found (latest run, 2026-08-03) | 50 |
-| Best match (latest run) | Senior Data & Python Software Engineer at Ceartas (score 43) |
+| Jobs found (all time) | 444 |
+| Jobs found (latest run, 2026-08-03) | 28 |
+| Best match (latest run) | Data Engineer at Wayve (score 26) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
