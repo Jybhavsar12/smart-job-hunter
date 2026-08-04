@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-04 08:16 UTC
+**Last updated:** 2026-08-04 11:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 54 |
-| Jobs found (all time) | 464 |
-| Jobs found (latest run, 2026-08-04) | 28 |
-| Best match (latest run) | Backend Engineer (m/f/x) at GRID eSports GmbH (score 45) |
+| Jobs found (all time) | 445 |
+| Jobs found (latest run, 2026-08-04) | 9 |
+| Best match (latest run) | (Senior) Software Engineer, Rust at Nelly Solutions (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
