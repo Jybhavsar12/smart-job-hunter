@@ -1,76 +1,152 @@
 {
   "date": "2026-08-04",
-  "count": 10,
+  "count": 20,
   "jobs": [
     {
-      "id": "arbeitnow_software-engineer-intern-working-student-berlin-125086",
-      "title": "Software Engineer (Intern / Working Student)",
-      "company": "acemate.ai",
+      "id": "arbeitnow_remote-ai-engineer-483210",
+      "title": "AI Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a fast-moving, early-stage startup operating in the <strong>AI-powered talent acquisition</strong> space, and we're hiring <strong>AI Engineers</strong> to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product. You'll join a small, high-agency engineering team where your work has direct and immediate impact on platform performance and u",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ai-engineer-483210",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.696292",
+      "match_score": 48.75,
+      "score_breakdown": {
+        "semantic_similarity": 0.4652,
+        "semantic_score": 33.75,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047984"
+    },
+    {
+      "id": "arbeitnow_remote-ai-engineer-93547",
+      "title": "AI Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a fast-moving, early-stage startup operating in the <strong>AI-powered talent acquisition</strong> space, and we're hiring <strong>AI Engineers</strong> to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product. You'll join a small, high-agency engineering team where your work has direct and immediate impact on platform performance and u",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-93547",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785858119,
+      "fetched_at": "2026-08-04T19:17:02.698899",
+      "match_score": 48.75,
+      "score_breakdown": {
+        "semantic_similarity": 0.4652,
+        "semantic_score": 33.75,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048316"
+    },
+    {
+      "id": "arbeitnow_remote-staff-engineer-founding-317558",
+      "title": "Staff Engineer (Founding)",
+      "company": "Clera",
+      "location": "remote",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are a fast-growing, early-stage AI startup in the enterprise software space \u2014 backed by top-tier investors including Y Combinator \u2014 building intelligent automation for sales workflows in distribution and manufacturing. We're looking for a <strong>Founding Staff Engineer</strong> to serve as the technical backbone of our small, high-velocity engineering team.</p><p style=\"min-height:1.5em\">This is a hands-on leadership role for a senior engine",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-317558",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.696727",
+      "match_score": 45.28,
+      "score_breakdown": {
+        "semantic_similarity": 0.4379,
+        "semantic_score": 30.28,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048102"
+    },
+    {
+      "id": "arbeitnow_senior-security-engineer-remote-225932",
+      "title": "Senior Security Engineer - Remote",
+      "company": "Parity",
+      "location": "Remote",
+      "description": "<h2><strong>About Us </strong></h2><p style=\"min-height:1.5em\">Parity is one of the world\u2019s most experienced companies building the core infrastructure behind blockchain \u2014 the system that allows information and value to be shared securely without needing an intermediary. We\u2019re laying the foundation for a better web which respects the freedom and data of individuals, and empowers developers to build better, more trustworthy online services.</p><p style=\"min-height:1.5em\"><br />Our remote-first, g",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/senior-security-engineer-remote-225932",
+      "remote": false,
+      "tags": [
+        "Acceleration"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785858091,
+      "fetched_at": "2026-08-04T19:17:02.699147",
+      "match_score": 40.12,
+      "score_breakdown": {
+        "semantic_similarity": 0.3974,
+        "semantic_score": 25.12,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048349"
+    },
+    {
+      "id": "remoteok_1136072",
+      "title": "Custom Software Engineer",
+      "company": "Accenture in India",
+      "location": "Nagpur, ",
+      "description": "<strong>Project Role : </strong>Custom Software Engineer<br><br><strong>Project Role Description : </strong>Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs.<br><br><strong>Must have skills : </strong>Aircraft Maintenance Manual Authoring Guidelines<br><br><strong>Good to have skills : </strong>NA<br><br><strong>Mini",
+      "url": "https://remoteOK.com/remote-jobs/remote-custom-software-engineer-accenture-in-india-1136072",
+      "salary": "",
+      "tags": [
+        "sys admin",
+        "dev",
+        "design",
+        "technical",
+        "customer support",
+        "education",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-08-03T18:14:44+00:00",
+      "fetched_at": "2026-08-04T19:16:55.343894",
+      "match_score": 39.18,
+      "score_breakdown": {
+        "semantic_similarity": 0.5078,
+        "semantic_score": 39.18,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047782"
+    },
+    {
+      "id": "arbeitnow_software-engineer-infrastructure-berlin-242156",
+      "title": "Software Engineer, Infrastructure",
+      "company": "Clera",
       "location": "Berlin",
-      "description": "<p>acemate is building an AI learning &#x26; teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate <strong>Software Engineer (Intern / Working Student)</strong> to drive our product forward and help us scale.</p>\n<p>About acemate</p>\n<p>Founded in 2024, acemate has quickly become the leading AI learning platform for higher and further education, trusted by top-tier instit",
-      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/software-engineer-intern-working-student-berlin-125086",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a well-funded deeptech startup at the intersection of AI, robotics, and materials science. This infrastructure engineering role sits at the heart of an autonomous laboratory platform \u2014 the coordination layer between scientific intent and physical execution. Your work will directly shape how scientists and engineers discover new materials, with reliability, observability, and usability treated as first-class product priorities.</p><p style=\"",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-242156",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785857421,
-      "fetched_at": "2026-08-04T16:05:42.935954",
-      "match_score": 41.55,
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.696573",
+      "match_score": 32.58,
       "score_breakdown": {
-        "semantic_similarity": 0.5265,
-        "semantic_score": 41.55,
+        "semantic_similarity": 0.456,
+        "semantic_score": 32.58,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-04T16:05:58.735671"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-back-end-cirencester-226092",
-      "title": "Senior Software Engineer (Back-End)",
-      "company": "Arcticrd",
-      "location": "Calmsden, Cirencester",
-      "description": "<p style=\"min-height:1.5em\"><strong>SENIOR SOFTWARE ENGINEER (BACK-END)</strong></p><p style=\"min-height:1.5em\">LOCATION: CALMSDEN, CIRENCESTER, UK</p><p style=\"min-height:1.5em\">FULL-TIME, HYBRID: 2 DAYS (MIN) ON-SITE, 3 DAYS REMOTE</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>THE LAST FRONTIER</strong></p><p style=\"min-height:1.5em\">The Arctic is a place of extremes: unforgiving, untamed, and undergoing rapid change. A literal defrosting reveals a multi-trillion-dolla",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arcticrd/senior-software-engineer-back-end-cirencester-226092",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785847246,
-      "fetched_at": "2026-08-04T16:05:42.941145",
-      "match_score": 37.88,
-      "score_breakdown": {
-        "semantic_similarity": 0.4976,
-        "semantic_score": 37.88,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-04T16:05:58.735965"
-    },
-    {
-      "id": "arbeitnow_were-hiring-ui-ux-developer-at-startup-powered-orthotics-mannheim-208230",
-      "title": "WE\u2019RE HIRING UI/UX DEVELOPER AT STARTUP POWERED ORTHOTICS",
-      "company": "innoWerft",
-      "location": "Mannheim",
-      "description": "<p>Build software for wearable robotics that changes lives.</p>\n<p>We are a healthtech startup developing robotic hand orthoses that help people regain function and independence.</p>\n<p>We are looking for a software developer with a strong background in embedded systems, enjoys a hands-on approach</p>\n<p>to development, and is motivated to create meaningful technology in a fast-moving team.</p>\n<p>Your Role</p>\n<p>We are looking for an innovator to help bring our devices to life. In this role, y",
-      "url": "https://www.arbeitnow.com/jobs/companies/innowerft/were-hiring-ui-ux-developer-at-startup-powered-orthotics-mannheim-208230",
-      "remote": true,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785850534,
-      "fetched_at": "2026-08-04T16:05:42.938749",
-      "match_score": 30.74,
-      "score_breakdown": {
-        "semantic_similarity": 0.4415,
-        "semantic_score": 30.74,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-04T16:05:58.735866"
+      "scored_at": "2026-08-04T19:17:18.048068"
     },
     {
       "id": "arbeitnow_software-engineer-london-498281",
@@ -85,7 +161,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785848439,
-      "fetched_at": "2026-08-04T16:05:42.939586",
+      "fetched_at": "2026-08-04T19:17:02.700802",
       "match_score": 29.74,
       "score_breakdown": {
         "semantic_similarity": 0.4337,
@@ -93,122 +169,283 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-04T16:05:58.735896"
+      "scored_at": "2026-08-04T19:17:18.048403"
     },
     {
-      "id": "arbeitnow_software-engineer-berlin-308711",
+      "id": "arbeitnow_machine-learning-engineer-london-309063",
+      "title": "Machine Learning Engineer",
+      "company": "Janestreet",
+      "location": "London",
+      "description": "&lt;h3&gt;About the Position&lt;/h3&gt;\n&lt;p&gt;Our goals are to give you a real sense of what it&#39;s like to work at Jane Street as a Machine Learning Engineer while also providing a truly unparalleled educational experience. You&#39;ll be paired with full-time employees who act as mentors, collaborating with you on real-world ML projects we actually need done. Many classes and activities are shared with our Software Engineering interns, while others focus specifically on machine learning ap",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/machine-learning-engineer-london-309063",
+      "remote": false,
+      "tags": [
+        "Machine Learning"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785858925,
+      "fetched_at": "2026-08-04T19:17:02.698611",
+      "match_score": 29.12,
+      "score_breakdown": {
+        "semantic_similarity": 0.4288,
+        "semantic_score": 29.12,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048289"
+    },
+    {
+      "id": "arbeitnow_software-engineer-london-388989",
       "title": "Software Engineer",
-      "company": "sumup",
-      "location": "Berlin",
-      "description": "&lt;h1&gt;Senior Backend Engineer \u2014 Global Expansion&lt;/h1&gt;\n&lt;h2&gt;About the team&lt;/h2&gt;\n&lt;p&gt;The Global Expansion Acquiring Squad is the engine behind SumUp&#39;s growth into new markets \u2014 integrating local payment acquirers, enabling merchant onboarding, and ensuring transactions flow reliably across countries like Mexico, Canada, New Zealand, and Australia. This role sits at the heart of that mission, owning critical backend systems while also shaping how the squad works \u2014 buil",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/software-engineer-berlin-308711",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785855336,
-      "fetched_at": "2026-08-04T16:05:42.937404",
-      "match_score": 18.81,
-      "score_breakdown": {
-        "semantic_similarity": 0.3478,
-        "semantic_score": 18.81,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-04T16:05:58.735788"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-agentic-systems-frankfurt-am-main-7753",
-      "title": "Senior AI Engineer | Agentic Systems (w/m/d)",
-      "company": "FlexIT Consulting GmbH",
-      "location": "Frankfurt am Main",
-      "description": "<p><strong>KI wirksam einsetzen \u2013 als Enabler f\u00fcr modernes Software Engineering.</strong></p>\n<p>K\u00fcnstliche Intelligenz ver\u00e4ndert die Softwareentwicklung grundlegend. In dieser Rolle unterst\u00fctzt du ein etabliertes Finanzunternehmen dabei, KI gezielt, verantwortungsvoll und mit messbarem Mehrwert einzusetzen \u2013 mit Fokus auf tragf\u00e4hige L\u00f6sungen, die sich in bestehende Entwicklungsprozesse, Toolchains und regulierte Umgebungen integrieren lassen.</p>\n<p>Der Arbeitgeber ist im Finanzumfeld t\u00e4tig (Br",
-      "url": "https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/senior-ai-engineer-agentic-systems-frankfurt-am-main-7753",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785850536,
-      "fetched_at": "2026-08-04T16:05:42.938525",
-      "match_score": 18.07,
-      "score_breakdown": {
-        "semantic_similarity": 0.3419,
-        "semantic_score": 18.07,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-04T16:05:58.735829"
-    },
-    {
-      "id": "arbeitnow_engineering-lead-product-im-mediapark-6a-b-50670-cologne-357976",
-      "title": "Engineering Lead (f/m/d) - Product",
-      "company": "Ionos2",
-      "location": "Im Mediapark 6a/b, 50670 Cologne",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At IONOS, the leading European provider of cloud infrastructure, cloud services and hosting services, you will work together with a wide range of teams. We are characterized by open structures, a friendly working culture and flat hierarchies with a strong team spirit. We firmly believe that work and fun are compatible, and offer you the right environment for this. Our constant growth means that we are always looking for new colleagues. Become p",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos2/engineering-lead-product-im-mediapark-6a-b-50670-cologne-357976",
-      "remote": false,
-      "tags": [
-        "Product Management"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1785855362,
-      "fetched_at": "2026-08-04T16:05:42.937401",
-      "match_score": 16.85,
-      "score_breakdown": {
-        "semantic_similarity": 0.3324,
-        "semantic_score": 16.85,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-04T16:05:58.735745"
-    },
-    {
-      "id": "arbeitnow_ml-engineer-research-scientist-cryosphere-cirencester-265286",
-      "title": "ML Engineer (Research Scientist - Cryosphere)",
-      "company": "Arcticrd",
-      "location": "Calmsden, Cirencester",
-      "description": "<p style=\"min-height:1.5em\"><strong>ML Engineer (Scientific Research - Cryosphere)</strong></p><p style=\"min-height:1.5em\">FULL-TIME | UK &amp; ARCTIC | DEV</p><p style=\"min-height:1.5em\">LOCATION: CALMSDEN, CIRENCESTER, UK</p><p style=\"min-height:1.5em\"><br /></p><p style=\"min-height:1.5em\"><strong>THE LAST FRONTIER</strong></p><p style=\"min-height:1.5em\">ARD was founded on a paradox. The Arctic is both the next great economic frontier and one of the most hostile environments on Earth. Rich in ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arcticrd/ml-engineer-research-scientist-cryosphere-cirencester-265286",
+      "company": "Janestreet",
+      "location": "London",
+      "description": "&lt;h3&gt;About the Position&lt;/h3&gt;\n&lt;p&gt;Our goal is to give you a real sense of what it&#39;s like to work at Jane Street full time while also providing a truly unparalleled educational experience. As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering intern, you&#39;ll learn how we use OCaml (our primary development language) in our day-to-day work, and ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/software-engineer-london-388989",
       "remote": false,
       "tags": [
         "Software Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785847246,
-      "fetched_at": "2026-08-04T16:05:42.941311",
-      "match_score": 16.83,
+      "posted_at": 1785858926,
+      "fetched_at": "2026-08-04T19:17:02.698590",
+      "match_score": 28.96,
       "score_breakdown": {
-        "semantic_similarity": 0.3323,
-        "semantic_score": 16.83,
+        "semantic_similarity": 0.4276,
+        "semantic_score": 28.96,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-04T16:05:58.735991"
+      "scored_at": "2026-08-04T19:17:18.048261"
     },
     {
-      "id": "arbeitnow_engineering-manager-supply-berlin-472322",
-      "title": "Engineering Manager, Supply (f/m/d)",
-      "company": "Zenjob",
+      "id": "arbeitnow_product-engineer-berlin-34607",
+      "title": "Product Engineer",
+      "company": "Clera",
       "location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\"><strong>About us </strong></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.zenjob.com/en/\">Zenjob</a> is an AI-powered flexible staffing platform that has efficiently connected companies and temporary workers since 2015. Companies use our platform to book ready-to-work staff in real time, while students use our app to find part-time jobs that conveniently fit around their studies. Over 40,000 students and 1,000 pa",
-      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/engineering-manager-supply-berlin-472322",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a fast-moving, mission-driven energy technology company building the infrastructure that powers dynamic electricity plans for European households \u2014 and we're looking for a <strong>Product Engineer</strong> to sit at the intersection of customer discovery, end-to-end delivery, and engineering culture.</p><p style=\"min-height:1.5em\">This is a high-ownership, zero-to-one role on a small team operating in a complex, regulated domain. You'll wo",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-34607",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1785855629,
-      "fetched_at": "2026-08-04T16:05:42.936918",
-      "match_score": 14.73,
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.697456",
+      "match_score": 28.55,
       "score_breakdown": {
-        "semantic_similarity": 0.3157,
-        "semantic_score": 14.73,
+        "semantic_similarity": 0.4243,
+        "semantic_score": 28.55,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-04T16:05:58.735710"
+      "scored_at": "2026-08-04T19:17:18.048231"
+    },
+    {
+      "id": "arbeitnow_ml-engineer-agents-reasoning-berlin-12089",
+      "title": "ML Engineer, Agents & Reasoning",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a hands-on ML engineering role at the frontier of <strong>agentic AI for scientific discovery</strong>. You'll build systems that reason, plan, and act inside real materials discovery workflows \u2014 turning predictive models into reliable, operational decision-making agents that work directly with physical experiments and laboratory automation. You'll sit at the intersection of AI research, software engineering, and lab science, embedding a",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/ml-engineer-agents-reasoning-berlin-12089",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.696441",
+      "match_score": 28.05,
+      "score_breakdown": {
+        "semantic_similarity": 0.4204,
+        "semantic_score": 28.05,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048021"
+    },
+    {
+      "id": "arbeitnow_product-engineer-full-stack-berlin-33730",
+      "title": "Product Engineer (Full-Stack)",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-stage enterprise AI platform is looking for a talented and proactive <strong>Full-Stack Product Engineer</strong> to join the team on-site in Berlin. Founded in 2023, the company builds a comprehensive, security-first platform that helps organizations securely adopt and integrate generative AI \u2014 covering AI chat, workflows, custom agents, and integrations across entire business operations.</p><p style=\"min-height:1.5em\">This",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-33730",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.697317",
+      "match_score": 22.87,
+      "score_breakdown": {
+        "semantic_similarity": 0.3797,
+        "semantic_score": 22.87,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048168"
+    },
+    {
+      "id": "arbeitnow_applied-ai-engineer-ai-automation-berlin-187396",
+      "title": "Applied AI Engineer \u2013 AI & Automation",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a hands-on engineering role at the heart of a fast-growing, <strong>agentic-first tax advisory technology platform</strong> targeting the German SME market. You'll join a small, high-calibre AI &amp; Automation team and work directly with founders and product leads to build the infrastructure that transforms how tax advisory firms operate \u2014 turning repetitive, manual processes into fast, reliable, AI-powered execution.</p><p style=\"min-h",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-187396",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.696897",
+      "match_score": 21.28,
+      "score_breakdown": {
+        "semantic_similarity": 0.3672,
+        "semantic_score": 21.28,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048137"
+    },
+    {
+      "id": "arbeitnow_product-designer-london-56877",
+      "title": "Product Designer",
+      "company": "Foresightdatamachines",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\"><strong>COMPANY</strong></p><p style=\"min-height:1.5em\">We build AI technology for the heavy industries. Our products work reliably in high-volume production environments 24/7, making decisions worth billions of dollars.</p><p style=\"min-height:1.5em\">Because we work at the intersection of the heavy industries and AI, we solve problems involving manufacturing operations, physics and chemistry, software engineering, AI, and product design. We work to bring AI into the ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/foresightdatamachines/product-designer-london-56877",
+      "remote": false,
+      "tags": [
+        "Finance & Operations"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785858088,
+      "fetched_at": "2026-08-04T19:17:02.699278",
+      "match_score": 19.8,
+      "score_breakdown": {
+        "semantic_similarity": 0.3556,
+        "semantic_score": 19.8,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048376"
+    },
+    {
+      "id": "arbeitnow_founding-product-engineer-munich-41575",
+      "title": "Founding Product Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-moving, pre-seed energy intelligence startup is looking for a <strong>Founding Product Engineer</strong> to join as one of its earliest technical hires. The company builds an AI-powered platform that helps large industrial companies optimise their energy procurement costs \u2014 combining real-time market intelligence, portfolio management, and flexible energy flow control.</p><p style=\"min-height:1.5em\">In this role you'll own the full produc",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-41575",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785865243,
+      "fetched_at": "2026-08-04T19:17:02.697401",
+      "match_score": 16.52,
+      "score_breakdown": {
+        "semantic_similarity": 0.3298,
+        "semantic_score": 16.52,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.048199"
+    },
+    {
+      "id": "arbeitnow_working-student-product-qa-freecash-berlin-129705",
+      "title": "Working Student Product QA - Freecash",
+      "company": "Almedia",
+      "location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\">This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers\u2019 product",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/working-student-product-qa-freecash-berlin-129705",
+      "remote": false,
+      "tags": [
+        "Product"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785866428,
+      "fetched_at": "2026-08-04T19:17:02.695729",
+      "match_score": 7.57,
+      "score_breakdown": {
+        "semantic_similarity": 0.2595,
+        "semantic_score": 7.57,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047837"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ios-core-product-hamburg-germany-2202",
+      "title": "Software Engineer, iOS Core Product - Hamburg, Germany",
+      "company": "speechify",
+      "location": "Hamburg",
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extensio",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-hamburg-germany-2202",
+      "remote": false,
+      "tags": [
+        "Global"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785866147,
+      "fetched_at": "2026-08-04T19:17:02.696107",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1357,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047880"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ios-core-product-dusseldorf-germany-371420",
+      "title": "Software Engineer, iOS Core Product - D\u00fcsseldorf, Germany",
+      "company": "speechify",
+      "location": "D\u00fcsseldorf",
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extensio",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-dusseldorf-germany-371420",
+      "remote": false,
+      "tags": [
+        "Global"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785866147,
+      "fetched_at": "2026-08-04T19:17:02.696111",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1399,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047918"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ios-core-product-berlin-germany-498402",
+      "title": "Software Engineer, iOS Core Product - Berlin, Germany",
+      "company": "speechify",
+      "location": "Berlin",
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extensio",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-berlin-germany-498402",
+      "remote": false,
+      "tags": [
+        "Global"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1785866147,
+      "fetched_at": "2026-08-04T19:17:02.696114",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1387,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-04T19:17:18.047952"
     },
     {
       "id": "arbeitnow_campus-full-time-2027-software-developer-london-213602",
@@ -223,7 +460,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1785848234,
-      "fetched_at": "2026-08-04T16:05:42.939605",
+      "fetched_at": "2026-08-04T19:17:02.700820",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1982,
@@ -231,7 +468,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-04T16:05:58.735937"
+      "scored_at": "2026-08-04T19:17:18.048432"
     }
   ]
 }
