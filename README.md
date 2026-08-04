@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-04 11:54 UTC
+**Last updated:** 2026-08-04 16:05 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 54 |
-| Jobs found (all time) | 445 |
-| Jobs found (latest run, 2026-08-04) | 9 |
-| Best match (latest run) | (Senior) Software Engineer, Rust at Nelly Solutions (score 46) |
+| Jobs found (all time) | 446 |
+| Jobs found (latest run, 2026-08-04) | 10 |
+| Best match (latest run) | Software Engineer (Intern / Working Student) at acemate.ai (score 42) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
