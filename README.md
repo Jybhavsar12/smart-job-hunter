@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-05 11:50 UTC
+**Last updated:** 2026-08-05 15:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 55 |
-| Jobs found (all time) | 477 |
-| Jobs found (latest run, 2026-08-05) | 6 |
-| Best match (latest run) | Custom Software Engineer at Accenture in India (score 39) |
+| Jobs found (all time) | 493 |
+| Jobs found (latest run, 2026-08-05) | 22 |
+| Best match (latest run) | Senior Software Engineer (AI Platform) (m/f/d) at Auxmoney Gmbh (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
