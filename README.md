@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-04 22:52 UTC
+**Last updated:** 2026-08-05 08:13 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 54 |
-| Jobs found (all time) | 471 |
-| Jobs found (latest run, 2026-08-04) | 35 |
+| Search runs | 55 |
+| Jobs found (all time) | 496 |
+| Jobs found (latest run, 2026-08-05) | 25 |
 | Best match (latest run) | AI Engineer at Clera (score 49) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
