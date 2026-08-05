@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-05 19:11 UTC
+**Last updated:** 2026-08-05 22:49 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 55 |
-| Jobs found (all time) | 497 |
-| Jobs found (latest run, 2026-08-05) | 26 |
-| Best match (latest run) | Senior Software Engineer (AI Platform) (m/f/d) at Auxmoney Gmbh (score 46) |
+| Jobs found (all time) | 486 |
+| Jobs found (latest run, 2026-08-05) | 15 |
+| Best match (latest run) | Senior Software Engineer at Nmi (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
