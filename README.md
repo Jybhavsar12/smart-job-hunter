@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-05 08:13 UTC
+**Last updated:** 2026-08-05 11:50 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 55 |
-| Jobs found (all time) | 496 |
-| Jobs found (latest run, 2026-08-05) | 25 |
-| Best match (latest run) | AI Engineer at Clera (score 49) |
+| Jobs found (all time) | 477 |
+| Jobs found (latest run, 2026-08-05) | 6 |
+| Best match (latest run) | Custom Software Engineer at Accenture in India (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
