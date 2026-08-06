@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-06 08:12 UTC
+**Last updated:** 2026-08-06 11:56 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 56 |
-| Jobs found (all time) | 524 |
-| Jobs found (latest run, 2026-08-06) | 38 |
-| Best match (latest run) | Custom Software Engineer at Accenture in India (score 39) |
+| Jobs found (all time) | 517 |
+| Jobs found (latest run, 2026-08-06) | 31 |
+| Best match (latest run) | Software Engineering Manager (Hands On) at diligentcorporation (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
