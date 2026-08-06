@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-05 22:49 UTC
+**Last updated:** 2026-08-06 08:12 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 55 |
-| Jobs found (all time) | 486 |
-| Jobs found (latest run, 2026-08-05) | 15 |
-| Best match (latest run) | Senior Software Engineer at Nmi (score 43) |
+| Search runs | 56 |
+| Jobs found (all time) | 524 |
+| Jobs found (latest run, 2026-08-06) | 38 |
+| Best match (latest run) | Custom Software Engineer at Accenture in India (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
