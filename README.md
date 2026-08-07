@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-07 18:37 UTC
+**Last updated:** 2026-08-07 22:24 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 57 |
-| Jobs found (all time) | 523 |
-| Jobs found (latest run, 2026-08-07) | 19 |
-| Best match (latest run) | Embedded Linux Software Engineer (m/f/d) - Maritime N3XT at Quantum-Systems GmbH (score 32) |
+| Jobs found (all time) | 526 |
+| Jobs found (latest run, 2026-08-07) | 22 |
+| Best match (latest run) | Senior Software Engineer (m/w/d) at Conceptboard (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
