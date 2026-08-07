@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-07 10:41 UTC
+**Last updated:** 2026-08-07 14:44 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 57 |
-| Jobs found (all time) | 536 |
-| Jobs found (latest run, 2026-08-07) | 32 |
-| Best match (latest run) | Software Engineer at Clera (score 41) |
+| Jobs found (all time) | 532 |
+| Jobs found (latest run, 2026-08-07) | 28 |
+| Best match (latest run) | Senior Software Engineer (m/f/d) in Berlin or Konstanz at KNIME AG (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
