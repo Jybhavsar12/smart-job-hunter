@@ -1,30 +1,7 @@
 {
   "date": "2026-08-07",
-  "count": 21,
+  "count": 32,
   "jobs": [
-    {
-      "id": "arbeitnow_senior-backend-developer-berlin-466521",
-      "title": "Senior Backend Developer",
-      "company": "Clera",
-      "location": "Berlin",
-      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, Series A AI search analytics SaaS company based in Berlin is looking for a <strong>Senior Backend Developer</strong> to architect and build the systems powering its AI-driven recommendation engine. You'll work at the intersection of scalable infrastructure and cutting-edge AI integrations, collaborating closely with product, data, and frontend teams to ship reliable, high-quality software. This is a fully on-site role (Berlin off",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-backend-developer-berlin-466521",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:30.438292",
-      "match_score": 41.31,
-      "score_breakdown": {
-        "semantic_similarity": 0.5246,
-        "semantic_score": 41.31,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362625"
-    },
     {
       "id": "arbeitnow_software-engineer-berlin-318400",
       "title": "Software Engineer",
@@ -38,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255874",
+      "fetched_at": "2026-08-07T10:41:33.410371",
       "match_score": 40.62,
       "score_breakdown": {
         "semantic_similarity": 0.5191,
@@ -46,30 +23,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362155"
-    },
-    {
-      "id": "arbeitnow_senior-frontend-developer-berlin-315757",
-      "title": "Senior Frontend Developer",
-      "company": "Clera",
-      "location": "Berlin",
-      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing <strong>AI search analytics platform for marketing teams</strong> is looking for a <strong>Senior Frontend Developer</strong> to play a central role in shaping the product experience. You'll work at the intersection of design, data, and AI \u2014 translating complex insights into clean, intuitive, and high-performance interfaces used by thousands of brands and agencies.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p styl",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-developer-berlin-315757",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:31.493636",
-      "match_score": 39.96,
-      "score_breakdown": {
-        "semantic_similarity": 0.514,
-        "semantic_score": 39.96,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362658"
+      "scored_at": "2026-08-07T10:41:49.378119"
     },
     {
       "id": "arbeitnow_remote-tech-lead-32835",
@@ -84,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255905",
+      "fetched_at": "2026-08-07T10:41:33.410402",
       "match_score": 39.25,
       "score_breakdown": {
         "semantic_similarity": 0.3905,
@@ -92,7 +46,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362188"
+      "scored_at": "2026-08-07T10:41:49.378152"
     },
     {
       "id": "arbeitnow_software-engineer-berlin-348635",
@@ -107,7 +61,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255365",
+      "fetched_at": "2026-08-07T10:41:33.409866",
       "match_score": 39.22,
       "score_breakdown": {
         "semantic_similarity": 0.5081,
@@ -115,14 +69,102 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362044"
+      "scored_at": "2026-08-07T10:41:49.377979"
+    },
+    {
+      "id": "arbeitnow_software-engineer-platform-productivity-united-kingdom-remote-453041",
+      "title": "Software Engineer - Platform Productivity | United Kingdom | Remote",
+      "company": "grafanalabs",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&#39;s actually useful AI, organizations can see, understand, and act on all their disparate data to move at the speed of their ambitions. Today, more than 35 million users and 7,00",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-platform-productivity-united-kingdom-remote-453041",
+      "remote": false,
+      "tags": [
+        "R&D: Platform"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085745,
+      "fetched_at": "2026-08-07T10:41:33.410525",
+      "match_score": 37.88,
+      "score_breakdown": {
+        "semantic_similarity": 0.3798,
+        "semantic_score": 22.88,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378183"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-k6-core-united-kingdom-remote-36418",
+      "title": "Senior Software Engineer - k6 Core | United Kingdom | Remote",
+      "company": "grafanalabs",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&#39;s actually useful AI, organizations can see, understand, and act on all their disparate data to move at the speed of their ambitions. Today, more than 35 million users and 7,00",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-united-kingdom-remote-36418",
+      "remote": false,
+      "tags": [
+        "R&D: Performance testing (k6)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085745,
+      "fetched_at": "2026-08-07T10:41:33.410529",
+      "match_score": 35.71,
+      "score_breakdown": {
+        "semantic_similarity": 0.3627,
+        "semantic_score": 20.71,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378236"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-kotlinjava-munich-429728",
+      "title": "Senior Software Engineer (Kotlin,Java) (m/f/d)",
+      "company": "Flix",
+      "location": "Munich, Bavaria, Germany",
+      "description": "<p><span data-contrast=\"none\"><span data-teams=\"true\">We're looking for a talented <strong>Senior</strong> <strong>Software Engineer </strong>with strong Kotlin skills (or&nbsp;Java&nbsp;and willing to learn Kotlin) to join us in Berlin or Munich.</span> </span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-kotlinjava-munich-429728",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786085123,
+      "fetched_at": "2026-08-07T10:41:33.408681",
+      "match_score": 35.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.4787,
+        "semantic_score": 35.47,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.377872"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-kotlinjava-berlin-284017",
+      "title": "Senior Software Engineer (Kotlin,Java) (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "description": "<p><span data-contrast=\"none\"><span data-teams=\"true\">We're looking for a talented <strong>Senior</strong> <strong>Software Engineer </strong>with strong Kotlin skills (or&nbsp;Java&nbsp;and willing to learn Kotlin) to join us in Berlin or Munich.</span> </span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-kotlinjava-berlin-284017",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786085123,
+      "fetched_at": "2026-08-07T10:41:33.408684",
+      "match_score": 35.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.4787,
+        "semantic_score": 35.47,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.377898"
     },
     {
       "id": "remoteok_1136124",
       "title": "Jr Frontend Developer",
       "company": "Tatweer-lb",
       "location": "London, ",
-      "description": "Remote - Full TimeDeveloper<br><br>Jr Frontend Developer<br><br><ul><li> Google</li><li> London, UK</li><li> $35-$45k<br><br></li></ul>Apply Now<br/><br/>Please mention the word **PLEASING** and tag RMjAuMTg5LjE4OC4xMg== when applying to show you read the job post completely (#RMjAuMTg5LjE4OC4xMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - Full TimeDeveloper<br><br>Jr Frontend Developer<br><br><ul><li> Google</li><li> London, UK</li><li> $35-$45k<br><br></li></ul>Apply Now<br/><br/>Please mention the word **PLEASING** and tag RMTcyLjE4NC4xNzMuMjQ2 when applying to show you read the job post completely (#RMTcyLjE4NC4xNzMuMjQ2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124",
       "salary": "",
       "tags": [
@@ -138,38 +180,84 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-05T01:29:55+00:00",
-      "fetched_at": "2026-08-07T06:58:26.169531",
-      "match_score": 32.05,
+      "fetched_at": "2026-08-07T10:41:32.336395",
+      "match_score": 33.69,
       "score_breakdown": {
-        "semantic_similarity": 0.4518,
-        "semantic_score": 32.05,
+        "semantic_similarity": 0.4647,
+        "semantic_score": 33.69,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.361948"
+      "scored_at": "2026-08-07T10:41:49.377696"
     },
     {
-      "id": "arbeitnow_embedded-software-engineer-munich-208064",
-      "title": "Embedded Software Engineer",
-      "company": "Hypersonica",
-      "location": "Munich",
-      "description": "<br><strong>What you'll do</strong><br>\n<li>Design, develop, and maintain embedded software that runs close to hardware on flight and ground systems.</li>\n<li>Implement real time software on Embedded Linux, RTOS, or bare metal platforms, with a focus on determinism, reliability, and performance.</li>\n<li>Develop and maintain low level drivers, interfaces, and middleware for sensors, actuators, and avionics hardware.</li>\n<li>Write high quality C and/or C++ code that meets the demands of safety c",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/embedded-software-engineer-munich-208064",
+      "id": "arbeitnow_aem-backend-developer-senior-uk-332598",
+      "title": "AEM Backend Developer - Senior",
+      "company": "Jobgether",
+      "location": "UK",
+      "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AEM Backend Developer - Senior based in United Kingdom.</strong></p>\n<p>This is an exciting opportunity for an experienced backend developer to build and enhance enterprise-grade digital experiences using Adobe Experience Manager (AEM). In this role, you will contribute to the design, development, and optimization of scalable web content management s",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/aem-backend-developer-senior-uk-332598",
       "remote": false,
       "tags": [
-        "Software"
+        "IT"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786069508,
-      "fetched_at": "2026-08-07T06:58:27.256957",
-      "match_score": 31.11,
+      "posted_at": 1786083847,
+      "fetched_at": "2026-08-07T10:41:36.565869",
+      "match_score": 33.43,
       "score_breakdown": {
-        "semantic_similarity": 0.4444,
-        "semantic_score": 31.11,
+        "semantic_similarity": 0.4626,
+        "semantic_score": 33.43,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362404"
+      "scored_at": "2026-08-07T10:41:49.378738"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-k6-core-usa-est-only-remote-283344",
+      "title": "Senior Software Engineer - k6 Core | USA, EST only | Remote",
+      "company": "grafanalabs",
+      "location": "United States (Remote)",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&#39;s actually useful AI, organizations can see, understand, and act on all their disparate data to move at the speed of their ambitions. Today, more than 35 million users and 7,00",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344",
+      "remote": false,
+      "tags": [
+        "R&D: Performance testing (k6)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085745,
+      "fetched_at": "2026-08-07T10:41:33.410527",
+      "match_score": 33.42,
+      "score_breakdown": {
+        "semantic_similarity": 0.3447,
+        "semantic_score": 18.42,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378210"
+    },
+    {
+      "id": "arbeitnow_aem-backend-developer-senior-germany-158880",
+      "title": "AEM Backend Developer - Senior",
+      "company": "Jobgether",
+      "location": "Germany",
+      "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AEM Backend Developer - Senior based in Germany.</strong></p>\n<p>This is an exciting opportunity for an experienced backend developer to build and enhance enterprise-grade digital experiences using Adobe Experience Manager (AEM). In this role, you will contribute to the design, development, and optimization of scalable web content management solution",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/aem-backend-developer-senior-germany-158880",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786089868,
+      "fetched_at": "2026-08-07T10:41:36.561677",
+      "match_score": 32.2,
+      "score_breakdown": {
+        "semantic_similarity": 0.453,
+        "semantic_score": 32.2,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378675"
     },
     {
       "id": "arbeitnow_ai-llm-engineer-munich-395370",
@@ -184,7 +272,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255418",
+      "fetched_at": "2026-08-07T10:41:33.409917",
       "match_score": 30.99,
       "score_breakdown": {
         "semantic_similarity": 0.4435,
@@ -192,53 +280,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362087"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-sdk-berlin-17798",
-      "title": "Senior Software Engineer (SDK)",
-      "company": "Clera",
-      "location": "Berlin",
-      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a rare opportunity to own the SDK layer of a widely adopted open-source AI engineering platform \u2014 the kind of tooling that sits at the very first touchpoint developers have with the product. The SDKs you build ship to <strong>millions of downloads per month</strong>, running in production environments ranging from serverless functions to long-running agent loops. When you ship, thousands of developers benefit the same day.</p><p style=\"m",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-software-engineer-sdk-berlin-17798",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786070421,
-      "fetched_at": "2026-08-07T06:58:27.256444",
-      "match_score": 27.59,
-      "score_breakdown": {
-        "semantic_similarity": 0.4168,
-        "semantic_score": 27.59,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362269"
-    },
-    {
-      "id": "arbeitnow_senior-product-engineer-berlin-90465",
-      "title": "Senior Product Engineer",
-      "company": "Clera",
-      "location": "Berlin",
-      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a high-ownership engineering role at a fast-growing, open-source AI engineering platform \u2014 think of it as the observability layer for LLM applications and agents. The platform is widely adopted across enterprises and the developer community, with tens of millions of monthly SDK downloads.</p><p style=\"min-height:1.5em\">As a <strong>Senior Product Engineer</strong>, you own features completely: from the initial user call to the shipped co",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-product-engineer-berlin-90465",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786070421,
-      "fetched_at": "2026-08-07T06:58:27.256413",
-      "match_score": 26.95,
-      "score_breakdown": {
-        "semantic_similarity": 0.4117,
-        "semantic_score": 26.95,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362231"
+      "scored_at": "2026-08-07T10:41:49.378048"
     },
     {
       "id": "arbeitnow_aiops-lead-london-343944",
@@ -253,7 +295,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786074013,
-      "fetched_at": "2026-08-07T06:58:27.258331",
+      "fetched_at": "2026-08-07T10:41:33.412722",
       "match_score": 24.62,
       "score_breakdown": {
         "semantic_similarity": 0.3934,
@@ -261,30 +303,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362558"
-    },
-    {
-      "id": "arbeitnow_senior-ground-software-engineer-munich-224794",
-      "title": "Senior Ground Software Engineer",
-      "company": "Hypersonica",
-      "location": "Munich",
-      "description": "<div><strong>Help Build Europe's Hypersonic Capability</strong></div>\n<div>&nbsp;</div>\n<div>At <strong>Hypersonica</strong>, we\u2019re redefining what\u2019s possible in European defence technology. We exist to deliver speed, resilience, and technological independence at a pace that sets a new standard. We are a small, elite team working on problems that matter, and solving them fast.</div>\n<div>&nbsp;</div>\n<div>By joining <strong>Hypersonica</strong>, you\u2019re not stepping into a predefined role. You\u2019re",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-ground-software-engineer-munich-224794",
-      "remote": false,
-      "tags": [
-        "Software"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786069509,
-      "fetched_at": "2026-08-07T06:58:27.256954",
-      "match_score": 24.51,
-      "score_breakdown": {
-        "semantic_similarity": 0.3926,
-        "semantic_score": 24.51,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362374"
+      "scored_at": "2026-08-07T10:41:49.378615"
     },
     {
       "id": "arbeitnow_customer-engineer-berlin-160559",
@@ -299,7 +318,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255355",
+      "fetched_at": "2026-08-07T10:41:33.409863",
       "match_score": 22.47,
       "score_breakdown": {
         "semantic_similarity": 0.3765,
@@ -307,7 +326,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362004"
+      "scored_at": "2026-08-07T10:41:49.377935"
     },
     {
       "id": "arbeitnow_ml-engineer-agents-reasoning-berlin-123289",
@@ -322,7 +341,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786070422,
-      "fetched_at": "2026-08-07T06:58:27.255591",
+      "fetched_at": "2026-08-07T10:41:33.410101",
       "match_score": 19.94,
       "score_breakdown": {
         "semantic_similarity": 0.3566,
@@ -330,53 +349,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362122"
+      "scored_at": "2026-08-07T10:41:49.378085"
     },
     {
-      "id": "arbeitnow_engineering-manager-site-reliability-observability-berlin-berlin-155363",
-      "title": "Engineering Manager - Site Reliability & Observability (x/f/m)",
-      "company": "Doctolib",
-      "location": "Berlin, Berlin",
-      "description": "&lt;h3&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for an &lt;strong&gt;Engineering Manager&lt;/strong&gt; to lead an SRE team dedicated to platform reliability and observability within Platform Engineering.&lt;/p&gt;\n&lt;p&gt;Your mission will be to grow and lead a team of Site Reliability Engineers, ensuring Doctolib&#39;s platform remains reliable, scalable, and resilient at a European scale across infrastructure, observability, and cross-cutting reliability",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-site-reliability-observability-berlin-berlin-155363",
+      "id": "arbeitnow_remote-engineering-manager-69043",
+      "title": "Engineering Manager",
+      "company": "prolific",
+      "location": "Remote",
+      "description": "&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #7e8c8d;&quot;&gt;Engineering Manager&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Engineering&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-engineering-manager-69043",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786060508,
-      "fetched_at": "2026-08-07T06:58:27.257173",
-      "match_score": 13.99,
+      "posted_at": 1786085744,
+      "fetched_at": "2026-08-07T10:41:33.410660",
+      "match_score": 15.0,
       "score_breakdown": {
-        "semantic_similarity": 0.3099,
-        "semantic_score": 13.99,
-        "location_match": 0,
+        "semantic_similarity": 0.1741,
+        "semantic_score": 0.0,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362432"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-backend-mwd-berlin-370067",
-      "title": "Senior Software Engineer - Backend (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "description": "<p>As a Senior Software Engineer for our mobile app backend at idealo, you will drive the further development of our award-winning e-commerce apps. We enable millions of users to compare prices and make better purchasing decisions on their mobile devices. We are a fully integrated, autonomous team within the product development of our mobile apps, balancing proven technologies with innovative experiments to deliver outstanding user experiences and contribute to idealo\u2019s mission. We take full res",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-backend-mwd-berlin-370067",
-      "remote": false,
-      "tags": [
-        "Technology & Data"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786069814,
-      "fetched_at": "2026-08-07T06:58:27.256818",
-      "match_score": 13.55,
-      "score_breakdown": {
-        "semantic_similarity": 0.3065,
-        "semantic_score": 13.55,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-07T06:58:42.362339"
+      "scored_at": "2026-08-07T10:41:49.378258"
     },
     {
       "id": "arbeitnow_chief-strategic-architect-london-243714",
@@ -391,7 +387,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786064165,
-      "fetched_at": "2026-08-07T06:58:27.258712",
+      "fetched_at": "2026-08-07T10:41:33.413119",
       "match_score": 9.48,
       "score_breakdown": {
         "semantic_similarity": 0.2745,
@@ -399,72 +395,300 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362589"
+      "scored_at": "2026-08-07T10:41:49.378645"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-berlin-413146",
-      "title": "Senior Software Engineer",
-      "company": "Wolt - English",
-      "location": "Berlin, Berlin, Germany",
-      "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the gl",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-software-engineer-berlin-413146",
+      "id": "arbeitnow_senior-ai-software-engineer-all-genders-hamburg-155199",
+      "title": "(Senior) AI Software Engineer (all genders)",
+      "company": "Apoprojekt",
+      "location": "Hamburg",
+      "description": "<br><strong>WAS DU VON UNS ERWARTEN KANNST</strong><p>apoprojekt ist Partner f\u00fcr jeden Transformationsbedarf im Bestand und eines der dynamischsten Unternehmen der Bau- und Immobilienbranche. Seit unserer Gr\u00fcndung 2007 sind wir von einem Zwei-Mann-Unternehmen zu einer Gr\u00f6\u00dfe von mehr als 600 Mitarbeitenden gewachsen. Wir wollen den Markt ver\u00e4ndern: Mit unserem Design &amp; Build-Ansatz und weniger Schnittstellen zwischen Planung und Ausf\u00fchrung. Mit mehr Miteinander und voller Verantwortung f\u00fcr un",
+      "url": "https://www.arbeitnow.com/jobs/companies/apoprojekt/senior-ai-software-engineer-all-genders-hamburg-155199",
       "remote": false,
       "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1786059922,
-      "fetched_at": "2026-08-07T06:58:27.257364",
-      "match_score": 7.36,
+      "posted_at": 1786090144,
+      "fetched_at": "2026-08-07T10:41:33.408150",
+      "match_score": 9.31,
       "score_breakdown": {
-        "semantic_similarity": 0.2578,
-        "semantic_score": 7.36,
+        "semantic_similarity": 0.2731,
+        "semantic_score": 9.31,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362502"
+      "scored_at": "2026-08-07T10:41:49.377749"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-kotlin-java-aws-monetarisierung-mwd-berlin-19318",
-      "title": "(Senior) Software Engineer (Kotlin/Java/ AWS) - Monetarisierung (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "description": "<p class=\"Paragraph SCXW265723947 BCX0\"><span style=\"color:#121317\">Als Teil unseres </span><strong><span style=\"color:#121317\">Clickout-to-Revenue Teams</span></strong><span style=\"color:#121317\"> arbeitest du am Kern unseres Gesch\u00e4ftsmodells: H\u00e4ndler zahlen f\u00fcr qualifizierte Weiterleitungen (\u201eClickouts\u201c) zu ihren Shops. Deine Arbeit stellt sicher, dass diese Monetarisierung technisch sauber, performant und transparent funktioniert \u2013 und damit ma\u00dfgeblich zu idealos Wachstum beitr\u00e4gt.</span>&nbs",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-kotlin-java-aws-monetarisierung-mwd-berlin-19318",
+      "id": "arbeitnow_senior-frontend-engineer-marketing-website-london-294085",
+      "title": "Senior Frontend Engineer, Marketing Website",
+      "company": "Synthesia",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\">Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. </p><p style=\"min-height:1.5em\">As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.</p><p st",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/senior-frontend-engineer-marketing-website-london-294085",
       "remote": false,
       "tags": [
-        "Technology & Data"
+        "Marketing"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786069814,
-      "fetched_at": "2026-08-07T06:58:27.256816",
-      "match_score": 0.0,
+      "posted_at": 1786084811,
+      "fetched_at": "2026-08-07T10:41:33.411804",
+      "match_score": 4.21,
       "score_breakdown": {
-        "semantic_similarity": 0.1637,
-        "semantic_score": 0.0,
+        "semantic_similarity": 0.2331,
+        "semantic_score": 4.21,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362302"
+      "scored_at": "2026-08-07T10:41:49.378561"
     },
     {
-      "id": "arbeitnow_software-engineer-ios-core-product-dusseldorf-germany-dusseldorf-57565",
-      "title": "Software Engineer, iOS Core Product - D\u00fcsseldorf, Germany",
+      "id": "arbeitnow_software-engineer-ios-core-product-hamburg-germany-473350",
+      "title": "Software Engineer, iOS Core Product - Hamburg, Germany",
       "company": "Speechify",
-      "location": "Dusseldorf, North Rhine-Westphalia, Germany",
+      "location": "Hamburg, Germany",
       "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-dusseldorf-germany-dusseldorf-57565",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-hamburg-germany-473350",
       "remote": false,
       "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1786059928,
-      "fetched_at": "2026-08-07T06:58:27.257285",
+      "posted_at": 1786085128,
+      "fetched_at": "2026-08-07T10:41:33.408676",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1693,
+        "semantic_similarity": 0.1624,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362473"
+      "scored_at": "2026-08-07T10:41:49.377800"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ios-core-product-berlin-germany-118702",
+      "title": "Software Engineer, iOS Core Product - Berlin, Germany",
+      "company": "Speechify",
+      "location": "Berlin, Germany",
+      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-berlin-germany-118702",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786085128,
+      "fetched_at": "2026-08-07T10:41:33.408679",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1624,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.377841"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-simulation-ml-infrastructure-london-417027",
+      "title": "Staff Software Engineer, Simulation ML Infrastructure",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-software-engineer-simulation-ml-infrastructure-london-417027",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410789",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.0899,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378292"
+    },
+    {
+      "id": "arbeitnow_staff-machine-learning-infrastructure-engineer-simulation-london-200842",
+      "title": "Staff Machine Learning Infrastructure Engineer, Simulation",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-infrastructure-engineer-simulation-london-200842",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410828",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1343,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378323"
+    },
+    {
+      "id": "arbeitnow_staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-44117",
+      "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-44117",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410854",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.123,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378353"
+    },
+    {
+      "id": "arbeitnow_staff-machine-learning-engineer-simulation-london-361609",
+      "title": "Staff Machine Learning Engineer, Simulation",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-simulation-london-361609",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410915",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1117,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378382"
+    },
+    {
+      "id": "arbeitnow_staff-machine-learning-engineer-london-282186",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-london-282186",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410950",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1318,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378412"
+    },
+    {
+      "id": "arbeitnow_staff-machine-learning-engineer-london-65974",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-london-65974",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.410995",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1318,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378440"
+    },
+    {
+      "id": "arbeitnow_senior-research-scientist-ai-foundations-recipes-oxford-london-362407",
+      "title": "Senior Research Scientist, AI Foundations Recipes",
+      "company": "Waymo",
+      "location": "Oxford; London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/senior-research-scientist-ai-foundations-recipes-oxford-london-362407",
+      "remote": false,
+      "tags": [
+        "AI Foundations (7SJ)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085706,
+      "fetched_at": "2026-08-07T10:41:33.411104",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.0953,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378470"
+    },
+    {
+      "id": "arbeitnow_machine-learning-engineer-london-134903",
+      "title": "Machine Learning Engineer",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/machine-learning-engineer-london-134903",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085705,
+      "fetched_at": "2026-08-07T10:41:33.411285",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1306,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378499"
+    },
+    {
+      "id": "arbeitnow_director-of-engineering-london-425937",
+      "title": "Director of Engineering, London",
+      "company": "Waymo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver\u2014The World&#39;s Most Experienced Driver\u2122\u2014to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo\u2019s fully autonomous ride-hail service and can also be applied to a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/director-of-engineering-london-425937",
+      "remote": false,
+      "tags": [
+        "Simulation (7XW)"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786085705,
+      "fetched_at": "2026-08-07T10:41:33.411360",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.0149,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378528"
     },
     {
       "id": "arbeitnow_automation-engineer-pam-cpbf-edinburgh-399725",
@@ -479,7 +703,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786074923,
-      "fetched_at": "2026-08-07T06:58:27.257621",
+      "fetched_at": "2026-08-07T10:41:33.412019",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1645,
@@ -487,7 +711,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-07T06:58:42.362537"
+      "scored_at": "2026-08-07T10:41:49.378594"
+    },
+    {
+      "id": "arbeitnow_technischer-consultant-e-commerce-karlsruhe-287323",
+      "title": "Technischer Consultant - E-Commerce (m/w/d)",
+      "company": "Aurivian GmbH",
+      "location": "Karlsruhe",
+      "description": "<h2>\u00dcber uns</h2>\n<p>Aurivian ist eine Shopware-Agentur aus Karlsruhe. Wir entwickeln, betreiben und optimieren E-Commerce-L\u00f6sungen auf Basis von Shopware 6 f\u00fcr mittelst\u00e4ndische H\u00e4ndler im DACH-Raum. Zu unseren Projekten geh\u00f6rt u.a. die kontinuierliche Weiterentwicklung eines marktf\u00fchrenden Online-Fachhandels, mit dem wir eng und partnerschaftlich zusammenarbeiten. Wir sind ein kleines, eingespieltes Team mit einer super Arbeitsatmosph\u00e4re und suchen jemanden, der unser Team bereichert.</p>\n<h2>D",
+      "url": "https://www.arbeitnow.com/jobs/companies/aurivian-gmbh/technischer-consultant-e-commerce-karlsruhe-287323",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786086035,
+      "fetched_at": "2026-08-07T10:41:36.562174",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1731,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-07T10:41:49.378709"
     }
   ]
 }

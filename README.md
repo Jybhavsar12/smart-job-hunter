@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-07 06:58 UTC
+**Last updated:** 2026-08-07 10:41 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 57 |
-| Jobs found (all time) | 525 |
-| Jobs found (latest run, 2026-08-07) | 21 |
-| Best match (latest run) | Senior Backend Developer at Clera (score 41) |
+| Jobs found (all time) | 536 |
+| Jobs found (latest run, 2026-08-07) | 32 |
+| Best match (latest run) | Software Engineer at Clera (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
