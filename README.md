@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-07 22:24 UTC
+**Last updated:** 2026-08-08 06:31 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 57 |
-| Jobs found (all time) | 526 |
-| Jobs found (latest run, 2026-08-07) | 22 |
+| Search runs | 58 |
+| Jobs found (all time) | 552 |
+| Jobs found (latest run, 2026-08-08) | 26 |
 | Best match (latest run) | Senior Software Engineer (m/w/d) at Conceptboard (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
