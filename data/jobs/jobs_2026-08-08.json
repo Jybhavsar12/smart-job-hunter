@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "count": 22,
+  "count": 36,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-08T14:22:24.966947",
+      "fetched_at": "2026-08-08T18:20:22.158164",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,122 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-08T14:22:42.361222"
+      "scored_at": "2026-08-08T18:20:43.232069"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-engineer-munich-276876",
+      "title": "Senior Full Stack Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are a bootstrapped AI platform and product studio based in Munich, Germany, serving a fast-growing base of SME customers. Our platform enables teams to connect data sources, build custom AI workflows, and deploy tailored AI assistants \u2014 without needing to be technical experts. We're now looking for a <strong>Senior Full Stack Engineer</strong> to help us scale our platform from its current user base toward 1 million users.</p><p style=\"min-he",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-full-stack-engineer-munich-276876",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224925",
+      "match_score": 49.86,
+      "score_breakdown": {
+        "semantic_similarity": 0.5525,
+        "semantic_score": 44.86,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-08T18:20:43.232604"
+    },
+    {
+      "id": "arbeitnow_senior-frontend-developer-berlin-203366",
+      "title": "Senior Frontend Developer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing <strong>Series A AI search analytics SaaS company</strong> based in Berlin is looking for a <strong>Senior Frontend Developer</strong> to shape the user experience at the core of their product. You'll sit at the intersection of design, data, and AI \u2014 turning complex analytical insights into clean, intuitive, and high-performance web interfaces used by marketing teams around the world.</p><p style=\"min-height:1.5em\">This is a fully",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-developer-berlin-203366",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:30.587037",
+      "match_score": 43.83,
+      "score_breakdown": {
+        "semantic_similarity": 0.5444,
+        "semantic_score": 43.83,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.233254"
+    },
+    {
+      "id": "arbeitnow_full-stack-engineer-munich-291878",
+      "title": "Full Stack Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a small, product-focused team at a <strong>bootstrapped AI platform and consulting studio</strong> based in Munich, Germany. You'll be a core contributor to the platform that enables thousands of users to interact with AI every day \u2014 building high-quality full-stack features and the scalable backend systems that power them. From synchronizing large client datasets and running massive LLM workloads to architecting secure sandboxed environmen",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-291878",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224957",
+      "match_score": 43.46,
+      "score_breakdown": {
+        "semantic_similarity": 0.5022,
+        "semantic_score": 38.46,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-08T18:20:43.232636"
+    },
+    {
+      "id": "arbeitnow_remote-tech-lead-397141",
+      "title": "Tech Lead",
+      "company": "Clera",
+      "location": "remote",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-funded conversational AI startup \u2014 backed by Y Combinator and other top-tier investors \u2014 is hiring a <strong>Tech Lead</strong> to scale its engineering team and operations. The company builds voice and text AI agents that automate customer service, lead qualification, appointment scheduling, and operational workflows for businesses in the home improvement and related industries.</p><p style=\"min-height:1.5em\">This is a high",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-tech-lead-397141",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.225512",
+      "match_score": 39.25,
+      "score_breakdown": {
+        "semantic_similarity": 0.3905,
+        "semantic_score": 24.25,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232793"
+    },
+    {
+      "id": "arbeitnow_software-engineer-berlin-451870",
+      "title": "Software Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a small, fast-moving engineering team at a seed-stage AI voice platform company building the infrastructure that powers thousands of automated customer conversations every day. This is a high-impact, end-to-end ownership role \u2014 you'll work directly alongside customers, shape core architecture decisions, and ship meaningful product experiences in an AI-first, communications-enabled environment. You'll be part of a driven, low-ego team workin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-451870",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.225093",
+      "match_score": 39.22,
+      "score_breakdown": {
+        "semantic_similarity": 0.5081,
+        "semantic_score": 39.22,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232699"
     },
     {
       "id": "arbeitnow_software-engineer-london-9716",
@@ -49,7 +164,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786172128,
-      "fetched_at": "2026-08-08T14:22:28.846323",
+      "fetched_at": "2026-08-08T18:20:26.227996",
       "match_score": 38.76,
       "score_breakdown": {
         "semantic_similarity": 0.5045,
@@ -57,7 +172,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361676"
+      "scored_at": "2026-08-08T18:20:43.232970"
+    },
+    {
+      "id": "arbeitnow_remote-staff-engineer-founding-111093",
+      "title": "Staff Engineer (Founding)",
+      "company": "Clera",
+      "location": "remote",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-stage AI enterprise SaaS company based in Munich is looking for a <strong>Founding Staff Engineer</strong> to serve as the technical backbone of a small, high-velocity engineering team. This is a deeply hands-on role \u2014 you'll own the highest-leverage systems across multiple products, set architectural direction, and raise the bar on quality, reliability, and AI capabilities. The company automates inside sales workflows (quot",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-111093",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224503",
+      "match_score": 37.16,
+      "score_breakdown": {
+        "semantic_similarity": 0.3741,
+        "semantic_score": 22.16,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232444"
+    },
+    {
+      "id": "arbeitnow_senior-backend-developer-berlin-342773",
+      "title": "Senior Backend Developer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, Series A-backed AI search analytics company in Berlin is looking for a <strong>Senior Backend Developer</strong> to architect and build the systems that power its AI-driven recommendations platform. You'll work at the intersection of scalable backend engineering and cutting-edge AI integrations, collaborating closely with product, data, and frontend teams to deliver reliable, high-performance insights for marketing teams worldwid",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-backend-developer-berlin-342773",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:29.502024",
+      "match_score": 35.21,
+      "score_breakdown": {
+        "semantic_similarity": 0.4767,
+        "semantic_score": 35.21,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.233192"
     },
     {
       "id": "arbeitnow_remote-senior-backend-engineer-ruby-ai-engineering-dap-repository-flows-58849",
@@ -72,7 +233,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786182907,
-      "fetched_at": "2026-08-08T14:22:28.845041",
+      "fetched_at": "2026-08-08T18:20:26.226708",
       "match_score": 34.08,
       "score_breakdown": {
         "semantic_similarity": 0.3499,
@@ -80,7 +241,99 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361574"
+      "scored_at": "2026-08-08T18:20:43.232873"
+    },
+    {
+      "id": "arbeitnow_software-engineer-berlin-160207",
+      "title": "Software Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a founding-team software engineering role at an early-stage, AI-powered construction tech company based in Berlin. The company builds browser-based software that automates the generation of building design plans \u2014 covering technical building equipment and electrical schematics \u2014 dramatically reducing planning timelines from weeks to hours.</p><p style=\"min-height:1.5em\">As one of the first Software Engineers on the team, you will have a ",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-160207",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223716",
+      "match_score": 31.98,
+      "score_breakdown": {
+        "semantic_similarity": 0.4513,
+        "semantic_score": 31.98,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232332"
+    },
+    {
+      "id": "arbeitnow_software-engineer-infrastructure-berlin-209952",
+      "title": "Software Engineer, Infrastructure",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a seed-stage deeptech startup accelerating the discovery of new materials through physics-informed AI, robotics, and real-world experimental data \u2014 with a focus on the energy sector and other critical industries. Our software is the coordination layer between scientific intent and physical execution, and we treat infrastructure as a first-class product.</p><p style=\"min-height:1.5em\">As a <strong>Software Engineer, Infrastructure</strong>,",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-209952",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224803",
+      "match_score": 31.7,
+      "score_breakdown": {
+        "semantic_similarity": 0.4491,
+        "semantic_score": 31.7,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232571"
+    },
+    {
+      "id": "arbeitnow_ai-llm-engineer-munich-303117",
+      "title": "AI/LLM Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a fast-growing, Y Combinator\u2013backed B2B SaaS startup building AI-powered automation for sales workflows in distribution and manufacturing. Our platform helps sales teams eliminate manual quoting and order processing by intelligently understanding customer requests, matching products, and integrating with enterprise ERP and CRM systems.</p><p style=\"min-height:1.5em\">We're looking for an <strong>AI/LLM Engineer</strong> to join our small, h",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-llm-engineer-munich-303117",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.225155",
+      "match_score": 30.99,
+      "score_breakdown": {
+        "semantic_similarity": 0.4435,
+        "semantic_score": 30.99,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232730"
+    },
+    {
+      "id": "arbeitnow_full-stack-software-engineer-berlin-478712",
+      "title": "Full-Stack Software Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-stage enterprise AI platform company based in Berlin is looking for a <strong>Full-Stack Software Engineer</strong> to join their small, high-impact engineering team. Founded in 2023, the company builds an all-in-one platform that enables organisations to securely adopt and integrate generative AI \u2014 including AI chat, workflows, and custom agents \u2014 across their entire operations.</p><p style=\"min-height:1.5em\">This is a full",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-software-engineer-berlin-478712",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224559",
+      "match_score": 28.31,
+      "score_breakdown": {
+        "semantic_similarity": 0.4224,
+        "semantic_score": 28.31,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232475"
     },
     {
       "id": "arbeitnow_software-engineer-operations-london-235372",
@@ -95,7 +348,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786182928,
-      "fetched_at": "2026-08-08T14:22:28.844731",
+      "fetched_at": "2026-08-08T18:20:26.226411",
       "match_score": 27.94,
       "score_breakdown": {
         "semantic_similarity": 0.4196,
@@ -103,53 +356,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361546"
+      "scored_at": "2026-08-08T18:20:43.232845"
     },
     {
-      "id": "arbeitnow_forward-deployed-engineer-293037",
-      "title": "Forward Deployed Engineer",
-      "company": "Coveoen",
-      "location": "",
-      "description": "&lt;h4&gt;&lt;strong&gt;Push the boundaries of what Coveo can do, one solution at a time&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;How do you turn ambitious use cases into real, working solutions that prove their value fast? As a Forward Deployed Engineer, you bring ideas to life through hands-on prototyping, transforming complex requirements into tangible, high-impact solutions.&lt;/p&gt;\n&lt;p&gt;You\u2019ll operate at the edge of what\u2019s possible with Coveo, working directly with customers and internal te",
-      "url": "https://www.arbeitnow.com/jobs/companies/coveoen/forward-deployed-engineer-293037",
+      "id": "arbeitnow_customer-support-engineer-munich-101860",
+      "title": "Customer Support Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a fast-growing, Y Combinator-backed startup building AI-driven software that automates quoting and order processing for distributors and manufacturers. Our platform integrates deeply with enterprise ERP and CRM systems, and our customers rely on it for core daily operations \u2014 so reliability and speed of resolution matter enormously.</p><p style=\"min-height:1.5em\">We're looking for a <strong>Customer Support Engineer</strong> to own technic",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-support-engineer-munich-101860",
       "remote": false,
       "tags": [
-        "Customer Success"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786190132,
-      "fetched_at": "2026-08-08T14:22:28.839945",
-      "match_score": 27.76,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224588",
+      "match_score": 27.24,
       "score_breakdown": {
-        "semantic_similarity": 0.3003,
-        "semantic_score": 12.76,
-        "location_match": 15,
+        "semantic_similarity": 0.414,
+        "semantic_score": 27.24,
+        "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361274"
+      "scored_at": "2026-08-08T18:20:43.232507"
     },
     {
-      "id": "arbeitnow_remote-director-partner-solution-architecture-428548",
-      "title": "Director, Partner Solution Architecture",
-      "company": "tanium",
-      "location": "Remote",
-      "description": "&lt;p&gt;&lt;strong&gt;The Basics:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Tanium, Partner Solution Architects thrive on solving problems and building new solutions for our partners that enable and enhance partner offerings using Tanium.&lt;/p&gt;\n&lt;p&gt;This role focuses on:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identifying, qualifying and exploring new ways for consultancies, systems integrators, and managed services providers to derive value from our platform.&lt;/li&gt;\n&lt;li&gt;Working closely wit",
-      "url": "https://www.arbeitnow.com/jobs/companies/tanium/remote-director-partner-solution-architecture-428548",
-      "remote": true,
+      "id": "arbeitnow_product-engineer-berlin-242652",
+      "title": "Product Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We're a small, mission-driven energy technology company building a full-stack platform that enables hardware manufacturers and energy providers to offer dynamic electricity plans to European households. Our team operates at the frontier of AI-assisted development, licensed electricity retail, and complex domain engineering \u2014 and we're looking for a <strong>product-focused engineer</strong> who thrives at the intersection of customer discovery, e",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-242652",
+      "remote": false,
       "tags": [
-        "Partner Solution Architect"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786146944,
-      "fetched_at": "2026-08-08T14:22:28.843123",
-      "match_score": 26.07,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223459",
+      "match_score": 27.08,
       "score_breakdown": {
-        "semantic_similarity": 0.287,
-        "semantic_score": 11.07,
-        "location_match": 15,
+        "semantic_similarity": 0.4127,
+        "semantic_score": 27.08,
+        "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361474"
+      "scored_at": "2026-08-08T18:20:43.232263"
+    },
+    {
+      "id": "arbeitnow_founding-engineer-berlin-185929",
+      "title": "Founding Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a rare opportunity to join a small, high-conviction team building purpose-built AI agents for the sea and air freight industry. As a <strong>Founding Engineer</strong>, you will sit at the intersection of customer discovery, product strategy, and hands-on engineering. You'll help transition the product from demo-stage to a scalable, production-grade platform \u2014 and play a direct role in shaping the company's technical and strategic direct",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-berlin-185929",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.224725",
+      "match_score": 23.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.3858,
+        "semantic_score": 23.65,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232540"
     },
     {
       "id": "arbeitnow_senior-frontend-engineer-web-app-maidstone-145082",
@@ -164,7 +440,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786160424,
-      "fetched_at": "2026-08-08T14:22:32.040233",
+      "fetched_at": "2026-08-08T18:20:29.508056",
       "match_score": 22.88,
       "score_breakdown": {
         "semantic_similarity": 0.3798,
@@ -172,79 +448,99 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361918"
+      "scored_at": "2026-08-08T18:20:43.233221"
     },
     {
-      "id": "arbeitnow_scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
-      "title": "Scientific Data Architect - Germany Expression of interest",
-      "company": "Tetrascience",
-      "location": "D\u00fcsseldorf, Germany",
-      "description": "<p><strong>Expression of interest </strong></p><p>We are actively building our talent pipeline for upcoming growth across the Scientific Data Architect team. <strong>Please note: This is an Expression of Interest advert, and there is no active vacancy at this exact moment.</strong> However, we anticipate opening formal roles in the coming months and want to connect with great talent early.</p><p></p><p><strong>About TetraScience</strong></p><p>TetraScience is the Scientific Data and AI Company b",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
+      "id": "arbeitnow_engineering-intern-berlin-70901",
+      "title": "Engineering Intern",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, Series B\u2013funded EdTech startup is looking for an <strong>Engineering Intern</strong> to join their team. The company operates a widely-used AI-powered learning platform for students, with tens of millions of users across more than 30 countries. This is a hands-on internship where you'll work alongside a talented engineering team to help build and improve products that students rely on every day for homework help, exam prep, and A",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-70901",
       "remote": false,
       "tags": [
-        "Computer Software",
-        "Scientific Data Architect"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786177222,
-      "fetched_at": "2026-08-08T14:22:28.841261",
-      "match_score": 22.83,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223508",
+      "match_score": 22.73,
       "score_breakdown": {
-        "semantic_similarity": 0.3794,
-        "semantic_score": 22.83,
+        "semantic_similarity": 0.3786,
+        "semantic_score": 22.73,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361351"
+      "scored_at": "2026-08-08T18:20:43.232299"
     },
     {
-      "id": "arbeitnow_scientific-data-architect-germany-expression-of-interest-darmstadt-440802",
-      "title": "Scientific Data Architect - Germany Expression of interest",
-      "company": "Tetrascience",
-      "location": "Darmstadt, Germany",
-      "description": "<p><strong>Expression of interest </strong></p><p>We are actively building our talent pipeline for upcoming growth across the Scientific Data Architect team. <strong>Please note: This is an Expression of Interest advert, and there is no active vacancy at this exact moment.</strong> However, we anticipate opening formal roles in the coming months and want to connect with great talent early.</p><p></p><p><strong>About TetraScience</strong></p><p>TetraScience is the Scientific Data and AI Company b",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-darmstadt-440802",
+      "id": "arbeitnow_customer-engineer-berlin-281206",
+      "title": "Customer Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join the technical customer-success team at a fast-growing, Y Combinator-backed AI voice SaaS startup headquartered in Berlin. As a <strong>Customer Engineer</strong>, you'll sit at the intersection of product, engineering, and customers \u2014 ensuring successful adoption of the platform, resolving technical challenges, and translating real-world customer needs into meaningful product improvements. Your work will have a direct impact on customer sat",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/customer-engineer-berlin-281206",
       "remote": false,
       "tags": [
-        "Computer Software",
-        "Scientific Data Architect"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786177222,
-      "fetched_at": "2026-08-08T14:22:28.841304",
-      "match_score": 22.83,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.225091",
+      "match_score": 22.47,
       "score_breakdown": {
-        "semantic_similarity": 0.3794,
-        "semantic_score": 22.83,
+        "semantic_similarity": 0.3765,
+        "semantic_score": 22.47,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361381"
+      "scored_at": "2026-08-08T18:20:43.232667"
     },
     {
-      "id": "arbeitnow_scientific-data-architect-germany-expression-of-interest-frankfurt-am-main-457514",
-      "title": "Scientific Data Architect - Germany Expression of interest",
-      "company": "Tetrascience",
-      "location": "Frankfurt am Main, Germany",
-      "description": "<p><strong>Expression of interest </strong></p><p>We are actively building our talent pipeline for upcoming growth across the Scientific Data Architect team. <strong>Please note: This is an Expression of Interest advert, and there is no active vacancy at this exact moment.</strong> However, we anticipate opening formal roles in the coming months and want to connect with great talent early.</p><p></p><p><strong>About TetraScience</strong></p><p>TetraScience is the Scientific Data and AI Company b",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-frankfurt-am-main-457514",
+      "id": "arbeitnow_senior-software-engineer-sdk-berlin-439381",
+      "title": "Senior Software Engineer (SDK)",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a high-ownership engineering role at a fast-growing, open-source AI engineering platform \u2014 think of it as the Datadog for LLM observability. The platform is trusted by thousands of development teams worldwide, and the SDKs you'll own are downloaded <strong>millions of times each month</strong>, often serving as the very first touchpoint a developer has with the product.</p><p style=\"min-height:1.5em\">The SDKs run in production environmen",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-software-engineer-sdk-berlin-439381",
       "remote": false,
       "tags": [
-        "Computer Software",
-        "Scientific Data Architect"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786177222,
-      "fetched_at": "2026-08-08T14:22:28.841344",
-      "match_score": 22.83,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223832",
+      "match_score": 22.42,
       "score_breakdown": {
-        "semantic_similarity": 0.3794,
-        "semantic_score": 22.83,
+        "semantic_similarity": 0.3762,
+        "semantic_score": 22.42,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361409"
+      "scored_at": "2026-08-08T18:20:43.232374"
+    },
+    {
+      "id": "arbeitnow_senior-product-engineer-berlin-32507",
+      "title": "Senior Product Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a high-ownership product engineering role at a fast-growing, widely adopted open-source AI engineering platform \u2014 think the observability layer for the LLM era. The company is trusted by major enterprises and thousands of developers worldwide, with tens of millions of monthly SDK downloads.</p><p style=\"min-height:1.5em\">Product engineers here own the full lifecycle of a feature: from talking to users and writing the spec, through shippi",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-product-engineer-berlin-32507",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223890",
+      "match_score": 21.53,
+      "score_breakdown": {
+        "semantic_similarity": 0.3691,
+        "semantic_score": 21.53,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232410"
     },
     {
       "id": "arbeitnow_manager-software-engineering-libraries-automation-100913",
@@ -259,7 +555,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786161324,
-      "fetched_at": "2026-08-08T14:22:28.846992",
+      "fetched_at": "2026-08-08T18:20:26.228667",
       "match_score": 20.78,
       "score_breakdown": {
         "semantic_similarity": 0.2454,
@@ -267,7 +563,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361733"
+      "scored_at": "2026-08-08T18:20:43.233025"
+    },
+    {
+      "id": "arbeitnow_ml-engineer-agents-reasoning-berlin-356036",
+      "title": "ML Engineer, Agents & Reasoning",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are a seed-stage deeptech startup at the intersection of AI, robotics, and materials science, building an advanced platform that dramatically accelerates the discovery of new materials \u2014 particularly for the energy sector. Our work combines physics-informed AI, autonomous laboratory systems, and rich multi-modal experimental data to compress decades-long R&amp;D timelines into years.</p><p style=\"min-height:1.5em\">As an <strong>ML Engineer, A",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/ml-engineer-agents-reasoning-berlin-356036",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.225328",
+      "match_score": 19.94,
+      "score_breakdown": {
+        "semantic_similarity": 0.3566,
+        "semantic_score": 19.94,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232762"
     },
     {
       "id": "arbeitnow_senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359",
@@ -282,7 +601,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786161324,
-      "fetched_at": "2026-08-08T14:22:28.846994",
+      "fetched_at": "2026-08-08T18:20:26.228669",
       "match_score": 19.65,
       "score_breakdown": {
         "semantic_similarity": 0.3544,
@@ -290,7 +609,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361765"
+      "scored_at": "2026-08-08T18:20:43.233055"
+    },
+    {
+      "id": "arbeitnow_forward-deployed-engineer-dach-munich-421861",
+      "title": "Forward Deployed Engineer, DACH",
+      "company": "Clera",
+      "location": "Munich",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, Y Combinator\u2013backed enterprise AI automation company is hiring a <strong>Forward Deployed Engineer</strong> based in Munich to embed directly with major DACH enterprise customers and help them become AI-native. You will work alongside an Enterprise AI Transformation Lead, scoping, building, and shipping production-grade AI agents and integrations that deliver measurable business value \u2014 and feed those learnings back into the core",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-dach-munich-421861",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223058",
+      "match_score": 19.61,
+      "score_breakdown": {
+        "semantic_similarity": 0.3541,
+        "semantic_score": 19.61,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232187"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495",
@@ -305,7 +647,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786161324,
-      "fetched_at": "2026-08-08T14:22:28.846996",
+      "fetched_at": "2026-08-08T18:20:26.228671",
       "match_score": 19.45,
       "score_breakdown": {
         "semantic_similarity": 0.3528,
@@ -313,30 +655,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361794"
+      "scored_at": "2026-08-08T18:20:43.233083"
     },
     {
-      "id": "arbeitnow_senior-frontend-platform-engineer-berlin-249395",
-      "title": "Senior Frontend Platform Engineer",
-      "company": "N8N",
-      "location": "Berlin Office",
-      "description": "<p style=\"min-height:1.5em\"><strong>The AI orchestration of your wildest imagination.</strong></p><p style=\"min-height:1.5em\">n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we\u2019re changing the way people bring systems together and scale ideas for impact.</p><p ",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-frontend-platform-engineer-berlin-249395",
+      "id": "arbeitnow_product-engineer-full-stack-berlin-76444",
+      "title": "Product Engineer (Full-Stack)",
+      "company": "Clera",
+      "location": "Berlin",
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-stage enterprise AI platform company in Berlin is looking for a talented <strong>Full-Stack Product Engineer</strong> to join their small, high-impact engineering team. Founded in 2023 and backed by top-tier investors, the company builds a comprehensive, security-first AI platform that helps organisations securely adopt and integrate generative AI \u2014 from everyday chat and workflows to fully custom AI agents \u2014 all within a co",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-76444",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786156824,
-      "fetched_at": "2026-08-08T14:22:33.098503",
-      "match_score": 17.95,
+      "posted_at": 1786200022,
+      "fetched_at": "2026-08-08T18:20:26.223301",
+      "match_score": 18.83,
       "score_breakdown": {
-        "semantic_similarity": 0.341,
-        "semantic_score": 17.95,
+        "semantic_similarity": 0.3479,
+        "semantic_score": 18.83,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361952"
+      "scored_at": "2026-08-08T18:20:43.232228"
     },
     {
       "id": "arbeitnow_senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130",
@@ -351,7 +693,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786161324,
-      "fetched_at": "2026-08-08T14:22:28.846998",
+      "fetched_at": "2026-08-08T18:20:26.228673",
       "match_score": 17.42,
       "score_breakdown": {
         "semantic_similarity": 0.3369,
@@ -359,7 +701,33 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361822"
+      "scored_at": "2026-08-08T18:20:43.233111"
+    },
+    {
+      "id": "arbeitnow_software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-71571",
+      "title": "Software Integration & Test Engineer (Maritime Autonomy) (all genders)",
+      "company": "Stark",
+      "location": "Plymouth",
+      "description": "<br><strong>About Us</strong><p><p style=\"border:0px solid rgb(229,231,235);margin:0pt 0px;font-size:14px;font-style:normal;font-weight:400;text-transform:none;font-family:Roboto, sans-serif, Inter, Arial, Helvetica, sans-serif;color:rgb(66,66,66);background-color:rgb(255,255,255);line-height:1.38;\"><span style=\"border:0px solid rgb(229,231,235);margin:0px;font-family:Arial, sans-serif;font-size:11pt;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-71571",
+      "remote": false,
+      "tags": [
+        "Maritime",
+        "Integration",
+        "Software",
+        "TestEngineer"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786201778,
+      "fetched_at": "2026-08-08T18:20:26.225736",
+      "match_score": 14.71,
+      "score_breakdown": {
+        "semantic_similarity": 0.3156,
+        "semantic_score": 14.71,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-08T18:20:43.232811"
     },
     {
       "id": "arbeitnow_senior-ai-engineer-london-278859",
@@ -374,7 +742,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786160424,
-      "fetched_at": "2026-08-08T14:22:28.847517",
+      "fetched_at": "2026-08-08T18:20:26.229204",
       "match_score": 14.67,
       "score_breakdown": {
         "semantic_similarity": 0.3153,
@@ -382,30 +750,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361889"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-platform-berlin-288242",
-      "title": "Senior Software Engineer - Platform",
-      "company": "Choco",
-      "location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\">Join Choco, where we build and own solutions that reshape a broken food system.</p><p style=\"min-height:1.5em\">The global food supply chain is inefficient by design. Waste is high, margins are thin, and most distributor order processes are done over the phone, tracked across broad spreadsheets, and based on intuition rather than strong data.</p><p style=\"min-height:1.5em\"><br />At Choco, we\u2019re changing that. We build software used daily by food distributors and their ",
-      "url": "https://www.arbeitnow.com/jobs/companies/choco/senior-software-engineer-platform-berlin-288242",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786189215,
-      "fetched_at": "2026-08-08T14:22:28.840119",
-      "match_score": 14.35,
-      "score_breakdown": {
-        "semantic_similarity": 0.3128,
-        "semantic_score": 14.35,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-08T14:22:42.361315"
+      "scored_at": "2026-08-08T18:20:43.233161"
     },
     {
       "id": "arbeitnow_staff-software-engineer-inference-london-124549",
@@ -420,7 +765,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786172139,
-      "fetched_at": "2026-08-08T14:22:28.846093",
+      "fetched_at": "2026-08-08T18:20:26.227763",
       "match_score": 9.13,
       "score_breakdown": {
         "semantic_similarity": 0.2718,
@@ -428,53 +773,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361643"
+      "scored_at": "2026-08-08T18:20:43.232938"
     },
     {
-      "id": "arbeitnow_senior-backend-engineer-munich-bavaria-355652",
-      "title": "Senior Backend Engineer",
-      "company": "Qwello.eu",
-      "location": "Munich, Bavaria",
-      "description": "<div>Our mission at <strong>Qwello</strong> is to revolutionize the charging industry; we are committed to turning the world from combustion to electric. We design, build, and operate charging infrastructure for the public space. We excel in simplicity, user focus, and engineering excellence. We value diversity of thought, background, and approaches, and foster a culture of belonging. We understand that the best products are built by excellent teams, not individual superstars. Be part of shaping",
-      "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/senior-backend-engineer-munich-bavaria-355652",
+      "id": "arbeitnow_data-engineer-all-genders-berlin-berlin-461780",
+      "title": "Data Engineer (all genders)",
+      "company": "Gropyus",
+      "location": "Berlin, Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/data-engineer-all-genders-berlin-berlin-461780",
       "remote": false,
       "tags": [
-        "Backend"
+        "Data Language"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786155932,
-      "fetched_at": "2026-08-08T14:22:28.842869",
-      "match_score": 4.54,
+      "posted_at": 1786200926,
+      "fetched_at": "2026-08-08T18:20:26.222959",
+      "match_score": 8.63,
       "score_breakdown": {
-        "semantic_similarity": 0.2356,
-        "semantic_score": 4.54,
+        "semantic_similarity": 0.2678,
+        "semantic_score": 8.63,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361439"
-    },
-    {
-      "id": "arbeitnow_software-engineer-all-genders-batteriesysteme-plattformen-alzenau-bavaria-377783",
-      "title": "Software Engineer (all genders) \u2013 Batteriesysteme & Plattformen",
-      "company": "Cmbluenergyag",
-      "location": "Alzenau, Bavaria",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;CMBlu Energy befindet sich auf der spannenden Reise hin zu einem globalen Cleantech-Unternehmen. Unsere Mission: Unbegrenzte Energiespeicherung nach dem Vorbild der Natur erm\u00f6glichen \u2013 und das f\u00fcr alle, weltweit.&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;&lt;span data-ccp-charstyle=",
-      "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/software-engineer-all-genders-batteriesysteme-plattformen-alzenau-bavaria-377783",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786146903,
-      "fetched_at": "2026-08-08T14:22:28.843295",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1846,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-08T14:22:42.361510"
+      "scored_at": "2026-08-08T18:20:43.232113"
     },
     {
       "id": "arbeitnow_chief-technology-officer-london-86509",
@@ -487,7 +809,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1786175129,
-      "fetched_at": "2026-08-08T14:22:28.846090",
+      "fetched_at": "2026-08-08T18:20:26.227760",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0534,
@@ -495,7 +817,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361612"
+      "scored_at": "2026-08-08T18:20:43.232909"
     },
     {
       "id": "arbeitnow_senior-software-engineer-custody-services-london-354666",
@@ -510,7 +832,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786161330,
-      "fetched_at": "2026-08-08T14:22:28.846988",
+      "fetched_at": "2026-08-08T18:20:26.228663",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1584,
@@ -518,7 +840,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-08T14:22:42.361706"
+      "scored_at": "2026-08-08T18:20:43.232998"
     }
   ]
 }
