@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "count": 24,
+  "count": 26,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-09T14:24:09.783006",
+      "fetched_at": "2026-08-09T18:22:17.873584",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-09T14:24:28.499618"
+      "scored_at": "2026-08-09T18:22:36.014662"
     },
     {
       "id": "arbeitnow_junior-software-developer-front-end-london-montreal-24119",
@@ -49,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786269306,
-      "fetched_at": "2026-08-09T14:24:15.071945",
+      "fetched_at": "2026-08-09T18:22:22.935023",
       "match_score": 45.59,
       "score_breakdown": {
         "semantic_similarity": 0.5189,
@@ -57,7 +57,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-09T14:24:28.500219"
+      "scored_at": "2026-08-09T18:22:36.015947"
     },
     {
       "id": "arbeitnow_software-developer-data-pipelines-python-london-montreal-madrid-bangalore-66834",
@@ -72,7 +72,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786269306,
-      "fetched_at": "2026-08-09T14:24:15.071910",
+      "fetched_at": "2026-08-09T18:22:22.934970",
       "match_score": 38.04,
       "score_breakdown": {
         "semantic_similarity": 0.4596,
@@ -80,30 +80,30 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-09T14:24:28.500199"
+      "scored_at": "2026-08-09T18:22:36.015903"
     },
     {
-      "id": "arbeitnow_remote-staff-engineer-founding-131517",
-      "title": "Staff Engineer (Founding)",
-      "company": "Clera",
-      "location": "remote",
-      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">A fast-growing, seed-stage AI enterprise SaaS company based in Munich is looking for a <strong>Founding Staff Engineer</strong> to serve as the technical backbone of a small, high-velocity engineering team. This is a deeply hands-on role \u2014 you'll own the highest-leverage systems across multiple products, set architectural direction, and raise the bar on quality, reliability, and AI capabilities. The company automates inside sales workflows (quot",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-131517",
+      "id": "arbeitnow_full-stack-software-engineer-ai-native-startup-munich-453930",
+      "title": "Full-Stack Software Engineer - AI Native Startup (m/f/d)",
+      "company": "Auxilius.ai",
+      "location": "Munich",
+      "description": "<p>You'll join an early-stage, AI-native startup with a product that has already proven market fit. We build cutting-edge AI solutions for Governance, Risk and Compliance (GRC) for enterprises around the world.</p>\n<p>Our customers are auditors, risk managers, and compliance teams, which means evaluation rigor, auditability, and EU AI Act readiness aren't afterthoughts for us. They're product requirements.</p>\n<h2>Tasks</h2>\n<p>As a <strong>Full-Stack Engineer</strong> (m/f/d), you'll be one of ",
+      "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/full-stack-software-engineer-ai-native-startup-munich-453930",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786243209,
-      "fetched_at": "2026-08-09T14:24:13.948747",
-      "match_score": 37.16,
+      "posted_at": 1786287626,
+      "fetched_at": "2026-08-09T18:22:21.839305",
+      "match_score": 37.54,
       "score_breakdown": {
-        "semantic_similarity": 0.3741,
-        "semantic_score": 22.16,
-        "location_match": 15,
+        "semantic_similarity": 0.4949,
+        "semantic_score": 37.54,
+        "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499847"
+      "scored_at": "2026-08-09T18:22:36.014744"
     },
     {
       "id": "arbeitnow_senior-functional-safety-engineer-safety-systems-engineer-munich-432980",
@@ -118,7 +118,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786264813,
-      "fetched_at": "2026-08-09T14:24:13.947208",
+      "fetched_at": "2026-08-09T18:22:21.841232",
       "match_score": 34.95,
       "score_breakdown": {
         "semantic_similarity": 0.4353,
@@ -126,7 +126,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-09T14:24:28.499685"
+      "scored_at": "2026-08-09T18:22:36.014827"
     },
     {
       "id": "arbeitnow_software-engineer-python-chicago-illinois-united-states-london-new-york-ny-united-states-9524",
@@ -141,7 +141,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949394",
+      "fetched_at": "2026-08-09T18:22:21.844774",
       "match_score": 32.9,
       "score_breakdown": {
         "semantic_similarity": 0.4192,
@@ -149,7 +149,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-09T14:24:28.499946"
+      "scored_at": "2026-08-09T18:22:36.015397"
     },
     {
       "id": "arbeitnow_software-engineer-c-austin-tx-united-states-chicago-illinois-united-states-london-new-york-ny-united-states-298002",
@@ -164,7 +164,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949403",
+      "fetched_at": "2026-08-09T18:22:21.844787",
       "match_score": 29.28,
       "score_breakdown": {
         "semantic_similarity": 0.4301,
@@ -172,7 +172,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500064"
+      "scored_at": "2026-08-09T18:22:36.015595"
     },
     {
       "id": "arbeitnow_senior-backend-engineer-kotlin-spring-aws-better-places-berlin-241709",
@@ -187,7 +187,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786243213,
-      "fetched_at": "2026-08-09T14:24:13.947962",
+      "fetched_at": "2026-08-09T18:22:21.842390",
       "match_score": 28.65,
       "score_breakdown": {
         "semantic_similarity": 0.4251,
@@ -195,7 +195,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499710"
+      "scored_at": "2026-08-09T18:22:36.014877"
     },
     {
       "id": "arbeitnow_product-engineer-berlin-424898",
@@ -210,7 +210,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786243209,
-      "fetched_at": "2026-08-09T14:24:13.948207",
+      "fetched_at": "2026-08-09T18:22:21.842761",
       "match_score": 27.08,
       "score_breakdown": {
         "semantic_similarity": 0.4127,
@@ -218,7 +218,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499789"
+      "scored_at": "2026-08-09T18:22:36.015033"
     },
     {
       "id": "arbeitnow_software-engineer-ai-tools-chicago-illinois-united-states-new-york-ny-united-states-492050",
@@ -233,7 +233,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949405",
+      "fetched_at": "2026-08-09T18:22:21.844791",
       "match_score": 25.3,
       "score_breakdown": {
         "semantic_similarity": 0.3988,
@@ -241,7 +241,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500086"
+      "scored_at": "2026-08-09T18:22:36.015644"
     },
     {
       "id": "arbeitnow_senior-site-reliability-engineer-440879",
@@ -256,7 +256,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786280110,
-      "fetched_at": "2026-08-09T14:24:13.948962",
+      "fetched_at": "2026-08-09T18:22:21.844125",
       "match_score": 22.97,
       "score_breakdown": {
         "semantic_similarity": 0.2626,
@@ -264,7 +264,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499897"
+      "scored_at": "2026-08-09T18:22:36.015285"
     },
     {
       "id": "arbeitnow_engineering-intern-berlin-270968",
@@ -279,7 +279,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786243209,
-      "fetched_at": "2026-08-09T14:24:13.948239",
+      "fetched_at": "2026-08-09T18:22:21.842811",
       "match_score": 22.73,
       "score_breakdown": {
         "semantic_similarity": 0.3786,
@@ -287,7 +287,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499821"
+      "scored_at": "2026-08-09T18:22:36.015082"
     },
     {
       "id": "arbeitnow_software-engineer-treasury-infrastructure-new-york-ny-united-states-45863",
@@ -302,7 +302,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949391",
+      "fetched_at": "2026-08-09T18:22:21.844771",
       "match_score": 21.02,
       "score_breakdown": {
         "semantic_similarity": 0.3651,
@@ -310,7 +310,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499924"
+      "scored_at": "2026-08-09T18:22:36.015343"
     },
     {
       "id": "arbeitnow_sr-talent-acquisition-partner-technical-germany-427139",
@@ -325,7 +325,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786264816,
-      "fetched_at": "2026-08-09T14:24:13.946590",
+      "fetched_at": "2026-08-09T18:22:21.840316",
       "match_score": 20.09,
       "score_breakdown": {
         "semantic_similarity": 0.3579,
@@ -333,7 +333,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499654"
+      "scored_at": "2026-08-09T18:22:36.014780"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-dach-munich-307808",
@@ -348,7 +348,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786243209,
-      "fetched_at": "2026-08-09T14:24:13.948021",
+      "fetched_at": "2026-08-09T18:22:21.842481",
       "match_score": 19.61,
       "score_breakdown": {
         "semantic_similarity": 0.3541,
@@ -356,7 +356,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499739"
+      "scored_at": "2026-08-09T18:22:36.014930"
     },
     {
       "id": "arbeitnow_software-engineer-gpu-reliability-new-york-ny-united-states-443590",
@@ -371,7 +371,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949396",
+      "fetched_at": "2026-08-09T18:22:21.844777",
       "match_score": 19.12,
       "score_breakdown": {
         "semantic_similarity": 0.311,
@@ -379,7 +379,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-09T14:24:28.499971"
+      "scored_at": "2026-08-09T18:22:36.015452"
     },
     {
       "id": "arbeitnow_product-engineer-full-stack-berlin-377666",
@@ -394,7 +394,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786243209,
-      "fetched_at": "2026-08-09T14:24:13.948152",
+      "fetched_at": "2026-08-09T18:22:21.842660",
       "match_score": 18.83,
       "score_breakdown": {
         "semantic_similarity": 0.3479,
@@ -402,7 +402,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499764"
+      "scored_at": "2026-08-09T18:22:36.014977"
     },
     {
       "id": "arbeitnow_software-developer-risk-data-pipelines-bangalore-montreal-warsaw-242689",
@@ -417,7 +417,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786269306,
-      "fetched_at": "2026-08-09T14:24:15.071908",
+      "fetched_at": "2026-08-09T18:22:22.934968",
       "match_score": 15.04,
       "score_breakdown": {
         "semantic_similarity": 0.3182,
@@ -425,7 +425,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500178"
+      "scored_at": "2026-08-09T18:22:36.015860"
+    },
+    {
+      "id": "arbeitnow_senior-python-c-software-engineer-london-341940",
+      "title": "Senior Python / C++ Software Engineer",
+      "company": "Worldquant",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies \u2013 the foundation of a balanced, global investment platform.&lt;/p&gt;",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/worldquant/senior-python-c-software-engineer-london-341940",
+      "remote": false,
+      "tags": [
+        "Technology Division"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786290916,
+      "fetched_at": "2026-08-09T18:22:21.843497",
+      "match_score": 13.26,
+      "score_breakdown": {
+        "semantic_similarity": 0.2649,
+        "semantic_score": 8.26,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-09T18:22:36.015129"
     },
     {
       "id": "arbeitnow_software-engineer-distributed-compute-london-new-york-ny-united-states-200794",
@@ -440,7 +463,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949400",
+      "fetched_at": "2026-08-09T18:22:21.844784",
       "match_score": 12.46,
       "score_breakdown": {
         "semantic_similarity": 0.2979,
@@ -448,7 +471,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500018"
+      "scored_at": "2026-08-09T18:22:36.015547"
     },
     {
       "id": "arbeitnow_software-developer-risk-technology-london-montreal-bangalore-warsaw-11528",
@@ -463,7 +486,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786269306,
-      "fetched_at": "2026-08-09T14:24:15.071902",
+      "fetched_at": "2026-08-09T18:22:22.934962",
       "match_score": 11.63,
       "score_breakdown": {
         "semantic_similarity": 0.2914,
@@ -471,7 +494,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500157"
+      "scored_at": "2026-08-09T18:22:36.015813"
+    },
+    {
+      "id": "arbeitnow_c-software-engineer-data-platform-london-409704",
+      "title": "C++ Software Engineer - Data Platform",
+      "company": "Worldquant",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies \u2013 the foundation of a balanced, global investment platform.&lt;/p&gt;",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/worldquant/c-software-engineer-data-platform-london-409704",
+      "remote": false,
+      "tags": [
+        "Technology Division"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786290916,
+      "fetched_at": "2026-08-09T18:22:21.843500",
+      "match_score": 10.34,
+      "score_breakdown": {
+        "semantic_similarity": 0.2812,
+        "semantic_score": 10.34,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-09T18:22:36.015178"
     },
     {
       "id": "arbeitnow_energy-nerd-developer-freiburg-im-breisgau-28468",
@@ -486,7 +532,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786273224,
-      "fetched_at": "2026-08-09T14:24:15.069380",
+      "fetched_at": "2026-08-09T18:22:22.930851",
       "match_score": 4.84,
       "score_breakdown": {
         "semantic_similarity": 0.238,
@@ -494,7 +540,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500134"
+      "scored_at": "2026-08-09T18:22:36.015759"
     },
     {
       "id": "arbeitnow_software-engineer-distributed-systems-storage-databases-new-york-ny-united-states-45294",
@@ -509,7 +555,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786258540,
-      "fetched_at": "2026-08-09T14:24:13.949398",
+      "fetched_at": "2026-08-09T18:22:21.844782",
       "match_score": 4.5,
       "score_breakdown": {
         "semantic_similarity": 0.2353,
@@ -517,7 +563,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499995"
+      "scored_at": "2026-08-09T18:22:36.015500"
     },
     {
       "id": "arbeitnow_solutions-engineering-london-406512",
@@ -532,7 +578,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786280138,
-      "fetched_at": "2026-08-09T14:24:13.948822",
+      "fetched_at": "2026-08-09T18:22:21.843910",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1985,
@@ -540,7 +586,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.499872"
+      "scored_at": "2026-08-09T18:22:36.015232"
     },
     {
       "id": "arbeitnow_safety-engineer-free-tier-abuse-united-kingdom-294747",
@@ -555,7 +601,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786257621,
-      "fetched_at": "2026-08-09T14:24:13.949754",
+      "fetched_at": "2026-08-09T18:22:21.845329",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.186,
@@ -563,7 +609,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-09T14:24:28.500108"
+      "scored_at": "2026-08-09T18:22:36.015703"
     }
   ]
 }
