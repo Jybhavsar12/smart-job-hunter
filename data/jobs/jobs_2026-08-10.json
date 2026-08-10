@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "count": 38,
+  "count": 31,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-10T14:49:36.785635",
+      "fetched_at": "2026-08-10T18:40:46.246833",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,53 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-10T14:49:56.183165"
+      "scored_at": "2026-08-10T18:41:06.109910"
+    },
+    {
+      "id": "arbeitnow_frontend-developer-berlin-341207",
+      "title": "Frontend Developer (m/f/d)",
+      "company": "Future Demand",
+      "location": "Berlin",
+      "description": "<p>We are looking for a Frontend Engineer to turn complex audience-intelligence, marketing and data workflows into clear, reliable product experiences. You will help build the interfaces through which more than 300 organisations understand their customers, create campaigns and act on insights.</p>\n<p>Working closely with Product, Design, Backend and Data Science, you will own frontend work from shaping a solution through implementation, testing, release and iteration. This is a hands-on role for",
+      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/frontend-developer-berlin-341207",
+      "remote": false,
+      "tags": [
+        "Web Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786379424,
+      "fetched_at": "2026-08-10T18:40:55.198728",
+      "match_score": 49.21,
+      "score_breakdown": {
+        "semantic_similarity": 0.5866,
+        "semantic_score": 49.21,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-10T18:41:06.110719"
+    },
+    {
+      "id": "arbeitnow_remote-full-stack-developer-java-react-241076",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).&lt;br&gt;&lt;br&gt;Our brand slogan is&amp;nbsp;&lt;em data-stringify-type=&quot;i",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-241076",
+      "remote": false,
+      "tags": [
+        "Web App Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786373716,
+      "fetched_at": "2026-08-10T18:40:52.972953",
+      "match_score": 25.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1998,
+        "semantic_score": 0.0,
+        "location_match": 15,
+        "priority_keywords": 10
+      },
+      "scored_at": "2026-08-10T18:41:06.110674"
     },
     {
       "id": "arbeitnow_remote-full-stack-developer-java-react-422213",
@@ -49,7 +95,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786344918,
-      "fetched_at": "2026-08-10T14:49:43.325442",
+      "fetched_at": "2026-08-10T18:40:52.978201",
       "match_score": 25.0,
       "score_breakdown": {
         "semantic_similarity": 0.1998,
@@ -57,7 +103,83 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-10T14:49:56.184369"
+      "scored_at": "2026-08-10T18:41:06.110694"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-gn-camera-integration-framework-dresden-53307",
+      "title": "Senior Software Engineer (gn) Camera Integration Framework",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/senior-software-engineer-gn-camera-integration-framework-dresden-53307",
+      "remote": false,
+      "tags": [
+        "Kubernetes",
+        "Camera Integration",
+        "Cloud-native Platform",
+        "Backend Development (Python / Go)",
+        "API Design",
+        "Industrial Vision / Machine Vision",
+        "SDK Development",
+        "Robotics",
+        "Containerization",
+        "System Architecture"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786370985,
+      "fetched_at": "2026-08-10T18:40:50.753269",
+      "match_score": 23.66,
+      "score_breakdown": {
+        "semantic_similarity": 0.3859,
+        "semantic_score": 23.66,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-10T18:41:06.110028"
+    },
+    {
+      "id": "arbeitnow_manager-engineering-accounting-data-and-systems-london-320608",
+      "title": "Manager Engineering, Accounting Data and Systems",
+      "company": "Deliveroo",
+      "location": "London - The River Building HQ",
+      "description": "<h1><strong>About the Team</strong></h1><p style=\"min-height:1.5em\">It\u2019s an exciting time to join our rapidly growing Accounting team with ample development opportunities. We're growing the Revenue Data team with Engineering and Accounting Data openings to drive our automation and systems infrastructure and while keeping pace within one of the fastest growing marketplace companies.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h1><strong>About the Role</strong></h1><p sty",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/manager-engineering-accounting-data-and-systems-london-320608",
+      "remote": false,
+      "tags": [
+        "All Cost Centers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786376429,
+      "fetched_at": "2026-08-10T18:40:50.755565",
+      "match_score": 23.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.3838,
+        "semantic_score": 23.39,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-10T18:41:06.110092"
+    },
+    {
+      "id": "arbeitnow_senior-engineering-manager-ad-performance-recommendation-berlin-242083",
+      "title": "Senior Engineering Manager, Ad Performance Recommendation",
+      "company": "Smartly",
+      "location": "Berlin, Berlin, Germany",
+      "description": "<p>We are seeking a<strong> Senior Engineering Manager</strong> to join our 200+ product development organization and lead our<strong> Ad Performance Recommendation team</strong>. The team is responsible for developing an innovative AI-powered system that leverages marketing ad tech data and various data sources to identify performance signals and generate actionable recommendations for digital advertisers and marketers.&nbsp;</p>\n<p>As part of the AI Platform organization, you will lead a multi",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-engineering-manager-ad-performance-recommendation-berlin-242083",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786369526,
+      "fetched_at": "2026-08-10T18:40:50.753676",
+      "match_score": 23.19,
+      "score_breakdown": {
+        "semantic_similarity": 0.3822,
+        "semantic_score": 23.19,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-10T18:41:06.110056"
     },
     {
       "id": "arbeitnow_software-developer-python-haltern-am-see-400521",
@@ -73,7 +195,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786361444,
-      "fetched_at": "2026-08-10T14:49:42.207387",
+      "fetched_at": "2026-08-10T18:40:51.864222",
       "match_score": 22.52,
       "score_breakdown": {
         "semantic_similarity": 0.3377,
@@ -81,7 +203,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-10T14:49:56.184180"
+      "scored_at": "2026-08-10T18:41:06.110652"
     },
     {
       "id": "arbeitnow_senior-quality-engineer-ai-london-334599",
@@ -96,7 +218,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786354815,
-      "fetched_at": "2026-08-10T14:49:41.105440",
+      "fetched_at": "2026-08-10T18:40:50.757094",
       "match_score": 21.56,
       "score_breakdown": {
         "semantic_similarity": 0.3694,
@@ -104,7 +226,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183522"
+      "scored_at": "2026-08-10T18:41:06.110287"
+    },
+    {
+      "id": "arbeitnow_software-developer-full-stack-developer-ziemetshausen-188333",
+      "title": "Software Developer / Full Stack Developer (m/w/d)",
+      "company": "K\u00f6bler Invest GmbH",
+      "location": "Ziemetshausen",
+      "description": "<p>Wir gehen den n\u00e4chsten Schritt in Richtung Digitalisierung und entwickeln eine eigene cloudbasierte SaaS-Plattform f\u00fcr die Autoverwertungsbranche. Daf\u00fcr suchen wir einen Entwickler, der unsere Idee technisch mitgestaltet, weiterentwickelt und gemeinsam mit uns eine moderne Softwarel\u00f6sung von Grund auf aufbaut.</p>\n<p>Daf\u00fcr suchen wir einen <strong>Software Developer / Full Stack Developer (m/w/d)</strong>, der Lust hat, ein innovatives Produkt von Anfang an mitzugestalten und seine Ideen einz",
+      "url": "https://www.arbeitnow.com/jobs/companies/kobler-invest-gmbh/software-developer-full-stack-developer-ziemetshausen-188333",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786370431,
+      "fetched_at": "2026-08-10T18:40:51.863303",
+      "match_score": 21.32,
+      "score_breakdown": {
+        "semantic_similarity": 0.3283,
+        "semantic_score": 16.32,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-10T18:41:06.110623"
     },
     {
       "id": "arbeitnow_senior-ai-quality-engineer-london-79753",
@@ -119,7 +264,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786354815,
-      "fetched_at": "2026-08-10T14:49:41.105372",
+      "fetched_at": "2026-08-10T18:40:50.757035",
       "match_score": 19.32,
       "score_breakdown": {
         "semantic_similarity": 0.3518,
@@ -127,7 +272,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183492"
+      "scored_at": "2026-08-10T18:41:06.110263"
     },
     {
       "id": "arbeitnow_senior-software-engineer-france-netherlands-spain-or-belgium-some-travel-to-our-offices-will-be-required-from-time-to-time-284167",
@@ -142,7 +287,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786355716,
-      "fetched_at": "2026-08-10T14:49:41.105053",
+      "fetched_at": "2026-08-10T18:40:50.756760",
       "match_score": 18.98,
       "score_breakdown": {
         "semantic_similarity": 0.3491,
@@ -150,53 +295,45 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183429"
+      "scored_at": "2026-08-10T18:41:06.110218"
     },
     {
-      "id": "arbeitnow_senior-engineering-manager-ad-performance-recommendation-berlin-berlin-9248",
-      "title": "Senior Engineering Manager, Ad Performance Recommendation",
-      "company": "Smartlyio",
-      "location": "Berlin, Berlin",
-      "description": "&lt;p&gt;We are seeking a&lt;strong&gt; Senior Engineering Manager&lt;/strong&gt; to join our 200+ product development organization and lead our&lt;strong&gt; Ad Performance Recommendation team&lt;/strong&gt;. The team is responsible for developing an innovative AI-powered system that leverages marketing ad tech data and various data sources to identify performance signals and generate actionable recommendations for digital advertisers and marketers.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of the A",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-engineering-manager-ad-performance-recommendation-berlin-berlin-9248",
+      "id": "arbeitnow_cloud-senior-engineer-architect-koln-71783",
+      "title": "Cloud (Senior) Engineer / Architect (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "K\u00f6ln",
+      "description": "<br><strong>DEINE AUFGABEN</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Du analysierst und konzipierst L\u00f6sungen f\u00fcr unsere Kunden hinsichtlich moderner Cloud Architekturen.</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Du entwickelst und betreibst\u00a0passgenaue L\u00f6sungen\u00a0sowohl in der Cloud als auch in hybriden Umgebungen und tr\u00e4gst mit deinen Kenntnissen und Ideen zur permanenten Weiterentwicklung und Verbesserung bei.</li><li style=",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-koln-71783",
       "remote": false,
       "tags": [
-        "Research & Development"
+        "Cloud Egineer",
+        "Cloud Architect",
+        "Cloud Developer",
+        "Software Developer",
+        "Cloud Architecture",
+        "Cloud Development",
+        "Cloud Native",
+        "Hybrid Cloud",
+        "Cloud migration",
+        "Cloud Solution",
+        "Cloud Consulting",
+        "Start Up",
+        "Consulting",
+        "Technical Consultant",
+        "DevOps Consultant",
+        "Cloud Consultant"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786352121,
-      "fetched_at": "2026-08-10T14:49:41.102706",
-      "match_score": 17.35,
+      "posted_at": 1786370995,
+      "fetched_at": "2026-08-10T18:40:50.752989",
+      "match_score": 17.69,
       "score_breakdown": {
-        "semantic_similarity": 0.3363,
-        "semantic_score": 17.35,
+        "semantic_similarity": 0.339,
+        "semantic_score": 17.69,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183267"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-engineer-london-18841",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Physicsx",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About us&lt;/h2&gt;\n&lt;div&gt;PhysicsX is a deep-tech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software.&lt;/div&gt;\n&lt;div&gt;We are building an AI-driven simulation software stack for engineering and manufacturing across advanced industries. By enabling high-fidelity, multi-physics simulation through AI inference across the entire engineering lifecycle, PhysicsX ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-engineer-london-18841",
-      "remote": false,
-      "tags": [
-        "Delivery"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786323327,
-      "fetched_at": "2026-08-10T14:49:41.107783",
-      "match_score": 16.39,
-      "score_breakdown": {
-        "semantic_similarity": 0.3288,
-        "semantic_score": 16.39,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184146"
+      "scored_at": "2026-08-10T18:41:06.110014"
     },
     {
       "id": "arbeitnow_remote-engineering-manager-268184",
@@ -211,7 +348,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786366557,
-      "fetched_at": "2026-08-10T14:49:41.104076",
+      "fetched_at": "2026-08-10T18:40:50.755928",
       "match_score": 15.0,
       "score_breakdown": {
         "semantic_similarity": 0.1741,
@@ -219,7 +356,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183300"
+      "scored_at": "2026-08-10T18:41:06.110121"
     },
     {
       "id": "arbeitnow_senior-platform-engineer-senior-devops-engineer-senior-infrastructure-engineer-senior-site-reliability-engineer-sydney-australia-473787",
@@ -234,7 +371,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106565",
+      "fetched_at": "2026-08-10T18:40:50.758042",
       "match_score": 14.78,
       "score_breakdown": {
         "semantic_similarity": 0.3162,
@@ -242,99 +379,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183874"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-software-engineer-research-london-388806",
-      "title": "Senior Machine Learning Software Engineer, Research",
-      "company": "Physicsx",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About us&lt;/h2&gt;\n&lt;div&gt;PhysicsX is a deep-tech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software.&lt;/div&gt;\n&lt;div&gt;We are building an AI-driven simulation software stack for engineering and manufacturing across advanced industries. By enabling high-fidelity, multi-physics simulation through AI inference across the entire engineering lifecycle, PhysicsX ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-machine-learning-software-engineer-research-london-388806",
-      "remote": false,
-      "tags": [
-        "Research"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786323327,
-      "fetched_at": "2026-08-10T14:49:41.107722",
-      "match_score": 13.56,
-      "score_breakdown": {
-        "semantic_similarity": 0.3065,
-        "semantic_score": 13.56,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184123"
-    },
-    {
-      "id": "arbeitnow_platform-engineer-devops-engineer-infrastructure-engineer-site-reliability-engineer-sydney-australia-317866",
-      "title": "Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousan",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/platform-engineer-devops-engineer-infrastructure-engineer-site-reliability-engineer-sydney-australia-317866",
-      "remote": false,
-      "tags": [
-        "Maritime & Maneuver Dominance : Undersea Dominance - Engineering & Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786334133,
-      "fetched_at": "2026-08-10T14:49:41.107034",
-      "match_score": 12.91,
-      "score_breakdown": {
-        "semantic_similarity": 0.3014,
-        "semantic_score": 12.91,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.183957"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-network-development-warsaw-poland-london-ireland-285665",
-      "title": "Staff Software Engineer \u2014 Network Development",
-      "company": "Coreweaveu",
-      "location": "Warsaw, Poland / London, Ireland",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for AI\u2122. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-network-development-warsaw-poland-london-ireland-285665",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786334108,
-      "fetched_at": "2026-08-10T14:49:41.107327",
-      "match_score": 11.95,
-      "score_breakdown": {
-        "semantic_similarity": 0.2939,
-        "semantic_score": 11.95,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184013"
-    },
-    {
-      "id": "arbeitnow_senior-technical-programme-manager-london-442434",
-      "title": "Senior Technical Programme Manager",
-      "company": "Physicsx",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About us&lt;/h2&gt;\n&lt;div&gt;PhysicsX is a deep-tech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software.&lt;/div&gt;\n&lt;div&gt;We are building an AI-driven simulation software stack for engineering and manufacturing across advanced industries. By enabling high-fidelity, multi-physics simulation through AI inference across the entire engineering lifecycle, PhysicsX ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/physicsx/senior-technical-programme-manager-london-442434",
-      "remote": false,
-      "tags": [
-        "Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786323327,
-      "fetched_at": "2026-08-10T14:49:41.107646",
-      "match_score": 11.01,
-      "score_breakdown": {
-        "semantic_similarity": 0.2865,
-        "semantic_score": 11.01,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184099"
+      "scored_at": "2026-08-10T18:41:06.110568"
     },
     {
       "id": "arbeitnow_software-engineer-sydney-australia-322070",
@@ -349,7 +394,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334139,
-      "fetched_at": "2026-08-10T14:49:41.106202",
+      "fetched_at": "2026-08-10T18:40:50.757740",
       "match_score": 10.41,
       "score_breakdown": {
         "semantic_similarity": 0.2818,
@@ -357,30 +402,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183650"
+      "scored_at": "2026-08-10T18:41:06.110366"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-network-development-warsaw-poland-london-ireland-486608",
-      "title": "Senior Software Engineer, Network Development",
-      "company": "Coreweaveu",
-      "location": "Warsaw, Poland / London, Ireland",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for AI\u2122. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-software-engineer-network-development-warsaw-poland-london-ireland-486608",
+      "id": "arbeitnow_software-engineer-dusseldorf-255527",
+      "title": "Software Engineer",
+      "company": "Wakeline GmbH",
+      "location": "D\u00fcsseldorf",
+      "description": "<p>Most machine learning systems stop learning the moment they ship. We build the Continuous Learning System (CLS), continuous AI: an architecture that learns during live operation. It ingests streaming data through a mesh of distributed actors and adapts to structural change without a retraining cycle, running entirely on ordinary CPUs. The CLS runs today in ongoing projects with partners across several industries and use cases, and we are funded.</p>\n<p>We are a small, senior team. This role e",
+      "url": "https://www.arbeitnow.com/jobs/companies/wakeline-gmbh/software-engineer-dusseldorf-255527",
       "remote": false,
       "tags": [
-        "Technology"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786334108,
-      "fetched_at": "2026-08-10T14:49:41.107332",
-      "match_score": 10.23,
+      "posted_at": 1786372243,
+      "fetched_at": "2026-08-10T18:40:50.752282",
+      "match_score": 10.37,
       "score_breakdown": {
-        "semantic_similarity": 0.2804,
-        "semantic_score": 10.23,
+        "semantic_similarity": 0.2815,
+        "semantic_score": 10.37,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.184040"
+      "scored_at": "2026-08-10T18:41:06.109954"
     },
     {
       "id": "arbeitnow_senior-software-engineer-flight-software-sydney-australia-272592",
@@ -395,7 +440,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334138,
-      "fetched_at": "2026-08-10T14:49:41.106270",
+      "fetched_at": "2026-08-10T18:40:50.757802",
       "match_score": 10.2,
       "score_breakdown": {
         "semantic_similarity": 0.2801,
@@ -403,53 +448,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183707"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-engineer-sydney-australia-227090",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousan",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-machine-learning-engineer-sydney-australia-227090",
-      "remote": false,
-      "tags": [
-        "Maritime & Maneuver Dominance : Undersea Dominance - Engineering & Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786334136,
-      "fetched_at": "2026-08-10T14:49:41.106634",
-      "match_score": 10.01,
-      "score_breakdown": {
-        "semantic_similarity": 0.2787,
-        "semantic_score": 10.01,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.183929"
-    },
-    {
-      "id": "arbeitnow_senior-engineer-network-observability-london-380460",
-      "title": "Senior Engineer, Network Observability",
-      "company": "Coreweaveu",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for AI\u2122. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-engineer-network-observability-london-380460",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786334108,
-      "fetched_at": "2026-08-10T14:49:42.213654",
-      "match_score": 9.81,
-      "score_breakdown": {
-        "semantic_similarity": 0.2771,
-        "semantic_score": 9.81,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184344"
+      "scored_at": "2026-08-10T18:41:06.110413"
     },
     {
       "id": "arbeitnow_staff-software-engineer-sydney-australia-370064",
@@ -464,7 +463,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334140,
-      "fetched_at": "2026-08-10T14:49:41.106138",
+      "fetched_at": "2026-08-10T18:40:50.757684",
       "match_score": 9.16,
       "score_breakdown": {
         "semantic_similarity": 0.272,
@@ -472,7 +471,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183588"
+      "scored_at": "2026-08-10T18:41:06.110316"
     },
     {
       "id": "arbeitnow_senior-software-engineer-sydney-australia-55037",
@@ -487,7 +486,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106272",
+      "fetched_at": "2026-08-10T18:40:50.757804",
       "match_score": 8.56,
       "score_breakdown": {
         "semantic_similarity": 0.2673,
@@ -495,7 +494,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183735"
+      "scored_at": "2026-08-10T18:41:06.110452"
     },
     {
       "id": "arbeitnow_staff-platform-engineer-staff-site-reliability-engineer-sydney-australia-315619",
@@ -510,7 +509,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334139,
-      "fetched_at": "2026-08-10T14:49:41.106199",
+      "fetched_at": "2026-08-10T18:40:50.757737",
       "match_score": 8.51,
       "score_breakdown": {
         "semantic_similarity": 0.2669,
@@ -518,7 +517,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183621"
+      "scored_at": "2026-08-10T18:41:06.110342"
     },
     {
       "id": "arbeitnow_senior-robotics-software-engineer-payload-integration-sydney-australia-71021",
@@ -533,7 +532,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106338",
+      "fetched_at": "2026-08-10T18:40:50.757860",
       "match_score": 8.23,
       "score_breakdown": {
         "semantic_similarity": 0.2647,
@@ -541,7 +540,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183790"
+      "scored_at": "2026-08-10T18:41:06.110499"
     },
     {
       "id": "arbeitnow_senior-robotics-engineer-sydney-australia-359112",
@@ -556,7 +555,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106406",
+      "fetched_at": "2026-08-10T18:40:50.757920",
       "match_score": 7.29,
       "score_breakdown": {
         "semantic_similarity": 0.2573,
@@ -564,30 +563,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183817"
-    },
-    {
-      "id": "arbeitnow_manager-software-engineering-sydney-australia-145210",
-      "title": "Manager, Software Engineering",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousan",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manager-software-engineering-sydney-australia-145210",
-      "remote": false,
-      "tags": [
-        "Maritime & Maneuver Dominance : Undersea Dominance - Engineering & Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786334133,
-      "fetched_at": "2026-08-10T14:49:41.107120",
-      "match_score": 6.82,
-      "score_breakdown": {
-        "semantic_similarity": 0.2536,
-        "semantic_score": 6.82,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.183984"
+      "scored_at": "2026-08-10T18:41:06.110522"
     },
     {
       "id": "arbeitnow_senior-manager-software-engineering-sydney-australia-460044",
@@ -602,7 +578,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334136,
-      "fetched_at": "2026-08-10T14:49:41.106569",
+      "fetched_at": "2026-08-10T18:40:50.758044",
       "match_score": 6.03,
       "score_breakdown": {
         "semantic_similarity": 0.2474,
@@ -610,7 +586,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183901"
+      "scored_at": "2026-08-10T18:41:06.110592"
     },
     {
       "id": "arbeitnow_senior-software-engineer-site-reliability-sydney-australia-33258",
@@ -625,7 +601,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334138,
-      "fetched_at": "2026-08-10T14:49:41.106268",
+      "fetched_at": "2026-08-10T18:40:50.757800",
       "match_score": 5.96,
       "score_breakdown": {
         "semantic_similarity": 0.2469,
@@ -633,30 +609,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183679"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-nuremberg-281681",
-      "title": "Senior Software Developer (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6n",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-281681",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786343430,
-      "fetched_at": "2026-08-10T14:49:42.209096",
-      "match_score": 5.87,
-      "score_breakdown": {
-        "semantic_similarity": 0.2461,
-        "semantic_score": 5.87,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184285"
+      "scored_at": "2026-08-10T18:41:06.110389"
     },
     {
       "id": "arbeitnow_senior-site-reliability-engineer-sydney-australia-497305",
@@ -671,7 +624,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106336",
+      "fetched_at": "2026-08-10T18:40:50.757859",
       "match_score": 5.53,
       "score_breakdown": {
         "semantic_similarity": 0.2434,
@@ -679,30 +632,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183762"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-london-240846",
-      "title": "Senior Software Engineer",
-      "company": "Relay",
-      "location": "London - Hybrid",
-      "description": "<p style=\"min-height:1.5em\"><strong>Relay is fundamentally reshaping how goods move in an online era.</strong> Backed by Europe\u2019s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-dense team the logistics industry has ever seen</p><p style=\"min-height:1.5em\"><strong>Relay\u2019s Mission is</strong> to <strong>free commerc",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-software-engineer-london-240846",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786333208,
-      "fetched_at": "2026-08-10T14:49:41.107460",
-      "match_score": 5.2,
-      "score_breakdown": {
-        "semantic_similarity": 0.2409,
-        "semantic_score": 5.2,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184073"
+      "scored_at": "2026-08-10T18:41:06.110476"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-394281",
@@ -717,7 +647,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786366549,
-      "fetched_at": "2026-08-10T14:49:41.104131",
+      "fetched_at": "2026-08-10T18:40:50.755976",
       "match_score": 4.82,
       "score_breakdown": {
         "semantic_similarity": 0.2379,
@@ -725,76 +655,47 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183353"
+      "scored_at": "2026-08-10T18:41:06.110155"
     },
     {
-      "id": "arbeitnow_software-developer-c-net-devops-hamburg-445191",
-      "title": "Software Developer C#/.NET (m/w/d) - DevOps",
-      "company": "IBS Schreiber GmbH",
-      "location": "Hamburg",
-      "description": "<p>Wir sind <strong>IBS Schreiber</strong> \u2013 seit \u00fcber 45 Jahren ein inhabergef\u00fchrtes Unternehmen f\u00fcr <strong>SAP-Security</strong> mit Sitz in der wundersch\u00f6nen Hansestadt Hamburg. Zu unseren Gesch\u00e4ftsbereichen z\u00e4hlen unsere Akademie, das Pr\u00fcfungs- und Beratungsgesch\u00e4ft sowie die Entwicklung von Softwarel\u00f6sungen, die Unternehmen helfen, Zugriffsrisiken zu beherrschen und IT-Security einfach zug\u00e4nglich zu machen.</p>\n<p>Unser technisches Herzst\u00fcck: Der Bereich <strong>Product &#x26; Technology</",
-      "url": "https://www.arbeitnow.com/jobs/companies/ibs-schreiber-gmbh/software-developer-c-net-devops-hamburg-445191",
+      "id": "arbeitnow_cybersecurity-senior-software-engineer-munchen-81729",
+      "title": "Cybersecurity (Senior) Software Engineer (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>DEINE AUFGABEN</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du entwickelst sichere Software- und Infrastrukturl\u00f6sungen und integrierst Security-by-Design-Prinzipien von Anfang an in den Entwicklungs- und Bereitstellungsprozess.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du unterst\u00fctzt unsere Kund:innen bei der Konzeption, Entwicklung und Absicherung moderner Anwendungen und Infrastrukturen, beispielsweise in den Ber",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-81729",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Software Engineering",
+        "Software Entwicklung",
+        "Cybersecurity",
+        "DevSecOps",
+        "Secure Software Development",
+        "Security-by-Design",
+        "Application Security",
+        "Secure Coding",
+        "Code Review",
+        "OWSAP Top 10",
+        "CI/CD-Pipelines",
+        "Cloud native Anwendungen",
+        "APis",
+        "Microservices",
+        "Docker",
+        "Infrastructure-as-a-Code",
+        "Zero Trust",
+        "Infrastructure as Code"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786345229,
-      "fetched_at": "2026-08-10T14:49:42.209068",
-      "match_score": 4.23,
+      "posted_at": 1786370995,
+      "fetched_at": "2026-08-10T18:40:50.752934",
+      "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.2332,
-        "semantic_score": 4.23,
+        "semantic_similarity": 0.1863,
+        "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.184216"
-    },
-    {
-      "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-50739",
-      "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013 Martin Fowler</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es ",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-50739",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786343431,
-      "fetched_at": "2026-08-10T14:49:42.209093",
-      "match_score": 2.17,
-      "score_breakdown": {
-        "semantic_similarity": 0.2171,
-        "semantic_score": 2.17,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184252"
-    },
-    {
-      "id": "arbeitnow_werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
-      "title": "Werkstudent:in Generative Engine Optimization (GEO) Data & Backend (m/w/d) vor Ort | hybrid",
-      "company": "Palmer Hargreaves GmbH",
-      "location": "Cologne",
-      "description": "<p>palmerhargreaves ist die Agentur f\u00fcr komplexe Themen und Transformationsaufgaben. Inhabergef\u00fchrt und international pr\u00e4sent, nutzen wir die Kraft von Kreativit\u00e4t, Beziehungen und Technologien, um f\u00fcr Marken und Menschen Resonanz zu erzeugen. Wie keine andere Agentur nutzt palmerhargreaves schon heute alle M\u00f6glichkeiten der generativen KI, um die Kommunikation ihrer Kunden noch effizienter und effektiver zu machen. Die Agentur besch\u00e4ftigt \u00fcber 100 Mitarbeitende aus 12 Nationen. Zu den Kunden z\u00e4",
-      "url": "https://www.arbeitnow.com/jobs/companies/palmer-hargreaves-gmbh/werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
-      "remote": false,
-      "tags": [
-        "Online Marketing"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786354258,
-      "fetched_at": "2026-08-10T14:49:41.102466",
-      "match_score": 0.17,
-      "score_breakdown": {
-        "semantic_similarity": 0.2013,
-        "semantic_score": 0.17,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.183225"
+      "scored_at": "2026-08-10T18:41:06.109985"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-software-london-171035",
@@ -809,7 +710,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786366549,
-      "fetched_at": "2026-08-10T14:49:41.104263",
+      "fetched_at": "2026-08-10T18:40:50.756085",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1835,
@@ -817,7 +718,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183390"
+      "scored_at": "2026-08-10T18:41:06.110185"
     },
     {
       "id": "arbeitnow_lead-software-engineer-france-netherlands-spain-or-belgium-some-travel-to-our-offices-will-be-required-from-time-to-time-464537",
@@ -832,7 +733,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786355716,
-      "fetched_at": "2026-08-10T14:49:41.105057",
+      "fetched_at": "2026-08-10T18:40:50.756763",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1993,
@@ -840,7 +741,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183458"
+      "scored_at": "2026-08-10T18:41:06.110236"
     },
     {
       "id": "arbeitnow_senior-reliability-engineering-sydney-australia-169781",
@@ -855,7 +756,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786334137,
-      "fetched_at": "2026-08-10T14:49:41.106486",
+      "fetched_at": "2026-08-10T18:40:50.757989",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1689,
@@ -863,30 +764,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-10T14:49:56.183845"
-    },
-    {
-      "id": "arbeitnow_developer-fokus-secure-software-nuremberg-472695",
-      "title": "Developer - Fokus Secure Software (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201c</em> <em>Security is not a product, but a process.\u201d \u2013 Bruce Schneier</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer mit Fokus Secure Software Development bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein. Dar\u00fcber hinaus unterst\u00fctzt du dabei, Sicherheit als festen Bestandteil mode",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/developer-fokus-secure-software-nuremberg-472695",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786343430,
-      "fetched_at": "2026-08-10T14:49:42.209120",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1734,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-10T14:49:56.184317"
+      "scored_at": "2026-08-10T18:41:06.110545"
     }
   ]
 }
