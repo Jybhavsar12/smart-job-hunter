@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "count": 20,
+  "count": 17,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-11T10:40:52.772003",
+      "fetched_at": "2026-08-11T14:49:43.137390",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,53 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-11T10:41:13.414315"
+      "scored_at": "2026-08-11T14:50:01.968333"
+    },
+    {
+      "id": "arbeitnow_software-engineer-c-or-python-2027-grads-london-374542",
+      "title": "Software Engineer (C++ or Python) \u2013 2027 Grads",
+      "company": "Wehrtyou",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;em&gt;&lt;strong&gt;We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Hudson River Trading (HRT) is seeking talented Software Engineers to join our teams in New York, London, and Singapore. As a Software Engineer at HRT, the code you write is our business. Our software engineers create and maintain critical technol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-c-or-python-2027-grads-london-374542",
+      "remote": false,
+      "tags": [
+        "Campus"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786452941,
+      "fetched_at": "2026-08-11T14:49:47.228249",
+      "match_score": 53.36,
+      "score_breakdown": {
+        "semantic_similarity": 0.58,
+        "semantic_score": 48.36,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-11T14:50:01.968718"
+    },
+    {
+      "id": "arbeitnow_software-engineering-internship-c-or-python-summer-2027-london-432657",
+      "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
+      "company": "Wehrtyou",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;em&gt;&lt;strong&gt;We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines\u2014math, computer science, physics, engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineering-internship-c-or-python-summer-2027-london-432657",
+      "remote": false,
+      "tags": [
+        "Campus"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786452941,
+      "fetched_at": "2026-08-11T14:49:47.228246",
+      "match_score": 50.96,
+      "score_breakdown": {
+        "semantic_similarity": 0.5611,
+        "semantic_score": 45.96,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-11T14:50:01.968687"
     },
     {
       "id": "arbeitnow_senior-data-engineer-belfast-18470",
@@ -49,7 +95,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786419622,
-      "fetched_at": "2026-08-11T10:40:57.368251",
+      "fetched_at": "2026-08-11T14:49:47.231799",
       "match_score": 48.55,
       "score_breakdown": {
         "semantic_similarity": 0.5815,
@@ -57,7 +103,123 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414631"
+      "scored_at": "2026-08-11T14:50:01.968809"
+    },
+    {
+      "id": "arbeitnow_remote-software-engineer-infrastructure-44606",
+      "title": "Software Engineer, Infrastructure",
+      "company": "Camunda",
+      "location": "Remote",
+      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-44606",
+      "remote": true,
+      "tags": [
+        "Products"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786448424,
+      "fetched_at": "2026-08-11T14:49:47.225681",
+      "match_score": 41.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.4075,
+        "semantic_score": 26.4,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T14:50:01.968421"
+    },
+    {
+      "id": "arbeitnow_remote-software-engineer-backend-distributed-systems-206003",
+      "title": "Software Engineer, Backend - Distributed Systems",
+      "company": "Camunda",
+      "location": "Remote",
+      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-206003",
+      "remote": true,
+      "tags": [
+        "Products"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786448424,
+      "fetched_at": "2026-08-11T14:49:47.225684",
+      "match_score": 39.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.3925,
+        "semantic_score": 24.5,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T14:50:01.968436"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-c-flight-software-ottobrunn-bavaria-parsdorf-bavaria-258317",
+      "title": "Senior Software Engineer - C++ Flight Software (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mission Brief&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We are looking for a highly experienced software engineer to strengthen and shape our flight software capability. You will work on challenging aspects of&amp;nbsp;launch&amp;nbsp;vehicle software, including flight logic, mission sequencing, simulation&amp;nbsp;environments&amp;nbsp;and vehicle control software, while raising engineering",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-software-engineer-c-flight-software-ottobrunn-bavaria-parsdorf-bavaria-258317",
+      "remote": false,
+      "tags": [
+        "Flight Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786449321,
+      "fetched_at": "2026-08-11T14:49:47.225065",
+      "match_score": 34.64,
+      "score_breakdown": {
+        "semantic_similarity": 0.4722,
+        "semantic_score": 34.64,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T14:50:01.968372"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-go-455718",
+      "title": "Senior Software Engineer (Go)",
+      "company": "541",
+      "location": "",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;\ud83d\udcdd&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;As a Senior Software Engineer at Form3, you\u2019ll work on established, high-volume services that sit at the heart of Form3\u2019s clou",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/541/senior-software-engineer-go-455718",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786452965,
+      "fetched_at": "2026-08-11T14:49:47.228140",
+      "match_score": 30.16,
+      "score_breakdown": {
+        "semantic_similarity": 0.3192,
+        "semantic_score": 15.16,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T14:50:01.968650"
+    },
+    {
+      "id": "arbeitnow_software-engineer-perception-gilching-495110",
+      "title": "Software Engineer (m/f/d) \u2013 Perception",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching",
+      "description": "<p style=\";\">At Quantum Systems, we are building the next generation of autonomous aerial systems. The Drone Port is a key element of this vision, enabling fully autonomous launch, landing, charging, health monitoring and mission readiness of our UAV platforms.</p><p style=\";\">As a <strong>Software Engineer - Perception</strong>, you will play a central role in developing the intelligence that allows the Drone Port and aircraft to interact seamlessly. You will work on perception algorithms, cont",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-perception-gilching-495110",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "bachelor's degree"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786440035,
+      "fetched_at": "2026-08-11T14:49:47.227361",
+      "match_score": 28.72,
+      "score_breakdown": {
+        "semantic_similarity": 0.4256,
+        "semantic_score": 28.72,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T14:50:01.968473"
     },
     {
       "id": "arbeitnow_staff-software-engineer-continuous-integration-london-161489",
@@ -72,7 +234,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786409711,
-      "fetched_at": "2026-08-11T10:40:57.369220",
+      "fetched_at": "2026-08-11T14:49:47.232801",
       "match_score": 24.22,
       "score_breakdown": {
         "semantic_similarity": 0.3903,
@@ -80,100 +242,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414700"
-    },
-    {
-      "id": "arbeitnow_remote-lead-data-products-engineer-380765",
-      "title": "Lead Data Products Engineer",
-      "company": "Baringa",
-      "location": "London; Remote",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over 2,000 people across the UK, Europe, North Ameri",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-lead-data-products-engineer-380765",
-      "remote": false,
-      "tags": [
-        "Markets",
-        "Advisory and Analytics"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T10:40:57.372741",
-      "match_score": 23.54,
-      "score_breakdown": {
-        "semantic_similarity": 0.2671,
-        "semantic_score": 8.54,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414801"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-cheltenham-uk-153338",
-      "title": "Senior Software Engineer (Cheltenham, UK)",
-      "company": "Vulncheck",
-      "location": "Cheltenham",
-      "description": "&lt;h1&gt;&lt;strong&gt;Sr. Software Engineer - Cheltenham, UK&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Cheltenham, UK&amp;nbsp;&lt;br&gt;&lt;strong&gt;Team: &lt;/strong&gt;Product &amp;amp; Engineering&lt;br&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Full-Time, Remote&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About VulnCheck&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Exploitation prevention is only as strong as the intelligence driving those efforts, and most of the indus",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/senior-software-engineer-cheltenham-uk-153338",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T10:40:57.373994",
-      "match_score": 21.15,
-      "score_breakdown": {
-        "semantic_similarity": 0.3662,
-        "semantic_score": 21.15,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414869"
-    },
-    {
-      "id": "arbeitnow_software-engineer-rapid-response-assignment-uk-cheltenham-251030",
-      "title": "Software Engineer, Rapid Response Assignment  - UK",
-      "company": "Vulncheck",
-      "location": "Cheltenham",
-      "description": "&lt;h1&gt;Software Engineer, Rapid Response Assignment - (UK)&lt;/h1&gt;\n&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Cheltenham, UK (Remote)&lt;br&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product &amp;amp; Engineering&lt;br&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Full-Time&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About VulnCheck&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Exploitation prevention is only as strong as the intelligence driving those efforts, and most of the industry is s",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/software-engineer-rapid-response-assignment-uk-cheltenham-251030",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T10:40:57.373940",
-      "match_score": 20.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.3608,
-        "semantic_score": 20.47,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414825"
-    },
-    {
-      "id": "arbeitnow_ai-automation-engineer-berlin-107094",
-      "title": "AI Automation Engineer (d/m/f)",
-      "company": "Scout24",
-      "location": "Berlin",
-      "description": "&lt;p&gt;&lt;strong&gt;Why Scout24?&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Scout24 is home of ImmoScout24, Germany\u2019s #1 for real estate. With ImmoScout24 we have been revolutionizing the real estate market in Germany and Austria for more than 25 years. Our goal is to build a digital ecosystem that brings homeowners, seekers, and agents together. Finding the right home and property is one of the most important decisions in life. So is your career! &lt;strong&gt;#WorkingatScout24&lt;/strong&gt; means b",
-      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-107094",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786416920,
-      "fetched_at": "2026-08-11T10:40:57.365738",
-      "match_score": 20.41,
-      "score_breakdown": {
-        "semantic_similarity": 0.3604,
-        "semantic_score": 20.41,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414489"
+      "scored_at": "2026-08-11T14:50:01.968876"
     },
     {
       "id": "arbeitnow_fullstack-engineer-typescript-aws-react-cologne-298108",
@@ -188,7 +257,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786437008,
-      "fetched_at": "2026-08-11T10:40:57.364192",
+      "fetched_at": "2026-08-11T14:49:47.227938",
       "match_score": 17.5,
       "score_breakdown": {
         "semantic_similarity": 0.2982,
@@ -196,7 +265,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T10:41:13.414440"
+      "scored_at": "2026-08-11T14:50:01.968615"
     },
     {
       "id": "arbeitnow_senior-platform-engineer-developer-experience-london-360744",
@@ -211,7 +280,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786430419,
-      "fetched_at": "2026-08-11T10:40:57.367126",
+      "fetched_at": "2026-08-11T14:49:47.230773",
       "match_score": 16.81,
       "score_breakdown": {
         "semantic_similarity": 0.332,
@@ -219,100 +288,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414558"
+      "scored_at": "2026-08-11T14:50:01.968752"
     },
     {
-      "id": "arbeitnow_senior-technical-talent-partner-uk-greater-cheltenham-14381",
-      "title": "Senior Technical Talent Partner - UK",
-      "company": "Vulncheck",
-      "location": "Greater Cheltenham",
-      "description": "&lt;p&gt;&lt;strong&gt;Senior Technical Talent Partner - UK&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;Greater Cheltenham (Remote)&lt;br&gt;&lt;strong&gt;Team: &lt;/strong&gt;People&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Full-Time&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About VulnCheck&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Exploitation prevention is only as strong as the intelligence driving those efforts, and most of th",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/senior-technical-talent-partner-uk-greater-cheltenham-14381",
+      "id": "arbeitnow_gnc-engineer-flight-software-development-c-ottobrunn-bavaria-parsdorf-bavaria-471936",
+      "title": "GNC Engineer - Flight Software Development (C++) (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mission Brief&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Join our Flight Software team and help define how a launch vehicle behaves throughout all phases of flight. This role sits at the intersection of Guidance, Navigation &amp;amp; Control, flight dynamics, mission analysis, simulation and flight software, turning engineering insight into robust C++ and Python implementations that can be tested, verified and flown.&lt;/p&g",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/gnc-engineer-flight-software-development-c-ottobrunn-bavaria-parsdorf-bavaria-471936",
       "remote": false,
       "tags": [
-        "People"
+        "Flight Software"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T10:40:57.373992",
-      "match_score": 16.77,
+      "posted_at": 1786449321,
+      "fetched_at": "2026-08-11T14:49:47.225129",
+      "match_score": 11.37,
       "score_breakdown": {
-        "semantic_similarity": 0.3318,
-        "semantic_score": 16.77,
+        "semantic_similarity": 0.2501,
+        "semantic_score": 6.37,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T10:41:13.414847"
-    },
-    {
-      "id": "arbeitnow_machine-learning-engineer-london-86760",
-      "title": "Machine Learning Engineer",
-      "company": "Baringa",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over 2,000 people across the UK, Europe, North Ameri",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/machine-learning-engineer-london-86760",
-      "remote": false,
-      "tags": [
-        "Solutions and AI Lab"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T10:40:57.372586",
-      "match_score": 14.45,
-      "score_breakdown": {
-        "semantic_similarity": 0.3136,
-        "semantic_score": 14.45,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414777"
-    },
-    {
-      "id": "arbeitnow_senior-manager-forward-deployed-ai-engineer-london-62733",
-      "title": "Senior Manager, Forward Deployed AI Engineer",
-      "company": "Baringa",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over 2,000 people across the UK, Europe, North Ameri",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-manager-forward-deployed-ai-engineer-london-62733",
-      "remote": false,
-      "tags": [
-        "Solutions and AI Lab"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T10:40:57.371214",
-      "match_score": 14.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.3129,
-        "semantic_score": 14.37,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414728"
-    },
-    {
-      "id": "arbeitnow_manager-senior-platform-software-engineer-london-189271",
-      "title": "Manager, Senior Platform Software Engineer",
-      "company": "Baringa",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over 2,000 people across the UK, Europe, North Ameri",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/manager-senior-platform-software-engineer-london-189271",
-      "remote": false,
-      "tags": [
-        "Markets",
-        "Advisory and Analytics"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T10:40:57.372499",
-      "match_score": 10.49,
-      "score_breakdown": {
-        "semantic_similarity": 0.2824,
-        "semantic_score": 10.49,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414753"
+      "scored_at": "2026-08-11T14:50:01.968404"
     },
     {
       "id": "arbeitnow_software-backend-entwickler-paderborn-424896",
@@ -326,8 +325,8 @@
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786438836,
-      "fetched_at": "2026-08-11T10:40:57.363664",
+      "posted_at": 1786454943,
+      "fetched_at": "2026-08-11T14:49:47.227415",
       "match_score": 3.87,
       "score_breakdown": {
         "semantic_similarity": 0.2304,
@@ -335,30 +334,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414409"
-    },
-    {
-      "id": "arbeitnow_forward-deployed-engineer-ai-munich-23984",
-      "title": "Forward Deployed Engineer - AI",
-      "company": "Avepoint",
-      "location": "Munich",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;PDq2pG_selectionAnchorContainer&quot; data-start=&quot;184&quot; data-end=&quot;439&quot;&gt;Enterprises are adopting AI faster than they can govern it \u2014 and they are looking for a partner who can do two things at once: speak credibly about AI trust, governance, and security, and actually build. The Forward Deployed Engineer (AI) is that partner.&lt;/p&gt;\n&lt;p class=&quot;PDq2pG_selectionAnchorContainer&quot; data-start=&quot;184&quot; data-end=&",
-      "url": "https://www.arbeitnow.com/jobs/companies/avepoint/forward-deployed-engineer-ai-munich-23984",
-      "remote": false,
-      "tags": [
-        "Data & AI"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786406125,
-      "fetched_at": "2026-08-11T10:40:57.366194",
-      "match_score": 1.85,
-      "score_breakdown": {
-        "semantic_similarity": 0.2145,
-        "semantic_score": 1.85,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414523"
+      "scored_at": "2026-08-11T14:50:01.968555"
     },
     {
       "id": "arbeitnow_senior-software-engineer-founding-engineer-energy-tech-cologne-6637",
@@ -373,7 +349,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786438837,
-      "fetched_at": "2026-08-11T10:40:57.363613",
+      "fetched_at": "2026-08-11T14:49:47.227388",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1853,
@@ -381,7 +357,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414369"
+      "scored_at": "2026-08-11T14:50:01.968512"
     },
     {
       "id": "arbeitnow_platform-engineer-cardiff-328325",
@@ -396,7 +372,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786420525,
-      "fetched_at": "2026-08-11T10:40:57.368064",
+      "fetched_at": "2026-08-11T14:49:47.231628",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1369,
@@ -404,7 +380,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414604"
+      "scored_at": "2026-08-11T14:50:01.968785"
     },
     {
       "id": "arbeitnow_software-engineer-london-249117",
@@ -419,7 +395,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786409721,
-      "fetched_at": "2026-08-11T10:40:57.368516",
+      "fetched_at": "2026-08-11T14:49:47.232065",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1345,
@@ -427,49 +403,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T10:41:13.414667"
-    },
-    {
-      "id": "arbeitnow_software-engineer-platform-newcastle-united-kingdom-newcastle-upon-tyne-359014",
-      "title": "Software Engineer, Platform - Newcastle, United Kingdom",
-      "company": "Speechify",
-      "location": "Newcastle upon Tyne, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-newcastle-united-kingdom-newcastle-upon-tyne-359014",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786398329,
-      "fetched_at": "2026-08-11T10:40:57.374173",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1596,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414909"
-    },
-    {
-      "id": "arbeitnow_software-engineer-platform-oxford-united-kingdom-175507",
-      "title": "Software Engineer, Platform - Oxford, United Kingdom",
-      "company": "Speechify",
-      "location": "Oxford, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-oxford-united-kingdom-175507",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786398329,
-      "fetched_at": "2026-08-11T10:40:57.374175",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1751,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T10:41:13.414944"
+      "scored_at": "2026-08-11T14:50:01.968843"
     }
   ]
 }
