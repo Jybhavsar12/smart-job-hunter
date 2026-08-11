@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "count": 18,
+  "count": 24,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-11T18:43:46.506707",
+      "fetched_at": "2026-08-11T22:30:16.202181",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,53 +34,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-11T18:44:05.908034"
-    },
-    {
-      "id": "arbeitnow_software-engineer-c-or-python-2027-grads-london-374542",
-      "title": "Software Engineer (C++ or Python) \u2013 2027 Grads",
-      "company": "Wehrtyou",
-      "location": "London",
-      "description": "&lt;p&gt;&lt;em&gt;&lt;strong&gt;We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Hudson River Trading (HRT) is seeking talented Software Engineers to join our teams in New York, London, and Singapore. As a Software Engineer at HRT, the code you write is our business. Our software engineers create and maintain critical technol",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-c-or-python-2027-grads-london-374542",
-      "remote": false,
-      "tags": [
-        "Campus"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786452941,
-      "fetched_at": "2026-08-11T18:43:50.695833",
-      "match_score": 53.36,
-      "score_breakdown": {
-        "semantic_similarity": 0.58,
-        "semantic_score": 48.36,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-11T18:44:05.908536"
-    },
-    {
-      "id": "arbeitnow_software-engineering-internship-c-or-python-summer-2027-london-432657",
-      "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
-      "company": "Wehrtyou",
-      "location": "London",
-      "description": "&lt;p&gt;&lt;em&gt;&lt;strong&gt;We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines\u2014math, computer science, physics, engineer",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineering-internship-c-or-python-summer-2027-london-432657",
-      "remote": false,
-      "tags": [
-        "Campus"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786452941,
-      "fetched_at": "2026-08-11T18:43:50.695828",
-      "match_score": 50.96,
-      "score_breakdown": {
-        "semantic_similarity": 0.5611,
-        "semantic_score": 45.96,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-11T18:44:05.908506"
+      "scored_at": "2026-08-11T22:30:33.582444"
     },
     {
       "id": "arbeitnow_remote-software-engineer-infrastructure-44606",
@@ -95,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786448424,
-      "fetched_at": "2026-08-11T18:43:50.693340",
+      "fetched_at": "2026-08-11T22:30:20.142199",
       "match_score": 41.4,
       "score_breakdown": {
         "semantic_similarity": 0.4075,
@@ -103,7 +57,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908208"
+      "scored_at": "2026-08-11T22:30:33.582664"
+    },
+    {
+      "id": "arbeitnow_remote-software-engineer-infrastructure-27936",
+      "title": "Software Engineer, Infrastructure",
+      "company": "Camunda",
+      "location": "Remote",
+      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-27936",
+      "remote": false,
+      "tags": [
+        "Products"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473608,
+      "fetched_at": "2026-08-11T22:30:20.144913",
+      "match_score": 41.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.4075,
+        "semantic_score": 26.4,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582901"
     },
     {
       "id": "arbeitnow_remote-software-engineer-backend-distributed-systems-206003",
@@ -118,7 +95,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786448424,
-      "fetched_at": "2026-08-11T18:43:50.693344",
+      "fetched_at": "2026-08-11T22:30:20.142203",
       "match_score": 39.5,
       "score_breakdown": {
         "semantic_similarity": 0.3925,
@@ -126,7 +103,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908222"
+      "scored_at": "2026-08-11T22:30:33.582687"
     },
     {
       "id": "arbeitnow_ai-technical-lead-c-ecosystem-london-336879",
@@ -141,7 +118,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463707,
-      "fetched_at": "2026-08-11T18:43:50.694621",
+      "fetched_at": "2026-08-11T22:30:20.145462",
       "match_score": 37.77,
       "score_breakdown": {
         "semantic_similarity": 0.4968,
@@ -149,7 +126,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908371"
+      "scored_at": "2026-08-11T22:30:33.583039"
+    },
+    {
+      "id": "arbeitnow_software-engineer-full-stack-uk-london-237008",
+      "title": "Software Engineer, Full Stack - UK",
+      "company": "Ema",
+      "location": "United Kingdom (Remote)",
+      "description": "<h1><strong>About Ema</strong></h1><p style=\"min-height:1.5em\">Ema is building the world\u2019s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs.</p>",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/software-engineer-full-stack-uk-london-237008",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473615,
+      "fetched_at": "2026-08-11T22:30:20.144741",
+      "match_score": 36.63,
+      "score_breakdown": {
+        "semantic_similarity": 0.3306,
+        "semantic_score": 16.63,
+        "location_match": 15,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-11T22:30:33.582886"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-data-london-united-kingdom-276115",
+      "title": "Senior Software Engineer - Data",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "description": "<p style=\"min-height:1.5em\"><strong>Do you want to help define the future of finance?</strong></p><p style=\"min-height:1.5em\">Are you a strong software engineer who's passionate about data, distributed systems, and delivering impact at scale? Are you looking for a values-driven company that invests in its people and gives you the autonomy to shape critical systems, while staying close to the code?</p><p style=\"min-height:1.5em\">We're looking for a Senior Software Engineer to join Elliptic's Prod",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-software-engineer-data-london-united-kingdom-276115",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473616,
+      "fetched_at": "2026-08-11T22:30:20.144301",
+      "match_score": 36.57,
+      "score_breakdown": {
+        "semantic_similarity": 0.4873,
+        "semantic_score": 36.57,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582778"
     },
     {
       "id": "arbeitnow_senior-research-engineer-code-world-models-london-223362",
@@ -164,7 +187,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463707,
-      "fetched_at": "2026-08-11T18:43:50.694292",
+      "fetched_at": "2026-08-11T22:30:20.145129",
       "match_score": 36.3,
       "score_breakdown": {
         "semantic_similarity": 0.4852,
@@ -172,7 +195,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908288"
+      "scored_at": "2026-08-11T22:30:33.582956"
     },
     {
       "id": "arbeitnow_senior-software-engineer-c-flight-software-ottobrunn-bavaria-parsdorf-bavaria-258317",
@@ -187,7 +210,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786449321,
-      "fetched_at": "2026-08-11T18:43:50.692788",
+      "fetched_at": "2026-08-11T22:30:20.141653",
       "match_score": 34.64,
       "score_breakdown": {
         "semantic_similarity": 0.4722,
@@ -195,7 +218,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908164"
+      "scored_at": "2026-08-11T22:30:33.582588"
     },
     {
       "id": "arbeitnow_principal-mission-tooling-software-engineer-munich-281357",
@@ -210,7 +233,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786470004,
-      "fetched_at": "2026-08-11T18:43:50.690866",
+      "fetched_at": "2026-08-11T22:30:20.139730",
       "match_score": 30.91,
       "score_breakdown": {
         "semantic_similarity": 0.4429,
@@ -218,7 +241,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908080"
+      "scored_at": "2026-08-11T22:30:33.582528"
+    },
+    {
+      "id": "arbeitnow_sr-forward-deployed-engineer-architect-full-stack-london-119417",
+      "title": "Sr. Forward Deployed Engineer - Architect - Full Stack",
+      "company": "Databricks",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;strong&gt;Requisition # CSQ327R269&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer Architect you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside en",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-forward-deployed-engineer-architect-full-stack-london-119417",
+      "remote": false,
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786485307,
+      "fetched_at": "2026-08-11T22:30:20.143489",
+      "match_score": 30.78,
+      "score_breakdown": {
+        "semantic_similarity": 0.4025,
+        "semantic_score": 25.78,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-11T22:30:33.582718"
+    },
+    {
+      "id": "arbeitnow_senior-ai-product-engineer-london-united-kingdom-366883",
+      "title": "Senior AI Product Engineer",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "description": "<p style=\"min-height:1.5em\"><strong>Do you want to build the AI systems that compliance teams rely on to investigate real financial crime? Are you excited about taking agentic workflows from prototype to production at scale? Do you want your work to directly help catch bad actors moving money across blockchains?</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Elliptic is hiring a Senior AI Engineer to join our AI team. It is the team behind Elliptic's copilot, the AI prod",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-ai-product-engineer-london-united-kingdom-366883",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473616,
+      "fetched_at": "2026-08-11T22:30:20.144368",
+      "match_score": 30.33,
+      "score_breakdown": {
+        "semantic_similarity": 0.4383,
+        "semantic_score": 30.33,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582807"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-455718",
@@ -233,7 +302,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786452965,
-      "fetched_at": "2026-08-11T18:43:50.695721",
+      "fetched_at": "2026-08-11T22:30:20.146527",
       "match_score": 30.16,
       "score_breakdown": {
         "semantic_similarity": 0.3192,
@@ -241,7 +310,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908472"
+      "scored_at": "2026-08-11T22:30:33.583134"
     },
     {
       "id": "arbeitnow_senior-machine-learning-developer-junie-london-168371",
@@ -256,7 +325,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463707,
-      "fetched_at": "2026-08-11T18:43:50.694382",
+      "fetched_at": "2026-08-11T22:30:20.145223",
       "match_score": 25.24,
       "score_breakdown": {
         "semantic_similarity": 0.3983,
@@ -264,7 +333,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908318"
+      "scored_at": "2026-08-11T22:30:33.582985"
+    },
+    {
+      "id": "arbeitnow_remote-qa-automation-engineer-idea-ultimate-qa-51359",
+      "title": "QA Automation Engineer (IDEA Ultimate QA)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
+      "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have been striving to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers and businesses to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;IntelliJ IDEA revolutionized the Java development tool market back in 2001, becoming the first IDE to offer automated code refactoring. It continues to drive innovation in ",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
+      "remote": false,
+      "tags": [
+        "IDEA Ultimate QA"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786481729,
+      "fetched_at": "2026-08-11T22:30:20.138721",
+      "match_score": 25.01,
+      "score_breakdown": {
+        "semantic_similarity": 0.2786,
+        "semantic_score": 10.01,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582491"
     },
     {
       "id": "arbeitnow_staff-site-reliability-engineer-berlin-berlin-66031",
@@ -279,7 +371,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786460109,
-      "fetched_at": "2026-08-11T18:43:50.691856",
+      "fetched_at": "2026-08-11T22:30:20.140706",
       "match_score": 24.65,
       "score_breakdown": {
         "semantic_similarity": 0.3937,
@@ -287,7 +379,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908134"
+      "scored_at": "2026-08-11T22:30:33.582560"
+    },
+    {
+      "id": "arbeitnow_software-engineering-lead-london-united-kingdom-338856",
+      "title": "Software Engineering Lead",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "description": "<p style=\"min-height:1.5em\">Do you enjoy building scalable products that empower compliance teams to track fund flows and uncover deeper insights in financial data? Are you excited to solve complex engineering challenges that improve speed, precision, and usability across investigative workflows?</p><p style=\"min-height:1.5em\">Elliptic is seeking a <strong>Software Engineering Lead</strong> to join our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.elliptic.co/solutions/",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/software-engineering-lead-london-united-kingdom-338856",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473616,
+      "fetched_at": "2026-08-11T22:30:20.144260",
+      "match_score": 20.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.3641,
+        "semantic_score": 20.89,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582748"
+    },
+    {
+      "id": "arbeitnow_forward-deployed-builder-london-357959",
+      "title": "Forward Deployed Builder",
+      "company": "Ema",
+      "location": "United Kingdom (Remote)",
+      "description": "<h1><strong>About Ema</strong></h1><p style=\"min-height:1.5em\">Ema is building the world\u2019s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and Okta, our team includes engineers from premier tech companies and graduates of Stanford, MIT, UC Berkeley, CMU, and IITs.</p>",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/forward-deployed-builder-london-357959",
+      "remote": false,
+      "tags": [
+        "Sales"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786473615,
+      "fetched_at": "2026-08-11T22:30:20.144738",
+      "match_score": 20.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.2395,
+        "semantic_score": 5.03,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T22:30:33.582848"
     },
     {
       "id": "arbeitnow_senior-software-engineer-chem-bio-london-485374",
@@ -302,7 +440,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463704,
-      "fetched_at": "2026-08-11T18:43:50.694623",
+      "fetched_at": "2026-08-11T22:30:20.145465",
       "match_score": 17.05,
       "score_breakdown": {
         "semantic_similarity": 0.334,
@@ -310,7 +448,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908408"
+      "scored_at": "2026-08-11T22:30:33.583073"
     },
     {
       "id": "arbeitnow_senior-ip-counsel-london-107826",
@@ -325,7 +463,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463707,
-      "fetched_at": "2026-08-11T18:43:51.757757",
+      "fetched_at": "2026-08-11T22:30:21.209902",
       "match_score": 13.14,
       "score_breakdown": {
         "semantic_similarity": 0.3032,
@@ -333,7 +471,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908569"
+      "scored_at": "2026-08-11T22:30:33.583169"
     },
     {
       "id": "arbeitnow_gnc-engineer-flight-software-development-c-ottobrunn-bavaria-parsdorf-bavaria-471936",
@@ -348,7 +486,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786449321,
-      "fetched_at": "2026-08-11T18:43:50.692841",
+      "fetched_at": "2026-08-11T22:30:20.141709",
       "match_score": 11.37,
       "score_breakdown": {
         "semantic_similarity": 0.2501,
@@ -356,7 +494,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T18:44:05.908192"
+      "scored_at": "2026-08-11T22:30:33.582647"
     },
     {
       "id": "arbeitnow_head-of-product-and-tech-ovo-drive-any-of-our-offices-191687",
@@ -372,7 +510,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463718,
-      "fetched_at": "2026-08-11T18:43:50.694188",
+      "fetched_at": "2026-08-11T22:30:20.145023",
       "match_score": 8.7,
       "score_breakdown": {
         "semantic_similarity": 0.2684,
@@ -380,7 +518,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908258"
+      "scored_at": "2026-08-11T22:30:33.582928"
     },
     {
       "id": "arbeitnow_founding-ml-engineer-spectrum-london-471148",
@@ -395,7 +533,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786463707,
-      "fetched_at": "2026-08-11T18:43:50.694561",
+      "fetched_at": "2026-08-11T22:30:20.145402",
       "match_score": 6.45,
       "score_breakdown": {
         "semantic_similarity": 0.2507,
@@ -403,7 +541,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908345"
+      "scored_at": "2026-08-11T22:30:33.583013"
     },
     {
       "id": "arbeitnow_member-of-research-staff-london-174668",
@@ -418,7 +556,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786462818,
-      "fetched_at": "2026-08-11T18:43:50.694870",
+      "fetched_at": "2026-08-11T22:30:20.145726",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.174,
@@ -426,7 +564,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T18:44:05.908440"
+      "scored_at": "2026-08-11T22:30:33.583103"
     }
   ]
 }
