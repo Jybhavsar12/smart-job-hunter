@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "count": 34,
+  "count": 20,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-11T06:44:02.855548",
+      "fetched_at": "2026-08-11T10:40:52.772003",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,30 +34,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-11T06:44:19.648723"
-    },
-    {
-      "id": "arbeitnow_remote-ai-technical-lead-c-ecosystem-138047",
-      "title": "AI Technical Lead - C++ Ecosystem",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;p data-start=&quot;213&quot; data-end=&quot;305&quot;&gt;AI is fundamentally changing how developers write, understand, debug, and maintain software.&lt;/p&gt;\n&lt;p data-start=&quot;307&quot; data-end=&quot;665&quot;&gt;At JetBrains, we&#39;re exploring what an AI-native development experience should look like for C++ developers. We are looking for a senior technical leader to help shape this future by building AI-powered workflows, integrating coding agents into developer tools, and defini",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-ai-technical-lead-c-ecosystem-138047",
-      "remote": false,
-      "tags": [
-        "C/C++ Ecosystem"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395311,
-      "fetched_at": "2026-08-11T06:44:06.703939",
-      "match_score": 52.77,
-      "score_breakdown": {
-        "semantic_similarity": 0.4968,
-        "semantic_score": 37.77,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649160"
+      "scored_at": "2026-08-11T10:41:13.414315"
     },
     {
       "id": "arbeitnow_senior-data-engineer-belfast-18470",
@@ -72,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786419622,
-      "fetched_at": "2026-08-11T06:44:06.705726",
+      "fetched_at": "2026-08-11T10:40:57.368251",
       "match_score": 48.55,
       "score_breakdown": {
         "semantic_similarity": 0.5815,
@@ -80,168 +57,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649357"
-    },
-    {
-      "id": "arbeitnow_remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
-      "title": "Senior Graphics/JVM Software Engineer  (JVM Runtime)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;We&#39;re now looking for a Senior Graphics/JVM Software Engineer with in-depth knowledge of modern hardware-accelerated APIs to join the JetBrains Runtime (JBR) team. Based on the LTS versions",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-graphics-jvm-software-engineer-jvm-runtime-554",
-      "remote": false,
-      "tags": [
-        "JetBrains Runtime"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:06.703742",
-      "match_score": 43.07,
-      "score_breakdown": {
-        "semantic_similarity": 0.4205,
-        "semantic_score": 28.07,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649109"
-    },
-    {
-      "id": "arbeitnow_remote-senior-machine-learning-developer-junie-361256",
-      "title": "(Senior) Machine Learning Developer (Junie)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;p&gt;Are you an engineer who loves diving deep into ML models, building standalone CLI tools, and exploring how far AI agents can go in autonomous coding? Do you want to rethink how software is built and use the tools you create every single day?&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About JetBrains&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 ",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-machine-learning-developer-junie-361256",
-      "remote": false,
-      "tags": [
-        "Junie Base Quality"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:06.703740",
-      "match_score": 40.24,
-      "score_breakdown": {
-        "semantic_similarity": 0.3983,
-        "semantic_score": 25.24,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649081"
-    },
-    {
-      "id": "arbeitnow_remote-software-engineer-backend-distributed-systems-306240",
-      "title": "Software Engineer, Backend - Distributed Systems",
-      "company": "Camunda",
-      "location": "Remote",
-      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
-      "remote": false,
-      "tags": [
-        "Products"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786398020,
-      "fetched_at": "2026-08-11T06:44:06.712066",
-      "match_score": 39.5,
-      "score_breakdown": {
-        "semantic_similarity": 0.3925,
-        "semantic_score": 24.5,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649726"
-    },
-    {
-      "id": "arbeitnow_senior-research-engineer-code-world-models-berlin-munich-246100",
-      "title": "Senior Research Engineer (Code World Models)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "description": "&lt;div&gt;\n&lt;div class=&quot;description__e030 renderedMarkdown__c113 prosemirror__b91a markdown__e688 font__eef6&quot;&gt;\n&lt;p&gt;JetBrains is a global software company that creates intelligent tools for software developers and teams. Since 2000, we have built products that help developers work more productively, write higher-quality code, and stay focused on solving real problems.&lt;/p&gt;\n&lt;p&gt;The JetBrains Research team is looking for a Senior Research Engineer to work on Code Worl",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-research-engineer-code-world-models-berlin-munich-246100",
-      "remote": false,
-      "tags": [
-        "AI Agents & Planning"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:06.703479",
-      "match_score": 36.3,
-      "score_breakdown": {
-        "semantic_similarity": 0.4852,
-        "semantic_score": 36.3,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649025"
-    },
-    {
-      "id": "arbeitnow_backend-engineer-fintech-hamburg-484437",
-      "title": "Backend Engineer - FinTech (M/F/D)",
-      "company": "freenow",
-      "location": "Hamburg",
-      "description": "&lt;p&gt;Freenow empowers smarter mobility decisions helping people to move freely and cities to thrive.&lt;/p&gt;\n&lt;p&gt;This is an exciting time to join us: Freenow is now part of Lyft, and we&#39;re growing our tech organization as we integrate with Lyft&#39;s global platform and systems. That means more scale, more engineering depth to learn from, and more opportunity to shape how our systems evolve as we bring the two worlds together.&lt;/p&gt;\n&lt;p&gt;We are keen to hire a Backend Engin",
-      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-hamburg-484437",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395316,
-      "fetched_at": "2026-08-11T06:44:06.702946",
-      "match_score": 32.94,
-      "score_breakdown": {
-        "semantic_similarity": 0.4588,
-        "semantic_score": 32.94,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.648846"
-    },
-    {
-      "id": "arbeitnow_backend-engineer-fintech-berlin-317646",
-      "title": "Backend Engineer - FinTech (M/F/D)",
-      "company": "freenow",
-      "location": "Berlin",
-      "description": "&lt;p&gt;Freenow empowers smarter mobility decisions helping people to move freely and cities to thrive.&lt;/p&gt;\n&lt;p&gt;This is an exciting time to join us: Freenow is now part of Lyft, and we&#39;re growing our tech organization as we integrate with Lyft&#39;s global platform and systems. That means more scale, more engineering depth to learn from, and more opportunity to shape how our systems evolve as we bring the two worlds together.&lt;/p&gt;\n&lt;p&gt;We are keen to hire a Backend Engin",
-      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-berlin-317646",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395316,
-      "fetched_at": "2026-08-11T06:44:06.702956",
-      "match_score": 32.94,
-      "score_breakdown": {
-        "semantic_similarity": 0.4588,
-        "semantic_score": 32.94,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.648875"
-    },
-    {
-      "id": "arbeitnow_staff-software-developer-intellij-platform-berlin-munich-478052",
-      "title": "Staff Software Developer (IntelliJ Platform)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;The IntelliJ Platform is the foundation of JetBrains IDEs, driving innovation and enabling millions of developers worldwide to achieve their full potential. We\u2019re now looking for a Staff Softwa",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/staff-software-developer-intellij-platform-berlin-munich-478052",
-      "remote": false,
-      "tags": [
-        "IntelliJ Platform"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:07.770163",
-      "match_score": 27.44,
-      "score_breakdown": {
-        "semantic_similarity": 0.4156,
-        "semantic_score": 27.44,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649762"
+      "scored_at": "2026-08-11T10:41:13.414631"
     },
     {
       "id": "arbeitnow_staff-software-engineer-continuous-integration-london-161489",
@@ -256,7 +72,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786409711,
-      "fetched_at": "2026-08-11T06:44:06.706696",
+      "fetched_at": "2026-08-11T10:40:57.369220",
       "match_score": 24.22,
       "score_breakdown": {
         "semantic_similarity": 0.3903,
@@ -264,7 +80,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649471"
+      "scored_at": "2026-08-11T10:41:13.414700"
     },
     {
       "id": "arbeitnow_remote-lead-data-products-engineer-380765",
@@ -280,7 +96,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T06:44:06.710104",
+      "fetched_at": "2026-08-11T10:40:57.372741",
       "match_score": 23.54,
       "score_breakdown": {
         "semantic_similarity": 0.2671,
@@ -288,30 +104,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649569"
-    },
-    {
-      "id": "arbeitnow_remote-founding-ml-engineer-spectrum-228679",
-      "title": "Founding ML Engineer (Spectrum)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;p&gt;Software engineers and AI agents alike suffer from the same problem: finding that one person or place that will answer their tough, specific question. Many solutions promise to solve this with similarity search in vector databases. Unfortunately, finding the answer is often a puzzle with pieces to be collected across a myriad of contradictory sources and cannot be solved without surgical search and careful reasoning.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Spectrum collects data from an organizati",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-228679",
-      "remote": false,
-      "tags": [
-        "Spectrum"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395311,
-      "fetched_at": "2026-08-11T06:44:06.703879",
-      "match_score": 21.45,
-      "score_breakdown": {
-        "semantic_similarity": 0.2507,
-        "semantic_score": 6.45,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649136"
+      "scored_at": "2026-08-11T10:41:13.414801"
     },
     {
       "id": "arbeitnow_senior-software-engineer-cheltenham-uk-153338",
@@ -326,7 +119,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T06:44:06.711351",
+      "fetched_at": "2026-08-11T10:40:57.373994",
       "match_score": 21.15,
       "score_breakdown": {
         "semantic_similarity": 0.3662,
@@ -334,7 +127,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649636"
+      "scored_at": "2026-08-11T10:41:13.414869"
     },
     {
       "id": "arbeitnow_software-engineer-rapid-response-assignment-uk-cheltenham-251030",
@@ -349,7 +142,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T06:44:06.711303",
+      "fetched_at": "2026-08-11T10:40:57.373940",
       "match_score": 20.47,
       "score_breakdown": {
         "semantic_similarity": 0.3608,
@@ -357,7 +150,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649592"
+      "scored_at": "2026-08-11T10:41:13.414825"
     },
     {
       "id": "arbeitnow_ai-automation-engineer-berlin-107094",
@@ -372,7 +165,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786416920,
-      "fetched_at": "2026-08-11T06:44:06.701122",
+      "fetched_at": "2026-08-11T10:40:57.365738",
       "match_score": 20.41,
       "score_breakdown": {
         "semantic_similarity": 0.3604,
@@ -380,53 +173,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.648775"
+      "scored_at": "2026-08-11T10:41:13.414489"
     },
     {
-      "id": "arbeitnow_remote-senior-software-engineer-appglass-466852",
-      "title": "Senior Software Engineer (AppGlass)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;One of the projects we\u2019re working on within the JetBrains Innovation Hub is the AppGlass, a product for safe, AI-first debugging of pr",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-software-engineer-appglass-466852",
+      "id": "arbeitnow_fullstack-engineer-typescript-aws-react-cologne-298108",
+      "title": "Fullstack Engineer- Typescript, AWS, React (m/f/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Cologne, Nordrhein-Westfalen, Germany",
+      "description": "<p style=\"text-align:start;\"><strong>About Trusted Shops</strong>&nbsp;</p><p style=\"text-align:start;\">Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&nbsp;</p><p style=\"text-align:start;\">With around 700 colleagues across Europe, more than 25,000 online shops, and over",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-typescript-aws-react-cologne-298108",
       "remote": false,
       "tags": [
-        "Live Debugger"
+        "Tech"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:06.703451",
-      "match_score": 20.37,
+      "posted_at": 1786437008,
+      "fetched_at": "2026-08-11T10:40:57.364192",
+      "match_score": 17.5,
       "score_breakdown": {
-        "semantic_similarity": 0.2422,
-        "semantic_score": 5.37,
-        "location_match": 15,
-        "priority_keywords": 0
+        "semantic_similarity": 0.2982,
+        "semantic_score": 12.5,
+        "location_match": 0,
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T06:44:19.648996"
+      "scored_at": "2026-08-11T10:41:13.414440"
     },
     {
-      "id": "arbeitnow_sr-software-engineer-java-cologne-101899",
-      "title": "Sr Software Engineer (Java) (m/w/d)",
-      "company": "TENIOS GmbH",
-      "location": "Cologne",
-      "description": "<p><strong>Wir suchen einen Senior Java Engineer (m/w/d), der/die die Backend-Services hinter unserer Cloud-Communications-Plattform mitgestaltet, aufbaut und betreibt \u2014 von Architekturentscheidungen bis zum Produktivbetrieb.</strong></p>\n<p>Sie arbeiten in einer interdisziplin\u00e4ren Engineering-Organisation und entwickeln verteilte, cloud-native Systeme, die Sprach- und Messaging-Produkte f\u00fcr Kunden in der DACH-Region und international unterst\u00fctzen.</p>\n<p><strong>\u00dcber uns</strong></p>\n<p>Die TEN",
-      "url": "https://www.arbeitnow.com/jobs/companies/tenios-gmbh/sr-software-engineer-java-cologne-101899",
+      "id": "arbeitnow_senior-platform-engineer-developer-experience-london-360744",
+      "title": "Senior Platform Engineer - Developer Experience",
+      "company": "9Fin",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\"><strong>About 9fin</strong></p><p style=\"min-height:1.5em\">9fin is the AI platform powering global debt markets \u2014 the world\u2019s largest asset class at over $145 trillion.</p><p style=\"min-height:1.5em\">Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises proprietary credit data, deep analysis, and high-value workflows across glob",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-developer-experience-london-360744",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786386627,
-      "fetched_at": "2026-08-11T06:44:06.704230",
-      "match_score": 18.45,
+      "posted_at": 1786430419,
+      "fetched_at": "2026-08-11T10:40:57.367126",
+      "match_score": 16.81,
       "score_breakdown": {
-        "semantic_similarity": 0.345,
-        "semantic_score": 18.45,
+        "semantic_similarity": 0.332,
+        "semantic_score": 16.81,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649263"
+      "scored_at": "2026-08-11T10:41:13.414558"
     },
     {
       "id": "arbeitnow_senior-technical-talent-partner-uk-greater-cheltenham-14381",
@@ -441,7 +234,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398943,
-      "fetched_at": "2026-08-11T06:44:06.711349",
+      "fetched_at": "2026-08-11T10:40:57.373992",
       "match_score": 16.77,
       "score_breakdown": {
         "semantic_similarity": 0.3318,
@@ -449,30 +242,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649614"
-    },
-    {
-      "id": "arbeitnow_senior-staff-platform-engineer-berlin-182939",
-      "title": "Senior/Staff Platform Engineer (m/f/x)",
-      "company": "Cortea AI",
-      "location": "Berlin",
-      "description": "<h1><strong>Your Role</strong></h1><p style=\"min-height:1.5em\">We ship fast, and we intend to keep shipping fast. The consequence is that our system is outgrowing the amount of deliberate design that went into it. We run AI agents over customer documents in a domain where being wrong is expensive, and a lot of the load-bearing decisions about how those fit together are still implicit.</p><p style=\"min-height:1.5em\">You will be making those decisions explicit and then making them hold. That means",
-      "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/senior-staff-platform-engineer-berlin-182939",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786394420,
-      "fetched_at": "2026-08-11T06:44:06.703998",
-      "match_score": 14.95,
-      "score_breakdown": {
-        "semantic_similarity": 0.3174,
-        "semantic_score": 14.95,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649225"
+      "scored_at": "2026-08-11T10:41:13.414847"
     },
     {
       "id": "arbeitnow_machine-learning-engineer-london-86760",
@@ -487,7 +257,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T06:44:06.709948",
+      "fetched_at": "2026-08-11T10:40:57.372586",
       "match_score": 14.45,
       "score_breakdown": {
         "semantic_similarity": 0.3136,
@@ -495,7 +265,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649545"
+      "scored_at": "2026-08-11T10:41:13.414777"
     },
     {
       "id": "arbeitnow_senior-manager-forward-deployed-ai-engineer-london-62733",
@@ -510,7 +280,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T06:44:06.708626",
+      "fetched_at": "2026-08-11T10:40:57.371214",
       "match_score": 14.37,
       "score_breakdown": {
         "semantic_similarity": 0.3129,
@@ -518,7 +288,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649499"
+      "scored_at": "2026-08-11T10:41:13.414728"
     },
     {
       "id": "arbeitnow_manager-senior-platform-software-engineer-london-189271",
@@ -534,7 +304,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786398944,
-      "fetched_at": "2026-08-11T06:44:06.709862",
+      "fetched_at": "2026-08-11T10:40:57.372499",
       "match_score": 10.49,
       "score_breakdown": {
         "semantic_similarity": 0.2824,
@@ -542,120 +312,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649523"
+      "scored_at": "2026-08-11T10:41:13.414753"
     },
     {
-      "id": "arbeitnow_jr-software-engineer-ml-runtime-rust-munich-213726",
-      "title": "Jr Software Engineer - ML Runtime - Rust",
-      "company": "Tensordyne",
-      "location": "Munich, Bavaria, Germany",
-      "description": "<p><strong>About Tensordyne (formerly Recogni)</strong></p>\n<p>AI is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve complex problems. Tensordyne is an AI system solution company that builds very high-performance, low-power generative AI inference systems. Our mission, through the creation of custom silicon, hardware and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/tensordyne/jr-software-engineer-ml-runtime-rust-munich-213726",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786394727,
-      "fetched_at": "2026-08-11T06:44:06.703942",
-      "match_score": 9.36,
-      "score_breakdown": {
-        "semantic_similarity": 0.2735,
-        "semantic_score": 9.36,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.649194"
-    },
-    {
-      "id": "arbeitnow_senior-ml-researcher-spectrum-berlin-munich-82475",
-      "title": "Senior ML Researcher (Spectrum)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "description": "&lt;p&gt;Software engineers and AI agents alike suffer from the same problem: finding that one person or place that will answer their tough, specific question. Many solutions promise to solve this with similarity search in vector databases. Unfortunately, finding the answer is often a puzzle with pieces to be collected across a myriad of contradictory sources and cannot be solved without surgical search and careful reasoning.&lt;/p&gt;\n&lt;p&gt;Spectrum collects data from an organization&#39;s c",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-ml-researcher-spectrum-berlin-munich-82475",
+      "id": "arbeitnow_software-backend-entwickler-paderborn-424896",
+      "title": "Software Backend-Entwickler (m/w/d)",
+      "company": "L\u00f6dige Industries GmbH",
+      "location": "Paderborn",
+      "description": "<p>Wir sichen zur Erweiterung unseres Teams f\u00fcr den Standort in Paderborn einen qualifizierten und engagierten <strong>Software Backend-Entwickler (m/w/d)</strong>.</p>\n<p><strong>L\u00f6dige Industries</strong> mit <strong>Hauptsitz in Paderborn (NRW)</strong> ist mit <strong>mehr als 1.400 Mitarbeitern</strong> und Tochterunternehmen in Europa, Asien, Amerika, Australien und dem Nahen Osten einer der <strong>weltweit f\u00fchrenden Anbieter von Logistiksystemen und Aufzugsl\u00f6sungen</strong>. Seit mehr al",
+      "url": "https://www.arbeitnow.com/jobs/companies/lodige-industries-gmbh/software-backend-entwickler-paderborn-424896",
       "remote": false,
       "tags": [
-        "Spectrum"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786395312,
-      "fetched_at": "2026-08-11T06:44:06.703642",
-      "match_score": 5.3,
+      "posted_at": 1786438836,
+      "fetched_at": "2026-08-11T10:40:57.363664",
+      "match_score": 3.87,
       "score_breakdown": {
-        "semantic_similarity": 0.2417,
-        "semantic_score": 5.3,
+        "semantic_similarity": 0.2304,
+        "semantic_score": 3.87,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649053"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-richen-baden-wurttemberg-170967",
-      "title": "Senior Software Engineer (f/m/d)",
-      "company": "Gropyus",
-      "location": "Richen, Baden-W\u00fcrttemberg",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-richen-baden-wurttemberg-170967",
-      "remote": false,
-      "tags": [
-        "Product Delivery"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395314,
-      "fetched_at": "2026-08-11T06:44:06.703119",
-      "match_score": 3.57,
-      "score_breakdown": {
-        "semantic_similarity": 0.2281,
-        "semantic_score": 3.57,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.648927"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-richen-baden-wurttemberg-8974",
-      "title": "Senior Software Engineer (f/m/d)",
-      "company": "Gropyus",
-      "location": "Richen, Baden-W\u00fcrttemberg",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-richen-baden-wurttemberg-8974",
-      "remote": false,
-      "tags": [
-        "Product Delivery"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395314,
-      "fetched_at": "2026-08-11T06:44:06.703121",
-      "match_score": 3.57,
-      "score_breakdown": {
-        "semantic_similarity": 0.2281,
-        "semantic_score": 3.57,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.648958"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-richen-baden-wurttemberg-201190",
-      "title": "Senior Software Engineer (m/w/d)",
-      "company": "Gropyus",
-      "location": "Richen, Baden-W\u00fcrttemberg",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-richen-baden-wurttemberg-201190",
-      "remote": false,
-      "tags": [
-        "Product Delivery"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786395314,
-      "fetched_at": "2026-08-11T06:44:06.703116",
-      "match_score": 2.7,
-      "score_breakdown": {
-        "semantic_similarity": 0.2212,
-        "semantic_score": 2.7,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T06:44:19.648902"
+      "scored_at": "2026-08-11T10:41:13.414409"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-ai-munich-23984",
@@ -670,7 +350,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786406125,
-      "fetched_at": "2026-08-11T06:44:06.701615",
+      "fetched_at": "2026-08-11T10:40:57.366194",
       "match_score": 1.85,
       "score_breakdown": {
         "semantic_similarity": 0.2145,
@@ -678,30 +358,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.648811"
+      "scored_at": "2026-08-11T10:41:13.414523"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-berlin-119055",
-      "title": "Senior Software Engineer",
-      "company": "Zetaglobal",
-      "location": "Berlin",
-      "description": "&lt;p&gt;&lt;strong&gt;WHO WE ARE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta Marketing Platform (ZMP), our vision is to make sophisticated marketing simple by unifying identity, intelligence, and omnichannel activation into a single platform \u2013 pow",
-      "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/senior-software-engineer-berlin-119055",
+      "id": "arbeitnow_senior-software-engineer-founding-engineer-energy-tech-cologne-6637",
+      "title": "Senior Software Engineer / Founding Engineer (m/w/d) - Energy Tech",
+      "company": "enyo GmbH",
+      "location": "Cologne",
+      "description": "<p>enyo baut das Energiemanagement f\u00fcrs Zuhause. Ein Ger\u00e4t, das im Haus steht und PV-Anlage, Batteriespeicher, W\u00e4rmepumpe und Wallbox miteinander verbindet, unabh\u00e4ngig davon, von welchem Hersteller sie sind. Es entscheidet laufend, welches Ger\u00e4t wann wie viel Strom bekommt: Speicher laden, wenn Sonne da ist oder der Strom g\u00fcnstig ist, W\u00e4rmepumpe hochfahren, wenn es sich lohnt. Der Kunde steckt das Ger\u00e4t an und muss sich um nichts weiter k\u00fcmmern.</p>\n<p>Der schwierige Teil daran: Jeder Hersteller",
+      "url": "https://www.arbeitnow.com/jobs/companies/enyo-gmbh/senior-software-engineer-founding-engineer-energy-tech-cologne-6637",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786384520,
-      "fetched_at": "2026-08-11T06:44:06.704548",
+      "posted_at": 1786438837,
+      "fetched_at": "2026-08-11T10:40:57.363613",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1602,
+        "semantic_similarity": 0.1853,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649298"
+      "scored_at": "2026-08-11T10:41:13.414369"
     },
     {
       "id": "arbeitnow_platform-engineer-cardiff-328325",
@@ -716,7 +396,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786420525,
-      "fetched_at": "2026-08-11T06:44:06.705554",
+      "fetched_at": "2026-08-11T10:40:57.368064",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1369,
@@ -724,7 +404,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649333"
+      "scored_at": "2026-08-11T10:41:13.414604"
     },
     {
       "id": "arbeitnow_software-engineer-london-249117",
@@ -739,7 +419,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786409721,
-      "fetched_at": "2026-08-11T06:44:06.705991",
+      "fetched_at": "2026-08-11T10:40:57.368516",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1345,
@@ -747,7 +427,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649434"
+      "scored_at": "2026-08-11T10:41:13.414667"
     },
     {
       "id": "arbeitnow_software-engineer-platform-newcastle-united-kingdom-newcastle-upon-tyne-359014",
@@ -760,7 +440,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1786398329,
-      "fetched_at": "2026-08-11T06:44:06.711531",
+      "fetched_at": "2026-08-11T10:40:57.374173",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1596,
@@ -768,7 +448,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649676"
+      "scored_at": "2026-08-11T10:41:13.414909"
     },
     {
       "id": "arbeitnow_software-engineer-platform-oxford-united-kingdom-175507",
@@ -781,7 +461,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1786398329,
-      "fetched_at": "2026-08-11T06:44:06.711533",
+      "fetched_at": "2026-08-11T10:40:57.374175",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1751,
@@ -789,7 +469,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T06:44:19.649711"
+      "scored_at": "2026-08-11T10:41:13.414944"
     }
   ]
 }
