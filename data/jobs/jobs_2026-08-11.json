@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-11T14:49:43.137390",
+      "fetched_at": "2026-08-11T18:43:46.506707",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-11T14:50:01.968333"
+      "scored_at": "2026-08-11T18:44:05.908034"
     },
     {
       "id": "arbeitnow_software-engineer-c-or-python-2027-grads-london-374542",
@@ -49,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786452941,
-      "fetched_at": "2026-08-11T14:49:47.228249",
+      "fetched_at": "2026-08-11T18:43:50.695833",
       "match_score": 53.36,
       "score_breakdown": {
         "semantic_similarity": 0.58,
@@ -57,7 +57,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T14:50:01.968718"
+      "scored_at": "2026-08-11T18:44:05.908536"
     },
     {
       "id": "arbeitnow_software-engineering-internship-c-or-python-summer-2027-london-432657",
@@ -72,7 +72,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786452941,
-      "fetched_at": "2026-08-11T14:49:47.228246",
+      "fetched_at": "2026-08-11T18:43:50.695828",
       "match_score": 50.96,
       "score_breakdown": {
         "semantic_similarity": 0.5611,
@@ -80,30 +80,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T14:50:01.968687"
-    },
-    {
-      "id": "arbeitnow_senior-data-engineer-belfast-18470",
-      "title": "Senior Data Engineer",
-      "company": "Instil",
-      "location": "Belfast",
-      "description": "<p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">We're looking for a <strong>Senior Data Engineer </strong>with strong commercial experience building and supporting modern data platforms. You'll work hands-on designing, building, and improving data pipelines that enable analytics, AI, and data-driven decision making.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Essential Skills</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"mi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-data-engineer-belfast-18470",
-      "remote": false,
-      "tags": [
-        "Product Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786419622,
-      "fetched_at": "2026-08-11T14:49:47.231799",
-      "match_score": 48.55,
-      "score_breakdown": {
-        "semantic_similarity": 0.5815,
-        "semantic_score": 48.55,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T14:50:01.968809"
+      "scored_at": "2026-08-11T18:44:05.908506"
     },
     {
       "id": "arbeitnow_remote-software-engineer-infrastructure-44606",
@@ -118,7 +95,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786448424,
-      "fetched_at": "2026-08-11T14:49:47.225681",
+      "fetched_at": "2026-08-11T18:43:50.693340",
       "match_score": 41.4,
       "score_breakdown": {
         "semantic_similarity": 0.4075,
@@ -126,7 +103,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968421"
+      "scored_at": "2026-08-11T18:44:05.908208"
     },
     {
       "id": "arbeitnow_remote-software-engineer-backend-distributed-systems-206003",
@@ -141,7 +118,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786448424,
-      "fetched_at": "2026-08-11T14:49:47.225684",
+      "fetched_at": "2026-08-11T18:43:50.693344",
       "match_score": 39.5,
       "score_breakdown": {
         "semantic_similarity": 0.3925,
@@ -149,7 +126,53 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968436"
+      "scored_at": "2026-08-11T18:44:05.908222"
+    },
+    {
+      "id": "arbeitnow_ai-technical-lead-c-ecosystem-london-336879",
+      "title": "AI Technical Lead - C++ Ecosystem",
+      "company": "Jetbrains",
+      "location": "London",
+      "description": "&lt;p data-start=&quot;213&quot; data-end=&quot;305&quot;&gt;AI is fundamentally changing how developers write, understand, debug, and maintain software.&lt;/p&gt;\n&lt;p data-start=&quot;307&quot; data-end=&quot;665&quot;&gt;At JetBrains, we&#39;re exploring what an AI-native development experience should look like for C++ developers. We are looking for a senior technical leader to help shape this future by building AI-powered workflows, integrating coding agents into developer tools, and defini",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/ai-technical-lead-c-ecosystem-london-336879",
+      "remote": false,
+      "tags": [
+        "C/C++ Ecosystem"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786463707,
+      "fetched_at": "2026-08-11T18:43:50.694621",
+      "match_score": 37.77,
+      "score_breakdown": {
+        "semantic_similarity": 0.4968,
+        "semantic_score": 37.77,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908371"
+    },
+    {
+      "id": "arbeitnow_senior-research-engineer-code-world-models-london-223362",
+      "title": "Senior Research Engineer (Code World Models)",
+      "company": "Jetbrains",
+      "location": "London",
+      "description": "&lt;div&gt;\n&lt;div class=&quot;description__e030 renderedMarkdown__c113 prosemirror__b91a markdown__e688 font__eef6&quot;&gt;\n&lt;p&gt;JetBrains is a global software company that creates intelligent tools for software developers and teams. Since 2000, we have built products that help developers work more productively, write higher-quality code, and stay focused on solving real problems.&lt;/p&gt;\n&lt;p&gt;The JetBrains Research team is looking for a Senior Research Engineer to work on Code Worl",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-research-engineer-code-world-models-london-223362",
+      "remote": false,
+      "tags": [
+        "AI Agents & Planning"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786463707,
+      "fetched_at": "2026-08-11T18:43:50.694292",
+      "match_score": 36.3,
+      "score_breakdown": {
+        "semantic_similarity": 0.4852,
+        "semantic_score": 36.3,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908288"
     },
     {
       "id": "arbeitnow_senior-software-engineer-c-flight-software-ottobrunn-bavaria-parsdorf-bavaria-258317",
@@ -164,7 +187,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786449321,
-      "fetched_at": "2026-08-11T14:49:47.225065",
+      "fetched_at": "2026-08-11T18:43:50.692788",
       "match_score": 34.64,
       "score_breakdown": {
         "semantic_similarity": 0.4722,
@@ -172,7 +195,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968372"
+      "scored_at": "2026-08-11T18:44:05.908164"
+    },
+    {
+      "id": "arbeitnow_principal-mission-tooling-software-engineer-munich-281357",
+      "title": "Principal Mission Tooling Software Engineer",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "description": "<p style=\"min-height:1.5em\">Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit and that can carry cargo - and potentially humans in the longer run.</p><p style=\"min-height:1.5em\">We are looking for an experienced and hands-on <strong>Principal Software Engineer - Mission Tooling (Team Lead)</strong> to lead the development of the mission tooling software stack for Nyx. In this cr",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/principal-mission-tooling-software-engineer-munich-281357",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786470004,
+      "fetched_at": "2026-08-11T18:43:50.690866",
+      "match_score": 30.91,
+      "score_breakdown": {
+        "semantic_similarity": 0.4429,
+        "semantic_score": 30.91,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908080"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-455718",
@@ -187,7 +233,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786452965,
-      "fetched_at": "2026-08-11T14:49:47.228140",
+      "fetched_at": "2026-08-11T18:43:50.695721",
       "match_score": 30.16,
       "score_breakdown": {
         "semantic_similarity": 0.3192,
@@ -195,100 +241,99 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968650"
+      "scored_at": "2026-08-11T18:44:05.908472"
     },
     {
-      "id": "arbeitnow_software-engineer-perception-gilching-495110",
-      "title": "Software Engineer (m/f/d) \u2013 Perception",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching",
-      "description": "<p style=\";\">At Quantum Systems, we are building the next generation of autonomous aerial systems. The Drone Port is a key element of this vision, enabling fully autonomous launch, landing, charging, health monitoring and mission readiness of our UAV platforms.</p><p style=\";\">As a <strong>Software Engineer - Perception</strong>, you will play a central role in developing the intelligence that allows the Drone Port and aircraft to interact seamlessly. You will work on perception algorithms, cont",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-perception-gilching-495110",
+      "id": "arbeitnow_senior-machine-learning-developer-junie-london-168371",
+      "title": "(Senior) Machine Learning Developer (Junie)",
+      "company": "Jetbrains",
+      "location": "London",
+      "description": "&lt;p&gt;Are you an engineer who loves diving deep into ML models, building standalone CLI tools, and exploring how far AI agents can go in autonomous coding? Do you want to rethink how software is built and use the tools you create every single day?&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About JetBrains&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-machine-learning-developer-junie-london-168371",
       "remote": false,
       "tags": [
-        "Engineering",
-        "bachelor's degree"
+        "Junie Base Quality"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786440035,
-      "fetched_at": "2026-08-11T14:49:47.227361",
-      "match_score": 28.72,
+      "posted_at": 1786463707,
+      "fetched_at": "2026-08-11T18:43:50.694382",
+      "match_score": 25.24,
       "score_breakdown": {
-        "semantic_similarity": 0.4256,
-        "semantic_score": 28.72,
+        "semantic_similarity": 0.3983,
+        "semantic_score": 25.24,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968473"
+      "scored_at": "2026-08-11T18:44:05.908318"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-continuous-integration-london-161489",
-      "title": "Staff Software Engineer, Continuous Integration",
-      "company": "anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-continuous-integration-london-161489",
-      "remote": false,
-      "tags": [
-        "Software Engineering - Infrastructure"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786409711,
-      "fetched_at": "2026-08-11T14:49:47.232801",
-      "match_score": 24.22,
-      "score_breakdown": {
-        "semantic_similarity": 0.3903,
-        "semantic_score": 24.22,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T14:50:01.968876"
-    },
-    {
-      "id": "arbeitnow_fullstack-engineer-typescript-aws-react-cologne-298108",
-      "title": "Fullstack Engineer- Typescript, AWS, React (m/f/d)",
-      "company": "Trusted Shops SE (DE)",
-      "location": "Cologne, Nordrhein-Westfalen, Germany",
-      "description": "<p style=\"text-align:start;\"><strong>About Trusted Shops</strong>&nbsp;</p><p style=\"text-align:start;\">Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&nbsp;</p><p style=\"text-align:start;\">With around 700 colleagues across Europe, more than 25,000 online shops, and over",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-typescript-aws-react-cologne-298108",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786437008,
-      "fetched_at": "2026-08-11T14:49:47.227938",
-      "match_score": 17.5,
-      "score_breakdown": {
-        "semantic_similarity": 0.2982,
-        "semantic_score": 12.5,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-11T14:50:01.968615"
-    },
-    {
-      "id": "arbeitnow_senior-platform-engineer-developer-experience-london-360744",
-      "title": "Senior Platform Engineer - Developer Experience",
-      "company": "9Fin",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><strong>About 9fin</strong></p><p style=\"min-height:1.5em\">9fin is the AI platform powering global debt markets \u2014 the world\u2019s largest asset class at over $145 trillion.</p><p style=\"min-height:1.5em\">Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises proprietary credit data, deep analysis, and high-value workflows across glob",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-developer-experience-london-360744",
+      "id": "arbeitnow_staff-site-reliability-engineer-berlin-berlin-66031",
+      "title": "Staff Site Reliability Engineer (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "description": "&lt;h3&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Staff Site Reliability Engineer&lt;/strong&gt; to join our SRE team dedicated to platform reliability within Platform Engineering.&lt;/p&gt;\n&lt;p&gt;Your mission will be to act as a technical leader driving Doctolib&#39;s reliability and scalability at a European scale, ensuring our platform remains reliable, debuggable, and resilient across infrastructure, observability, and cross-cutting ",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-66031",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786430419,
-      "fetched_at": "2026-08-11T14:49:47.230773",
-      "match_score": 16.81,
+      "posted_at": 1786460109,
+      "fetched_at": "2026-08-11T18:43:50.691856",
+      "match_score": 24.65,
       "score_breakdown": {
-        "semantic_similarity": 0.332,
-        "semantic_score": 16.81,
+        "semantic_similarity": 0.3937,
+        "semantic_score": 24.65,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968752"
+      "scored_at": "2026-08-11T18:44:05.908134"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-chem-bio-london-485374",
+      "title": "Senior Software Engineer, Chem-Bio",
+      "company": "Aisi",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About the AI Security Institute&lt;/h2&gt;\n&lt;p&gt;The AI Security Institute is the world&#39;s largest and best-funded team dedicated to understanding advanced AI risks and translating that knowledge into action. We\u2019re in the heart of the UK government with direct lines to No. 10 (the Prime Minister&#39;s office), and we work with frontier developers and governments globally.&lt;/p&gt;\n&lt;p&gt;We\u2019re here because governments are critical for",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/senior-software-engineer-chem-bio-london-485374",
+      "remote": false,
+      "tags": [
+        "Chem/Bio"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786463704,
+      "fetched_at": "2026-08-11T18:43:50.694623",
+      "match_score": 17.05,
+      "score_breakdown": {
+        "semantic_similarity": 0.334,
+        "semantic_score": 17.05,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908408"
+    },
+    {
+      "id": "arbeitnow_senior-ip-counsel-london-107826",
+      "title": "Senior IP Counsel",
+      "company": "Jetbrains",
+      "location": "London",
+      "description": "&lt;p&gt;JetBrains is a global software company that creates intelligent tools for software developers and teams. Since 2000, we\u2019ve built products that help developers work more productively, write higher-quality code, and stay focused on solving real problems. We are looking for &lt;strong&gt;a senior, commercially minded Intellectual Property and Data Protection&amp;nbsp;Lawyer&lt;/strong&gt; to join our in-house Legal team. In this role, you\u2019ll help shape and support JetBrains\u2019&amp;nbsp;intel",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-ip-counsel-london-107826",
+      "remote": false,
+      "tags": [
+        "UBO projects [Legal]"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786463707,
+      "fetched_at": "2026-08-11T18:43:51.757757",
+      "match_score": 13.14,
+      "score_breakdown": {
+        "semantic_similarity": 0.3032,
+        "semantic_score": 13.14,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908569"
     },
     {
       "id": "arbeitnow_gnc-engineer-flight-software-development-c-ottobrunn-bavaria-parsdorf-bavaria-471936",
@@ -303,7 +348,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786449321,
-      "fetched_at": "2026-08-11T14:49:47.225129",
+      "fetched_at": "2026-08-11T18:43:50.692841",
       "match_score": 11.37,
       "score_breakdown": {
         "semantic_similarity": 0.2501,
@@ -311,99 +356,77 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-11T14:50:01.968404"
+      "scored_at": "2026-08-11T18:44:05.908192"
     },
     {
-      "id": "arbeitnow_software-backend-entwickler-paderborn-424896",
-      "title": "Software Backend-Entwickler (m/w/d)",
-      "company": "L\u00f6dige Industries GmbH",
-      "location": "Paderborn",
-      "description": "<p>Wir sichen zur Erweiterung unseres Teams f\u00fcr den Standort in Paderborn einen qualifizierten und engagierten <strong>Software Backend-Entwickler (m/w/d)</strong>.</p>\n<p><strong>L\u00f6dige Industries</strong> mit <strong>Hauptsitz in Paderborn (NRW)</strong> ist mit <strong>mehr als 1.400 Mitarbeitern</strong> und Tochterunternehmen in Europa, Asien, Amerika, Australien und dem Nahen Osten einer der <strong>weltweit f\u00fchrenden Anbieter von Logistiksystemen und Aufzugsl\u00f6sungen</strong>. Seit mehr al",
-      "url": "https://www.arbeitnow.com/jobs/companies/lodige-industries-gmbh/software-backend-entwickler-paderborn-424896",
+      "id": "arbeitnow_head-of-product-and-tech-ovo-drive-any-of-our-offices-191687",
+      "title": "Head of Product and Tech (OVO Drive)",
+      "company": "Ovoenergy",
+      "location": "Any of our offices",
+      "description": "&lt;p&gt;&lt;strong&gt;Role OVO-View&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; OVO Drive&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Hub Based - Hybrid for all&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Salary banding: &lt;/strong&gt;\u00a3110,000 - \u00a3125,000&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Experience:&lt;/strong&gt; Senior Leadership&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Working pattern: &lt;/strong&gt;Full-Time, Permanent&l",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ovoenergy/head-of-product-and-tech-ovo-drive-any-of-our-offices-191687",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Product",
+        "Experience Design & Research"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786454943,
-      "fetched_at": "2026-08-11T14:49:47.227415",
-      "match_score": 3.87,
+      "posted_at": 1786463718,
+      "fetched_at": "2026-08-11T18:43:50.694188",
+      "match_score": 8.7,
       "score_breakdown": {
-        "semantic_similarity": 0.2304,
-        "semantic_score": 3.87,
+        "semantic_similarity": 0.2684,
+        "semantic_score": 8.7,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968555"
+      "scored_at": "2026-08-11T18:44:05.908258"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-founding-engineer-energy-tech-cologne-6637",
-      "title": "Senior Software Engineer / Founding Engineer (m/w/d) - Energy Tech",
-      "company": "enyo GmbH",
-      "location": "Cologne",
-      "description": "<p>enyo baut das Energiemanagement f\u00fcrs Zuhause. Ein Ger\u00e4t, das im Haus steht und PV-Anlage, Batteriespeicher, W\u00e4rmepumpe und Wallbox miteinander verbindet, unabh\u00e4ngig davon, von welchem Hersteller sie sind. Es entscheidet laufend, welches Ger\u00e4t wann wie viel Strom bekommt: Speicher laden, wenn Sonne da ist oder der Strom g\u00fcnstig ist, W\u00e4rmepumpe hochfahren, wenn es sich lohnt. Der Kunde steckt das Ger\u00e4t an und muss sich um nichts weiter k\u00fcmmern.</p>\n<p>Der schwierige Teil daran: Jeder Hersteller",
-      "url": "https://www.arbeitnow.com/jobs/companies/enyo-gmbh/senior-software-engineer-founding-engineer-energy-tech-cologne-6637",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786438837,
-      "fetched_at": "2026-08-11T14:49:47.227388",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1853,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T14:50:01.968512"
-    },
-    {
-      "id": "arbeitnow_platform-engineer-cardiff-328325",
-      "title": "Platform Engineer",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;\ud83d\ude80 We\u2019re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a hr",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/platform-engineer-cardiff-328325",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786420525,
-      "fetched_at": "2026-08-11T14:49:47.231628",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1369,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-11T14:50:01.968785"
-    },
-    {
-      "id": "arbeitnow_software-engineer-london-249117",
-      "title": "Software Engineer",
-      "company": "sonymusicentertainment",
+      "id": "arbeitnow_founding-ml-engineer-spectrum-london-471148",
+      "title": "Founding ML Engineer (Spectrum)",
+      "company": "Jetbrains",
       "location": "London",
-      "description": "&lt;h4&gt;&amp;nbsp;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;About Sony Music Entertainment&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Sony Music Entertainment, we fuel the creative journey. We\u2019ve played a pioneering role in music history, from the first-ever music label to the invention of the flat disc record. We\u2019ve nurtured some of music\u2019s most iconic artists and produced some of the most influential recordings of all time.&lt;/p&gt;\n&lt;p&gt;Today, we work in more than 70 countries, supporting a diverse",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/software-engineer-london-249117",
+      "description": "&lt;p&gt;Software engineers and AI agents alike suffer from the same problem: finding that one person or place that will answer their tough, specific question. Many solutions promise to solve this with similarity search in vector databases. Unfortunately, finding the answer is often a puzzle with pieces to be collected across a myriad of contradictory sources and cannot be solved without surgical search and careful reasoning.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Spectrum collects data from an organizati",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/founding-ml-engineer-spectrum-london-471148",
       "remote": false,
       "tags": [
-        "Product & Engineering"
+        "Spectrum"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786409721,
-      "fetched_at": "2026-08-11T14:49:47.232065",
+      "posted_at": 1786463707,
+      "fetched_at": "2026-08-11T18:43:50.694561",
+      "match_score": 6.45,
+      "score_breakdown": {
+        "semantic_similarity": 0.2507,
+        "semantic_score": 6.45,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-11T18:44:05.908345"
+    },
+    {
+      "id": "arbeitnow_member-of-research-staff-london-174668",
+      "title": "Member of Research Staff (London)",
+      "company": "Voleon",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\">Voleon is a technology company that applies state-of-the-art AI and machine learning techniques to real-world problems in finance. For nearly two decades, we have led our industry and worked at the frontier of applying AI/ML to investment management. We have become a multibillion-dollar asset manager, and we have ambitious goals for the future.<br /> <br />Your colleagues will include internationally recognized experts in artificial intelligence and machine learning r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/member-of-research-staff-london-174668",
+      "remote": false,
+      "tags": [
+        "Research"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786462818,
+      "fetched_at": "2026-08-11T18:43:50.694870",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1345,
+        "semantic_similarity": 0.174,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-11T14:50:01.968843"
+      "scored_at": "2026-08-11T18:44:05.908440"
     }
   ]
 }
