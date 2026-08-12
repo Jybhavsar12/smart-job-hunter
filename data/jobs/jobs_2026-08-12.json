@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "count": 14,
+  "count": 23,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-12T14:50:14.098000",
+      "fetched_at": "2026-08-12T18:45:00.176372",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-12T14:50:30.903260"
+      "scored_at": "2026-08-12T18:45:23.281227"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-286626",
@@ -49,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786538412,
-      "fetched_at": "2026-08-12T14:50:17.935236",
+      "fetched_at": "2026-08-12T18:45:04.407915",
       "match_score": 61.12,
       "score_breakdown": {
         "semantic_similarity": 0.6017,
@@ -57,7 +57,77 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-12T14:50:30.903461"
+      "scored_at": "2026-08-12T18:45:23.281732"
+    },
+    {
+      "id": "arbeitnow_remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
+      "title": "Senior Talent Acquisition Partner - Technology (Product & Software Engineering)",
+      "company": "The Rec Hub",
+      "location": "UK Remote",
+      "description": "<p style=\"min-height:1.5em\"><strong>\ud83d\ude80 Senior Talent Acquisition Partner \u2013 Technology (Product &amp; Software Engineering)</strong></p><p style=\"min-height:1.5em\">\ud83d\udccd Remote \u2013 United Kingdom<br />\ud83d\udcc4 Fixed Term Contract \u2013 6 months</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We're looking for an experienced Senior Talent Acquisition Partner to support one of the world's leading technology businesses as they continue to scale their Product and Engineering organisation.</p><p style=\"m",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-rec-hub/remote-senior-talent-acquisition-partner-technology-product-software-engineering-193061",
+      "remote": false,
+      "tags": [
+        "Partnerships & Delivery"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786549216,
+      "fetched_at": "2026-08-12T18:45:04.406591",
+      "match_score": 32.42,
+      "score_breakdown": {
+        "semantic_similarity": 0.3369,
+        "semantic_score": 17.42,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281606"
+    },
+    {
+      "id": "arbeitnow_remote-forward-deployed-ai-engineer-birmingham-416431",
+      "title": "Forward Deployed AI Engineer",
+      "company": "gravity9",
+      "location": "Remote job",
+      "description": "<p class=\"MsoNormal\"><strong>gravity9</strong> is a boutique IT consulting company headquartered in the UK with offices in the US, Canada, Poland, and Colombia. Our team has deep experience in engineering, experience design and product management. We enjoy a challenge and pride ourselves on working with our clients on their most complex problems, finding elegant and flexible solutions that help them transform their businesses.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Join Our Growing Team",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gravity9/remote-forward-deployed-ai-engineer-birmingham-416431",
+      "remote": true,
+      "tags": [
+        "Talent Pool",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786548619,
+      "fetched_at": "2026-08-12T18:45:04.406911",
+      "match_score": 30.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.323,
+        "semantic_score": 15.65,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281630"
+    },
+    {
+      "id": "arbeitnow_software-implementation-engineer-rostock-461128",
+      "title": "Software Implementation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+      "description": "<p style=\"text-align:justify;min-height: 1.7em;\"></p><h4><strong>About the Role</strong></h4><p class=\"MsoNormal\">As a Software Implementation Engineer, you will play a significant role in function of our Quantum Maritime Engineering Team </p><p class=\"MsoNormal\">Based in Rostock, you\u2019ll collaborate with a growing team of engineers, mechanics, and leaders. As a Software Implementation Engineer, your role is to integrate Quantum Systems software modules within our USVs and UUVs.</p><p class=\"MsoN",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-implementation-engineer-rostock-461128",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786545010,
+      "fetched_at": "2026-08-12T18:45:04.405406",
+      "match_score": 30.23,
+      "score_breakdown": {
+        "semantic_similarity": 0.4375,
+        "semantic_score": 30.23,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281415"
     },
     {
       "id": "arbeitnow_software-engineer-price-comparison-portal-berlin-233707",
@@ -73,7 +143,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516800,
-      "fetched_at": "2026-08-12T14:50:17.931296",
+      "fetched_at": "2026-08-12T18:45:04.403528",
       "match_score": 27.68,
       "score_breakdown": {
         "semantic_similarity": 0.4175,
@@ -81,7 +151,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903308"
+      "scored_at": "2026-08-12T18:45:23.281269"
+    },
+    {
+      "id": "arbeitnow_principal-software-engineer-libraries-platform-162443",
+      "title": "Principal Software Engineer (Libraries Platform)",
+      "company": "Chainguard",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/principal-software-engineer-libraries-platform-162443",
+      "remote": false,
+      "tags": [
+        "R&D Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786551326,
+      "fetched_at": "2026-08-12T18:45:04.405951",
+      "match_score": 24.86,
+      "score_breakdown": {
+        "semantic_similarity": 0.2775,
+        "semantic_score": 9.86,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281446"
+    },
+    {
+      "id": "arbeitnow_senior-ai-software-engineer-gilching-45690",
+      "title": "Senior AI Software Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "description": "<p>As an AI Software Engineer (m/f/d), you will be a key contributor to our AI and perception stack, bringing advanced computer vision and sensor processing capabilities onto real-world unmanned systems. At Quantum Systems, we build intelligent aerial, maritime and ground-based platforms that operate under real constraints - where performance, reliability, and seamless integration are critical.</p><p>&nbsp;</p><p>Working closely with our ML team, as well as experts from flight testing, embedded ",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-ai-software-engineer-gilching-45690",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786545010,
+      "fetched_at": "2026-08-12T18:45:04.405271",
+      "match_score": 24.63,
+      "score_breakdown": {
+        "semantic_similarity": 0.3935,
+        "semantic_score": 24.63,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281354"
+    },
+    {
+      "id": "arbeitnow_software-engineer-perception-gilching-175713",
+      "title": "Software Engineer (m/f/d) \u2013 Perception",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "description": "<p class=\"Paragraph SCXW183979662 BCX0\" style=\"text-align:justify;\">At Quantum Systems, we are building the next generation of autonomous aerial systems. The Drone Port is a key element of this vision, enabling fully autonomous launch, landing, charging, health monitoring and mission readiness of our UAV platforms.</p><p class=\"Paragraph SCXW183979662 BCX0\" style=\"text-align:justify;\">As a <strong>Software Engineer - Perception</strong>, you will play a central role in developing the intelligenc",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-perception-gilching-175713",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786545010,
+      "fetched_at": "2026-08-12T18:45:04.405238",
+      "match_score": 23.52,
+      "score_breakdown": {
+        "semantic_similarity": 0.3848,
+        "semantic_score": 23.52,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281325"
     },
     {
       "id": "arbeitnow_senior-technical-business-analyst-fintech-london-247553",
@@ -96,7 +235,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786528512,
-      "fetched_at": "2026-08-12T14:50:17.935636",
+      "fetched_at": "2026-08-12T18:45:04.408223",
       "match_score": 23.34,
       "score_breakdown": {
         "semantic_similarity": 0.3834,
@@ -104,7 +243,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903533"
+      "scored_at": "2026-08-12T18:45:23.281779"
     },
     {
       "id": "arbeitnow_senior-technical-business-analyst-contractors-outside-ir35-fintech-london-439765",
@@ -119,7 +258,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786528512,
-      "fetched_at": "2026-08-12T14:50:17.935684",
+      "fetched_at": "2026-08-12T18:45:04.408261",
       "match_score": 20.61,
       "score_breakdown": {
         "semantic_similarity": 0.3619,
@@ -127,76 +266,99 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903563"
+      "scored_at": "2026-08-12T18:45:23.281801"
     },
     {
-      "id": "arbeitnow_forward-deployed-engineer-berlin-berlin-107721",
-      "title": "Forward Deployed Engineer",
-      "company": "Banyansoftware",
-      "location": "Berlin, Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. We are on a mission to acquire, build, and grow great companies worldwide, helping them modernize through shared AI expertise and operational discipline. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world. Banyan is Gre",
-      "url": "https://www.arbeitnow.com/jobs/companies/banyansoftware/forward-deployed-engineer-berlin-berlin-107721",
+      "id": "arbeitnow_engineering-compliance-and-csv-manager-berlin-77442",
+      "title": "Engineering Compliance and CSV Manager",
+      "company": "AMBOSS",
+      "location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\">Hi! We are AMBOSS, and we're looking for someone to take the role of <strong>Engineering Compliance Manager and CSV &amp; Process Validation Manager</strong> in our medical device team.<strong><br /></strong></p><p style=\"min-height:1.5em\"><strong>About AMBOSS</strong></p><p style=\"min-height:1.5em\">AMBOSS is a dynamic learning and clinical decision support tool committed to empowering physicians globally to deliver optimal care. Since our inception in 2012, we've har",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/engineering-compliance-and-csv-manager-berlin-77442",
       "remote": false,
       "tags": [
-        "IT"
+        "Research & Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786535732,
-      "fetched_at": "2026-08-12T14:50:17.932061",
-      "match_score": 16.59,
+      "posted_at": 1786545607,
+      "fetched_at": "2026-08-12T18:45:04.404935",
+      "match_score": 19.34,
       "score_breakdown": {
-        "semantic_similarity": 0.3304,
-        "semantic_score": 16.59,
+        "semantic_similarity": 0.352,
+        "semantic_score": 19.34,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903343"
+      "scored_at": "2026-08-12T18:45:23.281297"
     },
     {
-      "id": "arbeitnow_senior-full-stack-software-engineer-munich-85800",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "FRYTE Mobility GmbH",
-      "location": "Munich",
-      "description": "<p>FRYTE is redefining how electric logistics connects with the energy grid.</p>\n<p>From our base in Munich, we're building the intelligence layer that powers the transition from diesel to electric freight.</p>\n<p>Our SaaS platform enables fleet operators, dispatchers, and charge point operators to plan, optimize, and monetize electric truck charging \u2014 aligning fleet efficiency with grid stability.</p>\n<p>Our vision: <strong>replace big oil with smart electrons.</strong></p>\n<p>Our mission: <str",
-      "url": "https://www.arbeitnow.com/jobs/companies/fryte-mobility-gmbh/senior-full-stack-software-engineer-munich-85800",
+      "id": "arbeitnow_graduate-verification-engineer-cambridge-175770",
+      "title": "Graduate Verification Engineer",
+      "company": "Riverlane",
+      "location": "Cambridge",
+      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Cambridge, UK | Full-time | Permanent | Hybrid&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Salary: \u00a337,000 - \u00a340,000&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;s",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/graduate-verification-engineer-cambridge-175770",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Graduate Opportunities"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786534246,
-      "fetched_at": "2026-08-12T14:50:17.932326",
-      "match_score": 15.23,
+      "posted_at": 1786550104,
+      "fetched_at": "2026-08-12T18:45:04.406503",
+      "match_score": 16.63,
       "score_breakdown": {
-        "semantic_similarity": 0.2804,
-        "semantic_score": 10.23,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-12T14:50:30.903392"
-    },
-    {
-      "id": "arbeitnow_machine-learning-platform-engineer-london-165918",
-      "title": "Machine Learning Platform Engineer",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "description": "<p style=\"min-height:1.5em\"><strong>About A1</strong></p><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for long-running workflows, persistent context, and r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/machine-learning-platform-engineer-london-165918",
-      "remote": false,
-      "tags": [
-        "A1 Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786516825,
-      "fetched_at": "2026-08-12T14:50:17.937334",
-      "match_score": 14.74,
-      "score_breakdown": {
-        "semantic_similarity": 0.3158,
-        "semantic_score": 14.74,
+        "semantic_similarity": 0.3307,
+        "semantic_score": 16.63,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903593"
+      "scored_at": "2026-08-12T18:45:23.281572"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-434589",
+      "title": "Staff Software Engineer",
+      "company": "Cloudbedsthirdpartyboard",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What Makes Cloudbeds Unique&lt;/strong&gt;&lt;br&gt;At Cloudbeds, we&#39;re not just building software, we\u2019re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integr",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-434589",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786551310,
+      "fetched_at": "2026-08-12T18:45:04.406114",
+      "match_score": 15.16,
+      "score_breakdown": {
+        "semantic_similarity": 0.2013,
+        "semantic_score": 0.16,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281476"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-161981",
+      "title": "Senior Software Engineer",
+      "company": "Cloudbedsthirdpartyboard",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What Makes Cloudbeds Unique&lt;/strong&gt;&lt;br&gt;At Cloudbeds, we&#39;re not just building software, we\u2019re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integr",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/senior-software-engineer-161981",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786551310,
+      "fetched_at": "2026-08-12T18:45:04.406116",
+      "match_score": 15.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1943,
+        "semantic_score": 0.0,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281503"
     },
     {
       "id": "arbeitnow_staff-software-engineer-infrastructure-distributed-systems-london-127604",
@@ -211,7 +373,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786528529,
-      "fetched_at": "2026-08-12T14:50:17.935406",
+      "fetched_at": "2026-08-12T18:45:04.408043",
       "match_score": 12.2,
       "score_breakdown": {
         "semantic_similarity": 0.2959,
@@ -219,30 +381,95 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903495"
+      "scored_at": "2026-08-12T18:45:23.281758"
     },
     {
-      "id": "arbeitnow_llm-application-engineer-london-329410",
-      "title": "LLM Application Engineer",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "description": "<p style=\"min-height:1.5em\"><strong>About A1</strong></p><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for long-running workflows, persistent context, and r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/llm-application-engineer-london-329410",
+      "id": "arbeitnow_senior-computer-vision-engineer-london-67896",
+      "title": "Senior Computer Vision Engineer",
+      "company": "Catapult Sports",
+      "location": "London, England, United Kingdom",
+      "description": "<h3><strong>SENIOR COMPUTER VISION &amp; TRACKING ENGINEER</strong></h3>\n<p>Catapult is building the future of sports performance technology, with a mission to <strong>Unleash the Potential</strong> of every athlete and team on earth. We don't just work in the sporting industry; we are actively changing it.&nbsp; Since 2006, our solutions have been leading the way in sports performance software, science, and data, in a world where 1% can literally mean the difference between winning and losing.<",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-computer-vision-engineer-london-67896",
       "remote": false,
-      "tags": [
-        "A1 Engineering"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1786516825,
-      "fetched_at": "2026-08-12T14:50:17.937367",
-      "match_score": 11.81,
+      "posted_at": 1786545923,
+      "fetched_at": "2026-08-12T18:45:04.407322",
+      "match_score": 10.28,
       "score_breakdown": {
-        "semantic_similarity": 0.2928,
-        "semantic_score": 11.81,
+        "semantic_similarity": 0.2808,
+        "semantic_score": 10.28,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903618"
+      "scored_at": "2026-08-12T18:45:23.281678"
+    },
+    {
+      "id": "arbeitnow_swarming-software-engineer-gilching-199421",
+      "title": "Swarming Software Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "description": "<p>As a Swarming Software Engineer (m/f/d), you will be a significant key function of our Swarming team and support our mission of letting swarms of drones fly automatically. With our world-class team, currently 7 team members, you will play a pivotal role in pushing the boundaries of drone technology.&nbsp;<br>You will work closely with stakeholders from AI-ML, edge-AI, and control theory to optimize our swarming algorithm. With a focus on multi-UAV coordination, you will support Quantum System",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/swarming-software-engineer-gilching-199421",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786545010,
+      "fetched_at": "2026-08-12T18:45:04.405274",
+      "match_score": 9.9,
+      "score_breakdown": {
+        "semantic_similarity": 0.2778,
+        "semantic_score": 9.9,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281382"
+    },
+    {
+      "id": "arbeitnow_backend-developer-api-data-integrations-berlin-de-64748",
+      "title": "Backend Developer (m/w/d) \u2013 API & Data Integrations",
+      "company": "Octopus Energy Group",
+      "location": "Berlin (DE)",
+      "description": "<div><span style=\"font-size: 11.5pt\">Octopus Energy startete in Gro\u00dfbritannien mit einer mutigen Idee: Wir wollten der erste wirklich digitale Energieversorger werden. Mit modernster Technologie und gro\u00dfartigen Menschen, die sich leidenschaftlich f\u00fcr Kund*innen und die Energiewende einsetzen, haben wir es geschafft und heute sind wir einer der gr\u00f6\u00dften Energieversorger Gro\u00dfbritanniens. </span></div><div><br></div><div><span style=\"font-size: 11.5pt\">2020 haben wir den n\u00e4chsten Schritt gemacht und",
+      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-developer-api-data-integrations-berlin-de-64748",
+      "remote": false,
+      "tags": [
+        "Backend"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786544648,
+      "fetched_at": "2026-08-12T18:45:07.857436",
+      "match_score": 9.2,
+      "score_breakdown": {
+        "semantic_similarity": 0.2723,
+        "semantic_score": 9.2,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281854"
+    },
+    {
+      "id": "arbeitnow_senior-application-security-consultant-london-314144",
+      "title": "Senior Application Security Consultant",
+      "company": "Veracode",
+      "location": "London, England, United Kingdom",
+      "description": "<div class=\"content-intro\"><p>Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market?\u202f Look no further than Veracode!&nbsp;</p>\n<p>Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation engine, the Veracode platform is trusted by organizations worldwide to build and maintain secure software from code creation to cloud deploy",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/veracode/senior-application-security-consultant-london-314144",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786545925,
+      "fetched_at": "2026-08-12T18:45:05.587930",
+      "match_score": 8.95,
+      "score_breakdown": {
+        "semantic_similarity": 0.2703,
+        "semantic_score": 8.95,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T18:45:23.281827"
     },
     {
       "id": "arbeitnow_engineering-director-payments-platform-london-76858",
@@ -257,7 +484,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786538424,
-      "fetched_at": "2026-08-12T14:50:17.934838",
+      "fetched_at": "2026-08-12T18:45:04.407633",
       "match_score": 6.45,
       "score_breakdown": {
         "semantic_similarity": 0.2507,
@@ -265,76 +492,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903431"
+      "scored_at": "2026-08-12T18:45:23.281708"
     },
     {
-      "id": "arbeitnow_software-developer-shared-engineering-london-283410",
-      "title": "Software Developer - Shared Engineering",
-      "company": "Xtxmarketstechnologies",
-      "location": "London",
-      "description": "&lt;p&gt;&lt;strong&gt;The Firm &lt;br&gt;&lt;br&gt;&lt;/strong&gt;XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 53,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 coun",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xtxmarketstechnologies/software-developer-shared-engineering-london-283410",
+      "id": "arbeitnow_principal-engineer-belfast-436558",
+      "title": "Principal Engineer",
+      "company": "Bazaarvoice",
+      "location": "Belfast",
+      "description": "<div><span style=\"font-size: 10.5pt;\">&nbsp;</span></div>\n<div><span style=\"font-size: 10.5pt;\">At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community &amp; enterprise technology, we connect thousands of brands and retailers with billions of consumers. Our solutions enable brands to connect with consumers and collect valuable user-generated content, at an unprecedented scale. This content achieves global reach by leveraging our ex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bazaarvoice/principal-engineer-belfast-436558",
       "remote": false,
       "tags": [
-        "Infrastructure"
+        "Engineering - General"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786517713,
-      "fetched_at": "2026-08-12T14:50:18.994901",
-      "match_score": 6.34,
+      "posted_at": 1786547129,
+      "fetched_at": "2026-08-12T18:45:04.407037",
+      "match_score": 4.02,
       "score_breakdown": {
-        "semantic_similarity": 0.2498,
-        "semantic_score": 6.34,
+        "semantic_similarity": 0.2316,
+        "semantic_score": 4.02,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903710"
+      "scored_at": "2026-08-12T18:45:23.281653"
     },
     {
-      "id": "arbeitnow_technical-lead-backend-basingstoke-375841",
-      "title": "Technical Lead - Backend",
-      "company": "Wearebeyondsports",
-      "location": "Basingstoke",
-      "description": "<p style=\"min-height:1.5em\"><strong>Technical Delivery Lead</strong></p><p style=\"min-height:1.5em\"><strong>Salary banding: </strong>\u00a374,660 - \u00a398,120</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Beyond Sports is a Sports Tech company delivering a new way to experience sports. Our Emmy Award-winning platform powers real-time digital sports engagement for leagues, broadcasters, brands, and fans, from traditional media all the way to the Metaverse. As part of Sony\u2019s sports techno",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/technical-lead-backend-basingstoke-375841",
+      "id": "arbeitnow_senior-software-engineer-agentic-ai-cambridge-132455",
+      "title": "Senior Software Engineer, Agentic AI",
+      "company": "Roku",
+      "location": "Cambridge",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-agentic-ai-cambridge-132455",
       "remote": false,
       "tags": [
-        "Beyond Sports"
+        "206 - OS UI/SDK"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786516819,
-      "fetched_at": "2026-08-12T14:50:17.937540",
+      "posted_at": 1786550144,
+      "fetched_at": "2026-08-12T18:45:04.406225",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1304,
+        "semantic_similarity": 0.1081,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T14:50:30.903651"
-    },
-    {
-      "id": "arbeitnow_software-engineer-linux-geneva-ch-470251",
-      "title": "Software Engineer (Linux)",
-      "company": "Proton",
-      "location": "Geneva CH",
-      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;Proton was founded in 2014 by scientists from CERN on a simple truth: &lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;privacy is a fundamental human right&lt;/strong&gt;&lt;/strong&gt;. Since then, we\u2019ve built the world",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/software-engineer-linux-geneva-ch-470251",
-      "remote": false,
-      "tags": [
-        "CC - Engineering - VPN"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T14:50:17.938033",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1516,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T14:50:30.903681"
+      "scored_at": "2026-08-12T18:45:23.281549"
     }
   ]
 }
