@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "count": 26,
+  "count": 14,
   "jobs": [
     {
       "id": "remoteok_1136299",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-07T13:08:19+00:00",
-      "fetched_at": "2026-08-12T10:49:57.788641",
+      "fetched_at": "2026-08-12T14:50:14.098000",
       "match_score": 78.78,
       "score_breakdown": {
         "semantic_similarity": 0.6226,
@@ -34,7 +34,30 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-08-12T10:50:14.730829"
+      "scored_at": "2026-08-12T14:50:30.903260"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-london-286626",
+      "title": "Senior Software Engineer",
+      "company": "Bite",
+      "location": "London",
+      "description": "<h2>Senior Software Engineer</h2><p style=\"min-height:1.5em\"><strong>Location</strong>: London (flexible working with 3 days per week regularly expected in office)</p><p style=\"min-height:1.5em\"><strong>Job Type</strong>: Full-time</p><p style=\"min-height:1.5em\"><strong>Salary &amp; equity</strong>: \u00a3100k+</p><p style=\"min-height:1.5em\"><strong>Tech Stack</strong>: React, Typescript, Python, C#, Azure</p><p style=\"min-height:1.5em\"><strong>Must-Haves</strong>:</p><ul style=\"min-height:1.5em\"><li",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bite/senior-software-engineer-london-286626",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786538412,
+      "fetched_at": "2026-08-12T14:50:17.935236",
+      "match_score": 61.12,
+      "score_breakdown": {
+        "semantic_similarity": 0.6017,
+        "semantic_score": 51.12,
+        "location_match": 0,
+        "priority_keywords": 10
+      },
+      "scored_at": "2026-08-12T14:50:30.903461"
     },
     {
       "id": "arbeitnow_software-engineer-price-comparison-portal-berlin-233707",
@@ -50,7 +73,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516800,
-      "fetched_at": "2026-08-12T10:50:01.683264",
+      "fetched_at": "2026-08-12T14:50:17.931296",
       "match_score": 27.68,
       "score_breakdown": {
         "semantic_similarity": 0.4175,
@@ -58,95 +81,99 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.730900"
+      "scored_at": "2026-08-12T14:50:30.903308"
     },
     {
-      "id": "arbeitnow_application-software-engineer-ottobrunn-bavaria-219936",
-      "title": "Application Software Engineer (f/m/d)",
-      "company": "Isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "description": "&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Mission Brief&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;As an Application Software Engineer in the Ground Systems Engineering Applications team, you&amp;nbsp;will help shape the digital tools that enable the testing and operation of our launch vehicles. Your&amp;nbsp;work will have a direct impact on critical ground operations, supporting engineers and operators&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;throughout the development lifecycle.&",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/application-software-engineer-ottobrunn-bavaria-219936",
+      "id": "arbeitnow_senior-technical-business-analyst-fintech-london-247553",
+      "title": "Senior Technical Business Analyst -  FINTECH / LONDON",
+      "company": "Adaptivefinancialconsulting",
+      "location": "London",
+      "description": "&lt;div class=&quot;positionDetailsBox&quot;&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;applicantWrapper flex&quot;&gt;\n&lt;h3&gt;WE ARE:&lt;/h3&gt;\n&lt;p&gt;At Adaptive, we are a financial consulting firm that partners with capital, commodity, and digital market participants. We value differentiation through technology.&lt;/p&gt;\n&lt;p&gt;Our experienced teams design and deliver complex front-office technology solutions using our proven accelerators to create long-te",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/adaptivefinancialconsulting/senior-technical-business-analyst-fintech-london-247553",
       "remote": false,
       "tags": [
-        "Ground Systems"
+        "Consulting"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786503327,
-      "fetched_at": "2026-08-12T10:50:01.686581",
-      "match_score": 20.22,
+      "posted_at": 1786528512,
+      "fetched_at": "2026-08-12T14:50:17.935636",
+      "match_score": 23.34,
       "score_breakdown": {
-        "semantic_similarity": 0.3589,
-        "semantic_score": 20.22,
+        "semantic_similarity": 0.3834,
+        "semantic_score": 23.34,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731059"
+      "scored_at": "2026-08-12T14:50:30.903533"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-core-experiences-brighton-united-kingdom-232572",
-      "title": "Senior Software Engineer, Core Experiences - Brighton, United Kingdom",
-      "company": "Speechify",
-      "location": "Brighton, England, United Kingdom",
-      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-core-experiences-brighton-united-kingdom-232572",
+      "id": "arbeitnow_senior-technical-business-analyst-contractors-outside-ir35-fintech-london-439765",
+      "title": "Senior Technical Business Analyst (Contractors Outside IR35) -  FINTECH / LONDON",
+      "company": "Adaptivefinancialconsulting",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;strong&gt;WE ARE:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Adaptive, we are a financial consulting firm that partners with capital, commodity, and digital market participants. We value differentiation through technology.&lt;/p&gt;\n&lt;p&gt;Our experienced teams design and deliver complex front-office technology solutions using our proven accelerators to create long-term competitive advantage.&lt;/p&gt;\n&lt;p&gt;Our clients include the world&#39;s leading investment banks, investment man",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/adaptivefinancialconsulting/senior-technical-business-analyst-contractors-outside-ir35-fintech-london-439765",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Consulting"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690223",
-      "match_score": 16.16,
+      "posted_at": 1786528512,
+      "fetched_at": "2026-08-12T14:50:17.935684",
+      "match_score": 20.61,
       "score_breakdown": {
-        "semantic_similarity": 0.327,
-        "semantic_score": 16.16,
+        "semantic_similarity": 0.3619,
+        "semantic_score": 20.61,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731607"
+      "scored_at": "2026-08-12T14:50:30.903563"
     },
     {
-      "id": "arbeitnow_engineering-manager-cloud-security-munich-158179",
-      "title": "Engineering Manager - Cloud & Security (m/f/x)",
-      "company": "FINN",
+      "id": "arbeitnow_forward-deployed-engineer-berlin-berlin-107721",
+      "title": "Forward Deployed Engineer",
+      "company": "Banyansoftware",
+      "location": "Berlin, Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. We are on a mission to acquire, build, and grow great companies worldwide, helping them modernize through shared AI expertise and operational discipline. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world. Banyan is Gre",
+      "url": "https://www.arbeitnow.com/jobs/companies/banyansoftware/forward-deployed-engineer-berlin-berlin-107721",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786535732,
+      "fetched_at": "2026-08-12T14:50:17.932061",
+      "match_score": 16.59,
+      "score_breakdown": {
+        "semantic_similarity": 0.3304,
+        "semantic_score": 16.59,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T14:50:30.903343"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-software-engineer-munich-85800",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "FRYTE Mobility GmbH",
       "location": "Munich",
-      "description": "<div>\n<h3><span style=\"font-size: 18px;\"><strong>Your Role</strong></span></h3>\n</div>\n<p>As an Engineering Manager in our Tooling &amp; Security department, you are directly responsible for maintaining and improving our internal tooling, cloud governance and security. You will lead an international, world-class team of engineers, and will help the rest of FINN work efficiently and securely in their day to day jobs.</p><br><strong>Your Mission</strong><br>\n<li>\n<p><strong>Hire and lead an incred",
-      "url": "https://www.arbeitnow.com/jobs/companies/finn/engineering-manager-cloud-security-munich-158179",
+      "description": "<p>FRYTE is redefining how electric logistics connects with the energy grid.</p>\n<p>From our base in Munich, we're building the intelligence layer that powers the transition from diesel to electric freight.</p>\n<p>Our SaaS platform enables fleet operators, dispatchers, and charge point operators to plan, optimize, and monetize electric truck charging \u2014 aligning fleet efficiency with grid stability.</p>\n<p>Our vision: <strong>replace big oil with smart electrons.</strong></p>\n<p>Our mission: <str",
+      "url": "https://www.arbeitnow.com/jobs/companies/fryte-mobility-gmbh/senior-full-stack-software-engineer-munich-85800",
       "remote": false,
       "tags": [
-        "Tech"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786500312,
-      "fetched_at": "2026-08-12T10:50:01.686996",
-      "match_score": 16.01,
+      "posted_at": 1786534246,
+      "fetched_at": "2026-08-12T14:50:17.932326",
+      "match_score": 15.23,
       "score_breakdown": {
-        "semantic_similarity": 0.3258,
-        "semantic_score": 16.01,
+        "semantic_similarity": 0.2804,
+        "semantic_score": 10.23,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-12T10:50:14.731090"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-core-experiences-nottingham-united-kingdom-88026",
-      "title": "Senior Software Engineer, Core Experiences - Nottingham, United Kingdom",
-      "company": "Speechify",
-      "location": "Nottingham, England, United Kingdom",
-      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-core-experiences-nottingham-united-kingdom-88026",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690225",
-      "match_score": 15.5,
-      "score_breakdown": {
-        "semantic_similarity": 0.3218,
-        "semantic_score": 15.5,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731634"
+      "scored_at": "2026-08-12T14:50:30.903392"
     },
     {
       "id": "arbeitnow_machine-learning-platform-engineer-london-165918",
@@ -161,7 +188,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516825,
-      "fetched_at": "2026-08-12T10:50:01.687948",
+      "fetched_at": "2026-08-12T14:50:17.937334",
       "match_score": 14.74,
       "score_breakdown": {
         "semantic_similarity": 0.3158,
@@ -169,7 +196,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731128"
+      "scored_at": "2026-08-12T14:50:30.903593"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-infrastructure-distributed-systems-london-127604",
+      "title": "Staff Software Engineer, Infrastructure (Distributed Systems)",
+      "company": "Anthropic",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;mt-3 -mb-1 text-[1.1",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/staff-software-engineer-infrastructure-distributed-systems-london-127604",
+      "remote": false,
+      "tags": [
+        "Software Engineering - Infrastructure"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786528529,
+      "fetched_at": "2026-08-12T14:50:17.935406",
+      "match_score": 12.2,
+      "score_breakdown": {
+        "semantic_similarity": 0.2959,
+        "semantic_score": 12.2,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T14:50:30.903495"
     },
     {
       "id": "arbeitnow_llm-application-engineer-london-329410",
@@ -184,7 +234,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516825,
-      "fetched_at": "2026-08-12T10:50:01.687981",
+      "fetched_at": "2026-08-12T14:50:17.937367",
       "match_score": 11.81,
       "score_breakdown": {
         "semantic_similarity": 0.2928,
@@ -192,7 +242,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731155"
+      "scored_at": "2026-08-12T14:50:30.903618"
+    },
+    {
+      "id": "arbeitnow_engineering-director-payments-platform-london-76858",
+      "title": "Engineering Director, Payments Platform",
+      "company": "Airwallex",
+      "location": "UK - London",
+      "description": "<h2><strong>About Airwallex</strong></h2><p style=\"min-height:1.5em\">Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide \u2013 including Brex, Rippling, Navan, Qantas, SHEIN and many more \u2013 with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.</",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/engineering-director-payments-platform-london-76858",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786538424,
+      "fetched_at": "2026-08-12T14:50:17.934838",
+      "match_score": 6.45,
+      "score_breakdown": {
+        "semantic_similarity": 0.2507,
+        "semantic_score": 6.45,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-12T14:50:30.903431"
     },
     {
       "id": "arbeitnow_software-developer-shared-engineering-london-283410",
@@ -207,7 +280,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786517713,
-      "fetched_at": "2026-08-12T10:50:02.748532",
+      "fetched_at": "2026-08-12T14:50:18.994901",
       "match_score": 6.34,
       "score_breakdown": {
         "semantic_similarity": 0.2498,
@@ -215,76 +288,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731663"
-    },
-    {
-      "id": "arbeitnow_werkstudent-praktikant-development-ai-engineering-fur-sap-business-ai-stuttgart-48578",
-      "title": "Werkstudent / Praktikant (m/w/d) | Development & AI Engineering f\u00fcr SAP Business AI",
-      "company": "nfaculty GmbH",
-      "location": "Stuttgart",
-      "description": "<p><strong>Du willst nicht in einer Sandbox mit Testdaten \u00fcben, sondern KI-Agenten bauen, die im echten Unternehmen produktiv laufen? Dann lies weiter.</strong></p>\n<p>Wir sind nfaculty: eine SAP-Boutique, SAP Gold Partner, spezialisiert auf SAP Cloud ERP, die SAP Business AI Platform und die SAP Business Data Cloud. Unsere Kunden sind mittelst\u00e4ndische Unternehmen, die ihre Prozesse in der Cloud standardisieren \u2014 und darauf etwas Eigenes brauchen: Agenten, die den Monatsabschluss beschleunigen, ",
-      "url": "https://www.arbeitnow.com/jobs/companies/nfaculty-gmbh/werkstudent-praktikant-development-ai-engineering-fur-sap-business-ai-stuttgart-48578",
-      "remote": true,
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786518034,
-      "fetched_at": "2026-08-12T10:50:01.685310",
-      "match_score": 3.06,
-      "score_breakdown": {
-        "semantic_similarity": 0.2241,
-        "semantic_score": 3.06,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.730954"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-b2b-saas-i-berlin-hybrid-373998",
-      "title": "Senior Software Engineer (w/m/d) - B2B Saas I Berlin (hybrid)",
-      "company": "Packmatic GmbH",
-      "location": "Berlin",
-      "description": "<p style=\"text-align: justify; line-height: 150%; margin: 0cm; font-size: 11pt; font-family: Arial, sans-serif;\"><em><span style=\"font-family: Calibri, sans-serif;\">We are digitalising one of Europe\u2019s largest and most heavily regulated industries.</span></em></p>\n<p style=\"text-align: justify; line-height: 150%; margin: 0cm; font-size: 11pt; font-family: Arial, sans-serif;\">&nbsp;</p>\n<p style=\"text-align: justify; line-height: 150%; margin: 0cm; font-size: 11pt; font-family: Arial, sans-serif;\"",
-      "url": "https://www.arbeitnow.com/jobs/companies/packmatic-gmbh/senior-software-engineer-b2b-saas-i-berlin-hybrid-373998",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786511076,
-      "fetched_at": "2026-08-12T10:50:01.686495",
-      "match_score": 0.51,
-      "score_breakdown": {
-        "semantic_similarity": 0.204,
-        "semantic_score": 0.51,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731029"
-    },
-    {
-      "id": "arbeitnow_software-engineer-ios-core-product-cologne-germany-250589",
-      "title": "Software Engineer, iOS Core Product - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-cologne-germany-250589",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786517130,
-      "fetched_at": "2026-08-12T10:50:01.685337",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1661,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731001"
+      "scored_at": "2026-08-12T14:50:30.903710"
     },
     {
       "id": "arbeitnow_technical-lead-backend-basingstoke-375841",
@@ -299,7 +303,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516819,
-      "fetched_at": "2026-08-12T10:50:01.688155",
+      "fetched_at": "2026-08-12T14:50:17.937540",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1304,
@@ -307,7 +311,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731188"
+      "scored_at": "2026-08-12T14:50:30.903651"
     },
     {
       "id": "arbeitnow_software-engineer-linux-geneva-ch-470251",
@@ -322,7 +326,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T10:50:01.688637",
+      "fetched_at": "2026-08-12T14:50:17.938033",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1516,
@@ -330,267 +334,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-12T10:50:14.731220"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-inbox-desktop-london-geneva-130316",
-      "title": "Senior Software Engineer (Inbox Desktop)",
-      "company": "Proton",
-      "location": "London; Geneva",
-      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;At Proton, we believe that privacy is a fundamental human right and the cornerstone of democracy. Since our inception in 2014, founded by a team of scientists from CERN, we have dedicated ourselves to providing free and open-source tec",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/senior-software-engineer-inbox-desktop-london-geneva-130316",
-      "remote": false,
-      "tags": [
-        "CC - Engineering - Inbox"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T10:50:01.688800",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1792,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731248"
-    },
-    {
-      "id": "arbeitnow_senior-ios-software-engineer-london-122937",
-      "title": "Senior iOS Software Engineer - London",
-      "company": "Proton",
-      "location": "London",
-      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;About Proton&amp;nbsp;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;Proton was founded in 2014 by scientists from CERN on a simple",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/senior-ios-software-engineer-london-122937",
-      "remote": false,
-      "tags": [
-        "CC - Engineering - Inbox"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T10:50:01.689064",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1666,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731271"
-    },
-    {
-      "id": "arbeitnow_senior-android-software-engineer-london-338651",
-      "title": "Senior Android Software Engineer - London",
-      "company": "Proton",
-      "location": "London",
-      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;Proton was founded in 2014 by scientists from CERN on a simple truth: &lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;privacy is a fundamental human right&lt;/strong&gt;&lt;/strong&gt;. Since then, we\u2019ve built the world",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/senior-android-software-engineer-london-338651",
-      "remote": false,
-      "tags": [
-        "CC - Engineering Drive"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T10:50:01.689167",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1299,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731298"
-    },
-    {
-      "id": "arbeitnow_engineering-director-london-vilnius-barcelona-geneva-paris-474867",
-      "title": "Engineering Director",
-      "company": "Proton",
-      "location": "London; Vilnius; Barcelona; Geneva; Paris.",
-      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;At Proton, we believe that privacy is a fundamental human right and the cornerstone of democracy. Since our inception in 2014, founded by a team of scientists from CERN, we have dedicated ourselves to providing free and open-source tec",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/engineering-director-london-vilnius-barcelona-geneva-paris-474867",
-      "remote": false,
-      "tags": [
-        "CC - Engineering Drive"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786506919,
-      "fetched_at": "2026-08-12T10:50:01.689472",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1507,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731323"
-    },
-    {
-      "id": "arbeitnow_software-engineer-ios-core-product-belfast-united-kingdom-213253",
-      "title": "Software Engineer, iOS Core Product - Belfast, United Kingdom",
-      "company": "Speechify",
-      "location": "Belfast, Northern Ireland, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-belfast-united-kingdom-213253",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690202",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1939,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731360"
-    },
-    {
-      "id": "arbeitnow_software-engineer-ios-core-product-reading-united-kingdom-54582",
-      "title": "Software Engineer, iOS Core Product - Reading, United Kingdom",
-      "company": "Speechify",
-      "location": "Reading, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-reading-united-kingdom-54582",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690208",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1718,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731392"
-    },
-    {
-      "id": "arbeitnow_software-engineer-ios-core-product-london-united-kingdom-371735",
-      "title": "Software Engineer, iOS Core Product - London, United Kingdom",
-      "company": "Speechify",
-      "location": "London, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-london-united-kingdom-371735",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690210",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1827,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731426"
-    },
-    {
-      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-70557",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Brighton, United Kingdom",
-      "company": "Speechify",
-      "location": "Brighton, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-70557",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690212",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1851,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731458"
-    },
-    {
-      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-london-united-kingdom-327938",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - London, United Kingdom",
-      "company": "Speechify",
-      "location": "London, England, United Kingdom",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-london-united-kingdom-327938",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690214",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1686,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731490"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-newcastle-united-kingdom-newcastle-upon-tyne-180127",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom",
-      "company": "Speechify",
-      "location": "Newcastle upon Tyne, England, United Kingdom",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-newcastle-united-kingdom-newcastle-upon-tyne-180127",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690217",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1358,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731520"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-205337",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom",
-      "company": "Speechify",
-      "location": "Oxford, England, United Kingdom",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-205337",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690219",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1369,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731548"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-london-united-kingdom-449518",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - London, United Kingdom",
-      "company": "Speechify",
-      "location": "London, England, United Kingdom",
-      "description": "<div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">Mission</strong></div>\n<div class=\"p-rich_text_section\">\n<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS ap",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-london-united-kingdom-449518",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1786495533,
-      "fetched_at": "2026-08-12T10:50:01.690221",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1229,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-12T10:50:14.731574"
+      "scored_at": "2026-08-12T14:50:30.903681"
     }
   ]
 }
