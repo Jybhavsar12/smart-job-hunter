@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "count": 22,
+  "count": 18,
   "jobs": [
     {
       "id": "remoteok_1136447",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-08-14T07:04:29.795658",
+      "fetched_at": "2026-08-14T10:46:47.542511",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -34,30 +34,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971440"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-tools-automation-germany-84380",
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "company": "Jobgether",
-      "location": "Germany",
-      "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a (Senior) Software Engineer (M/F/D) - Tools &amp; Automation based in Germany.</strong></p>\n<p>As a (Senior) Software Engineer, you\u2019ll build and maintain the tools and automation that support advanced malware analysis and threat detection technologies.<br>You\u2019ll work across software development, infrastructure, automation, and system administration in ",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-software-engineer-tools-automation-germany-84380",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786674266,
-      "fetched_at": "2026-08-14T07:04:37.053223",
-      "match_score": 36.12,
-      "score_breakdown": {
-        "semantic_similarity": 0.4838,
-        "semantic_score": 36.12,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.971613"
+      "scored_at": "2026-08-14T10:47:09.540177"
     },
     {
       "id": "arbeitnow_software-engineer-iii-london-21662",
@@ -72,7 +49,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786668019,
-      "fetched_at": "2026-08-14T07:04:37.058715",
+      "fetched_at": "2026-08-14T10:46:54.778597",
       "match_score": 30.62,
       "score_breakdown": {
         "semantic_similarity": 0.4406,
@@ -80,7 +57,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971972"
+      "scored_at": "2026-08-14T10:47:09.540508"
+    },
+    {
+      "id": "arbeitnow_software-engineer-platform-london-233336",
+      "title": "Software Engineer (Platform)",
+      "company": "Algo1",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\"><strong>About Us</strong></p><p style=\"min-height:1.5em\">At algo1, we are reinventing one of the world\u2019s most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time and makes an everyday experience less stressful, more personal and more engaging.</p><p style=\"min-height:1.5em\">We\u2019re backed by leading investors and founded by two entrepreneurs: one with a track record o",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/software-engineer-platform-london-233336",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786689621,
+      "fetched_at": "2026-08-14T10:46:54.776007",
+      "match_score": 29.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.4281,
+        "semantic_score": 29.03,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-14T10:47:09.540319"
     },
     {
       "id": "arbeitnow_move-to-new-zealand-senior-software-engineer-munich-496102",
@@ -95,7 +95,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786685091,
-      "fetched_at": "2026-08-14T07:04:37.052232",
+      "fetched_at": "2026-08-14T10:46:54.775813",
       "match_score": 24.84,
       "score_breakdown": {
         "semantic_similarity": 0.3951,
@@ -103,76 +103,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971498"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-java-london-405208",
-      "title": "Senior Software Engineer  (Java)",
-      "company": "Arq",
-      "location": "London",
-      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-software-engineer-java-london-405208",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786668007,
-      "fetched_at": "2026-08-14T07:04:37.059243",
-      "match_score": 24.35,
-      "score_breakdown": {
-        "semantic_similarity": 0.3913,
-        "semantic_score": 24.35,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.972074"
-    },
-    {
-      "id": "arbeitnow_lead-software-engineerjava-london-450594",
-      "title": "Lead Software Engineer(Java)",
-      "company": "Arq",
-      "location": "London",
-      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/lead-software-engineerjava-london-450594",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786668007,
-      "fetched_at": "2026-08-14T07:04:37.059241",
-      "match_score": 24.25,
-      "score_breakdown": {
-        "semantic_similarity": 0.3905,
-        "semantic_score": 24.25,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.972042"
-    },
-    {
-      "id": "arbeitnow_software-engineer-java-london-167081",
-      "title": "Software Engineer  (Java)",
-      "company": "Arq",
-      "location": "London",
-      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-london-167081",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786668007,
-      "fetched_at": "2026-08-14T07:04:37.059246",
-      "match_score": 22.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.3781,
-        "semantic_score": 22.67,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.972105"
+      "scored_at": "2026-08-14T10:47:09.540261"
     },
     {
       "id": "arbeitnow_engineering-manager-core-experience-uk-ir-market-newcastle-upon-tyne-34734",
@@ -187,7 +118,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786678810,
-      "fetched_at": "2026-08-14T07:04:37.058022",
+      "fetched_at": "2026-08-14T10:46:54.778043",
       "match_score": 21.07,
       "score_breakdown": {
         "semantic_similarity": 0.3655,
@@ -195,53 +126,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971835"
+      "scored_at": "2026-08-14T10:47:09.540418"
     },
     {
-      "id": "arbeitnow_senior-go-backend-developer-catalog-hamburg-104898",
-      "title": "Senior Go Backend Developer (Catalog) (f/m/d)",
-      "company": "adjoe",
-      "location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">adjoe builds the technologies behind mobile apps growth and monetization. With our core product <strong>Playtime Arcade</strong>, we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually.</p><p style=\"min-height:1.5em\"><strong>Serving",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-go-backend-developer-catalog-hamburg-104898",
-      "remote": false,
+      "id": "arbeitnow_remote-senior-ai-data-platform-engineer-berlin-232493",
+      "title": "Senior AI Data Platform Engineer (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "location": "Remote job",
+      "description": "<p><strong><span style=\"color:#121317\">About Recare</span></strong></p><p><span style=\"color:#121317\">As one of the leading German HealthTech companies, we are reshaping discharge management \u2013 technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-data-platform-engineer-berlin-232493",
+      "remote": true,
       "tags": [
-        "adjoe"
+        "Engineering",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786675222,
-      "fetched_at": "2026-08-14T07:04:40.432167",
-      "match_score": 15.1,
+      "posted_at": 1786696219,
+      "fetched_at": "2026-08-14T10:46:54.773837",
+      "match_score": 20.23,
       "score_breakdown": {
-        "semantic_similarity": 0.3187,
-        "semantic_score": 15.1,
-        "location_match": 0,
+        "semantic_similarity": 0.2411,
+        "semantic_score": 5.23,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.972134"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-agentic-engineering-open-source-kiel-11838",
-      "title": "Senior Software Engineer: Agentic Engineering & Open Source (m/w/d)",
-      "company": "B310 Digital GmbH",
-      "location": "Kiel",
-      "description": "<p>B310 ist eine Software-Engineering-Beratung mit Fokus auf Open Source Software und Agentic Engineering. Wir suchen Verst\u00e4rkung durch einen erfahrenen Senior Software Engineer (m/w/d) zum n\u00e4chstm\u00f6glichen Zeitpunkt.</p>\n<h2>Aufgaben</h2>\n<p>Du arbeitest mit uns an modernen Software- und Agentic-Engineering-Themen und besch\u00e4ftigst dich damit, wie AI die Softwareentwicklung und bestehende Engineering-Prozesse ver\u00e4ndert. Dabei testest und bewertest du aktuelle AI-Tools und neue Technologien, vergl",
-      "url": "https://www.arbeitnow.com/jobs/companies/b310-digital-gmbh/senior-software-engineer-agentic-engineering-open-source-kiel-11838",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786647632,
-      "fetched_at": "2026-08-14T07:04:37.055032",
-      "match_score": 14.85,
-      "score_breakdown": {
-        "semantic_similarity": 0.3167,
-        "semantic_score": 14.85,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.971697"
+      "scored_at": "2026-08-14T10:47:09.540210"
     },
     {
       "id": "arbeitnow_engineering-manager-ii-london-57649",
@@ -256,7 +165,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786668019,
-      "fetched_at": "2026-08-14T07:04:37.058651",
+      "fetched_at": "2026-08-14T10:46:54.778546",
       "match_score": 14.49,
       "score_breakdown": {
         "semantic_similarity": 0.3139,
@@ -264,30 +173,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971943"
-    },
-    {
-      "id": "arbeitnow_engineering-manager-website-berlin-378128",
-      "title": "Engineering Manager - Website",
-      "company": "sumup",
-      "location": "Berlin",
-      "description": "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Website squad sits at the heart of SumUp\u2019s Acquisition Mission, owning the digital experience that shapes a merchant\u2019s journey from their very first interaction with SumUp to discovering and purchasing our products. As the bridge between Engineering, Product, Marketing, Design, and Sales, the team has a direct and visible impact on how we attract merchants, grow our business, and generate revenue.&lt;/p&gt;\n&lt;p&gt;As ",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/engineering-manager-website-berlin-378128",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786665329,
-      "fetched_at": "2026-08-14T07:04:37.053593",
-      "match_score": 11.21,
-      "score_breakdown": {
-        "semantic_similarity": 0.288,
-        "semantic_score": 11.21,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.971650"
+      "scored_at": "2026-08-14T10:47:09.540489"
     },
     {
       "id": "arbeitnow_senior-software-engineer-java-kotlin-central-london-221333",
@@ -302,7 +188,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786678818,
-      "fetched_at": "2026-08-14T07:04:37.057223",
+      "fetched_at": "2026-08-14T10:46:54.777433",
       "match_score": 10.61,
       "score_breakdown": {
         "semantic_similarity": 0.2833,
@@ -310,7 +196,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971773"
+      "scored_at": "2026-08-14T10:47:09.540375"
+    },
+    {
+      "id": "arbeitnow_principal-software-engineer-berlin-150707",
+      "title": "Principal Software Engineer (m/f/d)",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "description": "<br><strong>1KOMMA5\u00b0</strong><p><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">At <strong>1KOMMA5\u00b0</strong>, we pursue a clear vision:\u00a0<strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?<br>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but contro",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/principal-software-engineer-berlin-150707",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1786694987,
+      "fetched_at": "2026-08-14T10:46:54.774288",
+      "match_score": 10.51,
+      "score_breakdown": {
+        "semantic_similarity": 0.2826,
+        "semantic_score": 10.51,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-14T10:47:09.540239"
     },
     {
       "id": "arbeitnow_senior-frontend-engineer-design-system-london-319276",
@@ -325,7 +232,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786678821,
-      "fetched_at": "2026-08-14T07:04:37.057094",
+      "fetched_at": "2026-08-14T10:46:54.777333",
       "match_score": 8.67,
       "score_breakdown": {
         "semantic_similarity": 0.2681,
@@ -333,30 +240,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971742"
-    },
-    {
-      "id": "arbeitnow_senior-go-backend-developer-demand-intergrations-hamburg-36418",
-      "title": "Senior Go Backend Developer (Demand Intergrations) (f/m/d)",
-      "company": "adjoe",
-      "location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">adjoe builds the technologies behind mobile apps growth and monetization. With our core product <strong>Playtime Arcade</strong>, we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in adtech, connecting advertisers and publishers with over 770 million users annually.</p><p style=\"min-height:1.5em\"></p><p style=\"m",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-go-backend-developer-demand-intergrations-hamburg-36418",
-      "remote": false,
-      "tags": [
-        "adjoe"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786675222,
-      "fetched_at": "2026-08-14T07:04:40.432178",
-      "match_score": 8.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.2666,
-        "semantic_score": 8.47,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.972161"
+      "scored_at": "2026-08-14T10:47:09.540350"
     },
     {
       "id": "arbeitnow_senior-software-engineer-central-london-101720",
@@ -371,7 +255,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786678818,
-      "fetched_at": "2026-08-14T07:04:37.057226",
+      "fetched_at": "2026-08-14T10:46:54.777436",
       "match_score": 8.03,
       "score_breakdown": {
         "semantic_similarity": 0.2631,
@@ -379,7 +263,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971806"
+      "scored_at": "2026-08-14T10:47:09.540396"
+    },
+    {
+      "id": "arbeitnow_security-engineer-london-369120",
+      "title": "Security Engineer",
+      "company": "Xtxmarketstechnologies",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;strong&gt;The Firm&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 53,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecasts to trade on exchanges and alternative trading venues, and to offer differentiated liquidity directly to clients worldwide. The firm trades over $250bn a day across 35 count",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xtxmarketstechnologies/security-engineer-london-369120",
+      "remote": false,
+      "tags": [
+        "Risk"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786690521,
+      "fetched_at": "2026-08-14T10:46:54.776005",
+      "match_score": 6.79,
+      "score_breakdown": {
+        "semantic_similarity": 0.2534,
+        "semantic_score": 6.79,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-14T10:47:09.540285"
+    },
+    {
+      "id": "arbeitnow_shopware-backend-developer-osnabruck-148865",
+      "title": "Shopware Backend Developer (w/m/d)",
+      "company": "Hob by Horse GmbH",
+      "location": "Osnabr\u00fcck",
+      "description": "<p>Komm zum Gl\u00fcck nach Osnabr\u00fcck. Bei uns ist Work-Life-Balance nicht blo\u00df eine Phrase. Wir freuen uns auf deine Bewerbung.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>API-Entwicklung (REST/GraphQL)</li>\n<li>Datenbank &#x26; Custom Entities</li>\n<li>Business-Logik &#x26; Services</li>\n<li>Payment-/Shipping-Integrationen</li>\n<li>Performance &#x26; Caching</li>\n<li>Security (Auth, Permissions)</li>\n<li>Background-Jobs &#x26; Queues</li>\n<li>Datenimport/export</li>\n<li>Eigenst\u00e4ndige Entwicklung eigener Plugins",
+      "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/shopware-backend-developer-osnabruck-148865",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786696228,
+      "fetched_at": "2026-08-14T10:46:57.921037",
+      "match_score": 5.81,
+      "score_breakdown": {
+        "semantic_similarity": 0.2457,
+        "semantic_score": 5.81,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-14T10:47:09.540562"
     },
     {
       "id": "remoteok_1136569",
@@ -398,7 +328,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-08-14T07:04:29.795648",
+      "fetched_at": "2026-08-14T10:46:47.542503",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -406,7 +336,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971402"
+      "scored_at": "2026-08-14T10:47:09.540148"
     },
     {
       "id": "remoteok_1136570",
@@ -425,7 +355,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-08-14T07:04:29.795633",
+      "fetched_at": "2026-08-14T10:46:47.542485",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -433,30 +363,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971351"
-    },
-    {
-      "id": "arbeitnow_lead-compute-platform-engineer-berlin-286395",
-      "title": "Lead Compute Platform Engineer",
-      "company": "zetaglobal",
-      "location": "Berlin",
-      "description": "&lt;p&gt;&lt;strong&gt;WHO WE ARE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta Marketing Platform (ZMP), our vision is to make sophisticated marketing simple by unifying identity, intelligence, and omnichannel activation into a single platform \u2013 pow",
-      "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/lead-compute-platform-engineer-berlin-286395",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786676116,
-      "fetched_at": "2026-08-14T07:04:37.052665",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1629,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-14T07:04:51.971562"
+      "scored_at": "2026-08-14T10:47:09.540092"
     },
     {
       "id": "arbeitnow_principal-engineer-london-264450",
@@ -471,7 +378,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786671025,
-      "fetched_at": "2026-08-14T07:04:37.058185",
+      "fetched_at": "2026-08-14T10:46:54.778183",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1895,
@@ -479,7 +386,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971867"
+      "scored_at": "2026-08-14T10:47:09.540444"
     },
     {
       "id": "arbeitnow_senior-rust-engineer-proton-drive-london-geneva-322066",
@@ -494,7 +401,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786668907,
-      "fetched_at": "2026-08-14T07:04:37.058393",
+      "fetched_at": "2026-08-14T10:46:54.778347",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1286,
@@ -502,7 +409,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.971893"
+      "scored_at": "2026-08-14T10:47:09.540465"
     },
     {
       "id": "arbeitnow_senior-machine-learning-research-engineer-london-236755",
@@ -517,7 +424,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786668014,
-      "fetched_at": "2026-08-14T07:04:37.058986",
+      "fetched_at": "2026-08-14T10:46:54.778797",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1633,
@@ -525,7 +432,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-14T07:04:51.972006"
+      "scored_at": "2026-08-14T10:47:09.540536"
     }
   ]
 }
