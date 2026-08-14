@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-14 14:44 UTC
+**Last updated:** 2026-08-14 18:38 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 64 |
-| Jobs found (all time) | 719 |
-| Jobs found (latest run, 2026-08-14) | 18 |
+| Jobs found (all time) | 718 |
+| Jobs found (latest run, 2026-08-14) | 17 |
 | Best match (latest run) | Senior Data & Python Software Engineer at Ceartas (score 58) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
