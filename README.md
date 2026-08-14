@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-14 10:47 UTC
+**Last updated:** 2026-08-14 14:44 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 64 |
 | Jobs found (all time) | 719 |
 | Jobs found (latest run, 2026-08-14) | 18 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Best match (latest run) | Senior Data & Python Software Engineer at Ceartas (score 58) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
