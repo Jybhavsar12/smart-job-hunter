@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-15 14:11 UTC
+**Last updated:** 2026-08-15 18:12 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 65 |
-| Jobs found (all time) | 760 |
-| Jobs found (latest run, 2026-08-15) | 41 |
+| Jobs found (all time) | 759 |
+| Jobs found (latest run, 2026-08-15) | 40 |
 | Best match (latest run) | Software Engineer (m/f/d) at Flix (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
