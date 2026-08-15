@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-14 22:11 UTC
+**Last updated:** 2026-08-15 06:18 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 64 |
-| Jobs found (all time) | 719 |
-| Jobs found (latest run, 2026-08-14) | 18 |
+| Search runs | 65 |
+| Jobs found (all time) | 738 |
+| Jobs found (latest run, 2026-08-15) | 19 |
 | Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
