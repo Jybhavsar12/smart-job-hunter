@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "count": 22,
+  "count": 20,
   "jobs": [
     {
       "id": "remoteok_1136447",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-08-17T14:16:48.079916",
+      "fetched_at": "2026-08-17T18:21:29.169641",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -34,79 +34,87 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874596"
+      "scored_at": "2026-08-17T18:21:53.322571"
     },
     {
-      "id": "arbeitnow_remote-senior-data-scientist-berlin-371753",
-      "title": "Senior Data Scientist (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "description": "<p class=\"Paragraph SCXW111181217 BCX4\">Data Scientist (m/f/x)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">Location: EU</p><p class=\"Paragraph SCXW111181217 BCX4\">(Remote)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><h4><strong><span style=\"color:#000000\">Who You\u2019ll Work For</span><span style=\"color:#2F5496\">:</span></strong><span style=\"color:#2F5496\">&nbsp;</span></h4><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\"><span style=\"colo",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-371753",
-      "remote": true,
+      "id": "arbeitnow_devops-software-engineer-intern-enrolled-students-only-munich-42883",
+      "title": "DevOps Software Engineer Intern (Enrolled Students Only) (m/f/d)",
+      "company": "Crewmeister",
+      "location": "Munich",
+      "description": "<p>With over 19,000 customers, Crewmeister is one of the fastest-growing software providers in Munich. This dynamic growth is made possible by the personal development and teamwork of our now more than 60 outstanding employees.</p>\n<p>But this is just the beginning: Apply to join us as a Software Engineer Intern, focused on DevOps, learn from the best, and make our success story your own.</p>\n<p><strong>Your Responsibilities</strong></p>\n<ul>\n<li>Maintain and improve CI/CD pipelines under close ",
+      "url": "https://www.arbeitnow.com/jobs/companies/crewmeister/devops-software-engineer-intern-enrolled-students-only-munich-42883",
+      "remote": false,
       "tags": [
-        "Engineering",
-        "Remote"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786955418,
-      "fetched_at": "2026-08-17T14:16:54.708072",
-      "match_score": 35.67,
+      "posted_at": 1786977028,
+      "fetched_at": "2026-08-17T18:21:36.615664",
+      "match_score": 30.67,
       "score_breakdown": {
-        "semantic_similarity": 0.3624,
-        "semantic_score": 20.67,
+        "semantic_similarity": 0.441,
+        "semantic_score": 30.67,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-17T18:21:53.322615"
+    },
+    {
+      "id": "arbeitnow_senior-solutions-engineer-new-business-71624",
+      "title": "Senior Solutions Engineer, New Business",
+      "company": "Redwoodsoftware",
+      "location": "",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;OUR MISSION&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;At Redwood, we empower our customers with lights-out automation for their mission-critical business processes.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;ABOUT US&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers",
+      "url": "https://www.arbeitnow.com/jobs/companies/redwoodsoftware/senior-solutions-engineer-new-business-71624",
+      "remote": false,
+      "tags": [
+        "Sales"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786978508,
+      "fetched_at": "2026-08-17T18:21:36.615377",
+      "match_score": 25.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.2825,
+        "semantic_score": 10.5,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874691"
+      "scored_at": "2026-08-17T18:21:53.322591"
     },
     {
-      "id": "arbeitnow_software-developer-backend-mf-d-java-kotlin-spring-boot-darmstadt-156564",
-      "title": "Software Developer Backend (mf/d) Java/Kotlin, Spring Boot",
-      "company": "etalytics gmbh",
-      "location": "Darmstadt",
-      "description": "<p>Do you want to build software that makes a measurable impact on energy efficiency and sustainability?</p><p>At etalytics, we develop AI-powered energy management solutions that help industrial companies reduce energy consumption, CO\u2082 emissions, and operating costs. As a <strong>Backend Software Developer</strong>, you will take ownership of backend services and features for our etaONE\u00ae platform.</p><p>You will contribute your ideas to technical decisions, and continuously improve the scalabil",
-      "url": "https://www.arbeitnow.com/jobs/companies/etalytics-gmbh/software-developer-backend-mf-d-java-kotlin-spring-boot-darmstadt-156564",
+      "id": "arbeitnow_lead-software-engineer-frankfurt-am-main-415015",
+      "title": "Lead Software Engineer (m/w/d)",
+      "company": "Fincite Gmbh",
+      "location": "Frankfurt am Main",
+      "description": "<br><strong>Deine Herausforderungen</strong><p>\u2022 Gemeinsam mit zwei weiteren Kolleg:innen agierst du als Lead Engineer f\u00fcr eine rund 20-k\u00f6pfige Entwicklerorganisation.<br>\u2022 Du \u00fcbernimmst die fachliche und technische F\u00fchrung eines Teams; Bis zu f\u00fcnf Mitarbeitende f\u00fchrst du direkt.<br>\u2022 Du entwickelst robuste Backend-L\u00f6sungen f\u00fcr anspruchsvolle Wealth-Management-Produkte und gestaltest deren Architektur aktiv mit.<br>\u2022 Du etablierst neue technische Standards und sorgst f\u00fcr ein hochwertiges, nachha",
+      "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-415015",
       "remote": false,
       "tags": [
-        "Internet and software",
-        "associate's degree"
+        "LeadSoftwareengineer",
+        "Leadership",
+        "Python",
+        "Django",
+        "Backend",
+        "FinTech",
+        "WealthManagement",
+        "Azure",
+        "TechJobs",
+        "Frankfurt",
+        "Architecture",
+        "Hybrid"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786965621,
-      "fetched_at": "2026-08-17T14:16:55.769484",
-      "match_score": 31.45,
+      "posted_at": 1786975798,
+      "fetched_at": "2026-08-17T18:21:36.615896",
+      "match_score": 24.43,
       "score_breakdown": {
-        "semantic_similarity": 0.4471,
-        "semantic_score": 31.45,
+        "semantic_similarity": 0.3919,
+        "semantic_score": 24.43,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875148"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-build-tooling-expert-jena-414767",
-      "title": "Senior Software Developer / Build & Tooling Expert (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-build-tooling-expert-jena-414767",
-      "remote": false,
-      "tags": [
-        "Internet and software",
-        "master's degree"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786951213,
-      "fetched_at": "2026-08-17T14:16:54.708519",
-      "match_score": 22.11,
-      "score_breakdown": {
-        "semantic_similarity": 0.3737,
-        "semantic_score": 22.11,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-17T14:17:07.874804"
+      "scored_at": "2026-08-17T18:21:53.322732"
     },
     {
       "id": "arbeitnow_remote-customer-success-manager-devops-418438",
@@ -121,7 +129,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786958647,
-      "fetched_at": "2026-08-17T14:16:55.775103",
+      "fetched_at": "2026-08-17T18:21:37.796463",
       "match_score": 20.91,
       "score_breakdown": {
         "semantic_similarity": 0.2464,
@@ -129,7 +137,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875524"
+      "scored_at": "2026-08-17T18:21:53.322988"
     },
     {
       "id": "arbeitnow_senior-software-engineer-secure-build-england-212655",
@@ -144,7 +152,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786948807,
-      "fetched_at": "2026-08-17T14:16:54.712742",
+      "fetched_at": "2026-08-17T18:21:36.622285",
       "match_score": 18.84,
       "score_breakdown": {
         "semantic_similarity": 0.348,
@@ -152,7 +160,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875000"
+      "scored_at": "2026-08-17T18:21:53.322892"
     },
     {
       "id": "arbeitnow_staff-software-engineer-developer-experience-england-416638",
@@ -167,7 +175,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786948807,
-      "fetched_at": "2026-08-17T14:16:54.712739",
+      "fetched_at": "2026-08-17T18:21:36.622282",
       "match_score": 18.51,
       "score_breakdown": {
         "semantic_similarity": 0.3454,
@@ -175,7 +183,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874954"
+      "scored_at": "2026-08-17T18:21:53.322872"
     },
     {
       "id": "arbeitnow_software-engineer-java-london-49415",
@@ -190,7 +198,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786918511,
-      "fetched_at": "2026-08-17T14:16:54.713616",
+      "fetched_at": "2026-08-17T18:21:36.622856",
       "match_score": 16.64,
       "score_breakdown": {
         "semantic_similarity": 0.3307,
@@ -198,7 +206,34 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875046"
+      "scored_at": "2026-08-17T18:21:53.322914"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-android-stuttgart-256054",
+      "title": "(Senior) Software Engineer - Android (m/w/d)",
+      "company": "Mway",
+      "location": "Stuttgart",
+      "description": "<br><strong>Deine Aufgaben</strong><p><p>Bist du ein passionierter Android-Engineer und m\u00f6chtest deine Erfahrung in einem modernen Software-Unternehmen einbringen? Bewirb dich jetzt und treibe mit uns die Digitalisierung an Schulen mit unserer modernen UEM-Software voran! \u00a0\u00a0</p><p>Bewirb dich auch, wenn du nicht 100 % der Punkte erf\u00fcllst \u2013 uns ist Potenzial wichtiger als eine perfekte Checkliste.</p><ul><li>Du entwickelst gemeinsam im agilen Team Android Apps mit Kotlin (schwerpunktm\u00e4\u00dfig im B2B-",
+      "url": "https://www.arbeitnow.com/jobs/companies/mway/senior-software-engineer-android-stuttgart-256054",
+      "remote": false,
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Software",
+        "CI/CD",
+        "Software-Testing"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1786977018,
+      "fetched_at": "2026-08-17T18:21:36.615804",
+      "match_score": 16.58,
+      "score_breakdown": {
+        "semantic_similarity": 0.3302,
+        "semantic_score": 16.58,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-17T18:21:53.322706"
     },
     {
       "id": "arbeitnow_remote-senior-software-engineer-devops-140765",
@@ -213,7 +248,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786949726,
-      "fetched_at": "2026-08-17T14:16:54.712683",
+      "fetched_at": "2026-08-17T18:21:36.622243",
       "match_score": 15.62,
       "score_breakdown": {
         "semantic_similarity": 0.2049,
@@ -221,55 +256,36 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874905"
+      "scored_at": "2026-08-17T18:21:53.322849"
     },
     {
-      "id": "arbeitnow_senior-software-developer-async-architecture-concurrency-jena-227856",
-      "title": "Senior Software Developer \u2013 Async Architecture & Concurrency (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-async-architecture-concurrency-jena-227856",
+      "id": "arbeitnow_software-engineer-frontend-flutter-stuttgart-177789",
+      "title": "Software Engineer Frontend - Flutter (m/w/d)",
+      "company": "Mway",
+      "location": "Stuttgart",
+      "description": "<br><strong>Deine Aufgaben</strong><p>App-Entwicklung ist deine Leidenschaft und du bist absolute:r Flutter-Profi? Unterst\u00fctze unser Team bei der Entwicklung innovativer, plattform\u00fcbergreifender mobiler Anwendungen. Als Software Engineer bei Relution \u00fcbernimmst du Verantwortung f\u00fcr die Entwicklung neuer Features \u2013 von der Konzeption bis zum Release!<ul><li>Du entwickelst unsere plattform\u00fcbergreifende Apps auf Basis von Flutter und Dart weiter</li><li>Du \u00fcbernimmst technisches Ownership f\u00fcr unser",
+      "url": "https://www.arbeitnow.com/jobs/companies/mway/software-engineer-frontend-flutter-stuttgart-177789",
       "remote": false,
       "tags": [
-        "Internet and software",
-        "master's degree"
+        "Flutter",
+        "Frontend",
+        "Dart",
+        "Kotlin",
+        "Java",
+        "Swift",
+        "Android"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786951213,
-      "fetched_at": "2026-08-17T14:16:54.708479",
-      "match_score": 11.5,
+      "posted_at": 1786977018,
+      "fetched_at": "2026-08-17T18:21:36.615802",
+      "match_score": 13.88,
       "score_breakdown": {
-        "semantic_similarity": 0.2904,
-        "semantic_score": 11.5,
+        "semantic_similarity": 0.3091,
+        "semantic_score": 13.88,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874742"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-3rd-level-support-customer-issue-resolution-expert-jena-82323",
-      "title": "Senior Software Developer / 3rd-Level Support & Customer Issue Resolution Expert (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-3rd-level-support-customer-issue-resolution-expert-jena-82323",
-      "remote": false,
-      "tags": [
-        "Internet and software",
-        "master's degree"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786951213,
-      "fetched_at": "2026-08-17T14:16:55.771013",
-      "match_score": 9.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2764,
-        "semantic_score": 9.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-17T14:17:07.875403"
+      "scored_at": "2026-08-17T18:21:53.322677"
     },
     {
       "id": "arbeitnow_backend-software-engineer-ai-systems-munster-362795",
@@ -285,7 +301,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786971698,
-      "fetched_at": "2026-08-17T14:16:54.705523",
+      "fetched_at": "2026-08-17T18:21:36.616162",
       "match_score": 8.28,
       "score_breakdown": {
         "semantic_similarity": 0.2651,
@@ -293,30 +309,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874657"
+      "scored_at": "2026-08-17T18:21:53.322788"
     },
     {
-      "id": "arbeitnow_senior-software-developer-nuremberg-13617",
-      "title": "Senior Software Developer (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6n",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-13617",
+      "id": "arbeitnow_full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-231091",
+      "title": "Full Stack Kotlin/Java-Entwickler:in (m/w/d) - im K\u00f6lner Startup",
+      "company": "Greenpocket",
+      "location": "Cologne",
+      "description": "<p>Du willst mehr sein als ein Byte im Datenmeer? Du m\u00f6chtest gerne mit Leidenschaft Verantwortung in agilen Teams \u00fcbernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!</p>\n<p><strong>Das sind wir</strong></p>\n<p>Als agiles, gr\u00fcnes Startup und Spezialist f\u00fcr Energiemanagement- und Visualisierungssoftware beteiligen wir uns aktiv an der Gestaltung einer nachhaltigen, klimaneutralen Zukunft. So ist es unsere Mission, mit intuitiver",
+      "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-231091",
       "remote": false,
       "tags": [
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786951843,
-      "fetched_at": "2026-08-17T14:16:55.770957",
-      "match_score": 5.87,
+      "posted_at": 1786978829,
+      "fetched_at": "2026-08-17T18:21:37.789120",
+      "match_score": 7.21,
       "score_breakdown": {
-        "semantic_similarity": 0.2461,
-        "semantic_score": 5.87,
+        "semantic_similarity": 0.2173,
+        "semantic_score": 2.21,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-17T14:17:07.875205"
+      "scored_at": "2026-08-17T18:21:53.322939"
     },
     {
       "id": "remoteok_1136795",
@@ -344,7 +360,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-17T14:16:48.079810",
+      "fetched_at": "2026-08-17T18:21:29.169594",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -352,31 +368,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874384"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-semiconductor-equipment-software-real-time-control-motion-systems-jena-169224",
-      "title": "Senior Software Developer \u2013 Semiconductor Equipment Software, Real-Time Control & Motion Systems (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "description": "<h4><strong><span style=\"\">Hochtechnologie und Innovation...</span></strong></h4><p>\u2026aktiv mitgestalten und vorantreiben \u2013 f\u00fcr diese Position suchen wir eine engagierte Pers\u00f6nlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz \u00fcberzeugt. Als Beratungsunternehmen unterst\u00fctzen wir unseren Kunden bei der Suche nach einer passenden Person, die Herausforderungen nicht als H\u00fcrde, sondern als spannende M\u00f6glichkeit zur Weiterentwicklung versteht.</p><p style=\";\"><",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-semiconductor-equipment-software-real-time-control-motion-systems-jena-169224",
-      "remote": false,
-      "tags": [
-        "Internet and software",
-        "master's degree"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786951213,
-      "fetched_at": "2026-08-17T14:16:55.771007",
-      "match_score": 4.89,
-      "score_breakdown": {
-        "semantic_similarity": 0.2384,
-        "semantic_score": 4.89,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-17T14:17:07.875357"
+      "scored_at": "2026-08-17T18:21:53.322477"
     },
     {
       "id": "remoteok_1136569",
@@ -395,7 +387,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-08-17T14:16:48.079895",
+      "fetched_at": "2026-08-17T18:21:29.169631",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -403,7 +395,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874544"
+      "scored_at": "2026-08-17T18:21:53.322545"
     },
     {
       "id": "arbeitnow_senior-software-engineer-infrastructure-platform-london-8931",
@@ -418,7 +410,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786971326,
-      "fetched_at": "2026-08-17T14:16:54.708675",
+      "fetched_at": "2026-08-17T18:21:36.619639",
       "match_score": 2.79,
       "score_breakdown": {
         "semantic_similarity": 0.222,
@@ -426,7 +418,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874851"
+      "scored_at": "2026-08-17T18:21:53.322807"
     },
     {
       "id": "arbeitnow_embedded-software-developer-dortmund-245607",
@@ -440,8 +432,8 @@
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786969834,
-      "fetched_at": "2026-08-17T14:16:55.768483",
+      "posted_at": 1786985253,
+      "fetched_at": "2026-08-17T18:21:37.790422",
       "match_score": 2.45,
       "score_breakdown": {
         "semantic_similarity": 0.2193,
@@ -449,30 +441,55 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875098"
+      "scored_at": "2026-08-17T18:21:53.322964"
     },
     {
-      "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-335999",
-      "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\u201d \u2013 Martin Fowler</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es ",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-335999",
-      "remote": false,
+      "id": "arbeitnow_remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "description": "<br><strong>Unsere Standorte</strong><p>Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote / im Homeoffice \u2013 die T\u00e4tigkeit ist standortunabh\u00e4ngig m\u00f6glich</p><br><strong>Dein zuk\u00fcnftiges Team</strong><p>Du willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-L\u00f6sungen f\u00fcr Kliniken mitwirken? Im Bereich Produktentwicklung suchen wir eine*n Werkstudent*in. Ganz gleich, ob du von Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote aus arbeite",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
+      "remote": true,
       "tags": [
-        "Software Development"
+        "M\u00fcnchen",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786950041,
-      "fetched_at": "2026-08-17T14:16:55.771082",
-      "match_score": 2.17,
+      "posted_at": 1786975794,
+      "fetched_at": "2026-08-17T18:21:36.615913",
+      "match_score": 2.02,
       "score_breakdown": {
-        "semantic_similarity": 0.2171,
-        "semantic_score": 2.17,
+        "semantic_similarity": 0.2159,
+        "semantic_score": 2.02,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875473"
+      "scored_at": "2026-08-17T18:21:53.322757"
     },
     {
       "id": "remoteok_1136570",
@@ -491,7 +508,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-08-17T14:16:48.079889",
+      "fetched_at": "2026-08-17T18:21:29.169629",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -499,53 +516,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.874483"
+      "scored_at": "2026-08-17T18:21:53.322518"
     },
     {
-      "id": "arbeitnow_developer-fokus-secure-software-nuremberg-469871",
-      "title": "Developer - Fokus Secure Software (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201c</em> <em>Security is not a product, but a process.\u201d \u2013 Bruce Schneier</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer mit Fokus Secure Software Development bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein. Dar\u00fcber hinaus unterst\u00fctzt du dabei, Sicherheit als festen Bestandteil mode",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/developer-fokus-secure-software-nuremberg-469871",
+      "id": "arbeitnow_deputy-manager-defense-and-automotive-products-braunschweig-15892",
+      "title": "Deputy Manager Defense and Automotive Products (m/f/d)",
+      "company": "smartmicro",
+      "location": "Braunschweig",
+      "description": "<h2>Introduction</h2>\n<p>We are smartmicro, leading specialist in high-performance radar sensor technology. We design, develop and manufacture sensors and systems for autonomous driving, intelligent traffic infrastructure, as well as defense and airborne applications. Our mission is to make roads safer, enable autonomous driving in all-weather scenarios, optimize traffic flow for reduced travel times and to reliably and efficiently detect threats from drones and other aircraft.</p>\n<p>We are loo",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartmicro/deputy-manager-defense-and-automotive-products-braunschweig-15892",
       "remote": false,
       "tags": [
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1786951843,
-      "fetched_at": "2026-08-17T14:16:55.770984",
+      "posted_at": 1786977027,
+      "fetched_at": "2026-08-17T18:21:36.615687",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1734,
+        "semantic_similarity": 0.1668,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-17T14:17:07.875257"
-    },
-    {
-      "id": "arbeitnow_werkstudent-prototyping-smart-labeling-nuremberg-492027",
-      "title": "Werkstudent Prototyping - smart labeling (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer mit Fokus Secure Software Development bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein. Dar\u00fcber hinaus unterst\u00fctzt du dabei, Sicherheit als festen Bestandteil mo",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/werkstudent-prototyping-smart-labeling-nuremberg-492027",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786951843,
-      "fetched_at": "2026-08-17T14:16:55.771004",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1928,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-17T14:17:07.875305"
+      "scored_at": "2026-08-17T18:21:53.322639"
     }
   ]
 }
