@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": "remoteok_1136447",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-08-18T14:21:10.619802",
+      "fetched_at": "2026-08-18T18:19:28.466248",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -34,7 +34,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743880"
+      "scored_at": "2026-08-18T18:19:48.687682"
     },
     {
       "id": "arbeitnow_senior-software-engineer-angular-berlin-344639",
@@ -51,7 +51,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787052581,
-      "fetched_at": "2026-08-18T14:21:17.376362",
+      "fetched_at": "2026-08-18T18:19:35.273205",
       "match_score": 39.4,
       "score_breakdown": {
         "semantic_similarity": 0.5096,
@@ -59,74 +59,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743993"
+      "scored_at": "2026-08-18T18:19:48.687863"
     },
     {
-      "id": "arbeitnow_software-engineer-edinburgh-477888",
-      "title": "Software Engineer",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;&lt;strong&gt;Our roster has an opening with your name on it&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer for one of our Acquisitions team, working with a multitude of micro-services achieving various goals for our marketing partners such as real-time merchandising or promotion enrollment. Your work will focus on highly efficient systems dealing with large volumes of real time data, delivered to ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-477888",
+      "id": "arbeitnow_senior-full-stack-engineer-hawkai-budapest-311397",
+      "title": "Senior Full Stack Engineer - (HawkAI)",
+      "company": "Hawkeyeinnovations",
+      "location": "Budapest, Hungary",
+      "description": "<p style=\"min-height:1.5em\"><strong>Join Our Team as a Senior Full-Stack Software Engineer (HawkAI) at Hawk-Eye Innovations</strong> <br /><br /></p><p style=\"min-height:1.5em\"><strong>Location:</strong> Hybrid working \u2013 minimum 2 days per week in the office</p><p style=\"min-height:1.5em\"><strong>Office:</strong> Budapest, V\u00e1ci \u00fat 144-150, 1138 Hungary</p><p style=\"min-height:1.5em\"><strong>Contract:</strong> Permanent, Full-Time<br /><br /></p><p style=\"min-height:1.5em\">At Hawk-Eye, we build t",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397",
       "remote": false,
       "tags": [
-        "Software Engineering"
+        "Hawk-Eye Innovations (Value Streams)"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381127",
-      "match_score": 37.6,
+      "posted_at": 1787067619,
+      "fetched_at": "2026-08-18T18:19:35.274267",
+      "match_score": 29.17,
       "score_breakdown": {
-        "semantic_similarity": 0.4954,
-        "semantic_score": 37.6,
+        "semantic_similarity": 0.3899,
+        "semantic_score": 24.17,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-18T14:21:31.744258"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-net-ai-berlin-hybrid-479229",
-      "title": "Senior Software Engineer - .Net & AI (m/f/d)",
-      "company": "Rapid Data",
-      "location": "Berlin Hybrid",
-      "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-      "url": "https://www.arbeitnow.com/jobs/companies/rapid-data/senior-software-engineer-net-ai-berlin-hybrid-479229",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787041782,
-      "fetched_at": "2026-08-18T14:21:17.377924",
-      "match_score": 35.48,
-      "score_breakdown": {
-        "semantic_similarity": 0.4788,
-        "semantic_score": 35.48,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T14:21:31.744092"
-    },
-    {
-      "id": "arbeitnow_senior-staff-software-engineer-market-making-484140",
-      "title": "Senior Staff Software Engineer - Market Making",
-      "company": "Fanduel",
-      "location": "",
-      "description": "&lt;p&gt;&lt;strong&gt;THE POSITION&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our roster has an opening with your name on it&lt;/p&gt;\n&lt;p&gt;We\u2019re growing our Market Making Engineering team that works on some of the coolest software in the industry - the systems that quote, price, and manage risk in real time for high-volume, high-velocity sports markets. This work spans the full RFQ/quote lifecycle (request \u2192 quote \u2192 accept \u2192 outcome) in low-latency, event-driven services. The team you will join wor",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-staff-software-engineer-market-making-484140",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381132",
-      "match_score": 32.46,
-      "score_breakdown": {
-        "semantic_similarity": 0.3372,
-        "semantic_score": 17.46,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T14:21:31.744320"
+      "scored_at": "2026-08-18T18:19:48.688014"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-478037",
@@ -141,7 +97,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787057715,
-      "fetched_at": "2026-08-18T14:21:17.378035",
+      "fetched_at": "2026-08-18T18:19:35.274612",
       "match_score": 28.94,
       "score_breakdown": {
         "semantic_similarity": 0.3095,
@@ -149,7 +105,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744124"
+      "scored_at": "2026-08-18T18:19:48.688062"
     },
     {
       "id": "arbeitnow_software-engineer-price-comparison-portal-berlin-233707",
@@ -165,7 +121,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516800,
-      "fetched_at": "2026-08-18T14:21:17.375070",
+      "fetched_at": "2026-08-18T18:19:35.269895",
       "match_score": 27.68,
       "score_breakdown": {
         "semantic_similarity": 0.4175,
@@ -173,7 +129,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743915"
+      "scored_at": "2026-08-18T18:19:48.687716"
+    },
+    {
+      "id": "arbeitnow_enterprise-account-executive-dach-496962",
+      "title": "Enterprise Account Executive - DACH",
+      "company": "chainguard",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
+      "url": "https://www.arbeitnow.com/jobs/companies/chainguard/enterprise-account-executive-dach-496962",
+      "remote": false,
+      "tags": [
+        "International Sales"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787066145,
+      "fetched_at": "2026-08-18T18:19:35.270313",
+      "match_score": 19.2,
+      "score_breakdown": {
+        "semantic_similarity": 0.233,
+        "semantic_score": 4.2,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T18:19:48.687775"
     },
     {
       "id": "arbeitnow_pre-sales-senior-engineer-london-347617",
@@ -188,7 +167,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787025308,
-      "fetched_at": "2026-08-18T14:21:17.380437",
+      "fetched_at": "2026-08-18T18:19:35.277020",
       "match_score": 17.55,
       "score_breakdown": {
         "semantic_similarity": 0.3379,
@@ -196,7 +175,58 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744176"
+      "scored_at": "2026-08-18T18:19:48.688113"
+    },
+    {
+      "id": "arbeitnow_software-developer-linux-python-integrations-remote-dusseldorf-486714",
+      "title": "Software Developer Linux Python Integrations (m/w/d) REMOTE",
+      "company": "Pont Connects e.K.",
+      "location": "D\u00fcsseldorf",
+      "description": "<p>F\u00fcr meinen lanfj\u00e4hrigen Kunden bin ich auf der Suche nach einem Software Developer Linux Python Integrations (m/w/d)</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Entwicklung und Wartung von Softwarel\u00f6sungen unter Linux mit Python, um nahtlose Integrationen zu gew\u00e4hrleisten.</li>\n<li>Analyse und Optimierung bestehender Systemintegrationen zur Verbesserung der Effizienz und Leistung.</li>\n<li>Zusammenarbeit mit interdisziplin\u00e4ren Teams, um Anforderungen zu verstehen und technische L\u00f6sungen zu implementieren.",
+      "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/software-developer-linux-python-integrations-remote-dusseldorf-486714",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787072434,
+      "fetched_at": "2026-08-18T18:19:36.338135",
+      "match_score": 14.27,
+      "score_breakdown": {
+        "semantic_similarity": 0.2729,
+        "semantic_score": 9.27,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-18T18:19:48.688202"
+    },
+    {
+      "id": "arbeitnow_senior-software-developer-in-ci-munich-52426",
+      "title": "Senior Software Developer (m/f/d) in CI",
+      "company": "Checkmk GmbH",
+      "location": "Munich",
+      "description": "<br><strong>Deine Aufgaben</strong><p><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;\">Bist du ein:e leidenschaftliche:r\u00a0<strong>Senior Softwareentwickler:in</strong>, der:die m\u00f6chte, dass jede einzelne deiner \u00c4nderungen Hunderte von Entwicklungsstunden schneller und zuverl\u00e4ssiger macht? Bist du Umgebungen leid, in denen CI wie ein Nachgedanke behandelt wird, ein Haufen Skripte, den niemand besitzt, und wo \"der Build ist kaputt\" einfach als normal akzeptiert wird? Wenn ja, ",
+      "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/senior-software-developer-in-ci-munich-52426",
+      "remote": false,
+      "tags": [
+        "CI",
+        "Python",
+        "Bazel",
+        "Maven",
+        "Craddle"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787062185,
+      "fetched_at": "2026-08-18T18:19:36.339579",
+      "match_score": 11.76,
+      "score_breakdown": {
+        "semantic_similarity": 0.2924,
+        "semantic_score": 11.76,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T18:19:48.688266"
     },
     {
       "id": "arbeitnow_data-analytics-engineer-i-london-438463",
@@ -211,7 +241,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787056821,
-      "fetched_at": "2026-08-18T14:21:17.378136",
+      "fetched_at": "2026-08-18T18:19:35.274712",
       "match_score": 11.13,
       "score_breakdown": {
         "semantic_similarity": 0.2875,
@@ -219,7 +249,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744152"
+      "scored_at": "2026-08-18T18:19:48.688089"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-scheduling-team-berlin-berlin-111613",
+      "title": "Engineering Manager Scheduling Team  (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "description": "&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for an &lt;strong&gt;Engineering Manager&lt;/strong&gt; to join the &lt;strong&gt;Scheduling&lt;/strong&gt; team in &lt;strong&gt;Berlin&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;Your mission will be to give practitioners their day back:&amp;nbsp; reclaiming the admin time they spend creating and managing appointments, so care teams can focus on what matters. You will work in a feature team develop",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-scheduling-team-berlin-berlin-111613",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787066145,
+      "fetched_at": "2026-08-18T18:19:35.270253",
+      "match_score": 8.74,
+      "score_breakdown": {
+        "semantic_similarity": 0.2687,
+        "semantic_score": 8.74,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T18:19:48.687746"
     },
     {
       "id": "arbeitnow_working-student-robot-pilot-data-collection-munich-457297",
@@ -234,7 +287,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787053211,
-      "fetched_at": "2026-08-18T14:21:17.375810",
+      "fetched_at": "2026-08-18T18:19:35.272639",
       "match_score": 6.1,
       "score_breakdown": {
         "semantic_similarity": 0.248,
@@ -242,7 +295,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743949"
+      "scored_at": "2026-08-18T18:19:48.687817"
     },
     {
       "id": "remoteok_1136795",
@@ -270,7 +323,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-18T14:21:10.619734",
+      "fetched_at": "2026-08-18T18:19:28.466180",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -278,7 +331,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743750"
+      "scored_at": "2026-08-18T18:19:48.687555"
     },
     {
       "id": "remoteok_1136569",
@@ -297,7 +350,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-08-18T14:21:10.619788",
+      "fetched_at": "2026-08-18T18:19:28.466234",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -305,30 +358,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743844"
-    },
-    {
-      "id": "arbeitnow_data-engineer-edinburgh-318318",
-      "title": "Data Engineer",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;FanDuel Group is a world-class team of brands and products that deliver sports betting, gaming and entertainment to millions of US sports fans every day. That\u2019s no easy task and wouldn&#39;t be possible without a fantastic team who have helped us pioneer new products and innovative features that make us a leader in the industry.&lt;br&gt;The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices&amp;nbsp;in Canada and Scotland. T",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-318318",
-      "remote": false,
-      "tags": [
-        "Data Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381593",
-      "match_score": 3.43,
-      "score_breakdown": {
-        "semantic_similarity": 0.2269,
-        "semantic_score": 3.43,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T14:21:31.744395"
+      "scored_at": "2026-08-18T18:19:48.687648"
     },
     {
       "id": "arbeitnow_software-engineer-core-marketing-platforms-edinburgh-179760",
@@ -343,7 +373,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381125",
+      "fetched_at": "2026-08-18T18:19:35.277707",
       "match_score": 2.47,
       "score_breakdown": {
         "semantic_similarity": 0.2194,
@@ -351,7 +381,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744231"
+      "scored_at": "2026-08-18T18:19:48.688168"
     },
     {
       "id": "remoteok_1136570",
@@ -370,7 +400,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-08-18T14:21:10.619785",
+      "fetched_at": "2026-08-18T18:19:28.466231",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -378,53 +408,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.743804"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-core-marketing-platforms-edinburgh-284822",
-      "title": "Senior Software Engineer - Core Marketing Platforms",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE POSITION&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Our roster has an opening with your name on it&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-core-marketing-platforms-edinburgh-284822",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381134",
-      "match_score": 0.87,
-      "score_breakdown": {
-        "semantic_similarity": 0.2068,
-        "semantic_score": 0.87,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T14:21:31.744340"
-    },
-    {
-      "id": "arbeitnow_software-engineer-edinburgh-147757",
-      "title": "Software Engineer",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p data-renderer-start-pos=&quot;2367&quot; data-local-id=&quot;4c3f4d187b88&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;THE POSITION&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;2381&quot; data-local-id=&quot;2f79be0ef134&quot;&gt;Our roster has an opening with your name on it&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;2429&quot; data-local-id=&quot;1b5f2f68&quot;&gt;We\u2019re looking for a Software Engineer to join our &lt;span data-highlighted=&quot;true&quot;",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-147757",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381130",
-      "match_score": 0.05,
-      "score_breakdown": {
-        "semantic_similarity": 0.2004,
-        "semantic_score": 0.05,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T14:21:31.744285"
+      "scored_at": "2026-08-18T18:19:48.687609"
     },
     {
       "id": "arbeitnow_legal-ai-system-architect-berlin-401300",
@@ -437,7 +421,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1787051387,
-      "fetched_at": "2026-08-18T14:21:17.376507",
+      "fetched_at": "2026-08-18T18:19:35.273343",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1573,
@@ -445,7 +429,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744040"
+      "scored_at": "2026-08-18T18:19:48.687900"
     },
     {
       "id": "arbeitnow_ai-ml-engineer-generative-ai-legal-ai-berlin-485095",
@@ -458,7 +442,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1787051387,
-      "fetched_at": "2026-08-18T14:21:17.376626",
+      "fetched_at": "2026-08-18T18:19:35.273439",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1336,
@@ -466,7 +450,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744076"
+      "scored_at": "2026-08-18T18:19:48.687933"
+    },
+    {
+      "id": "arbeitnow_senior-data-scientist-london-414675",
+      "title": "Senior Data Scientist",
+      "company": "Geniussports",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span data-contrast=&quot;none&quot;&gt;By bringing together next-gen technology and the finest live data available, Genius Sports is enabling a new era of sports for fans worldwide, delivering experiences that are more immersive,&amp;nbsp;interactive&amp;nbsp;and personalized than ever before.\u202f&lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://www.geniussports.co",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-scientist-london-414675",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787068505,
+      "fetched_at": "2026-08-18T18:19:35.274015",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1488,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T18:19:48.687960"
+    },
+    {
+      "id": "arbeitnow_senior-data-science-manager-london-98946",
+      "title": "Senior Data Science Manager",
+      "company": "Geniussports",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span data-contrast=&quot;none&quot;&gt;By bringing together next-gen technology and the finest live data available, Genius Sports is enabling a new era of sports for fans worldwide, delivering experiences that are more immersive,&amp;nbsp;interactive&amp;nbsp;and personalized than ever before.\u202f&lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://www.geniussports.co",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-science-manager-london-98946",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787068505,
+      "fetched_at": "2026-08-18T18:19:35.274215",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1682,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T18:19:48.687983"
     },
     {
       "id": "arbeitnow_software-engineer-java-edinburgh-192814",
@@ -481,7 +511,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381122",
+      "fetched_at": "2026-08-18T18:19:35.277704",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1695,
@@ -489,30 +519,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744210"
+      "scored_at": "2026-08-18T18:19:48.688147"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-edinburgh-58395",
-      "title": "Senior Software Engineer",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE POSITION&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Our roster has an opening with your name on it&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/senior-software-engineer-edinburgh-58395",
+      "id": "arbeitnow_senior-software-developer-development-coordinator-net-ai-gestutzte-produktentwicklung-frankfurt-459907",
+      "title": "Senior Software Developer & Development Coordinator (m/w/d) \u2013 .NET & AI-gest\u00fctzte Produktentwicklung",
+      "company": "QualityHosting GmbH",
+      "location": "Frankfurt",
+      "description": "<p><strong>\u00dcber Uns</strong></p><p style=\";\"><span style=\"color: #333333\">Seit unserer Gr\u00fcndung 1998 ist die QualityHosting auf Microsoft-Technologien f\u00fcr gesch\u00e4ftskritische IT-Anwendungen spezialisiert. Wir sind Microsoft Cloud Solution Provider (CSP) und Deutschlands Marktf\u00fchrer f\u00fcr Hosted Exchange. Unser Unternehmen bietet ein erweitertes Cloud-Portfolio inklusive Microsoft 365, Copilot &amp; AI sowie leistungsf\u00e4hige CloudServer f\u00fcr Unternehmen jeder Gr\u00f6\u00dfe an. </span></p><p style=\";\"></p><p s",
+      "url": "https://www.arbeitnow.com/jobs/companies/qualityhosting-gmbh/senior-software-developer-development-coordinator-net-ai-gestutzte-produktentwicklung-frankfurt-459907",
       "remote": false,
       "tags": [
-        "Software Engineering"
+        "Information technology",
+        "vocational"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T14:21:17.381136",
+      "posted_at": 1787066427,
+      "fetched_at": "2026-08-18T18:19:36.338229",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1758,
+        "semantic_similarity": 0.1648,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T14:21:31.744359"
+      "scored_at": "2026-08-18T18:19:48.688235"
     }
   ]
 }
