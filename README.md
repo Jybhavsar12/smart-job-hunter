@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-18 06:22 UTC
+**Last updated:** 2026-08-18 10:16 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 68 |
-| Jobs found (all time) | 850 |
-| Jobs found (latest run, 2026-08-18) | 36 |
-| Best match (latest run) | Senior Software Engineer (m/f/d): AI-Native Development at Myra (score 53) |
+| Jobs found (all time) | 842 |
+| Jobs found (latest run, 2026-08-18) | 28 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
