@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "count": 28,
+  "count": 21,
   "jobs": [
     {
       "id": "remoteok_1136447",
@@ -26,7 +26,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-08-18T10:16:31.879453",
+      "fetched_at": "2026-08-18T14:21:10.619802",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -34,79 +34,32 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.346955"
+      "scored_at": "2026-08-18T14:21:31.743880"
     },
     {
-      "id": "arbeitnow_senior-robotics-software-engineer-counter-uav-systems-generalist-munich-deu-232493",
-      "title": "Senior Robotics Software Engineer Counter UAV Systems - Generalist (m/w/d)",
-      "company": "autonomous-teaming",
-      "location": "Munich (DEU)",
-      "description": "<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
-      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-software-engineer-counter-uav-systems-generalist-munich-deu-232493",
+      "id": "arbeitnow_senior-software-engineer-angular-berlin-344639",
+      "title": "Senior Software Engineer - Angular (m/f/x)",
+      "company": "neoshare",
+      "location": "Berlin",
+      "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>You contribute to the further development of our platform in the front-end area.</li><li>You will develop technical concepts independently and as part of a team, implement them, carry out tests, and document the results of your work.</li><li>You are constantly collaborating with UI/UX designers, and the backend and frontend team \u0442\u043e deliver the best possible result.</li><li>You actively participate in the development of reusable components and contrib",
+      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/senior-software-engineer-angular-berlin-344639",
       "remote": false,
       "tags": [
-        "Robotics Software Engineer",
-        "ROS2 Developer",
-        "C++17/20 Robotics",
-        "Real-Time Systems",
-        "Sensor Fusion",
-        "State Estimation",
-        "Autonomous Systems Engineering",
-        "Field Robotics",
-        "Perception & Control Algorithms",
-        "Embedded Robotics",
-        "Jetson",
-        "ARM",
-        "Mission-Critical Systems",
-        "Defense Roboti"
+        "frontend",
+        "angular",
+        "development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787030979,
-      "fetched_at": "2026-08-18T10:16:38.857204",
-      "match_score": 39.11,
+      "posted_at": 1787052581,
+      "fetched_at": "2026-08-18T14:21:17.376362",
+      "match_score": 39.4,
       "score_breakdown": {
-        "semantic_similarity": 0.5073,
-        "semantic_score": 39.11,
+        "semantic_similarity": 0.5096,
+        "semantic_score": 39.4,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347110"
-    },
-    {
-      "id": "arbeitnow_senior-robotics-software-engineer-generalist-munich-deu-152089",
-      "title": "Senior Robotics Software Engineer - Generalist (m/w/d)",
-      "company": "autonomous-teaming",
-      "location": "Munich (DEU)",
-      "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-robotics-software-engineer-generalist-munich-deu-152089",
-      "remote": false,
-      "tags": [
-        "Robotics Software Engineer",
-        "ROS2 Developer",
-        "C++17/20 Robotics",
-        "Real-Time Systems",
-        "Sensor Fusion",
-        "State Estimation",
-        "Autonomous Systems Engineering",
-        "Field Robotics",
-        "Perception & Control Algorithms",
-        "Embedded Robotics",
-        "Jetson",
-        "ARM",
-        "Mission-Critical Systems",
-        "Defense Roboti"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787030979,
-      "fetched_at": "2026-08-18T10:16:38.857207",
-      "match_score": 37.64,
-      "score_breakdown": {
-        "semantic_similarity": 0.4957,
-        "semantic_score": 37.64,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347124"
+      "scored_at": "2026-08-18T14:21:31.743993"
     },
     {
       "id": "arbeitnow_software-engineer-edinburgh-477888",
@@ -121,7 +74,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.858994",
+      "fetched_at": "2026-08-18T14:21:17.381127",
       "match_score": 37.6,
       "score_breakdown": {
         "semantic_similarity": 0.4954,
@@ -129,7 +82,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347235"
+      "scored_at": "2026-08-18T14:21:31.744258"
     },
     {
       "id": "arbeitnow_senior-software-engineer-net-ai-berlin-hybrid-479229",
@@ -142,7 +95,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1787041782,
-      "fetched_at": "2026-08-18T10:16:38.855118",
+      "fetched_at": "2026-08-18T14:21:17.377924",
       "match_score": 35.48,
       "score_breakdown": {
         "semantic_similarity": 0.4788,
@@ -150,7 +103,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347006"
+      "scored_at": "2026-08-18T14:21:31.744092"
     },
     {
       "id": "arbeitnow_senior-staff-software-engineer-market-making-484140",
@@ -165,7 +118,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.858999",
+      "fetched_at": "2026-08-18T14:21:17.381132",
       "match_score": 32.46,
       "score_breakdown": {
         "semantic_similarity": 0.3372,
@@ -173,7 +126,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347297"
+      "scored_at": "2026-08-18T14:21:31.744320"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-go-478037",
+      "title": "Senior Software Engineer (Go)",
+      "company": "Form3",
+      "location": "",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;\ud83d\udcdd&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;As a Senior Software Engineer at Form3, you\u2019ll work on established, high-volume services that sit at the heart of Form3\u2019s clou",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-478037",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787057715,
+      "fetched_at": "2026-08-18T14:21:17.378035",
+      "match_score": 28.94,
+      "score_breakdown": {
+        "semantic_similarity": 0.3095,
+        "semantic_score": 13.94,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T14:21:31.744124"
     },
     {
       "id": "arbeitnow_software-engineer-price-comparison-portal-berlin-233707",
@@ -189,7 +165,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516800,
-      "fetched_at": "2026-08-18T10:16:38.854231",
+      "fetched_at": "2026-08-18T14:21:17.375070",
       "match_score": 27.68,
       "score_breakdown": {
         "semantic_similarity": 0.4175,
@@ -197,53 +173,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.346990"
-    },
-    {
-      "id": "arbeitnow_remote-junior-data-engineer-data-platform-159693",
-      "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Remote",
-      "description": "<br><strong>1KOMMA5\u00b0</strong><p>At <strong>1KOMMA5\u00b0</strong>, we pursue a clear vision:\u00a0<strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?<br><br>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-159693",
-      "remote": false,
-      "tags": [
-        "join"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787001004,
-      "fetched_at": "2026-08-18T10:16:38.860914",
-      "match_score": 27.31,
-      "score_breakdown": {
-        "semantic_similarity": 0.2574,
-        "semantic_score": 7.31,
-        "location_match": 15,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-18T10:16:53.347606"
-    },
-    {
-      "id": "arbeitnow_senior-platform-architect-uk-450783",
-      "title": "Senior Platform Architect - UK",
-      "company": "temporaltechnologies",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h3&gt;\n&lt;div&gt;Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer\u2019s toolbox, and are building the team that will make that happen.&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;Our values ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/temporaltechnologies/senior-platform-architect-uk-450783",
-      "remote": false,
-      "tags": [
-        "Platform Architecture"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787003730,
-      "fetched_at": "2026-08-18T10:16:38.860275",
-      "match_score": 24.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.2738,
-        "semantic_score": 9.4,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347428"
+      "scored_at": "2026-08-18T14:21:31.743915"
     },
     {
       "id": "arbeitnow_pre-sales-senior-engineer-london-347617",
@@ -258,7 +188,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787025308,
-      "fetched_at": "2026-08-18T10:16:38.858283",
+      "fetched_at": "2026-08-18T14:21:17.380437",
       "match_score": 17.55,
       "score_breakdown": {
         "semantic_similarity": 0.3379,
@@ -266,191 +196,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347149"
+      "scored_at": "2026-08-18T14:21:31.744176"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-integrations-edinburgh-182518",
-      "title": "Staff Software Engineer, Integrations",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-integrations-edinburgh-182518",
-      "remote": false,
-      "tags": [
-        "Core Product Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786992905,
-      "fetched_at": "2026-08-18T10:16:38.861702",
-      "match_score": 16.36,
-      "score_breakdown": {
-        "semantic_similarity": 0.3286,
-        "semantic_score": 16.36,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347665"
-    },
-    {
-      "id": "arbeitnow_software-engineer-robotics-london-422651",
-      "title": "Software Engineer - Robotics",
-      "company": "Applied",
+      "id": "arbeitnow_data-analytics-engineer-i-london-438463",
+      "title": "Data Analytics Engineer I",
+      "company": "Checkout.com",
       "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automake",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-robotics-london-422651",
+      "description": "<p style=\"min-height:1.5em\"><em><strong>Company Description</strong></em></p><p style=\"min-height:1.5em\"><em>We\u2019re</em><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://checkout.com\"><em> </em></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Checkout.com\"><em>Checkout.com</em></a><em>. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we\u2019re behind many of the digital experiences you use every day. </em></p><p style=\"mi",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/data-analytics-engineer-i-london-438463",
       "remote": false,
       "tags": [
-        "Defense"
+        "All Departments"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787002811,
-      "fetched_at": "2026-08-18T10:16:38.860546",
-      "match_score": 16.29,
+      "posted_at": 1787056821,
+      "fetched_at": "2026-08-18T14:21:17.378136",
+      "match_score": 11.13,
       "score_breakdown": {
-        "semantic_similarity": 0.328,
-        "semantic_score": 16.29,
+        "semantic_similarity": 0.2875,
+        "semantic_score": 11.13,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347513"
+      "scored_at": "2026-08-18T14:21:31.744152"
     },
     {
-      "id": "arbeitnow_software-engineer-london-490820",
-      "title": "Software Engineer",
-      "company": "Applied",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automake",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/software-engineer-london-490820",
-      "remote": false,
-      "tags": [
-        "Defense"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787002811,
-      "fetched_at": "2026-08-18T10:16:38.860543",
-      "match_score": 15.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.3231,
-        "semantic_score": 15.67,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347488"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-robotics-london-429195",
-      "title": "Senior Software Engineer - Robotics",
-      "company": "Applied",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automake",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-robotics-london-429195",
-      "remote": false,
-      "tags": [
-        "Defense"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787002811,
-      "fetched_at": "2026-08-18T10:16:38.860480",
-      "match_score": 15.66,
-      "score_breakdown": {
-        "semantic_similarity": 0.3231,
-        "semantic_score": 15.66,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347458"
-    },
-    {
-      "id": "arbeitnow_sytems-infrastructure-engineer-robotics-rostock-216101",
-      "title": "Sytems & Infrastructure Engineer - Robotics (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
-      "description": "<p style=\"text-align:justify;\">As a Software Engineer at our Rostock location, you will develop innovative software solutions for the next generation of autonomous systems. Working closely with cross-functional teams, you will tackle complex technical challenges and contribute throughout the entire development lifecycle\u2014from concept and implementation to the continuous improvement of our technologies. At Quantum Systems, we develop intelligent, connected systems across the air, land, sea, and un",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/sytems-infrastructure-engineer-robotics-rostock-216101",
-      "remote": false,
-      "tags": [
-        "Software"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787031020,
-      "fetched_at": "2026-08-18T10:16:38.856959",
-      "match_score": 15.35,
-      "score_breakdown": {
-        "semantic_similarity": 0.3206,
-        "semantic_score": 15.35,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347093"
-    },
-    {
-      "id": "arbeitnow_talent-acquisition-lead-london-97066",
-      "title": "Talent Acquisition Lead",
-      "company": "Level Zero Health",
-      "location": "London",
-      "description": "<div>\n<p><strong><span data-token-index=\"0\">About Level Zero</span>&nbsp;</strong></p>\n<p><em>Level Zero is pioneering next-generation biosensor technology for precise, real-time monitoring of critical endocrine biomarkers. Recognised as one of the top 20 startups across all categories worldwide at TechCrunch Disrupt 2024 - and backed by top-tier organisations like redalpine, SOSV and Entrepreneur First - we\u2019re pushing the boundaries of biochemistry and nanotechnology to revolutionize personalis",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/talent-acquisition-lead-london-97066",
-      "remote": false,
-      "tags": [
-        "Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787001889,
-      "fetched_at": "2026-08-18T10:16:38.860587",
-      "match_score": 13.76,
-      "score_breakdown": {
-        "semantic_similarity": 0.3081,
-        "semantic_score": 13.76,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347572"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-london-226925",
-      "title": "Senior Software Engineer",
-      "company": "Applied",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automake",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-software-engineer-london-226925",
-      "remote": false,
-      "tags": [
-        "Defense"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787002811,
-      "fetched_at": "2026-08-18T10:16:38.860549",
-      "match_score": 12.77,
-      "score_breakdown": {
-        "semantic_similarity": 0.3004,
-        "semantic_score": 12.77,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347536"
-    },
-    {
-      "id": "arbeitnow_forward-deployed-engineer-munich-370247",
-      "title": "Forward Deployed Engineer",
-      "company": "anthropic",
+      "id": "arbeitnow_working-student-robot-pilot-data-collection-munich-457297",
+      "title": "Working Student \u2013 Robot Pilot / Data Collection (m/f/d)",
+      "company": "RobCo",
       "location": "Munich",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;As a member of the Applied A",
-      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/forward-deployed-engineer-munich-370247",
+      "description": "<p style=\"min-height:1.5em\"><strong>About the Role at RobCo</strong></p><p style=\"min-height:1.5em\">RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that just works. </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/working-student-robot-pilot-data-collection-munich-457297",
       "remote": false,
       "tags": [
-        "Applied AI"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787032504,
-      "fetched_at": "2026-08-18T10:16:38.856656",
-      "match_score": 9.84,
+      "posted_at": 1787053211,
+      "fetched_at": "2026-08-18T14:21:17.375810",
+      "match_score": 6.1,
       "score_breakdown": {
-        "semantic_similarity": 0.2773,
-        "semantic_score": 9.84,
+        "semantic_similarity": 0.248,
+        "semantic_score": 6.1,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347046"
+      "scored_at": "2026-08-18T14:21:31.743949"
     },
     {
       "id": "remoteok_1136795",
@@ -478,7 +270,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-18T10:16:31.879368",
+      "fetched_at": "2026-08-18T14:21:10.619734",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -486,7 +278,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.346825"
+      "scored_at": "2026-08-18T14:21:31.743750"
     },
     {
       "id": "remoteok_1136569",
@@ -505,7 +297,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-08-18T10:16:31.879438",
+      "fetched_at": "2026-08-18T14:21:10.619788",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -513,7 +305,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.346920"
+      "scored_at": "2026-08-18T14:21:31.743844"
     },
     {
       "id": "arbeitnow_data-engineer-edinburgh-318318",
@@ -528,7 +320,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.859476",
+      "fetched_at": "2026-08-18T14:21:17.381593",
       "match_score": 3.43,
       "score_breakdown": {
         "semantic_similarity": 0.2269,
@@ -536,7 +328,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347372"
+      "scored_at": "2026-08-18T14:21:31.744395"
     },
     {
       "id": "arbeitnow_software-engineer-core-marketing-platforms-edinburgh-179760",
@@ -551,7 +343,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.858991",
+      "fetched_at": "2026-08-18T14:21:17.381125",
       "match_score": 2.47,
       "score_breakdown": {
         "semantic_similarity": 0.2194,
@@ -559,7 +351,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347207"
+      "scored_at": "2026-08-18T14:21:31.744231"
     },
     {
       "id": "remoteok_1136570",
@@ -578,7 +370,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-08-18T10:16:31.879435",
+      "fetched_at": "2026-08-18T14:21:10.619785",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -586,7 +378,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.346880"
+      "scored_at": "2026-08-18T14:21:31.743804"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-marketing-platforms-edinburgh-284822",
@@ -601,7 +393,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.859002",
+      "fetched_at": "2026-08-18T14:21:17.381134",
       "match_score": 0.87,
       "score_breakdown": {
         "semantic_similarity": 0.2068,
@@ -609,7 +401,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347317"
+      "scored_at": "2026-08-18T14:21:31.744340"
     },
     {
       "id": "arbeitnow_software-engineer-edinburgh-147757",
@@ -624,7 +416,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.858996",
+      "fetched_at": "2026-08-18T14:21:17.381130",
       "match_score": 0.05,
       "score_breakdown": {
         "semantic_similarity": 0.2004,
@@ -632,7 +424,49 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347262"
+      "scored_at": "2026-08-18T14:21:31.744285"
+    },
+    {
+      "id": "arbeitnow_legal-ai-system-architect-berlin-401300",
+      "title": "Legal AI System Architect (m/w/d)",
+      "company": "Ypog Law",
+      "location": "Berlin",
+      "description": "<br><strong>Willkommen bei YPOG</strong><p><span>YPOG ist eine f\u00fchrende Wirtschaftskanzlei f\u00fcr Rechts- und Steuerberatung mit einem starken Fokus auf Legal Tech und Innovation. Wir entwickeln digitale L\u00f6sungen, die die Rechtsberatung von morgen gestalten.\u00a0<br><br>Bei YPOG arbeiten wir in einer voll digitalisierten Umgebung, ein wertsch\u00e4tzendes Miteinander auf allen Ebenen steht im Mittelpunkt und flexible Zusammenarbeit geh\u00f6rt zu unserem Alltag. Dabei setzen wir auf agile, pragmatische Ans\u00e4tze m",
+      "url": "https://www.arbeitnow.com/jobs/companies/ypog-law/legal-ai-system-architect-berlin-401300",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787051387,
+      "fetched_at": "2026-08-18T14:21:17.376507",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1573,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T14:21:31.744040"
+    },
+    {
+      "id": "arbeitnow_ai-ml-engineer-generative-ai-legal-ai-berlin-485095",
+      "title": "AI/ML Engineer (m/w/d) \u2013  Generative AI + Legal AI",
+      "company": "Ypog Law",
+      "location": "Berlin",
+      "description": "<br><strong>Willkommen bei YPOG</strong><p><span style=\"font-family:Tahoma, Geneva, sans-serif;font-size:14px;\">YPOG ist eine f\u00fchrende Wirtschaftskanzlei f\u00fcr Rechts- und Steuerberatung mit einem starken Fokus auf Legal Tech, Legal AI und Innovation. Wir entwickeln digitale L\u00f6sungen und AI-Produkte, die unsere Beratung von morgen gestalten.<br>Bei YPOG arbeiten wir in einer voll digitalisierten Umgebung, ein wertsch\u00e4tzendes Miteinander auf allen Ebenen steht im Mittelpunkt und flexible Zusammenar",
+      "url": "https://www.arbeitnow.com/jobs/companies/ypog-law/ai-ml-engineer-generative-ai-legal-ai-berlin-485095",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787051387,
+      "fetched_at": "2026-08-18T14:21:17.376626",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1336,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T14:21:31.744076"
     },
     {
       "id": "arbeitnow_software-engineer-java-edinburgh-192814",
@@ -647,7 +481,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.858988",
+      "fetched_at": "2026-08-18T14:21:17.381122",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1695,
@@ -655,7 +489,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347185"
+      "scored_at": "2026-08-18T14:21:31.744210"
     },
     {
       "id": "arbeitnow_senior-software-engineer-edinburgh-58395",
@@ -670,7 +504,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T10:16:38.859004",
+      "fetched_at": "2026-08-18T14:21:17.381136",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1758,
@@ -678,30 +512,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T10:16:53.347336"
-    },
-    {
-      "id": "arbeitnow_product-owner-manchester-bath-46697",
-      "title": "Product Owner",
-      "company": "Netcraft",
-      "location": "Manchester, Bath)",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption. We\u2019re a trusted partner for three of the four largest companies in the world and many large governments. We&#39;ve blocked over 225 million cyber-attacks to date, and we take down around 33% of the world&#39;s phishing attacks.&lt;/p&gt;\n&lt;p&gt;Our purpose and passion are focused on",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcraft/product-owner-manchester-bath-46697",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1786992939,
-      "fetched_at": "2026-08-18T10:16:38.861659",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1003,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T10:16:53.347639"
+      "scored_at": "2026-08-18T14:21:31.744359"
     }
   ]
 }
