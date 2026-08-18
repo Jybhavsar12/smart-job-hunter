@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-18 18:19 UTC
+**Last updated:** 2026-08-18 22:11 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 68 |
-| Jobs found (all time) | 836 |
-| Jobs found (latest run, 2026-08-18) | 22 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 839 |
+| Jobs found (latest run, 2026-08-18) | 25 |
+| Best match (latest run) | Senior Software Engineer (m/w/d) at Conceptboard (score 36) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

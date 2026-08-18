@@ -1,65 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 22,
+  "count": 25,
   "jobs": [
     {
-      "id": "remoteok_1136447",
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "location": "Remote - US",
-      "description": "At Evolve, we\u00e2\u0080\u0099re on a mission to make vacation rental easy for everyone. Our high-performing, customer-obsessed team runs on curiosity, communication, and accountability\u00e2\u0080\u0094working together to create exceptional experiences for our owners and guests. Whether solving big challenges, delivering outstanding results, or celebrating wins, we approach every day with purpose and passion. If you\u00e2\u0080\u0099re ready to join a mission-driven company where every teammate has the opportunity to thrive, Evolve might",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
-      "salary": "",
-      "tags": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "architecture",
-        "testing",
-        "devops",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-08-18T18:19:28.466248",
-      "match_score": 43.77,
+      "id": "arbeitnow_remote-senior-software-engineer-200108",
+      "title": "Senior Software Engineer (m/w/d)",
+      "company": "Conceptboard",
+      "location": "Stuttgart / Remote",
+      "description": "<br><strong>Arbeitsort</strong><p>Stuttgart / remote</p><br><strong>Deine Aufgaben</strong><p><strong>Your Mission</strong><br>Bei Conceptboard bauen wir ein Kollaborationsprodukt, das Teams in Enterprise- und sicherheitskritischen Umgebungen t\u00e4glich nutzen \u2013 und wir bauen es mit dem Anspruch, dass es zuverl\u00e4ssig, wartbar und skalierbar bleibt. Daf\u00fcr brauchen wir Senior Engineers, die nicht nur liefern, sondern die Messlatte durch die Art, wie sie bauen, h\u00f6her legen.<br>Du bist hands-on im Platf",
+      "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-senior-software-engineer-200108",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787083800,
+      "fetched_at": "2026-08-18T22:10:53.137187",
+      "match_score": 35.55,
       "score_breakdown": {
-        "semantic_similarity": 0.4261,
-        "semantic_score": 28.77,
+        "semantic_similarity": 0.3614,
+        "semantic_score": 20.55,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687682"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-angular-berlin-344639",
-      "title": "Senior Software Engineer - Angular (m/f/x)",
-      "company": "neoshare",
-      "location": "Berlin",
-      "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>You contribute to the further development of our platform in the front-end area.</li><li>You will develop technical concepts independently and as part of a team, implement them, carry out tests, and document the results of your work.</li><li>You are constantly collaborating with UI/UX designers, and the backend and frontend team \u0442\u043e deliver the best possible result.</li><li>You actively participate in the development of reusable components and contrib",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/senior-software-engineer-angular-berlin-344639",
-      "remote": false,
-      "tags": [
-        "frontend",
-        "angular",
-        "development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787052581,
-      "fetched_at": "2026-08-18T18:19:35.273205",
-      "match_score": 39.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.5096,
-        "semantic_score": 39.4,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T18:19:48.687863"
+      "scored_at": "2026-08-18T22:11:09.401877"
     },
     {
       "id": "arbeitnow_senior-full-stack-engineer-hawkai-budapest-311397",
@@ -74,7 +36,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787067619,
-      "fetched_at": "2026-08-18T18:19:35.274267",
+      "fetched_at": "2026-08-18T22:10:53.141574",
       "match_score": 29.17,
       "score_breakdown": {
         "semantic_similarity": 0.3899,
@@ -82,7 +44,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-18T18:19:48.688014"
+      "scored_at": "2026-08-18T22:11:09.402309"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-478037",
@@ -97,7 +59,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787057715,
-      "fetched_at": "2026-08-18T18:19:35.274612",
+      "fetched_at": "2026-08-18T22:10:53.141921",
       "match_score": 28.94,
       "score_breakdown": {
         "semantic_similarity": 0.3095,
@@ -105,7 +67,45 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.688062"
+      "scored_at": "2026-08-18T22:11:09.402339"
+    },
+    {
+      "id": "arbeitnow_remote-senior-manager-data-science-ai-engineering-264219",
+      "title": "Senior Manager Data Science & AI Engineering (w/m/d)",
+      "company": "Eraneos",
+      "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+      "description": "<br><strong>Das findest Du bei uns</strong><p>Wir sind ein technisches, umsetzungsorientiertes Spin-Off einer global agierenden Managementberatung. Zu unseren Kunden geh\u00f6ren prim\u00e4r DAX und Fortune Global 500 Unternehmen, die wir zu Fragen in den Bereichen Analytics, Big Data und Machine Learning beraten. Wir \u00fcbernehmen in der Gruppe die Entwicklung von individuellen und datengetriebenen L\u00f6sungen, um so unsere Kunden in KI-gest\u00fctzte Unternehmen zu transformieren. Wir bieten ein internationales Ar",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-science-ai-engineering-264219",
+      "remote": false,
+      "tags": [
+        "Machine Learning",
+        "Softwareentwicklung",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Python",
+        "SQL",
+        "NoSQL",
+        "Solution Engineer",
+        "Management",
+        "KI",
+        "ELT",
+        "Computer Vision",
+        "GenAI",
+        "Data Science",
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787074158,
+      "fetched_at": "2026-08-18T22:10:53.138379",
+      "match_score": 28.77,
+      "score_breakdown": {
+        "semantic_similarity": 0.3082,
+        "semantic_score": 13.77,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.402021"
     },
     {
       "id": "arbeitnow_software-engineer-price-comparison-portal-berlin-233707",
@@ -121,7 +121,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1786516800,
-      "fetched_at": "2026-08-18T18:19:35.269895",
+      "fetched_at": "2026-08-18T22:10:53.135942",
       "match_score": 27.68,
       "score_breakdown": {
         "semantic_similarity": 0.4175,
@@ -129,7 +129,74 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687716"
+      "scored_at": "2026-08-18T22:11:09.401770"
+    },
+    {
+      "id": "arbeitnow_remote-staff-software-engineer-37744",
+      "title": "Staff Software Engineer (m/w/d)",
+      "company": "Conceptboard",
+      "location": "Stuttgart / Remote",
+      "description": "<br><strong>Arbeitsort</strong><p>Stuttgart / remote</p><br><strong>Deine Aufgaben</strong><p><strong>Your Mission</strong><br>Bei Conceptboard bauen wir ein Kollaborationsprodukt, auf das Enterprise-Kunden, \u00f6ffentliche Institutionen und sicherheitskritische Organisationen t\u00e4glich vertrauen. Damit die Teams, die dieses Produkt entwickeln, jederzeit auf voller Geschwindigkeit liefern k\u00f6nnen, brauchen sie eine Plattform, die ihnen aus dem Weg geht \u2013 nicht eine, die sie ausbremst.<br><br>Als Platfo",
+      "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-staff-software-engineer-37744",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787083800,
+      "fetched_at": "2026-08-18T22:10:53.137184",
+      "match_score": 27.05,
+      "score_breakdown": {
+        "semantic_similarity": 0.2947,
+        "semantic_score": 12.05,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.401838"
+    },
+    {
+      "id": "arbeitnow_applied-machine-learning-engineer-emea-london-353394",
+      "title": "Applied Machine Learning Engineer, EMEA",
+      "company": "Fireworks",
+      "location": "London",
+      "description": "<h2><strong>About Us:</strong></h2><p style=\"min-height:1.5em\">Fireworks is the platform for specialized intelligence, enabling companies to build, train, and serve AI models tailored to their own data, workflows, and products. Founded by the team behind PyTorch and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks powers production AI with hundreds of state-of-the-art open models across text, image, embedding, audio, and multimod",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/applied-machine-learning-engineer-emea-london-353394",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787078423,
+      "fetched_at": "2026-08-18T22:10:53.140294",
+      "match_score": 24.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.3956,
+        "semantic_score": 24.89,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.402148"
+    },
+    {
+      "id": "arbeitnow_principal-software-engineer-typescript-backendheavy-berlin-413158",
+      "title": "Principal Software Engineer (TypeScript, Backend\u2011Heavy)",
+      "company": "Rematiq Gmbh",
+      "location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\">We are building the first AI-native platform for <strong>automated product compliance in MedTech</strong>. REMATIQ turn hundreds of page of complex regulations (like MDR and FDA guidance) into structured, actionable requirements that plug directly into our customers\u2019 development and quality processes. The result: life\u2011saving medical devices reach patients faster and safer.</p><p style=\"min-height:1.5em\"></p><h2>About the job</h2><p style=\"min-height:1.5em\">As a <stron",
+      "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/principal-software-engineer-typescript-backendheavy-berlin-413158",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787074825,
+      "fetched_at": "2026-08-18T22:10:53.137795",
+      "match_score": 19.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.353,
+        "semantic_score": 19.47,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.401985"
     },
     {
       "id": "arbeitnow_enterprise-account-executive-dach-496962",
@@ -144,7 +211,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787066145,
-      "fetched_at": "2026-08-18T18:19:35.270313",
+      "fetched_at": "2026-08-18T22:10:53.139069",
       "match_score": 19.2,
       "score_breakdown": {
         "semantic_similarity": 0.233,
@@ -152,30 +219,63 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687775"
+      "scored_at": "2026-08-18T22:11:09.402119"
     },
     {
-      "id": "arbeitnow_pre-sales-senior-engineer-london-347617",
-      "title": "Pre-Sales Senior Engineer",
-      "company": "Kaluza",
-      "location": "London",
-      "description": "&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Job title:&lt;/strong&gt; Pre-Sales Senior Engineer&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;London/Bristol - Hybrid&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Team:&lt;/strong&gt; Commercial&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Reporting To:&lt;/strong&gt; Head of Client Solutions&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;This role is based in London or Bristol and requires existing right ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/pre-sales-senior-engineer-london-347617",
+      "id": "arbeitnow_senior-ai-engineer-berlin-206600",
+      "title": "Senior AI Engineer",
+      "company": "Rematiq Gmbh",
+      "location": "Berlin",
+      "description": "<p style=\"min-height:1.5em\">Rematiq helps healthcare and life sciences companies move faster through complex regulatory and quality workflows with AI. Our mission is to reduce the complexity that slows medical innovation down and help more products reach patients faster.</p><p style=\"min-height:1.5em\">We already work with leading healthcare and life sciences companies, including <strong>Novartis</strong>, solving real regulatory and operational problems in a highly complex industry.</p><p style=",
+      "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/senior-ai-engineer-berlin-206600",
       "remote": false,
       "tags": [
-        "Client Solutions"
+        "Tech"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787025308,
-      "fetched_at": "2026-08-18T18:19:35.277020",
-      "match_score": 17.55,
+      "posted_at": 1787074825,
+      "fetched_at": "2026-08-18T22:10:53.137713",
+      "match_score": 19.18,
       "score_breakdown": {
-        "semantic_similarity": 0.3379,
-        "semantic_score": 17.55,
+        "semantic_similarity": 0.3507,
+        "semantic_score": 19.18,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.688113"
+      "scored_at": "2026-08-18T22:11:09.401948"
+    },
+    {
+      "id": "arbeitnow_junior-ai-go-to-market-engineer-munchen-336609",
+      "title": "(Junior) AI Go-to-Market Engineer (w/m/d)",
+      "company": "FTAPI GmbH",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>Deine Aufgaben</strong><p><span style=\"font-size:14px;font-family:Verdana, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Du gestaltest die AI- und Automatisierungsschicht unseres Go-to-Market von Anfang an mit. Was du baust, geht in Produktion und wird von Sales, Marketing und Customer Success t\u00e4glich genutzt.\u00a0</span><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\"><br><br></span><ul styl",
+      "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/junior-ai-go-to-market-engineer-munchen-336609",
+      "remote": false,
+      "tags": [
+        "AI",
+        "AI Engineering",
+        "RevOps",
+        "Revenue Engineering",
+        "Sales Engineering",
+        "Sales Operations",
+        "Marketing Operations",
+        "GTM Engineering",
+        "GTM",
+        "Software Engineering",
+        "KI"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787083802,
+      "fetched_at": "2026-08-18T22:10:53.137179",
+      "match_score": 17.13,
+      "score_breakdown": {
+        "semantic_similarity": 0.2953,
+        "semantic_score": 12.13,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-18T22:11:09.401796"
     },
     {
       "id": "arbeitnow_software-developer-linux-python-integrations-remote-dusseldorf-486714",
@@ -191,7 +291,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787072434,
-      "fetched_at": "2026-08-18T18:19:36.338135",
+      "fetched_at": "2026-08-18T22:10:54.218371",
       "match_score": 14.27,
       "score_breakdown": {
         "semantic_similarity": 0.2729,
@@ -199,34 +299,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-18T18:19:48.688202"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-in-ci-munich-52426",
-      "title": "Senior Software Developer (m/f/d) in CI",
-      "company": "Checkmk GmbH",
-      "location": "Munich",
-      "description": "<br><strong>Deine Aufgaben</strong><p><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;\">Bist du ein:e leidenschaftliche:r\u00a0<strong>Senior Softwareentwickler:in</strong>, der:die m\u00f6chte, dass jede einzelne deiner \u00c4nderungen Hunderte von Entwicklungsstunden schneller und zuverl\u00e4ssiger macht? Bist du Umgebungen leid, in denen CI wie ein Nachgedanke behandelt wird, ein Haufen Skripte, den niemand besitzt, und wo \"der Build ist kaputt\" einfach als normal akzeptiert wird? Wenn ja, ",
-      "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/senior-software-developer-in-ci-munich-52426",
-      "remote": false,
-      "tags": [
-        "CI",
-        "Python",
-        "Bazel",
-        "Maven",
-        "Craddle"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787062185,
-      "fetched_at": "2026-08-18T18:19:36.339579",
-      "match_score": 11.76,
-      "score_breakdown": {
-        "semantic_similarity": 0.2924,
-        "semantic_score": 11.76,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T18:19:48.688266"
+      "scored_at": "2026-08-18T22:11:09.402399"
     },
     {
       "id": "arbeitnow_data-analytics-engineer-i-london-438463",
@@ -241,7 +314,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787056821,
-      "fetched_at": "2026-08-18T18:19:35.274712",
+      "fetched_at": "2026-08-18T22:10:53.142020",
       "match_score": 11.13,
       "score_breakdown": {
         "semantic_similarity": 0.2875,
@@ -249,7 +322,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.688089"
+      "scored_at": "2026-08-18T22:11:09.402365"
+    },
+    {
+      "id": "arbeitnow_senior-ai-ml-engineer-security-log-intelligence-berlin-431641",
+      "title": "Senior AI/ML Engineer, Security Log Intelligence",
+      "company": "RedMimicry GmbH",
+      "location": "Berlin",
+      "description": "<p>We are building a new capability that turns fragmented, noisy security logs into explainable, AI-powered threat analysis, delivered inside the RedMimicry platform.</p>\n<p>As Senior AI/ML Engineer at RedMimicry, you will lead the applied AI/ML work behind new analysis capabilities for our breach and attack emulation platform. The core challenge is extracting useful structure from heterogeneous, partially unstructured security telemetry and relating it to known attacker activity.</p>\n<p>The pro",
+      "url": "https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/senior-ai-ml-engineer-security-log-intelligence-berlin-431641",
+      "remote": false,
+      "tags": [
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787077828,
+      "fetched_at": "2026-08-18T22:10:53.137387",
+      "match_score": 9.8,
+      "score_breakdown": {
+        "semantic_similarity": 0.277,
+        "semantic_score": 9.8,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.401916"
     },
     {
       "id": "arbeitnow_engineering-manager-scheduling-team-berlin-berlin-111613",
@@ -264,7 +361,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787066145,
-      "fetched_at": "2026-08-18T18:19:35.270253",
+      "fetched_at": "2026-08-18T22:10:53.139015",
       "match_score": 8.74,
       "score_breakdown": {
         "semantic_similarity": 0.2687,
@@ -272,30 +369,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687746"
+      "scored_at": "2026-08-18T22:11:09.402070"
     },
     {
-      "id": "arbeitnow_working-student-robot-pilot-data-collection-munich-457297",
-      "title": "Working Student \u2013 Robot Pilot / Data Collection (m/f/d)",
-      "company": "RobCo",
-      "location": "Munich",
-      "description": "<p style=\"min-height:1.5em\"><strong>About the Role at RobCo</strong></p><p style=\"min-height:1.5em\">RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that just works. </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/working-student-robot-pilot-data-collection-munich-457297",
+      "id": "arbeitnow_senior-software-engineer-chromium-bracknell-375420",
+      "title": "Senior Software Engineer (Chromium)",
+      "company": "Menlosecurity",
+      "location": "EMEA - UK",
+      "description": "<p style=\"min-height:1.5em\">Menlo Security is the leader in Browser Security for human and agentic workforces. Our mission is to enable humans and agents to connect, communicate, and collaborate securely, without compromise. The Menlo Browser Security Platform protects organizations from cyberattacks by stopping threats across the web, documents, and email before they reach the user. With Menlo Agent Runtime Security (MARS), that protection now extends to the AI agents working alongside every em",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-software-engineer-chromium-bracknell-375420",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Oper"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787053211,
-      "fetched_at": "2026-08-18T18:19:35.272639",
-      "match_score": 6.1,
+      "posted_at": 1787078410,
+      "fetched_at": "2026-08-18T22:10:53.140751",
+      "match_score": 7.33,
       "score_breakdown": {
-        "semantic_similarity": 0.248,
-        "semantic_score": 6.1,
+        "semantic_similarity": 0.2576,
+        "semantic_score": 7.33,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687817"
+      "scored_at": "2026-08-18T22:11:09.402202"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-iuk-region-bracknell-476862",
+      "title": "Senior Software Engineer I(UK region)",
+      "company": "Menlosecurity",
+      "location": "EMEA - UK",
+      "description": "<p style=\"min-height:1.5em\">Menlo Security is the leader in Browser Security for human and agentic workforces. Our mission is to enable humans and agents to connect, communicate, and collaborate securely, without compromise. The Menlo Browser Security Platform protects organizations from cyberattacks by stopping threats across the web, documents, and email before they reach the user. With Menlo Agent Runtime Security (MARS), that protection now extends to the AI agents working alongside every em",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-software-engineer-iuk-region-bracknell-476862",
+      "remote": false,
+      "tags": [
+        "R&D"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787078410,
+      "fetched_at": "2026-08-18T22:10:53.140754",
+      "match_score": 6.36,
+      "score_breakdown": {
+        "semantic_similarity": 0.25,
+        "semantic_score": 6.36,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.402227"
+    },
+    {
+      "id": "arbeitnow_site-reliability-engineering-lead-bochum-73858",
+      "title": "Site Reliability Engineering Lead  (f/m/d)",
+      "company": "Sonar",
+      "location": "Bochum",
+      "description": "<div>\n<p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 11pt; font-family: Inter, sans-serif;\">Who is Sonar?</span></strong></p>\n<p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Inter, sans-serif;\">Sonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents ",
+      "url": "https://www.arbeitnow.com/jobs/companies/sonar/site-reliability-engineering-lead-bochum-73858",
+      "remote": false,
+      "tags": [
+        "Platform"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787072702,
+      "fetched_at": "2026-08-18T22:10:53.138772",
+      "match_score": 5.54,
+      "score_breakdown": {
+        "semantic_similarity": 0.2435,
+        "semantic_score": 5.54,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-18T22:11:09.402043"
     },
     {
       "id": "remoteok_1136795",
@@ -323,7 +466,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-18T18:19:28.466180",
+      "fetched_at": "2026-08-18T22:10:45.531756",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -331,7 +474,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687555"
+      "scored_at": "2026-08-18T22:11:09.401645"
     },
     {
       "id": "remoteok_1136569",
@@ -350,7 +493,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-08-18T18:19:28.466234",
+      "fetched_at": "2026-08-18T22:10:45.531809",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -358,30 +501,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687648"
+      "scored_at": "2026-08-18T22:11:09.401737"
     },
     {
-      "id": "arbeitnow_software-engineer-core-marketing-platforms-edinburgh-179760",
-      "title": "Software Engineer - Core Marketing Platforms",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE POSITION&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Our roster has an opening with your name on it&lt;/span&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We&#39;re looking for a&amp",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-core-marketing-platforms-edinburgh-179760",
+      "id": "arbeitnow_senior-software-engineer-bracknell-477221",
+      "title": "Senior Software Engineer",
+      "company": "Menlosecurity",
+      "location": "EMEA - UK",
+      "description": "<p style=\"min-height:1.5em\">Menlo Security is the leader in Browser Security for human and agentic workforces. Our mission is to enable humans and agents to connect, communicate, and collaborate securely, without compromise. The Menlo Browser Security Platform protects organizations from cyberattacks by stopping threats across the web, documents, and email before they reach the user. With Menlo Agent Runtime Security (MARS), that protection now extends to the AI agents working alongside every em",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/senior-software-engineer-bracknell-477221",
       "remote": false,
       "tags": [
-        "Software Engineering"
+        "R&D"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T18:19:35.277707",
-      "match_score": 2.47,
+      "posted_at": 1787078410,
+      "fetched_at": "2026-08-18T22:10:53.140749",
+      "match_score": 2.74,
       "score_breakdown": {
-        "semantic_similarity": 0.2194,
-        "semantic_score": 2.47,
+        "semantic_similarity": 0.2216,
+        "semantic_score": 2.74,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.688168"
+      "scored_at": "2026-08-18T22:11:09.402176"
     },
     {
       "id": "remoteok_1136570",
@@ -400,7 +543,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-08-18T18:19:28.466231",
+      "fetched_at": "2026-08-18T22:10:45.531805",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -408,49 +551,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687609"
-    },
-    {
-      "id": "arbeitnow_legal-ai-system-architect-berlin-401300",
-      "title": "Legal AI System Architect (m/w/d)",
-      "company": "Ypog Law",
-      "location": "Berlin",
-      "description": "<br><strong>Willkommen bei YPOG</strong><p><span>YPOG ist eine f\u00fchrende Wirtschaftskanzlei f\u00fcr Rechts- und Steuerberatung mit einem starken Fokus auf Legal Tech und Innovation. Wir entwickeln digitale L\u00f6sungen, die die Rechtsberatung von morgen gestalten.\u00a0<br><br>Bei YPOG arbeiten wir in einer voll digitalisierten Umgebung, ein wertsch\u00e4tzendes Miteinander auf allen Ebenen steht im Mittelpunkt und flexible Zusammenarbeit geh\u00f6rt zu unserem Alltag. Dabei setzen wir auf agile, pragmatische Ans\u00e4tze m",
-      "url": "https://www.arbeitnow.com/jobs/companies/ypog-law/legal-ai-system-architect-berlin-401300",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787051387,
-      "fetched_at": "2026-08-18T18:19:35.273343",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1573,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T18:19:48.687900"
-    },
-    {
-      "id": "arbeitnow_ai-ml-engineer-generative-ai-legal-ai-berlin-485095",
-      "title": "AI/ML Engineer (m/w/d) \u2013  Generative AI + Legal AI",
-      "company": "Ypog Law",
-      "location": "Berlin",
-      "description": "<br><strong>Willkommen bei YPOG</strong><p><span style=\"font-family:Tahoma, Geneva, sans-serif;font-size:14px;\">YPOG ist eine f\u00fchrende Wirtschaftskanzlei f\u00fcr Rechts- und Steuerberatung mit einem starken Fokus auf Legal Tech, Legal AI und Innovation. Wir entwickeln digitale L\u00f6sungen und AI-Produkte, die unsere Beratung von morgen gestalten.<br>Bei YPOG arbeiten wir in einer voll digitalisierten Umgebung, ein wertsch\u00e4tzendes Miteinander auf allen Ebenen steht im Mittelpunkt und flexible Zusammenar",
-      "url": "https://www.arbeitnow.com/jobs/companies/ypog-law/ai-ml-engineer-generative-ai-legal-ai-berlin-485095",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787051387,
-      "fetched_at": "2026-08-18T18:19:35.273439",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1336,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T18:19:48.687933"
+      "scored_at": "2026-08-18T22:11:09.401697"
     },
     {
       "id": "arbeitnow_senior-data-scientist-london-414675",
@@ -465,7 +566,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787068505,
-      "fetched_at": "2026-08-18T18:19:35.274015",
+      "fetched_at": "2026-08-18T22:10:53.141331",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1488,
@@ -473,7 +574,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687960"
+      "scored_at": "2026-08-18T22:11:09.402254"
     },
     {
       "id": "arbeitnow_senior-data-science-manager-london-98946",
@@ -488,7 +589,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787068505,
-      "fetched_at": "2026-08-18T18:19:35.274215",
+      "fetched_at": "2026-08-18T22:10:53.141523",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1682,
@@ -496,30 +597,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.687983"
-    },
-    {
-      "id": "arbeitnow_software-engineer-java-edinburgh-192814",
-      "title": "Software Engineer - Java",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;ABOUT FANDUEL&lt;br&gt;FanDuel Group (\u201cFanDuel&quot;) is an innovative sports-tech entertainment company that is changing the way&amp;nbsp;consumers engage with their favorite sports, teams, and leagues. The premier gaming destination in the&amp;nbsp;United States, FanDuel consists of a portfolio of leading brands across gaming, sports betting, daily fantasy&amp;nbsp;sports, advance-deposit wagering, and TV/media.&amp;nbsp;FanDuel has a presence across all 50 states with approximately 1",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-java-edinburgh-192814",
-      "remote": false,
-      "tags": [
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787014521,
-      "fetched_at": "2026-08-18T18:19:35.277704",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1695,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-18T18:19:48.688147"
+      "scored_at": "2026-08-18T22:11:09.402278"
     },
     {
       "id": "arbeitnow_senior-software-developer-development-coordinator-net-ai-gestutzte-produktentwicklung-frankfurt-459907",
@@ -535,7 +613,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787066427,
-      "fetched_at": "2026-08-18T18:19:36.338229",
+      "fetched_at": "2026-08-18T22:10:54.218463",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1648,
@@ -543,7 +621,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-18T18:19:48.688235"
+      "scored_at": "2026-08-18T22:11:09.402432"
     }
   ]
 }
