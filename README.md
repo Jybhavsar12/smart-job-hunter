@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-19 06:23 UTC
+**Last updated:** 2026-08-19 10:17 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 69 |
-| Jobs found (all time) | 865 |
-| Jobs found (latest run, 2026-08-19) | 26 |
-| Best match (latest run) | Senior Software Engineer, Backend at Camunda (score 46) |
+| Jobs found (all time) | 868 |
+| Jobs found (latest run, 2026-08-19) | 29 |
+| Best match (latest run) | IT Systems and Infrastructure Engineer at Checkatrade (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
