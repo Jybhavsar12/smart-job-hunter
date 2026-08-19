@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-19 18:16 UTC
+**Last updated:** 2026-08-19 22:13 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 69 |
-| Jobs found (all time) | 882 |
-| Jobs found (latest run, 2026-08-19) | 43 |
+| Jobs found (all time) | 872 |
+| Jobs found (latest run, 2026-08-19) | 33 |
 | Best match (latest run) | Senior AI Engineer at 51D (score 62) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
