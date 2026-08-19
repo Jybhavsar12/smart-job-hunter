@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-19 10:17 UTC
+**Last updated:** 2026-08-19 14:22 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 69 |
-| Jobs found (all time) | 868 |
-| Jobs found (latest run, 2026-08-19) | 29 |
-| Best match (latest run) | IT Systems and Infrastructure Engineer at Checkatrade (score 46) |
+| Jobs found (all time) | 879 |
+| Jobs found (latest run, 2026-08-19) | 40 |
+| Best match (latest run) | Senior AI Engineer at 51D (score 62) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
