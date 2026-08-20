@@ -1,7 +1,79 @@
 {
   "date": "2026-08-20",
-  "count": 12,
+  "count": 20,
   "jobs": [
+    {
+      "id": "arbeitnow_senior-software-engineer-leipzig-330291",
+      "title": "Senior Software Engineer",
+      "company": "Gridfuse",
+      "location": "Leipzig",
+      "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+      "url": "https://www.arbeitnow.com/jobs/companies/gridfuse/senior-software-engineer-leipzig-330291",
+      "remote": false,
+      "tags": [
+        "Golang",
+        "Development",
+        "Architecture",
+        "Renewables"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787257782,
+      "fetched_at": "2026-08-20T22:15:10.652014",
+      "match_score": 39.35,
+      "score_breakdown": {
+        "semantic_similarity": 0.5092,
+        "semantic_score": 39.35,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248558"
+    },
+    {
+      "id": "arbeitnow_remote-senior-technical-product-manager-intellij-kotlin-plugin-123172",
+      "title": "Senior Technical Product Manager (IntelliJ Kotlin Plugin)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
+      "description": "&lt;p&gt;At JetBrains, code is our passion. The Kotlin plugin for IntelliJ IDEA is where language meets experience \u2014 it&#39;s how hundreds of thousands of developers write, navigate, refactor, and understand Kotlin code every day. Being able to continuously improve it means understanding the language deeply, using the product daily, and deeply caring about Kotlin developers.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a Senior Technical Product Manager who will own the Kotlin-in-IDE experience end ",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-product-manager-intellij-kotlin-plugin-123172",
+      "remote": false,
+      "tags": [
+        "Kotlin Ecosystem"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787248522,
+      "fetched_at": "2026-08-20T22:15:14.463859",
+      "match_score": 37.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.3731,
+        "semantic_score": 22.03,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.249134"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-agentic-engineering-united-kingdom-28866",
+      "title": "Staff Software Engineer (Agentic Engineering)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "description": "<p style=\"min-height:1.5em\">As a Staff Software Engineer on Coder\u2019s Agentic Engineering team, you\u2019ll shape the systems behind our agentic development experience. You\u2019ll work across the agent harness, integrations, and workflows that connect agents with real development environments.</p><p style=\"min-height:1.5em\">You\u2019ll stay hands-on while setting the team's technical direction. You\u2019ll lead complex work, make sound architectural decisions, and help other engineers do their best work.</p><p style",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/staff-software-engineer-agentic-engineering-united-kingdom-28866",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787251218,
+      "fetched_at": "2026-08-20T22:15:10.656880",
+      "match_score": 32.11,
+      "score_breakdown": {
+        "semantic_similarity": 0.4523,
+        "semantic_score": 32.11,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248842"
+    },
     {
       "id": "arbeitnow_software-engineer-platform-london-285809",
       "title": "Software Engineer (Platform)",
@@ -15,7 +87,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787240423,
-      "fetched_at": "2026-08-20T18:21:34.960215",
+      "fetched_at": "2026-08-20T22:15:10.658180",
       "match_score": 29.03,
       "score_breakdown": {
         "semantic_similarity": 0.4281,
@@ -23,7 +95,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960798"
+      "scored_at": "2026-08-20T22:15:27.248978"
     },
     {
       "id": "arbeitnow_devops-engineer-night-shift1000-pm-600-am-475706",
@@ -38,7 +110,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787219710,
-      "fetched_at": "2026-08-20T18:21:34.961548",
+      "fetched_at": "2026-08-20T22:15:10.659886",
       "match_score": 27.24,
       "score_breakdown": {
         "semantic_similarity": 0.2962,
@@ -46,7 +118,53 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960914"
+      "scored_at": "2026-08-20T22:15:27.249097"
+    },
+    {
+      "id": "arbeitnow_software-engineer-frontend-payments-london-116974",
+      "title": "Software Engineer - Frontend - Payments",
+      "company": "Kraken",
+      "location": "United Kingdom",
+      "description": "<h1><strong>Building the Future of Open Finance</strong><br /></h1><p style=\"min-height:1.5em\">Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><p style=\"min-height:1.5em\"><br />Before you apply, we encourage you to explore our <a target=\"_blank",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/software-engineer-frontend-payments-london-116974",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787251227,
+      "fetched_at": "2026-08-20T22:15:10.656706",
+      "match_score": 26.38,
+      "score_breakdown": {
+        "semantic_similarity": 0.4073,
+        "semantic_score": 26.38,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248761"
+    },
+    {
+      "id": "arbeitnow_software-engineering-consultant-2026-27-graduate-berlin-305630",
+      "title": "Software Engineering Consultant (2026/27 Graduate)",
+      "company": "Netlight",
+      "location": "Berlin",
+      "description": "<h2><span style=\"font-size: 18px;\">What does it mean to be a Consultant at Netlight?</span></h2>\n<div><span style=\"font-size: 16px;\">Join the Netlight Berlin team as a consultant and be a part of shaping the software products and technical solutions of today and tomorrow alongside your colleagues and clients. Our focus is not just on the digital product, but also on the team and the business impact. You'll have the ownership to carve your own career path, choosing from a range of clients and rol",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/software-engineering-consultant-2026-27-graduate-berlin-305630",
+      "remote": false,
+      "tags": [
+        "Berlin"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787246689,
+      "fetched_at": "2026-08-20T22:15:10.653577",
+      "match_score": 25.24,
+      "score_breakdown": {
+        "semantic_similarity": 0.3983,
+        "semantic_score": 25.24,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248626"
     },
     {
       "id": "arbeitnow_applied-ai-engineer-london-15889",
@@ -61,7 +179,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787220041,
-      "fetched_at": "2026-08-20T18:21:34.961278",
+      "fetched_at": "2026-08-20T22:15:10.659546",
       "match_score": 21.31,
       "score_breakdown": {
         "semantic_similarity": 0.3674,
@@ -69,30 +187,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960883"
+      "scored_at": "2026-08-20T22:15:27.249062"
     },
     {
-      "id": "arbeitnow_software-engineer-london-164681",
-      "title": "Software Engineer",
-      "company": "Thought Machine",
-      "location": "United Kingdom, London",
-      "description": "<p style=\"min-height:1.5em\">Thought Machine's mission is bold \u2013 to properly and permanently rid the world's banks of legacy technology. To achieve this, we have developed the foundations of modern banking through core and payments technology which run natively in the cloud. What we are attempting is hard and means we need great people working together to build great technology.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We have grown rapidly in the past few years \u2013 growing ou",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/software-engineer-london-164681",
+      "id": "arbeitnow_remote-senior-software-engineer-ii-222936",
+      "title": "Senior Software Engineer II",
+      "company": "prolific",
+      "location": "Remote",
+      "description": "&lt;h1 style=&quot;text-align: center;&quot;&gt;Senior Software Engineer II&lt;/h1&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;Team: Engineering&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;&a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-software-engineer-ii-222936",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787218873,
-      "fetched_at": "2026-08-20T18:21:34.961608",
-      "match_score": 19.74,
+      "posted_at": 1787252114,
+      "fetched_at": "2026-08-20T22:15:10.656419",
+      "match_score": 21.06,
       "score_breakdown": {
-        "semantic_similarity": 0.3551,
-        "semantic_score": 19.74,
+        "semantic_similarity": 0.2476,
+        "semantic_score": 6.06,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248708"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-agentic-engineering-united-kingdom-109180",
+      "title": "Engineering Manager (Agentic Engineering)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "description": "<p style=\"min-height:1.5em\">As an Engineering Manager on Coder\u2019s Agentic Engineering team, you\u2019ll lead engineers building and evolving the systems behind our agentic development experience. You\u2019ll help make agents more capable, reliable, and useful across real development environments.</p><p style=\"min-height:1.5em\">You\u2019ll guide technical direction, grow the team, and keep execution sharp. You\u2019ll work closely with Engineering, Product, and Design across the agent harness, integrations, and devel",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/engineering-manager-agentic-engineering-united-kingdom-109180",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787251218,
+      "fetched_at": "2026-08-20T22:15:10.656930",
+      "match_score": 18.58,
+      "score_breakdown": {
+        "semantic_similarity": 0.346,
+        "semantic_score": 18.58,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960945"
+      "scored_at": "2026-08-20T22:15:27.248876"
     },
     {
       "id": "arbeitnow_software-engineer-ii-security-belfast-northern-ireland-83881",
@@ -107,7 +248,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787230524,
-      "fetched_at": "2026-08-20T18:21:34.960354",
+      "fetched_at": "2026-08-20T22:15:10.658350",
       "match_score": 17.8,
       "score_breakdown": {
         "semantic_similarity": 0.3399,
@@ -115,7 +256,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960823"
+      "scored_at": "2026-08-20T22:15:27.249006"
+    },
+    {
+      "id": "arbeitnow_senior-sales-engineer-uk-united-kingdom-475931",
+      "title": "Senior Sales Engineer - UK",
+      "company": "Camunda",
+      "location": "United Kingdom",
+      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/senior-sales-engineer-uk-united-kingdom-475931",
+      "remote": false,
+      "tags": [
+        "Sales"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787251235,
+      "fetched_at": "2026-08-20T22:15:10.656507",
+      "match_score": 15.49,
+      "score_breakdown": {
+        "semantic_similarity": 0.3217,
+        "semantic_score": 15.49,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248724"
     },
     {
       "id": "arbeitnow_senior-software-engineer-b2b-platform-services-belfast-northern-ireland-423809",
@@ -130,7 +294,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787230524,
-      "fetched_at": "2026-08-20T18:21:34.960370",
+      "fetched_at": "2026-08-20T22:15:10.658353",
       "match_score": 14.77,
       "score_breakdown": {
         "semantic_similarity": 0.3161,
@@ -138,28 +302,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960854"
-    },
-    {
-      "id": "arbeitnow_senior-data-scientist-ml-engineer-financial-crime-berlin-257478",
-      "title": "Senior Data Scientist/ML Engineer - Financial Crime",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "description": "<div data-testid=\"markdown-response\">\n<h2><strong>Help build ML systems that make financial crime harder to hide</strong></h2>\n<p>Financial crime is constantly changing. New patterns and behaviours emerge all the time, and the data we work with is complex. Our work helps make financial activity safer and more trustworthy for merchants, customers, and SumUp.</p>\n<p>As a <strong>Senior Data Science/ML Engineer</strong> in the Risk AI Engineering Squad, you will build the production systems that tu",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-scientist-ml-engineer-financial-crime-berlin-257478",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787233527,
-      "fetched_at": "2026-08-20T18:21:34.958814",
-      "match_score": 9.14,
-      "score_breakdown": {
-        "semantic_similarity": 0.2718,
-        "semantic_score": 9.14,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-20T18:21:48.960698"
+      "scored_at": "2026-08-20T22:15:27.249031"
     },
     {
       "id": "arbeitnow_senior-data-scientist-ml-engineer-financial-crime-berlin-185839",
@@ -174,7 +317,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787237736,
-      "fetched_at": "2026-08-20T18:21:34.957485",
+      "fetched_at": "2026-08-20T22:15:10.654981",
       "match_score": 6.59,
       "score_breakdown": {
         "semantic_similarity": 0.2518,
@@ -182,7 +325,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960667"
+      "scored_at": "2026-08-20T22:15:27.248681"
     },
     {
       "id": "arbeitnow_delivery-manager-biomechanics-all-offices-433722",
@@ -197,7 +340,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787241641,
-      "fetched_at": "2026-08-20T18:21:34.959467",
+      "fetched_at": "2026-08-20T22:15:10.657195",
       "match_score": 6.23,
       "score_breakdown": {
         "semantic_similarity": 0.2489,
@@ -205,7 +348,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960733"
+      "scored_at": "2026-08-20T22:15:27.248907"
     },
     {
       "id": "arbeitnow_frontend-developer-e-commerce-shopify-frankfurt-85789",
@@ -221,7 +364,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787239251,
-      "fetched_at": "2026-08-20T18:21:39.558388",
+      "fetched_at": "2026-08-20T22:15:15.633888",
       "match_score": 5.0,
       "score_breakdown": {
         "semantic_similarity": 0.1879,
@@ -229,7 +372,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-20T18:21:48.960975"
+      "scored_at": "2026-08-20T22:15:27.249170"
     },
     {
       "id": "remoteok_1136795",
@@ -257,7 +400,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-20T18:21:27.604739",
+      "fetched_at": "2026-08-20T22:14:59.046484",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -265,7 +408,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960630"
+      "scored_at": "2026-08-20T22:15:27.248530"
+    },
+    {
+      "id": "arbeitnow_enterprise-account-manager-german-speaking-uk-united-kingdom-76292",
+      "title": "Enterprise Account Manager (German-speaking, UK)",
+      "company": "Coder",
+      "location": "United Kingdom",
+      "description": "<p style=\"min-height:1.5em\">Coder is looking for an Enterprise Account Manager to grow our diverse customer base. You\u2019ll help bring Coder\u2019s platform to some of the largest companies in the world, who are focused on executing AI-centric software development at scale. This role is about building trusted relationships, shaping deals, and making sure enterprise customers clearly see the value we deliver.</p><p style=\"min-height:1.5em\">Day to day, you will manage the full sales cycle, from sourcing o",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/enterprise-account-manager-german-speaking-uk-united-kingdom-76292",
+      "remote": false,
+      "tags": [
+        "Revenue"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787251218,
+      "fetched_at": "2026-08-20T22:15:10.656878",
+      "match_score": 4.6,
+      "score_breakdown": {
+        "semantic_similarity": 0.2361,
+        "semantic_score": 4.6,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248805"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-golang-php-berlin-327641",
+      "title": "Senior Software Engineer (GoLang/PHP)",
+      "company": "Gelato",
+      "location": "Berlin",
+      "description": "<h2><strong>About Gelato</strong></h2><p style=\"min-height:1.5em\">Gelato has built the world's largest and most global network for on-demand production of customized items e.g. t-shirts, wall art, mugs, books, hoodies, and cards. We support a new wave of e-commerce entrepreneurs and the global shift towards local and more sustainable production.</p><p style=\"min-height:1.5em\">In many ways, we at Gelato are rethinking how digital fabrication of customized products can be done on-demand. Just imag",
+      "url": "https://www.arbeitnow.com/jobs/companies/gelato/senior-software-engineer-golang-php-berlin-327641",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787247618,
+      "fetched_at": "2026-08-20T22:15:10.653218",
+      "match_score": 3.48,
+      "score_breakdown": {
+        "semantic_similarity": 0.2273,
+        "semantic_score": 3.48,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-20T22:15:27.248593"
     },
     {
       "id": "arbeitnow_lead-software-engineer-london-24155",
@@ -280,7 +469,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787241345,
-      "fetched_at": "2026-08-20T18:21:34.959683",
+      "fetched_at": "2026-08-20T22:15:10.657473",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.179,
@@ -288,7 +477,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-20T18:21:48.960768"
+      "scored_at": "2026-08-20T22:15:27.248944"
     }
   ]
 }

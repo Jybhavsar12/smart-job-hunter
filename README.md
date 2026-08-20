@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-20 18:21 UTC
+**Last updated:** 2026-08-20 22:15 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 70 |
-| Jobs found (all time) | 884 |
-| Jobs found (latest run, 2026-08-20) | 12 |
-| Best match (latest run) | Software Engineer (Platform) at Algo1 (score 29) |
+| Jobs found (all time) | 892 |
+| Jobs found (latest run, 2026-08-20) | 20 |
+| Best match (latest run) | Senior Software Engineer at Gridfuse (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
