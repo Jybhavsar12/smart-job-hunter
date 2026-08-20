@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-20 14:24 UTC
+**Last updated:** 2026-08-20 18:21 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 70 |
-| Jobs found (all time) | 895 |
-| Jobs found (latest run, 2026-08-20) | 23 |
-| Best match (latest run) | Software Engineer:in (Frontend-Focused) at greenventory GmbH (score 45) |
+| Jobs found (all time) | 884 |
+| Jobs found (latest run, 2026-08-20) | 12 |
+| Best match (latest run) | Software Engineer (Platform) at Algo1 (score 29) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
