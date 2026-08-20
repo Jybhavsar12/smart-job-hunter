@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-20 10:18 UTC
+**Last updated:** 2026-08-20 14:24 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 70 |
-| Jobs found (all time) | 899 |
-| Jobs found (latest run, 2026-08-20) | 27 |
-| Best match (latest run) | Senior Platform & DevOps Engineer at Berlitz (score 57) |
+| Jobs found (all time) | 895 |
+| Jobs found (latest run, 2026-08-20) | 23 |
+| Best match (latest run) | Software Engineer:in (Frontend-Focused) at greenventory GmbH (score 45) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
