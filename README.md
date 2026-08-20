@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-19 22:13 UTC
+**Last updated:** 2026-08-20 06:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 69 |
-| Jobs found (all time) | 872 |
-| Jobs found (latest run, 2026-08-19) | 33 |
-| Best match (latest run) | Senior AI Engineer at 51D (score 62) |
+| Search runs | 70 |
+| Jobs found (all time) | 899 |
+| Jobs found (latest run, 2026-08-20) | 27 |
+| Best match (latest run) | Senior Platform & DevOps Engineer at Berlitz (score 57) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
