@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-21 10:19 UTC
+**Last updated:** 2026-08-21 14:23 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 71 |
-| Jobs found (all time) | 911 |
-| Jobs found (latest run, 2026-08-21) | 19 |
-| Best match (latest run) | Software Engineer (m/f/d) at Amperecloud GmbH (score 33) |
+| Jobs found (all time) | 908 |
+| Jobs found (latest run, 2026-08-21) | 16 |
+| Best match (latest run) | Senior Applied AI Engineer at Forter (score 51) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
