@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-20 22:15 UTC
+**Last updated:** 2026-08-21 06:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 70 |
-| Jobs found (all time) | 892 |
-| Jobs found (latest run, 2026-08-20) | 20 |
+| Search runs | 71 |
+| Jobs found (all time) | 917 |
+| Jobs found (latest run, 2026-08-21) | 25 |
 | Best match (latest run) | Senior Software Engineer at Gridfuse (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
