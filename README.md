@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-21 18:20 UTC
+**Last updated:** 2026-08-21 22:12 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 71 |
 | Jobs found (all time) | 909 |
 | Jobs found (latest run, 2026-08-21) | 17 |
-| Best match (latest run) | Senior Applied AI Engineer at Forter (score 51) |
+| Best match (latest run) | Full-Stack Software Engineer - Journey at Ecosia (score 59) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
