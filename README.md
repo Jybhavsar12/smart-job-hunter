@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-21 06:24 UTC
+**Last updated:** 2026-08-21 10:19 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 71 |
-| Jobs found (all time) | 917 |
-| Jobs found (latest run, 2026-08-21) | 25 |
-| Best match (latest run) | Senior Software Engineer at Gridfuse (score 39) |
+| Jobs found (all time) | 911 |
+| Jobs found (latest run, 2026-08-21) | 19 |
+| Best match (latest run) | Software Engineer (m/f/d) at Amperecloud GmbH (score 33) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
