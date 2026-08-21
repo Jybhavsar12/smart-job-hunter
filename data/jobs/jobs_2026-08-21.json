@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "id": "arbeitnow_senior-applied-ai-engineer-95400",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787306124,
-      "fetched_at": "2026-08-21T14:23:20.021650",
+      "fetched_at": "2026-08-21T18:20:05.239931",
       "match_score": 51.12,
       "score_breakdown": {
         "semantic_similarity": 0.4838,
@@ -23,7 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323389"
+      "scored_at": "2026-08-21T18:20:22.209584"
     },
     {
       "id": "arbeitnow_senior-engineer-data-infrastructure-cambridge-293079",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787306111,
-      "fetched_at": "2026-08-21T14:23:20.022044",
+      "fetched_at": "2026-08-21T18:20:05.240325",
       "match_score": 39.11,
       "score_breakdown": {
         "semantic_similarity": 0.5073,
@@ -46,28 +46,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323450"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-full-stack-healthcare-applications-munchen-76827",
-      "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
-      "company": "Snke",
-      "location": "M\u00fcnchen",
-      "description": "<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-76827",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787311796,
-      "fetched_at": "2026-08-21T14:23:20.018284",
-      "match_score": 33.19,
-      "score_breakdown": {
-        "semantic_similarity": 0.4608,
-        "semantic_score": 33.19,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-21T14:23:36.323061"
+      "scored_at": "2026-08-21T18:20:22.209640"
     },
     {
       "id": "arbeitnow_remote-intermediate-software-engineer-security-factory-vulnerability-management-85833",
@@ -82,7 +61,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787306114,
-      "fetched_at": "2026-08-21T14:23:20.021936",
+      "fetched_at": "2026-08-21T18:20:05.240216",
       "match_score": 29.59,
       "score_breakdown": {
         "semantic_similarity": 0.3147,
@@ -90,54 +69,143 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323420"
+      "scored_at": "2026-08-21T18:20:22.209612"
     },
     {
-      "id": "arbeitnow_remote-senior-product-engineer-ims-all-genders-berlin-378345",
-      "title": "Senior Product Engineer, IMS (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Remote job",
-      "description": "<p><strong>About us<br>Distribusion</strong> is the world\u2019s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and <a rel=\"noopener\" target=\"_blank\" href=\"http://Booking.com\">Booking.com</a>. </p><p>We are shaping the future of travel ",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ims-all-genders-berlin-378345",
-      "remote": true,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787301014,
-      "fetched_at": "2026-08-21T14:23:20.020216",
-      "match_score": 20.82,
-      "score_breakdown": {
-        "semantic_similarity": 0.2457,
-        "semantic_score": 5.82,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-21T14:23:36.323248"
-    },
-    {
-      "id": "arbeitnow_solution-architect-ai-berlin-155916",
-      "title": "Solution Architect AI (m/w/d)",
-      "company": "Brighter AI Technologies GmbH",
-      "location": "Berlin",
-      "description": "<h2>WHO ARE WE LOOKING FOR:</h2>\n<p>We are looking for an artificial intelligence solution prototyping and sales support consultant to obsess about customer problem solving, solution improvements, and opportunities for growth. You will demo and modify our state of the art computer-vision AI pipeline to solve our customer\u2019s challenges. The exciting prototypes and proof of concepts you build are key to our customers' success. You must have a passion for great customer experience and strong technic",
-      "url": "https://www.arbeitnow.com/jobs/companies/brighter-ai-technologies-gmbh/solution-architect-ai-berlin-155916",
+      "id": "arbeitnow_ai-ml-technical-architect-lead-germany-27321",
+      "title": "AI/ML Technical Architect Lead",
+      "company": "Jobgether",
+      "location": "Germany",
+      "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI/ML Technical Architect Lead based in Germany.</strong></p>\n<p>This is a senior, hands-on technical leadership role focused on transforming advanced AI and machine learning capabilities into secure, scalable, production-ready solutions.<br>You will shape AI/ML strategy and architecture while directly contributing to model development, deployment, i",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-ml-technical-architect-lead-germany-27321",
       "remote": false,
       "tags": [
-        "Software Development"
+        "IT"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787308266,
-      "fetched_at": "2026-08-21T14:23:21.100789",
-      "match_score": 18.15,
+      "posted_at": 1787331901,
+      "fetched_at": "2026-08-21T18:20:05.235429",
+      "match_score": 26.87,
       "score_breakdown": {
-        "semantic_similarity": 0.3426,
-        "semantic_score": 18.15,
+        "semantic_similarity": 0.4111,
+        "semantic_score": 26.87,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323579"
+      "scored_at": "2026-08-21T18:20:22.209291"
+    },
+    {
+      "id": "arbeitnow_ai-ml-technical-architect-lead-uk-272200",
+      "title": "AI/ML Technical Architect Lead",
+      "company": "Jobgether",
+      "location": "UK",
+      "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI/ML Technical Architect Lead based in United Kingdom.</strong></p>\n<p>This is a senior, hands-on technical leadership role focused on transforming advanced AI and machine learning capabilities into secure, scalable, production-ready solutions.<br>You will shape AI/ML strategy and architecture while directly contributing to model development, deploy",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-ml-technical-architect-lead-uk-272200",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787325874,
+      "fetched_at": "2026-08-21T18:20:05.238665",
+      "match_score": 26.74,
+      "score_breakdown": {
+        "semantic_similarity": 0.4101,
+        "semantic_score": 26.74,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209463"
+    },
+    {
+      "id": "arbeitnow_hackers-wanted-senior-software-engineer-hamburg-51509",
+      "title": "Hackers wanted \u2013 Senior Software Engineer",
+      "company": "freiheit.com technologies",
+      "location": "Hamburg",
+      "description": "<div><span style=\"font-size: 24px;\">ABOUT OUR COMPANY</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">We are an engineering organization. Our mission is to \u201cShip great software\u201d and build custom, large-scale software platforms on time, on budget and on target.&nbsp;</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">In over two decades, we have never failed to deliver what we promised.&nbsp;</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">85%",
+      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-senior-software-engineer-hamburg-51509",
+      "remote": false,
+      "tags": [
+        "Engineers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787333051,
+      "fetched_at": "2026-08-21T18:20:05.235323",
+      "match_score": 26.66,
+      "score_breakdown": {
+        "semantic_similarity": 0.4095,
+        "semantic_score": 26.66,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209223"
+    },
+    {
+      "id": "arbeitnow_hackers-wanted-software-engineers-hamburg-403221",
+      "title": "Hackers wanted \u2013 Software Engineers",
+      "company": "freiheit.com technologies",
+      "location": "Hamburg",
+      "description": "<div><span style=\"font-size: 24px;\">ABOUT OUR COMPANY</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">We are an engineering organization. Our mission is to \u201cShip great software\u201d and build custom, large-scale software platforms on time, on budget and on target.&nbsp;</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">In over two decades, we have never failed to deliver what we promised.&nbsp;</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 12pt;\">85%",
+      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/hackers-wanted-software-engineers-hamburg-403221",
+      "remote": false,
+      "tags": [
+        "Engineers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787333051,
+      "fetched_at": "2026-08-21T18:20:05.235316",
+      "match_score": 25.64,
+      "score_breakdown": {
+        "semantic_similarity": 0.4015,
+        "semantic_score": 25.64,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209190"
+    },
+    {
+      "id": "arbeitnow_senior-solution-engineer-pre-sales-remote-uk-235643",
+      "title": "Senior Solution Engineer (Pre-Sales), Remote \u2013 UK",
+      "company": "Boomilp",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;About Boomi and What Makes Us Special&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;Are you ready to work at a fast-growing company where you can make a difference?&amp;nbsp;Boomi, the data activation company for AI, powers the agentic enterprise by bringing data to ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/boomilp/senior-solution-engineer-pre-sales-remote-uk-235643",
+      "remote": false,
+      "tags": [
+        "Sales"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787327718,
+      "fetched_at": "2026-08-21T18:20:05.238137",
+      "match_score": 24.62,
+      "score_breakdown": {
+        "semantic_similarity": 0.2756,
+        "semantic_score": 9.62,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209433"
+    },
+    {
+      "id": "arbeitnow_software-developer-full-stack-hamburg-179442",
+      "title": "Software Developer | Full-stack (m/w/d)",
+      "company": "Hoppe Marine Gmbh",
+      "location": "Hamburg",
+      "description": "<br><strong>Aufgaben</strong><p>Das Applications-Team entwickelt und pr\u00fcft L\u00f6sungen, die hochwertige Sensordaten<br>von gro\u00dfen Fracht- und Offshore-Schiffen erfassen \u2013 Daten, auf die sich unsere Kunden \u00fcber SCADA, das Web und andere bordgest\u00fctzte Anwendungen verlassen. Im Mittelpunkt unserer Arbeit steht das Software Engineering Center, unsere unternehmensinterne Kernanwendung, die unternehmensweit zur Konzeption und Konfiguration von Softwareprojekten f\u00fcr Schiffe auf der ganzen Welt eingesetzt ",
+      "url": "https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-179442",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787322621,
+      "fetched_at": "2026-08-21T18:20:05.237372",
+      "match_score": 17.85,
+      "score_breakdown": {
+        "semantic_similarity": 0.3403,
+        "semantic_score": 17.85,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209404"
     },
     {
       "id": "arbeitnow_machine-learning-engineer-routing-eta-london-5454",
@@ -152,7 +220,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787316022,
-      "fetched_at": "2026-08-21T14:23:20.020674",
+      "fetched_at": "2026-08-21T18:20:05.238975",
       "match_score": 17.85,
       "score_breakdown": {
         "semantic_similarity": 0.3403,
@@ -160,7 +228,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323318"
+      "scored_at": "2026-08-21T18:20:22.209499"
     },
     {
       "id": "arbeitnow_front-end-engineer-london-391265",
@@ -175,7 +243,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787294413,
-      "fetched_at": "2026-08-21T14:23:20.023060",
+      "fetched_at": "2026-08-21T18:20:05.241354",
       "match_score": 17.01,
       "score_breakdown": {
         "semantic_similarity": 0.3337,
@@ -183,100 +251,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323484"
+      "scored_at": "2026-08-21T18:20:22.209675"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-gateway-java-aws-berlin-454298",
-      "title": "Senior Software Engineer - Gateway (Java, AWS)",
-      "company": "PPRO",
-      "location": "Berlin",
-      "description": "<div>\n<div aria-setsize=\"-1\" id=\"message-list_1784212978.479209\">\n<div>\n<div aria-roledescription=\"message\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>At PPRO, we simplify access to local payments - providing a local payments platform that empowers giants like PayPal, Stripe, and Microsoft to connect with billions of consumers worldwide. We are on an ambitious, fast-paced mission to 3x our growth by 2028 - and we\u2019re just getting started.<br><br>Our magic lies in our team of proud paym",
-      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-gateway-java-aws-berlin-454298",
+      "id": "arbeitnow_freelance-frontend-engineer-all-genders-berlin-berlin-353220",
+      "title": "Freelance Frontend Engineer (all genders)",
+      "company": "gropyus",
+      "location": "Berlin, Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable con",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-frontend-engineer-all-genders-berlin-berlin-353220",
       "remote": false,
       "tags": [
-        "Software Engineering: Transaction Processing"
+        "Planning Automation"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787311462,
-      "fetched_at": "2026-08-21T14:23:20.018443",
-      "match_score": 16.11,
+      "posted_at": 1787324105,
+      "fetched_at": "2026-08-21T18:20:05.236924",
+      "match_score": 10.49,
       "score_breakdown": {
-        "semantic_similarity": 0.3266,
-        "semantic_score": 16.11,
+        "semantic_similarity": 0.2824,
+        "semantic_score": 10.49,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323105"
-    },
-    {
-      "id": "arbeitnow_working-student-software-engineer-potsdam-436123",
-      "title": "Working Student Software Engineer",
-      "company": "D-LABS GmbH",
-      "location": "Potsdam",
-      "description": "<p><strong>Working Student Software Engineer</strong></p>\n<p><strong>(Berlin/Potsdam/Stuttgart)</strong></p>\n<p>Du willst bereits w\u00e4hrend deines Studiums praktische Erfahrungen sammeln und dabei mit einem kreativen Team zusammenarbeiten, welches innovative Produkte vorantreibt? Dann freue dich auf das spannende Arbeitsumfeld bei D-LABS!</p>\n<p>Hier findest du viel Freiheit bei Technologiewahl und Gestaltung sowie selbstverantwortliches Arbeiten bei deinen Projekten.</p>\n<p><strong>Wer uns fehlt,",
-      "url": "https://www.arbeitnow.com/jobs/companies/d-labs-gmbh/working-student-software-engineer-potsdam-436123",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787306448,
-      "fetched_at": "2026-08-21T14:23:20.018888",
-      "match_score": 13.56,
-      "score_breakdown": {
-        "semantic_similarity": 0.3065,
-        "semantic_score": 13.56,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-21T14:23:36.323180"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-backend-london-205992",
-      "title": "Senior Software Engineer | Backend",
-      "company": "Apron",
-      "location": "London",
-      "description": "<h1><strong>About Apron</strong></h1><p style=\"min-height:1.5em\">Small businesses are the backbone of the economy, but the systems they rely on for payments are slow, manual and were never built for them. Apron is fixing that. We digitise and simplify how SMBs manage cash flow: capturing invoices, issuing expense cards, and moving money in one place.</p><p style=\"min-height:1.5em\">Founded in 2021, we've grown to ~100 people across the UK, Germany, Spain and raised $50M, backed by Index Ventures,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/apron/senior-software-engineer-backend-london-205992",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787272818,
-      "fetched_at": "2026-08-21T14:23:20.024380",
-      "match_score": 13.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.3063,
-        "semantic_score": 13.53,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-21T14:23:36.323513"
-    },
-    {
-      "id": "arbeitnow_go-to-market-engineer-ai-automation-berlin-400699",
-      "title": "Go-to-Market Engineer \u2013 AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
-      "description": "<br><strong>Dein Impact</strong><p><p style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">autarc is building the operating system for energy installers across Europe. As we scale, we want our Go-to-Market organization to operate with the same level of automation, data quality, and product thinking as our engineering organization.</sp",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-400699",
-      "remote": false,
-      "tags": [
-        "AI",
-        "GTM"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787301033,
-      "fetched_at": "2026-08-21T14:23:20.020085",
-      "match_score": 13.21,
-      "score_breakdown": {
-        "semantic_similarity": 0.3038,
-        "semantic_score": 13.21,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-21T14:23:36.323206"
+      "scored_at": "2026-08-21T18:20:22.209364"
     },
     {
       "id": "arbeitnow_director-of-engineering-agentic-commerce-london-121251",
@@ -291,7 +289,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787316020,
-      "fetched_at": "2026-08-21T14:23:20.021126",
+      "fetched_at": "2026-08-21T18:20:05.239423",
       "match_score": 6.09,
       "score_breakdown": {
         "semantic_similarity": 0.2479,
@@ -299,7 +297,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323352"
+      "scored_at": "2026-08-21T18:20:22.209550"
+    },
+    {
+      "id": "arbeitnow_vp-head-of-engineering-leipzig-330120",
+      "title": "VP/Head of Engineering (m/w/d)",
+      "company": "Eorbit Gmbh",
+      "location": "Leipzig",
+      "description": "<br><strong>Deine Aufgaben</strong><p><p style=\"margin-bottom:7pt;\"><span style=\"color:#555555;\">Volle technische Verantwortung f\u00fcr Rocket \u2014 direkt an die Gr\u00fcnder, ohne Zwischenebene</span></p><p style=\"margin-bottom:5pt;\">tack von Marriott. Unsere Engineers arbeiten also mitten im echten Hotelbetrieb, nicht gegen Sandbox-APIs.</p><p style=\"margin-bottom:5pt;\">In dieser Rolle verantwortest du Engineering bei MICE DESK \u2014 vollst\u00e4ndig. Es gibt keine CTO-Ebene \u00fcber dir: Architektur, Technik, Deliver",
+      "url": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/vp-head-of-engineering-leipzig-330120",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787332154,
+      "fetched_at": "2026-08-21T18:20:05.235378",
+      "match_score": 5.3,
+      "score_breakdown": {
+        "semantic_similarity": 0.2416,
+        "semantic_score": 5.3,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-21T18:20:22.209257"
     },
     {
       "id": "remoteok_1136795",
@@ -327,7 +346,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-08-21T14:23:12.374541",
+      "fetched_at": "2026-08-21T18:19:57.667679",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -335,53 +354,78 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323034"
+      "scored_at": "2026-08-21T18:20:22.209095"
     },
     {
-      "id": "arbeitnow_lead-data-engineer-london-uk-15503",
-      "title": "Lead Data Engineer",
-      "company": "TodayTix Group",
-      "location": "London, UK",
-      "description": "<div><strong style=\"font-size: 32px;\">About TodayTix Group:</strong></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 16px;\">TodayTix Group (TTG) is the global e-commerce leader for cultural experiences, designing frictionless discovery and purchase journeys through innovative product design and industry-leading technology. Our portfolio of brands\u2013\u2013including&nbsp; </span><a href=\"https://www.todaytix.com/\" style=\"font-size: 16px;\">TodayTix</a><span style=\"font-size: 16px;\">, </span><a href=\"",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503",
-      "remote": false,
+      "id": "arbeitnow_remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "description": "<br><strong>Unsere Standorte</strong><p>Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote / im Homeoffice \u2013 die T\u00e4tigkeit ist standortunabh\u00e4ngig m\u00f6glich</p><br><strong>Dein zuk\u00fcnftiges Team</strong><p>Du willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-L\u00f6sungen f\u00fcr Kliniken mitwirken? Im Bereich Produktentwicklung suchen wir eine*n Werkstudent*in. Ganz gleich, ob du von Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote aus arbeite",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
+      "remote": true,
       "tags": [
-        "Software Engineering"
+        "M\u00fcnchen",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787270648,
-      "fetched_at": "2026-08-21T14:23:20.024830",
-      "match_score": 4.99,
+      "posted_at": 1787333413,
+      "fetched_at": "2026-08-21T18:20:05.235224",
+      "match_score": 2.02,
       "score_breakdown": {
-        "semantic_similarity": 0.2392,
-        "semantic_score": 4.99,
+        "semantic_similarity": 0.2159,
+        "semantic_score": 2.02,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323542"
+      "scored_at": "2026-08-21T18:20:22.209153"
     },
     {
-      "id": "arbeitnow_anwendungsentwickler-inhouse-erp-software-werne-409146",
-      "title": "Anwendungsentwickler (m/w/d) - Inhouse ERP-Software",
-      "company": "JobAtlas",
-      "location": "Werne",
-      "description": "<p><strong>Du willst die Software weiterentwickeln, mit der ein ganzes Unternehmen arbeitet? Dann haben wir die richtige Stelle f\u00fcr Dich!</strong></p>\n<p>F\u00fcr ein f\u00fchrendes Handels- und Produktionsunternehmen suchen wir Dich, um das interne Entwickler-Team in <strong>Werne</strong> zu verst\u00e4rken. Das Team ist verantwortlich f\u00fcr die hauseigene ERP-Software, die t\u00e4glich von hunderten Mitarbeitern und Kunden verwendet wird.</p>\n<p>Als <strong>Anwendungsentwickler (m/w/d)</strong> bist Du die rechte ",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobatlas/anwendungsentwickler-inhouse-erp-software-werne-409146",
+      "id": "arbeitnow_softwareentwickler-c-qt-munich-330741",
+      "title": "Softwareentwickler C++ / Qt",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "description": "<p><strong>Softwareentwickler C++/Qt (m/w/d) \u2013 Vollzeit | M\u00fcnchen</strong></p>\n<p>Im Auftrag unseres Partnerunternehmens in M\u00fcnchen suchen wir Sie zum n\u00e4chstm\u00f6glichen Zeitpunkt als <strong>\u201eSoftwareentwickler C++/Qt (m/w/d)\u201c.</strong></p>\n<h2><strong>Aufgaben</strong></h2>\n<ul>\n<li>Sie entwickeln und konfigurieren Simulationsnetzwerke sowie Hard- und Softwarekomponenten f\u00fcr Simulations- und Ausbildungssysteme</li>\n<li>Als Softwareentwickler programmieren und erweitern Sie Simulationssoftware in ",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-c-qt-munich-330741",
       "remote": false,
       "tags": [
-        "System and Network Administration"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787310031,
-      "fetched_at": "2026-08-21T14:23:20.018767",
+      "posted_at": 1787331636,
+      "fetched_at": "2026-08-21T18:20:05.235858",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1784,
+        "semantic_similarity": 0.1895,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-21T14:23:36.323145"
+      "scored_at": "2026-08-21T18:20:22.209328"
     }
   ]
 }
