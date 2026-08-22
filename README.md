@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-22 18:12 UTC
+**Last updated:** 2026-08-22 22:10 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 72 |
-| Jobs found (all time) | 924 |
-| Jobs found (latest run, 2026-08-22) | 15 |
-| Best match (latest run) | Software Engineer, Foundation at Knowunity GmbH (score 44) |
+| Jobs found (all time) | 923 |
+| Jobs found (latest run, 2026-08-22) | 14 |
+| Best match (latest run) | Senior Software Engineer (m/f/d): AI-Native Development at Myra (score 53) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
