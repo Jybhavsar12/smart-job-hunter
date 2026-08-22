@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-21 22:12 UTC
+**Last updated:** 2026-08-22 06:19 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 71 |
-| Jobs found (all time) | 909 |
-| Jobs found (latest run, 2026-08-21) | 17 |
-| Best match (latest run) | Full-Stack Software Engineer - Journey at Ecosia (score 59) |
+| Search runs | 72 |
+| Jobs found (all time) | 921 |
+| Jobs found (latest run, 2026-08-22) | 12 |
+| Best match (latest run) | Working Student - AI Platform and Enablement (m/f/d) at isaraerospace (score 27) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
