@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-22 06:19 UTC
+**Last updated:** 2026-08-22 10:11 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 72 |
-| Jobs found (all time) | 921 |
-| Jobs found (latest run, 2026-08-22) | 12 |
-| Best match (latest run) | Working Student - AI Platform and Enablement (m/f/d) at isaraerospace (score 27) |
+| Jobs found (all time) | 923 |
+| Jobs found (latest run, 2026-08-22) | 14 |
+| Best match (latest run) | Senior Software Engineer – Data Ingestion & Extraction (m/f/d) at Certivity (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
