@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-23 14:17 UTC
+**Last updated:** 2026-08-23 18:12 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 73 |
-| Jobs found (all time) | 955 |
-| Jobs found (latest run, 2026-08-23) | 32 |
-| Best match (latest run) | Graduate Software Engineer at Optiverus (score 38) |
+| Jobs found (all time) | 952 |
+| Jobs found (latest run, 2026-08-23) | 29 |
+| Best match (latest run) | Senior Software Development Engineer in Test - Show Production at HOLOPLOT (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
