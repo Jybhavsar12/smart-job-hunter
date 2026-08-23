@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-23 06:20 UTC
+**Last updated:** 2026-08-23 10:12 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 73 |
-| Jobs found (all time) | 941 |
-| Jobs found (latest run, 2026-08-23) | 18 |
-| Best match (latest run) | Senior Software Engineer (m/f/d): AI-Native Development at Myra (score 53) |
+| Jobs found (all time) | 947 |
+| Jobs found (latest run, 2026-08-23) | 24 |
+| Best match (latest run) | Lead Software Engineer (m/f/d) at Fincite Gmbh (score 29) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
