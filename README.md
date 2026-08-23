@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-23 10:12 UTC
+**Last updated:** 2026-08-23 14:17 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 73 |
-| Jobs found (all time) | 947 |
-| Jobs found (latest run, 2026-08-23) | 24 |
-| Best match (latest run) | Lead Software Engineer (m/f/d) at Fincite Gmbh (score 29) |
+| Jobs found (all time) | 955 |
+| Jobs found (latest run, 2026-08-23) | 32 |
+| Best match (latest run) | Graduate Software Engineer at Optiverus (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
