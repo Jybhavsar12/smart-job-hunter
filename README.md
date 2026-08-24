@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-24 10:27 UTC
+**Last updated:** 2026-08-24 14:31 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 74 |
-| Jobs found (all time) | 967 |
-| Jobs found (latest run, 2026-08-24) | 19 |
-| Best match (latest run) | Senior/Leading Software Engineer (fintech) at TechBiz Global GmbH (score 62) |
+| Jobs found (all time) | 961 |
+| Jobs found (latest run, 2026-08-24) | 13 |
+| Best match (latest run) | Graduate Software Engineer at Optiverus (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
