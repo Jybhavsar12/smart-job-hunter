@@ -1,29 +1,82 @@
 {
   "date": "2026-08-24",
-  "count": 18,
+  "count": 21,
   "jobs": [
     {
-      "id": "arbeitnow_graduate-software-engineer-london-368153",
-      "title": "Graduate Software Engineer",
-      "company": "Optiverus",
-      "location": "London",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be the magic behind the scenes, enabling our teams to make split-second decisions with precision and confidence. By working in an interdisciplinary manner and innovating and optimising code, you will keep ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
+      "id": "arbeitnow_head-of-engineering-munchen-104347",
+      "title": "Head of Engineering",
+      "company": "deeploi - This is IT",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>Your mission</strong><p><span style=\"font-size:15px;font-family:Arial, Helvetica, sans-serif;\">We\u2019re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You lead the team day to day and still roll up your sleeves when a problem needs your hands on it.</span><spa",
+      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-104347",
       "remote": false,
       "tags": [
-        "Software"
+        "Leadership",
+        "ownership",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Python",
+        "PostgreSQL",
+        "API",
+        "AWS",
+        "AI Agents"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T18:22:15.997547",
-      "match_score": 37.53,
+      "posted_at": 1787591425,
+      "fetched_at": "2026-08-24T22:13:59.335513",
+      "match_score": 47.23,
       "score_breakdown": {
-        "semantic_similarity": 0.4556,
-        "semantic_score": 32.53,
+        "semantic_similarity": 0.5711,
+        "semantic_score": 47.23,
         "location_match": 0,
-        "priority_keywords": 5
+        "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467937"
+      "scored_at": "2026-08-24T22:14:14.576745"
+    },
+    {
+      "id": "arbeitnow_remote-senior-software-engineer-tools-automation-94433",
+      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+      "company": "Vmray Gmbh",
+      "location": "Germany, Bochum or Remote (Europe)",
+      "description": "<br><strong>Why VMRay</strong><p><p style=\"font-family:roboto;\">At VMRay, you will have the opportunity to shape and develop innovative tools that support our cutting-edge malware analysis and threat detection technologies. As part of our highly collaborative Labs` Tool and Automation team, you will work alongside passionate experts, contribute to maintaining the stability and quality of our software releases and help drive continuous improvements across our development and infrastructure landsc",
+      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787602243,
+      "fetched_at": "2026-08-24T22:13:59.333327",
+      "match_score": 35.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.3574,
+        "semantic_score": 20.03,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.576504"
+    },
+    {
+      "id": "arbeitnow_staff-engineer-technical-lead-azure-net-berlin-193182",
+      "title": "Staff Engineer / Technical Lead Azure/.NET",
+      "company": "Berlinbrands",
+      "location": "Berlin",
+      "description": "&lt;p&gt;As Staff Engineer / Tech Lead Azure/.NET, you&#39;ll own the technical direction of our .NET and Azure platforms - leading the design of scalable, cloud-native solutions across a landscape that spans .NET and PHP-based e-commerce systems. You&#39;ll split your time between hands-on architecture work and technical leadership: driving key engineering decisions, mentoring engineers, and pushing the modernization of our platforms forward. You&#39;ll work closely with Software Engineers, Dev",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlinbrands/staff-engineer-technical-lead-azure-net-berlin-193182",
+      "remote": false,
+      "tags": [
+        "Tech & Process"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787594126,
+      "fetched_at": "2026-08-24T22:13:59.335042",
+      "match_score": 34.24,
+      "score_breakdown": {
+        "semantic_similarity": 0.469,
+        "semantic_score": 34.24,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.576672"
     },
     {
       "id": "arbeitnow_head-of-engineering-europe-100-remote-berlin-365194",
@@ -39,7 +92,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787581808,
-      "fetched_at": "2026-08-24T18:22:15.991373",
+      "fetched_at": "2026-08-24T22:13:59.336777",
       "match_score": 29.77,
       "score_breakdown": {
         "semantic_similarity": 0.3161,
@@ -47,7 +100,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467514"
+      "scored_at": "2026-08-24T22:14:14.576941"
     },
     {
       "id": "arbeitnow_software-engineer-munich-450288",
@@ -60,7 +113,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1787581822,
-      "fetched_at": "2026-08-24T18:22:15.991273",
+      "fetched_at": "2026-08-24T22:13:59.336680",
       "match_score": 28.33,
       "score_breakdown": {
         "semantic_similarity": 0.4226,
@@ -68,7 +121,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467420"
+      "scored_at": "2026-08-24T22:14:14.576860"
     },
     {
       "id": "arbeitnow_senior-software-engineer-munich-454919",
@@ -81,7 +134,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1787581822,
-      "fetched_at": "2026-08-24T18:22:15.991276",
+      "fetched_at": "2026-08-24T22:13:59.336682",
       "match_score": 27.15,
       "score_breakdown": {
         "semantic_similarity": 0.4133,
@@ -89,53 +142,51 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467445"
+      "scored_at": "2026-08-24T22:14:14.576880"
     },
     {
-      "id": "arbeitnow_software-engineer-digital-assets-london-104142",
-      "title": "Software Engineer - Digital Assets",
-      "company": "Optiverus",
-      "location": "London",
-      "description": "&lt;p&gt;Optiver is looking for a Senior Digital Assets Software Engineer to join our Digital Assets Tech Team in London. In this role, you\u2019ll build and evolve trading systems for cryptocurrency markets, working closely with traders and researchers to deliver solutions in a fast-moving and constantly changing environment.&lt;/p&gt;\n&lt;p&gt;You\u2019ll play a key role in building out our digital assets platform, helping shape both the technology and engineering practices from the ground up. You\u2019ll wo",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-digital-assets-london-104142",
+      "id": "arbeitnow_tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-7966",
+      "title": "Tech Lead Full-Stack Engineer (f/m/x)",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "description": "<br><strong>Build the Market Leader in Satellite Analytics with us at LiveEO</strong><p>As the Tech Lead for the backend, frontend, mobile and fullstack software engineers, you will own and shape the architecture of the underlying services as well as their technical roadmap for the services that together create Treeline, our application that helps predict and prevent wildfires, storm events and generally power and train outages due to vegetation, weather and climate.<br><br>Technically, that mea",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-7966",
       "remote": false,
-      "tags": [
-        "Technology"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T18:22:15.997541",
-      "match_score": 26.39,
+      "posted_at": 1787602204,
+      "fetched_at": "2026-08-24T22:13:59.333790",
+      "match_score": 25.67,
       "score_breakdown": {
-        "semantic_similarity": 0.4073,
-        "semantic_score": 26.39,
+        "semantic_similarity": 0.4017,
+        "semantic_score": 25.67,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467878"
+      "scored_at": "2026-08-24T22:14:14.576562"
     },
     {
-      "id": "arbeitnow_software-engineer-build-platform-london-313285",
-      "title": "Software Engineer - Build Platform",
-      "company": "Optiverus",
-      "location": "London",
-      "description": "&lt;p&gt;At Optiver, the velocity of our software development is a critical part of our competitive advantage. Our ability to compete depends on how quickly new ideas can move from insight to production. The Developer Experience team is a strategic engineering function with a clear mandate: improve the development lifecycle across the company in ways that accelerate delivery and reduce our time to market. We build the tools, systems, and platforms that shape how software is developed at Optiver.",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-build-platform-london-313285",
+      "id": "arbeitnow_senior-fullstack-engineer-berlin-293820",
+      "title": "Senior Fullstack Engineer (m/f/d)",
+      "company": "Entyre & Pflegewegweiser",
+      "location": "Berlin, Berlin, Deutschland",
+      "description": "<p>Entyre, part of the Entyre Group, is one of the fastest-growing health tech scale-ups across Switzerland and the United States. With more than 500 employees globally and offices in Zurich, Berlin, Boston, Chicago, Detroit, Washington, and Denver, we are continuing to scale rapidly.</p><p style=\"min-height: 1.7em;\"></p><p>For our Berlin-based tech hub, we are looking for a <strong>Senior Full-Stack Engineer</strong> ready to take real ownership in building and scaling our core platform. If you",
+      "url": "https://www.arbeitnow.com/jobs/companies/entyre-pflegewegweiser/senior-fullstack-engineer-berlin-293820",
       "remote": false,
       "tags": [
-        "Software"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T18:22:15.997543",
-      "match_score": 22.94,
+      "posted_at": 1787592614,
+      "fetched_at": "2026-08-24T22:13:59.335134",
+      "match_score": 21.98,
       "score_breakdown": {
-        "semantic_similarity": 0.3802,
-        "semantic_score": 22.94,
+        "semantic_similarity": 0.3727,
+        "semantic_score": 21.98,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467908"
+      "scored_at": "2026-08-24T22:14:14.576705"
     },
     {
       "id": "arbeitnow_contract-platform-engineer-berlin-257326",
@@ -151,7 +202,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787583642,
-      "fetched_at": "2026-08-24T18:22:15.990757",
+      "fetched_at": "2026-08-24T22:13:59.336193",
       "match_score": 21.87,
       "score_breakdown": {
         "semantic_similarity": 0.3718,
@@ -159,30 +210,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467340"
-    },
-    {
-      "id": "arbeitnow_software-engineer-internship-2027-start-london-473646",
-      "title": "Software Engineer Internship (2027 Start)",
-      "company": "Optiverus",
-      "location": "London",
-      "description": "&lt;p data-renderer-start-pos=&quot;29&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-local-id=&quot;6618a4c09482&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-block=&quot;true&quot; data-pm-slice=&quot;1 1 []&quot;&gt;As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver\u2019s real-time trading environment. You will work on&amp;nbsp;&lt;a href=&quot;https://www",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-internship-2027-start-london-473646",
-      "remote": false,
-      "tags": [
-        "Software"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T18:22:15.997538",
-      "match_score": 21.87,
-      "score_breakdown": {
-        "semantic_similarity": 0.3718,
-        "semantic_score": 21.87,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-24T18:22:31.467841"
+      "scored_at": "2026-08-24T22:14:14.576801"
     },
     {
       "id": "arbeitnow_ai-automation-engineer-berlin-30716",
@@ -197,7 +225,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787583312,
-      "fetched_at": "2026-08-24T18:22:15.990961",
+      "fetched_at": "2026-08-24T22:13:59.336387",
       "match_score": 20.41,
       "score_breakdown": {
         "semantic_similarity": 0.3604,
@@ -205,7 +233,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467391"
+      "scored_at": "2026-08-24T22:14:14.576838"
+    },
+    {
+      "id": "arbeitnow_professor-of-software-engineering-potsdam-gisma-223746",
+      "title": "Professor (m/f/d) of Software Engineering",
+      "company": "Global University Systems GmbH",
+      "location": "Potsdam - Gisma",
+      "description": "<br><strong>Your Responsibilities </strong><p><ul style=\"list-style-type:disc;margin-left:26px;\"><li><span style=\"font-family:Calibri, sans-serif;font-size:15px;color:#242424;\">Module responsibility and teaching of Gisma Bachelor and Master programmes as well as examination, assessments, and student supervision.</span></li><li><span style=\"font-family:Calibri, sans-serif;font-size:15px;color:#242424;\">Active participation in programme development and quality assurance.</span></li><li><span style",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-software-engineering-potsdam-gisma-223746",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787602217,
+      "fetched_at": "2026-08-24T22:13:59.333507",
+      "match_score": 19.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.3544,
+        "semantic_score": 19.65,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.576530"
     },
     {
       "id": "arbeitnow_senior-software-engineer-identity-and-access-management-full-stack-london-160338",
@@ -220,7 +269,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787532010,
-      "fetched_at": "2026-08-24T18:22:15.996014",
+      "fetched_at": "2026-08-24T22:13:59.340244",
       "match_score": 17.48,
       "score_breakdown": {
         "semantic_similarity": 0.3374,
@@ -228,7 +277,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467812"
+      "scored_at": "2026-08-24T22:14:14.577074"
     },
     {
       "id": "arbeitnow_software-engineer-net-langenfeld-149489",
@@ -243,7 +292,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787581814,
-      "fetched_at": "2026-08-24T18:22:15.991288",
+      "fetched_at": "2026-08-24T22:13:59.336694",
       "match_score": 16.7,
       "score_breakdown": {
         "semantic_similarity": 0.3312,
@@ -251,7 +300,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467484"
+      "scored_at": "2026-08-24T22:14:14.576915"
+    },
+    {
+      "id": "arbeitnow_geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-135984",
+      "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "description": "<br><strong>Build the Market Leader in Satellite Analytics with us at LiveEO</strong><p><p>LiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a <strong>Geospatial Data Analyst (f/m/x)</strong>, you\u2019ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered reliably, accurately, and on time.</p><p>You\u2019ll work closely with Project Managers, our Operations Support Studio, engineers, and product t",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-135984",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787602204,
+      "fetched_at": "2026-08-24T22:13:59.333821",
+      "match_score": 13.67,
+      "score_breakdown": {
+        "semantic_similarity": 0.3074,
+        "semantic_score": 13.67,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.576612"
     },
     {
       "id": "arbeitnow_senior-analytics-engineer-london-101557",
@@ -266,7 +336,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787575209,
-      "fetched_at": "2026-08-24T18:22:15.995214",
+      "fetched_at": "2026-08-24T22:13:59.339446",
       "match_score": 12.72,
       "score_breakdown": {
         "semantic_similarity": 0.2999,
@@ -274,49 +344,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467776"
+      "scored_at": "2026-08-24T22:14:14.577038"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-core-experiences-stuttgart-germany-498730",
-      "title": "Senior Software Engineer, Core Experiences - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
-      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-stuttgart-germany-498730",
+      "id": "arbeitnow_forward-deployed-engineer-munich-351023",
+      "title": "Forward Deployed Engineer",
+      "company": "Lumaai",
+      "location": "Munich, GER",
+      "description": "<p style=\"min-height:1.5em\">Forward Deployed Engineers turn what Luma's models can do into systems customers actually rely on. You embed with a customer, learn their workflow, define the problem with them, and build the production system that solves it, with their data and their constraints. You own both the relationship and the code.</p><p style=\"min-height:1.5em\">This is engineering at the edge, where ambiguity is the default and \"what should we build?\" is yours to answer. It's built for peopl",
+      "url": "https://www.arbeitnow.com/jobs/companies/lumaai/forward-deployed-engineer-munich-351023",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Product & Engineering"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1787579129,
-      "fetched_at": "2026-08-24T18:22:15.991788",
-      "match_score": 11.31,
+      "posted_at": 1787604021,
+      "fetched_at": "2026-08-24T22:13:59.332498",
+      "match_score": 12.37,
       "score_breakdown": {
-        "semantic_similarity": 0.2889,
-        "semantic_score": 11.31,
+        "semantic_similarity": 0.2972,
+        "semantic_score": 12.37,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467644"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-core-experiences-hamburg-germany-435392",
-      "title": "Senior Software Engineer, Core Experiences - Hamburg, Germany",
-      "company": "Speechify",
-      "location": "Hamburg, Germany",
-      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-hamburg-germany-435392",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787579129,
-      "fetched_at": "2026-08-24T18:22:15.991790",
-      "match_score": 9.96,
-      "score_breakdown": {
-        "semantic_similarity": 0.2783,
-        "semantic_score": 9.96,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-24T18:22:31.467676"
+      "scored_at": "2026-08-24T22:14:14.576421"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-agentic-platform-uk-public-sector-united-kingdom-278190",
@@ -331,7 +382,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787575217,
-      "fetched_at": "2026-08-24T18:22:15.995009",
+      "fetched_at": "2026-08-24T22:13:59.339238",
       "match_score": 9.91,
       "score_breakdown": {
         "semantic_similarity": 0.2778,
@@ -339,49 +390,88 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467746"
+      "scored_at": "2026-08-24T22:14:14.577009"
     },
     {
-      "id": "arbeitnow_software-engineer-ios-core-product-stuttgart-germany-327948",
-      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
-      "company": "Speechify",
-      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-327948",
+      "id": "arbeitnow_senior-software-engineer-gn-camera-integration-framework-dresden-96168",
+      "title": "Senior Software Engineer (gn) Camera Integration Framework",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "description": "<br><strong>Your mission</strong><p><p style=\"margin:0.75rem 0px 0px;padding:0px;font:400 16px/1.714 'Atlassian Sans', 'ui-sans-serif', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif;color:rgb(41,42,46);text-transform:none;background-color:rgb(255,255,255);\"><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;\">At Wandelbots, we are transforming the way people interact with robots. We are building the robotics platform that combines traditi",
+      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/senior-software-engineer-gn-camera-integration-framework-dresden-96168",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Kubernetes",
+        "Camera Integration",
+        "Cloud-native Platform",
+        "Backend Development (Python / Go)",
+        "API Design",
+        "Industrial Vision / Machine Vision",
+        "SDK Development",
+        "Robotics",
+        "Containerization",
+        "System Architecture"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1787579130,
-      "fetched_at": "2026-08-24T18:22:15.991783",
+      "posted_at": 1787602153,
+      "fetched_at": "2026-08-24T22:13:59.334887",
+      "match_score": 9.26,
+      "score_breakdown": {
+        "semantic_similarity": 0.2728,
+        "semantic_score": 9.26,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.576633"
+    },
+    {
+      "id": "arbeitnow_senior-account-executive-nordics-baltics-united-kingdom-395577",
+      "title": "Senior Account Executive, Nordics & Baltics",
+      "company": "Sonatype",
+      "location": "United Kingdom",
+      "description": "<div>\n<p>Sonatype is the software supply chain security company. We provide the world\u2019s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale.</p>\n<p>As founders of Nexus Repository and stewards of Maven Central, the world\u2019s ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonatype/senior-account-executive-nordics-baltics-united-kingdom-395577",
+      "remote": false,
+      "tags": [
+        "Sales - EMEA - Northeast"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787595891,
+      "fetched_at": "2026-08-24T22:14:00.419689",
+      "match_score": 1.1,
+      "score_breakdown": {
+        "semantic_similarity": 0.2086,
+        "semantic_score": 1.1,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T22:14:14.577110"
+    },
+    {
+      "id": "arbeitnow_product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-73150",
+      "title": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
+      "company": "Thermondo",
+      "location": "Berlin (Zentrale)",
+      "description": "<br><strong>We're looking for</strong><p>Join our innovative team at thermondo as a Product Manger (f/m/d and make a significant impact in reducing carbon footprints in private households.\u00a0<br><br>We value proactive problem-solving, innovative technology solutions, and the ability to clearly communicate technical information across departments. If you are a passionate to leverage technology for a sustainable future, thermondo is the place for you.</p><br><strong>If you enjoy this</strong><p><ul>",
+      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-73150",
+      "remote": false,
+      "tags": [
+        "Product",
+        "Customer",
+        "Customercare",
+        "Productmanagement"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787603420,
+      "fetched_at": "2026-08-24T22:13:59.333155",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1718,
+        "semantic_similarity": 0.1473,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467559"
-    },
-    {
-      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-cologne-germany-114349",
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",
-      "company": "Speechify",
-      "location": "Cologne, North Rhine-Westphalia, Germany",
-      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-cologne-germany-114349",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787579130,
-      "fetched_at": "2026-08-24T18:22:15.991786",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1865,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-24T18:22:31.467607"
+      "scored_at": "2026-08-24T22:14:14.576470"
     },
     {
       "id": "arbeitnow_staff-data-scientist-london-270161",
@@ -396,7 +486,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787586018,
-      "fetched_at": "2026-08-24T18:22:15.994769",
+      "fetched_at": "2026-08-24T22:13:59.338996",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1006,
@@ -404,7 +494,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T18:22:31.467712"
+      "scored_at": "2026-08-24T22:14:14.576976"
     }
   ]
 }

@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-24 18:22 UTC
+**Last updated:** 2026-08-24 22:14 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 74 |
-| Jobs found (all time) | 966 |
-| Jobs found (latest run, 2026-08-24) | 18 |
-| Best match (latest run) | Graduate Software Engineer at Optiverus (score 38) |
+| Jobs found (all time) | 969 |
+| Jobs found (latest run, 2026-08-24) | 21 |
+| Best match (latest run) | Head of Engineering at deeploi - This is IT (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
