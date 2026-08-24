@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-24 06:33 UTC
+**Last updated:** 2026-08-24 10:27 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 74 |
-| Jobs found (all time) | 970 |
-| Jobs found (latest run, 2026-08-24) | 22 |
-| Best match (latest run) | Senior Frontend Software Engineer - Angular (m/f/x) at neoshare (score 41) |
+| Jobs found (all time) | 967 |
+| Jobs found (latest run, 2026-08-24) | 19 |
+| Best match (latest run) | Senior/Leading Software Engineer (fintech) at TechBiz Global GmbH (score 62) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
