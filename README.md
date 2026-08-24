@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-23 22:10 UTC
+**Last updated:** 2026-08-24 06:33 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 73 |
-| Jobs found (all time) | 948 |
-| Jobs found (latest run, 2026-08-23) | 25 |
-| Best match (latest run) | Senior Software Development Engineer in Test - Show Production at HOLOPLOT (score 38) |
+| Search runs | 74 |
+| Jobs found (all time) | 970 |
+| Jobs found (latest run, 2026-08-24) | 22 |
+| Best match (latest run) | Senior Frontend Software Engineer - Angular (m/f/x) at neoshare (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
