@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "count": 13,
+  "count": 18,
   "jobs": [
     {
       "id": "arbeitnow_graduate-software-engineer-london-368153",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T14:31:24.190768",
+      "fetched_at": "2026-08-24T18:22:15.997547",
       "match_score": 37.53,
       "score_breakdown": {
         "semantic_similarity": 0.4556,
@@ -23,34 +23,73 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-24T14:31:39.004734"
+      "scored_at": "2026-08-24T18:22:31.467937"
     },
     {
-      "id": "arbeitnow_senior-software-developer-in-ci-munich-72871",
-      "title": "Senior Software Developer (m/f/d) in CI",
-      "company": "Checkmk GmbH",
-      "location": "Munich",
-      "description": "<br><strong>Your mission</strong><p><span style=\"font-size:15px;font-family:Arial, Helvetica, sans-serif;color:rgb(44,56,67);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Are you a passionate <strong>Senior Software Developer (m/f/d),\u00a0</strong>who wants every single one of your changes to make hundreds of engineering hours faster and more reliable? Are you tired of environments where CI is treated as an afterthought, a pile of scripts nobody owns, and wher",
-      "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/senior-software-developer-in-ci-munich-72871",
-      "remote": false,
+      "id": "arbeitnow_head-of-engineering-europe-100-remote-berlin-365194",
+      "title": "Head of Engineering (Europe, 100% remote)",
+      "company": "LimeFlight",
+      "location": "Remote job",
+      "description": "<p style=\"text-align:start;\">Join our fully remote, mission-driven team dedicated to pioneering <strong>sustainable inflight service management</strong>. Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and continuously enhance your skills through ongoing learning opportunities.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\">Headquartered in Zurich, Switzerland with team members across 11 countries, we offer a",
+      "url": "https://www.arbeitnow.com/jobs/companies/limeflight/head-of-engineering-europe-100-remote-berlin-365194",
+      "remote": true,
       "tags": [
-        "CI",
-        "Python",
-        "Bazel",
-        "Maven",
-        "Craddle"
+        "Product Delivery",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787560227,
-      "fetched_at": "2026-08-24T14:31:25.337041",
-      "match_score": 27.99,
+      "posted_at": 1787581808,
+      "fetched_at": "2026-08-24T18:22:15.991373",
+      "match_score": 29.77,
       "score_breakdown": {
-        "semantic_similarity": 0.4199,
-        "semantic_score": 27.99,
+        "semantic_similarity": 0.3161,
+        "semantic_score": 14.77,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467514"
+    },
+    {
+      "id": "arbeitnow_software-engineer-munich-450288",
+      "title": "Software Engineer (f/m/x)",
+      "company": "Tanso",
+      "location": "Munich",
+      "description": "<br><strong>Become part of Tanso and decarbonize industries with us.</strong><p><span style=\"color:rgb(31,31,31);font-family:Inter;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">What if the impact of your role extended beyond a job title?</span><br style=\"border:0px solid rgb(229,231,235);font-family:Inter;color:rgb(31,31,31);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,2",
+      "url": "https://www.arbeitnow.com/jobs/companies/tanso/software-engineer-munich-450288",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787581822,
+      "fetched_at": "2026-08-24T18:22:15.991273",
+      "match_score": 28.33,
+      "score_breakdown": {
+        "semantic_similarity": 0.4226,
+        "semantic_score": 28.33,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004779"
+      "scored_at": "2026-08-24T18:22:31.467420"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-munich-454919",
+      "title": "Senior Software Engineer (f/m/x)",
+      "company": "Tanso",
+      "location": "Munich",
+      "description": "<br><strong>Become part of Tanso and decarbonize industries with us.</strong><p><span style=\"color:rgb(31,31,31);font-family:Inter;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">What if the impact of your role extended beyond a job title?</span><br style=\"border:0px solid rgb(229,231,235);font-family:Inter;color:rgb(31,31,31);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,2",
+      "url": "https://www.arbeitnow.com/jobs/companies/tanso/senior-software-engineer-munich-454919",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787581822,
+      "fetched_at": "2026-08-24T18:22:15.991276",
+      "match_score": 27.15,
+      "score_breakdown": {
+        "semantic_similarity": 0.4133,
+        "semantic_score": 27.15,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467445"
     },
     {
       "id": "arbeitnow_software-engineer-digital-assets-london-104142",
@@ -65,7 +104,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T14:31:24.190764",
+      "fetched_at": "2026-08-24T18:22:15.997541",
       "match_score": 26.39,
       "score_breakdown": {
         "semantic_similarity": 0.4073,
@@ -73,7 +112,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004680"
+      "scored_at": "2026-08-24T18:22:31.467878"
     },
     {
       "id": "arbeitnow_software-engineer-build-platform-london-313285",
@@ -88,7 +127,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T14:31:24.190766",
+      "fetched_at": "2026-08-24T18:22:15.997543",
       "match_score": 22.94,
       "score_breakdown": {
         "semantic_similarity": 0.3802,
@@ -96,30 +135,31 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004711"
+      "scored_at": "2026-08-24T18:22:31.467908"
     },
     {
-      "id": "arbeitnow_software-engineering-team-lead-london-10280",
-      "title": "Software Engineering Team Lead",
-      "company": "M Kopa",
-      "location": "London",
-      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/1d985516-2a99-43c0-b591-957f5adaceb9/5ac97b31-49cd-4012-8bb0-5caf15e33c69/B25.png\" /></div><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">J<strong>oin our growing FinTech Engineering team! We're recruiting another Software Engineering Team Lead to join Asset Sales team.</strong></p><p style=\"min-height:1.5em\"></p><div style=\"text-align:center\"><img style=\"max-width:100%\" src",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/software-engineering-team-lead-london-10280",
-      "remote": false,
+      "id": "arbeitnow_contract-platform-engineer-berlin-257326",
+      "title": "Contract Platform Engineer",
+      "company": "YLD.com",
+      "location": "Berlin",
+      "description": "<p><strong>Location:</strong> Remote (EU based, GMT timezone)</p>\n<p><strong>Department:</strong> Engineering</p>\n<p><strong>Employment Type:</strong> Contract (B2B)</p>\n<p><strong>Contract Length:</strong> 6 months (with potential for extension)</p>\n<h2>About YLD:</h2>\n<p>Our goal is to help our clients keep moving forward. We work with them to build the skills and capabilities they need to stay ahead of the competition, and we know our success only happens when they succeed. We\u2019re a team of cu",
+      "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-platform-engineer-berlin-257326",
+      "remote": true,
       "tags": [
-        "Fintech"
+        "Remote",
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787456425,
-      "fetched_at": "2026-08-24T14:31:24.191404",
-      "match_score": 22.89,
+      "posted_at": 1787583642,
+      "fetched_at": "2026-08-24T18:22:15.990757",
+      "match_score": 21.87,
       "score_breakdown": {
-        "semantic_similarity": 0.3799,
-        "semantic_score": 22.89,
+        "semantic_similarity": 0.3718,
+        "semantic_score": 21.87,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004760"
+      "scored_at": "2026-08-24T18:22:31.467340"
     },
     {
       "id": "arbeitnow_software-engineer-internship-2027-start-london-473646",
@@ -134,7 +174,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787489718,
-      "fetched_at": "2026-08-24T14:31:24.190761",
+      "fetched_at": "2026-08-24T18:22:15.997538",
       "match_score": 21.87,
       "score_breakdown": {
         "semantic_similarity": 0.3718,
@@ -142,28 +182,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004653"
+      "scored_at": "2026-08-24T18:22:31.467841"
     },
     {
-      "id": "arbeitnow_senior-frontend-developer-koln-196584",
-      "title": "Senior Frontend Developer (m/w/d)",
-      "company": "Flossbach Von Storch Ag",
-      "location": "K\u00f6ln",
-      "description": "<br><strong>\u00dcber uns</strong><p>Bei Flossbach von Storch k\u00fcmmern wir uns mit 400 Mitarbeitenden um das Verm\u00f6gen von etwa einer Million Menschen \u2013 unabh\u00e4ngig davon, wie gro\u00df es ist. Unsere Verantwortung ist stets die gleiche: ihr Verm\u00f6gen zu sch\u00fctzen und langfristig mehr daraus machen. Damit sie ihr Leben nach den eigenen Vorstellungen gestalten k\u00f6nnen.<br><br>Zur Verst\u00e4rkung unseres Teams Software Solution Development am <strong>Standort K\u00f6ln</strong> suchen wir einen <strong>Senior Frontend Dev",
-      "url": "https://www.arbeitnow.com/jobs/companies/flossbach-von-storch-ag/senior-frontend-developer-koln-196584",
+      "id": "arbeitnow_ai-automation-engineer-berlin-30716",
+      "title": "AI Automation Engineer (d/m/f)",
+      "company": "Scout24",
+      "location": "Berlin",
+      "description": "&lt;p&gt;&lt;strong&gt;Why Scout24?&lt;/strong&gt;&amp;nbsp;&lt;br&gt;Scout24 is home of ImmoScout24, Germany\u2019s #1 for real estate. With ImmoScout24 we have been revolutionizing the real estate market in Germany and Austria for more than 25 years. Our goal is to build a digital ecosystem that brings homeowners, seekers, and agents together. Finding the right home and property is one of the most important decisions in life. So is your career! &lt;strong&gt;#WorkingatScout24&lt;/strong&gt; means b",
+      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-30716",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Engineering"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1787569783,
-      "fetched_at": "2026-08-24T14:31:28.733417",
-      "match_score": 21.61,
+      "posted_at": 1787583312,
+      "fetched_at": "2026-08-24T18:22:15.990961",
+      "match_score": 20.41,
       "score_breakdown": {
-        "semantic_similarity": 0.3698,
-        "semantic_score": 21.61,
+        "semantic_similarity": 0.3604,
+        "semantic_score": 20.41,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004809"
+      "scored_at": "2026-08-24T18:22:31.467391"
     },
     {
       "id": "arbeitnow_senior-software-engineer-identity-and-access-management-full-stack-london-160338",
@@ -178,7 +220,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787532010,
-      "fetched_at": "2026-08-24T14:31:24.189765",
+      "fetched_at": "2026-08-24T18:22:15.996014",
       "match_score": 17.48,
       "score_breakdown": {
         "semantic_similarity": 0.3374,
@@ -186,33 +228,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004631"
+      "scored_at": "2026-08-24T18:22:31.467812"
     },
     {
-      "id": "arbeitnow_software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-127968",
-      "title": "Software Integration & Test Engineer (Maritime Autonomy) (all genders)",
-      "company": "Stark",
-      "location": "Plymouth",
-      "description": "<br><strong>About Us</strong><p><p style=\"border:0px solid rgb(229,231,235);margin:0pt 0px;font-size:14px;font-style:normal;font-weight:400;text-transform:none;font-family:Roboto, sans-serif, Inter, Arial, Helvetica, sans-serif;color:rgb(66,66,66);background-color:rgb(255,255,255);line-height:1.38;\"><span style=\"border:0px solid rgb(229,231,235);margin:0px;font-family:Arial, sans-serif;font-size:11pt;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-127968",
+      "id": "arbeitnow_software-engineer-net-langenfeld-149489",
+      "title": "Software Engineer .Net (m/w/d)",
+      "company": "Voortman Steel Machinery",
+      "location": "Langenfeld, Nordrhein-Westfalen, Duitsland",
+      "description": "<h2>Was wirst du tun?</h2><p class=\"MsoNormal\">Als Software Engineer .NET entwickelst du die Maschinenlogik und sorgst daf\u00fcr, dass alle einzelnen Komponenten angesteuert werden und reibungslos zusammenarbeiten. Dabei arbeitest du mit hochwertiger und komplexer Software, die wir kontinuierlich weiterentwickeln.</p><p class=\"MsoNormal\">Hinter jeder CNC-Rohrschneidemaschine, die wir herstellen, steckt ein von uns selbst entwickeltes Softwarepaket. In verschiedenen Teams arbeiten wir t\u00e4glich an dies",
+      "url": "https://www.arbeitnow.com/jobs/companies/voortman-steel-machinery/software-engineer-net-langenfeld-149489",
       "remote": false,
       "tags": [
-        "Maritime",
-        "Integration",
-        "Software",
-        "TestEngineer"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787465429,
-      "fetched_at": "2026-08-24T14:31:24.191368",
-      "match_score": 14.71,
+      "posted_at": 1787581814,
+      "fetched_at": "2026-08-24T18:22:15.991288",
+      "match_score": 16.7,
       "score_breakdown": {
-        "semantic_similarity": 0.3156,
-        "semantic_score": 14.71,
+        "semantic_similarity": 0.3312,
+        "semantic_score": 16.7,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004748"
+      "scored_at": "2026-08-24T18:22:31.467484"
     },
     {
       "id": "arbeitnow_senior-analytics-engineer-london-101557",
@@ -227,7 +266,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787575209,
-      "fetched_at": "2026-08-24T14:31:24.189226",
+      "fetched_at": "2026-08-24T18:22:15.995214",
       "match_score": 12.72,
       "score_breakdown": {
         "semantic_similarity": 0.2999,
@@ -235,7 +274,49 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004603"
+      "scored_at": "2026-08-24T18:22:31.467776"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-core-experiences-stuttgart-germany-498730",
+      "title": "Senior Software Engineer, Core Experiences - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-stuttgart-germany-498730",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787579129,
+      "fetched_at": "2026-08-24T18:22:15.991788",
+      "match_score": 11.31,
+      "score_breakdown": {
+        "semantic_similarity": 0.2889,
+        "semantic_score": 11.31,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467644"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-core-experiences-hamburg-germany-435392",
+      "title": "Senior Software Engineer, Core Experiences - Hamburg, Germany",
+      "company": "Speechify",
+      "location": "Hamburg, Germany",
+      "description": "<p><strong>Mission</strong></p>\n<p><strong>Speechify is the easiest way to listen to the world's information.</strong> Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.</p>\n<p>What streaming services have done for audio entertainment, we're doing for audio information. And whatever we're doing seems to be working. We're #1 in our cate",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-core-experiences-hamburg-germany-435392",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787579129,
+      "fetched_at": "2026-08-24T18:22:15.991790",
+      "match_score": 9.96,
+      "score_breakdown": {
+        "semantic_similarity": 0.2783,
+        "semantic_score": 9.96,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467676"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-agentic-platform-uk-public-sector-united-kingdom-278190",
@@ -250,7 +331,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787575217,
-      "fetched_at": "2026-08-24T14:31:24.189089",
+      "fetched_at": "2026-08-24T18:22:15.995009",
       "match_score": 9.91,
       "score_breakdown": {
         "semantic_similarity": 0.2778,
@@ -258,54 +339,72 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004580"
+      "scored_at": "2026-08-24T18:22:31.467746"
     },
     {
-      "id": "arbeitnow_lead-engineer-robotics-systems-integration-c-berlin-28815",
-      "title": "Lead Engineer (m/f/d) Robotics & Systems Integration (C++)",
-      "company": "MOTOR Ai",
-      "location": "Berlin",
-      "description": "<p>We are committed to making autonomous driving a reality in Germany. Leveraging our proprietary AI, we are on track to deliver Europe\u2019s first certifiable Level 4 autonomous driving system. Since 2017, our multidisciplinary team has worked in seamless synergy to push the boundaries of what\u2019s possible. The future of mobility is inevitable - and we are here to define it.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Define the strategy and architecture for integrating perception, planning, and control software int",
-      "url": "https://www.arbeitnow.com/jobs/companies/motor-ai/lead-engineer-robotics-systems-integration-c-berlin-28815",
+      "id": "arbeitnow_software-engineer-ios-core-product-stuttgart-germany-327948",
+      "title": "Software Engineer, iOS Core Product - Stuttgart, Germany",
+      "company": "Speechify",
+      "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and ",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-327948",
       "remote": false,
-      "tags": [
-        "Embedded Systems",
-        "Firmware Development"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1787562029,
-      "fetched_at": "2026-08-24T14:31:24.188442",
-      "match_score": 7.42,
-      "score_breakdown": {
-        "semantic_similarity": 0.2583,
-        "semantic_score": 7.42,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-24T14:31:39.004505"
-    },
-    {
-      "id": "arbeitnow_werkstudent-software-testing-qualitatssicherung-munchen-munich-379163",
-      "title": "Werkstudent (m/w/d) Software Testing / Qualit\u00e4tssicherung M\u00fcnchen",
-      "company": "321 MED GmbH",
-      "location": "Munich",
-      "description": "<p>\u00dcber 321 MED</p>\n<p>321 Med unterst\u00fctzt medizinische Einrichtungen dabei, effizienter, wirtschaftlicher und zukunftsf\u00e4higer zu arbeiten. Wir stehen f\u00fcr klare Kommunikation, starke Partnerschaften und L\u00f6sungen, die im Praxisalltag wirklich funktionieren.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li><strong>Durchf\u00fchrung manueller Tests unserer Webanwendungen und digitalen Produkte</strong></li>\n<li><strong>Erstellung, Pflege und Dokumentation von Testf\u00e4llen, Testpl\u00e4nen und Testergebnissen</strong></li>\n<li><",
-      "url": "https://www.arbeitnow.com/jobs/companies/321-med-gmbh/werkstudent-software-testing-qualitatssicherung-munchen-munich-379163",
-      "remote": false,
-      "tags": [
-        "Web Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787562026,
-      "fetched_at": "2026-08-24T14:31:24.188563",
+      "posted_at": 1787579130,
+      "fetched_at": "2026-08-24T18:22:15.991783",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1344,
+        "semantic_similarity": 0.1718,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-24T14:31:39.004551"
+      "scored_at": "2026-08-24T18:22:31.467559"
+    },
+    {
+      "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-cologne-germany-114349",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",
+      "company": "Speechify",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p>\n<p>Over 50 million people use Speechify's text-to-speech products to turn whatever they're reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify's text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-cologne-germany-114349",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787579130,
+      "fetched_at": "2026-08-24T18:22:15.991786",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1865,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467607"
+    },
+    {
+      "id": "arbeitnow_staff-data-scientist-london-270161",
+      "title": "Staff Data Scientist",
+      "company": "LemFi",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\">LemFi (Series B) is building the go-to financial app for the Global South.</p><p style=\"min-height:1.5em\"><br />Moving to a new country shouldn\u2019t mean starting from zero. That's why our team of 400+ spanning 20+ countries is building a financial ecosystem that helps immigrants stay connected to home, build stability, and create wealth regardless of where they are from or where they live.</p><p style=\"min-height:1.5em\"><br />What began as fast, affordable remittances i",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/staff-data-scientist-london-270161",
+      "remote": false,
+      "tags": [
+        "Credit Tribe"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787586018,
+      "fetched_at": "2026-08-24T18:22:15.994769",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1006,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-24T18:22:31.467712"
     }
   ]
 }
