@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-24 22:14 UTC
+**Last updated:** 2026-08-25 06:24 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 74 |
-| Jobs found (all time) | 969 |
-| Jobs found (latest run, 2026-08-24) | 21 |
-| Best match (latest run) | Head of Engineering at deeploi - This is IT (score 47) |
+| Search runs | 75 |
+| Jobs found (all time) | 994 |
+| Jobs found (latest run, 2026-08-25) | 25 |
+| Best match (latest run) | New Grad Software Engineer at Bloxd (score 48) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
