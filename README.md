@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-25 10:20 UTC
+**Last updated:** 2026-08-25 14:34 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 75 |
-| Jobs found (all time) | 995 |
-| Jobs found (latest run, 2026-08-25) | 26 |
-| Best match (latest run) | New Grad Software Engineer at Bloxd (score 48) |
+| Jobs found (all time) | 989 |
+| Jobs found (latest run, 2026-08-25) | 20 |
+| Best match (latest run) | Senior AI Engineer (all genders) at Eraneos (score 57) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
