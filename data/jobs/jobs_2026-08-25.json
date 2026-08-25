@@ -1,110 +1,7 @@
 {
   "date": "2026-08-25",
-  "count": 20,
+  "count": 14,
   "jobs": [
-    {
-      "id": "arbeitnow_remote-senior-ai-engineer-all-genders-478086",
-      "title": "Senior AI Engineer (all genders)",
-      "company": "Eraneos",
-      "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-      "description": "<br><strong>What you can expect from us</strong><p><span style=\"color:rgba(0,0,0,0.9);font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learning. Within the group",
-      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-478086",
-      "remote": false,
-      "tags": [
-        "Data Engineer",
-        "Machine Learning",
-        "Software Development",
-        "Python",
-        "Cloud",
-        "AWS",
-        "Azure",
-        "GCP",
-        "SQL",
-        "Solution Engineering",
-        "AI Engineeering",
-        "LLM"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787656197,
-      "fetched_at": "2026-08-25T14:33:59.624898",
-      "match_score": 57.22,
-      "score_breakdown": {
-        "semantic_similarity": 0.5317,
-        "semantic_score": 42.22,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342204"
-    },
-    {
-      "id": "arbeitnow_new-grad-software-engineer-united-kingdom-9531",
-      "title": "New Grad Software Engineer",
-      "company": "Bloxd",
-      "location": "United Kingdom",
-      "description": "<h1><strong>New Grad Software Engineer (2026 or 2027)</strong></h1><p style=\"min-height:1.5em\">We\u2019re a profitable video game start-up in London with 15 million monthly players and we\u2019re hiring New Grad Software Engineers (2026 or 2027)  to join our 11-person founding team.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\"><strong>About us</strong></p><p style=\"min-height:1.5em\">Creating games with editable worlds usually takes 20k+ lines of well-opt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bloxd/new-grad-software-engineer-united-kingdom-9531",
-      "remote": false,
-      "tags": [
-        "Bloxd"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787629219,
-      "fetched_at": "2026-08-25T14:33:59.628095",
-      "match_score": 47.71,
-      "score_breakdown": {
-        "semantic_similarity": 0.5355,
-        "semantic_score": 42.71,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-25T14:34:14.342551"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-dev-environments-london-385361",
-      "title": "Staff Software Engineer, Dev Environments",
-      "company": "Deliveroo",
-      "location": "London - The River Building HQ",
-      "description": "<p style=\"min-height:1.5em\">The Dev Environments team sits within DoorDash's Foundations group (Platform Engineering). We own the local and remote developer experience across the DoorDash group of companies supporting over 5000 engineers. Our mission is to enable engineering velocity, quality, and efficiency at significant scale by removing friction from the day-to-day developer loop: spinning up a working environment, getting code building, and getting feedback fast, whether the \"developer\" is ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-385361",
-      "remote": false,
-      "tags": [
-        "All Cost Centers"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787618420,
-      "fetched_at": "2026-08-25T14:33:59.629172",
-      "match_score": 30.25,
-      "score_breakdown": {
-        "semantic_similarity": 0.4377,
-        "semantic_score": 30.25,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342581"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-go-212737",
-      "title": "Senior Software Engineer (Go)",
-      "company": "Form3",
-      "location": "",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;\ud83d\udcdd&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;As a Senior Software Engineer at Form3, you\u2019ll work on established, high-volume services that sit at the heart of Form3\u2019s clou",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-212737",
-      "remote": false,
-      "tags": [
-        "Software"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787630117,
-      "fetched_at": "2026-08-25T14:33:59.627944",
-      "match_score": 28.94,
-      "score_breakdown": {
-        "semantic_similarity": 0.3095,
-        "semantic_score": 13.94,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342521"
-    },
     {
       "id": "arbeitnow_staff-backend-software-engineer-python-go-london-418086",
       "title": "Staff Backend Software Engineer - Python & GO",
@@ -118,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787651717,
-      "fetched_at": "2026-08-25T14:33:59.626711",
+      "fetched_at": "2026-08-25T18:21:45.610859",
       "match_score": 27.61,
       "score_breakdown": {
         "semantic_similarity": 0.3777,
@@ -126,30 +23,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-25T14:34:14.342373"
-    },
-    {
-      "id": "arbeitnow_forward-deployed-engineer-berlin-munich-440770",
-      "title": "Forward Deployed Engineer",
-      "company": "databricks",
-      "location": "Berlin; Munich",
-      "description": "&lt;p&gt;&lt;strong&gt;CSQ427R35&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product,",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/forward-deployed-engineer-berlin-munich-440770",
-      "remote": false,
-      "tags": [
-        "Professional Services Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787648131,
-      "fetched_at": "2026-08-25T14:33:59.625797",
-      "match_score": 27.34,
-      "score_breakdown": {
-        "semantic_similarity": 0.4148,
-        "semantic_score": 27.34,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342270"
+      "scored_at": "2026-08-25T18:21:59.090864"
     },
     {
       "id": "arbeitnow_senior-software-engineer-growth-london-386016",
@@ -164,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787640016,
-      "fetched_at": "2026-08-25T14:33:59.627536",
+      "fetched_at": "2026-08-25T18:21:45.611626",
       "match_score": 27.06,
       "score_breakdown": {
         "semantic_similarity": 0.4126,
@@ -172,7 +46,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342463"
+      "scored_at": "2026-08-25T18:21:59.090938"
+    },
+    {
+      "id": "arbeitnow_remote-lead-data-platform-engineer-98007",
+      "title": "Lead Data Platform Engineer",
+      "company": "Akersystems",
+      "location": "Remote/Home Based",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Aker Systems was founded in 2017 by a team of experienced technology professionals who recognised an opportunity to provide highly secure enterprise data platforms to large organisations.&amp;nbsp; We build and operate ground-breaking, ultra-secure, high performance, cloud-based data infrastructure for the enterprise. Our proprietary technology solutions drive performance and reduce costs while helping our clients to improve the management and ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-platform-engineer-98007",
+      "remote": false,
+      "tags": [
+        "Delivery"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787673317,
+      "fetched_at": "2026-08-25T18:21:45.608113",
+      "match_score": 25.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.2822,
+        "semantic_score": 10.47,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-25T18:21:59.090581"
     },
     {
       "id": "arbeitnow_senior-backend-software-engineer-london-343973",
@@ -187,7 +84,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787650821,
-      "fetched_at": "2026-08-25T14:33:59.626857",
+      "fetched_at": "2026-08-25T18:21:45.611002",
       "match_score": 23.01,
       "score_breakdown": {
         "semantic_similarity": 0.3808,
@@ -195,7 +92,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342408"
+      "scored_at": "2026-08-25T18:21:59.090900"
     },
     {
       "id": "arbeitnow_senior-fullstack-software-engineer-london-98105",
@@ -210,7 +107,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787659513,
-      "fetched_at": "2026-08-25T14:33:59.626638",
+      "fetched_at": "2026-08-25T18:21:45.610788",
       "match_score": 21.91,
       "score_breakdown": {
         "semantic_similarity": 0.3721,
@@ -218,30 +115,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342343"
-    },
-    {
-      "id": "arbeitnow_software-engineer-berlin-174604",
-      "title": "Software Engineer",
-      "company": "Ppro",
-      "location": "Berlin",
-      "description": "<div>\n<div aria-setsize=\"-1\" id=\"message-list_1784212978.479209\">\n<div>\n<div aria-roledescription=\"message\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>At PPRO, we simplify access to local payments - providing a local payments platform that empowers giants like PayPal, Stripe, and Microsoft to connect with billions of consumers worldwide. We are on an ambitious, fast-paced mission to 3x our growth by 2028 - and we\u2019re just getting started.<br><br>Our magic lies in our team of proud paym",
-      "url": "https://www.arbeitnow.com/jobs/companies/ppro/software-engineer-berlin-174604",
-      "remote": false,
-      "tags": [
-        "Software Engineering: Partner Lifecycle"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787657063,
-      "fetched_at": "2026-08-25T14:33:59.624121",
-      "match_score": 21.76,
-      "score_breakdown": {
-        "semantic_similarity": 0.371,
-        "semantic_score": 21.76,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342154"
+      "scored_at": "2026-08-25T18:21:59.090835"
     },
     {
       "id": "arbeitnow_junior-software-engineer-london-459866",
@@ -256,7 +130,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787660670,
-      "fetched_at": "2026-08-25T14:33:59.626635",
+      "fetched_at": "2026-08-25T18:21:45.610785",
       "match_score": 20.42,
       "score_breakdown": {
         "semantic_similarity": 0.3212,
@@ -264,7 +138,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-25T14:34:14.342311"
+      "scored_at": "2026-08-25T18:21:59.090804"
     },
     {
       "id": "arbeitnow_senior-full-stack-developer-415961",
@@ -279,7 +153,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787658924,
-      "fetched_at": "2026-08-25T14:34:01.750262",
+      "fetched_at": "2026-08-25T18:21:47.775531",
       "match_score": 20.28,
       "score_breakdown": {
         "semantic_similarity": 0.2022,
@@ -287,76 +161,53 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-25T14:34:14.342704"
+      "scored_at": "2026-08-25T18:21:59.090994"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-london-120105",
-      "title": "Senior Software Engineer",
-      "company": "Odin",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Odin is building the investment infrastructure for the future of private markets.<br />We believe capital is one of the most powerful tools for shaping the world - and more people should know how to put it to work. Our mission is to make it radically easier to raise and deploy capital, so that anyone, anywhere, can back the companies and ideas they believe in.</p><p style=\"min-height:1.5em\">Our first product is a full-stack platform for launching and running private i",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-software-engineer-london-120105",
+      "id": "arbeitnow_principal-software-engineer-full-stack-ai-manchester-110420",
+      "title": "Principal Software Engineer - Full Stack - AI",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-manchester-110420",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Backend Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787618414,
-      "fetched_at": "2026-08-25T14:33:59.629443",
-      "match_score": 18.99,
+      "posted_at": 1787673311,
+      "fetched_at": "2026-08-25T18:21:45.608924",
+      "match_score": 18.3,
       "score_breakdown": {
-        "semantic_similarity": 0.3492,
-        "semantic_score": 18.99,
+        "semantic_similarity": 0.3045,
+        "semantic_score": 13.3,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-25T14:34:14.342612"
+      "scored_at": "2026-08-25T18:21:59.090625"
     },
     {
-      "id": "arbeitnow_senior-quality-analyst-330064",
-      "title": "Senior Quality Analyst",
-      "company": "Starrez",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;About StarRez&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;StarRez is the global leader in student housing software, providing innovative solutions for on and off-campus housing management, resident wellness and experience, and revenue generation. Trusted by 1,400+ clients across 25+ countries, StarRez supports more than 4 million beds annually with its user-friendly, all-in-one platform, delive",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/senior-quality-analyst-330064",
+      "id": "arbeitnow_principal-software-engineer-full-stack-ai-york-151952",
+      "title": "Principal Software Engineer - Full Stack - AI",
+      "company": "Anaplan",
+      "location": "York",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-full-stack-ai-york-151952",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Backend Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787630121,
-      "fetched_at": "2026-08-25T14:33:59.627941",
-      "match_score": 15.43,
+      "posted_at": 1787673311,
+      "fetched_at": "2026-08-25T18:21:45.608927",
+      "match_score": 18.3,
       "score_breakdown": {
-        "semantic_similarity": 0.2034,
-        "semantic_score": 0.43,
-        "location_match": 15,
-        "priority_keywords": 0
+        "semantic_similarity": 0.3045,
+        "semantic_score": 13.3,
+        "location_match": 0,
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-25T14:34:14.342491"
-    },
-    {
-      "id": "arbeitnow_remote-principal-transformation-consultant-425542",
-      "title": "Principal Transformation Consultant (f/m/d)",
-      "company": "Valiantys",
-      "location": "Remote",
-      "description": "<div>\n<div><strong style=\"font-size: 24px;\">\u00dcber Valiantys&nbsp;</strong></div>\n<div>&nbsp;</div>\n<div>Schlie\u00dfe dich Valiantys an und werde Teil von etwas Au\u00dfergew\u00f6hnlichem!</div>\n<div>Bei Valiantys sind wir kein typischer Atlassian Platinum Solution Partner \u2013 wir sind die treibende Kraft hinter beeindruckenden, bahnbrechenden L\u00f6sungen, die mit gr\u00f6\u00dfter Sorgfalt f\u00fcr die Atlassian-Produktpalette entwickelt werden.</div>\n<div>Wir sind Pioniere in der Bereitstellung modernster Tools f\u00fcr Teamzusammen",
-      "url": "https://www.arbeitnow.com/jobs/companies/valiantys/remote-principal-transformation-consultant-425542",
-      "remote": true,
-      "tags": [
-        "Transformation Consulting"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787657077,
-      "fetched_at": "2026-08-25T14:33:59.624117",
-      "match_score": 15.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1715,
-        "semantic_score": 0.0,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342114"
+      "scored_at": "2026-08-25T18:21:59.090662"
     },
     {
       "id": "arbeitnow_staff-solutions-engineer-eu-uk-london-136109",
@@ -371,7 +222,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787640021,
-      "fetched_at": "2026-08-25T14:34:00.693297",
+      "fetched_at": "2026-08-25T18:21:46.690562",
       "match_score": 13.84,
       "score_breakdown": {
         "semantic_similarity": 0.3087,
@@ -379,7 +230,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342644"
+      "scored_at": "2026-08-25T18:21:59.090971"
     },
     {
       "id": "arbeitnow_software-engineer-back-end-llm-agents-berlin-452206",
@@ -397,7 +248,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787658013,
-      "fetched_at": "2026-08-25T14:33:59.623077",
+      "fetched_at": "2026-08-25T18:21:45.606583",
       "match_score": 8.8,
       "score_breakdown": {
         "semantic_similarity": 0.2692,
@@ -405,80 +256,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342053"
+      "scored_at": "2026-08-25T18:21:59.090539"
     },
     {
-      "id": "arbeitnow_technical-product-owner-hamburg-13884",
-      "title": "Technical Product Owner (m/f/d)",
-      "company": "Letmeship",
-      "location": "Hamburg",
-      "description": "<br><strong>About us</strong><p><p style=\"line-height:1.3800000000000001;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size:11pt;font-family:Calibri, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Since 2000,\u00a0</span><a style=\"text-decoration:none;\" href=\"https://www.italogistics.com/\"><span style=\"font-size:11pt;font-family:Calibri, sans-serif;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;text",
-      "url": "https://www.arbeitnow.com/jobs/companies/letmeship/technical-product-owner-hamburg-13884",
-      "remote": false,
-      "tags": [
-        "join",
-        "ProductOwner",
-        "Technical",
-        "Logistics"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787656215,
-      "fetched_at": "2026-08-25T14:33:59.624640",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1347,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-25T14:34:14.342176"
-    },
-    {
-      "id": "arbeitnow_director-engineering-investment-pension-domain-berlin-berlin-178878",
-      "title": "Director Engineering - Investment & Pension domain (m/f/d)",
-      "company": "raisin",
-      "location": "Berlin, Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world\u2019s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; connects consumers with banks in the EU, the UK and the US. This gives consumers &lt;strong&gt;better interest rates&lt;/strong&gt; and banks a &lt;strong&gt;diversified form of refinancing&lt;/strong&gt;. Our vision is to",
-      "url": "https://www.arbeitnow.com/jobs/companies/raisin/director-engineering-investment-pension-domain-berlin-berlin-178878",
+      "id": "arbeitnow_ai-technical-lead-london-210341",
+      "title": "AI Technical Lead",
+      "company": "Anaplan",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/ai-technical-lead-london-210341",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787648135,
-      "fetched_at": "2026-08-25T14:33:59.625749",
-      "match_score": 0.0,
+      "posted_at": 1787673310,
+      "fetched_at": "2026-08-25T18:21:45.609529",
+      "match_score": 4.32,
       "score_breakdown": {
-        "semantic_similarity": 0.1608,
-        "semantic_score": 0.0,
+        "semantic_similarity": 0.2339,
+        "semantic_score": 4.32,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342239"
+      "scored_at": "2026-08-25T18:21:59.090696"
     },
     {
-      "id": "arbeitnow_aero-software-developer-bicester-united-kingdom-486765",
-      "title": "Aero Software Developer",
-      "company": "Audif1",
-      "location": "Bicester United Kingdom",
-      "description": "<br><strong>Join Our Team</strong><p>We are the Audi Revolut F1\u00ae Team.<br>\u00a0\u00a0<br>\u00a0 Audi Revolut F1 Team is the official factory team of Audi, as the brand enters the FIA Formula 1 World Championship for the first time in 2026.<br>\u00a0\u00a0<br>\u00a0 The team is based in three locations: the power unit is developed by Audi Formula Racing GmbH at the Audi Competence Center Motorsport in Neuburg, Germany; the chassis is engineered and race operations are managed from the state-of-the-art facilities of Audi Moto",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/aero-software-developer-bicester-united-kingdom-486765",
+      "id": "arbeitnow_ai-technical-lead-manchester-417466",
+      "title": "AI Technical Lead",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/ai-technical-lead-manchester-417466",
       "remote": false,
       "tags": [
-        "aero",
-        "software"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787639393,
-      "fetched_at": "2026-08-25T14:34:00.693574",
+      "posted_at": 1787673310,
+      "fetched_at": "2026-08-25T18:21:45.609591",
+      "match_score": 4.32,
+      "score_breakdown": {
+        "semantic_similarity": 0.2339,
+        "semantic_score": 4.32,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-25T18:21:59.090726"
+    },
+    {
+      "id": "arbeitnow_data-analyst-routing-sortation-london-5301",
+      "title": "Data Analyst - Routing & Sortation",
+      "company": "Relay",
+      "location": "London - Hybrid",
+      "description": "<p style=\"min-height:1.5em\"><strong>Relay is fundamentally reshaping how goods move in an online era.</strong> Backed by Europe\u2019s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-dense team the logistics industry has ever seen</p><p style=\"min-height:1.5em\"><strong>Relay\u2019s Mission is</strong> to <strong>free commerc",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/data-analyst-routing-sortation-london-5301",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787672419,
+      "fetched_at": "2026-08-25T18:21:45.610119",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.0886,
+        "semantic_similarity": 0.1654,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-25T14:34:14.342682"
+      "scored_at": "2026-08-25T18:21:59.090765"
     }
   ]
 }

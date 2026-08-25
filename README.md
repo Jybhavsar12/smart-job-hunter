@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-25 14:34 UTC
+**Last updated:** 2026-08-25 18:21 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 75 |
-| Jobs found (all time) | 989 |
-| Jobs found (latest run, 2026-08-25) | 20 |
-| Best match (latest run) | Senior AI Engineer (all genders) at Eraneos (score 57) |
+| Jobs found (all time) | 983 |
+| Jobs found (latest run, 2026-08-25) | 14 |
+| Best match (latest run) | Staff Backend Software Engineer - Python & GO at Physicsx (score 28) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
