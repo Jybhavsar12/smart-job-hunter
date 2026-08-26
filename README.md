@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-25 22:14 UTC
+**Last updated:** 2026-08-26 06:26 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 75 |
-| Jobs found (all time) | 984 |
-| Jobs found (latest run, 2026-08-25) | 15 |
-| Best match (latest run) | Staff Backend Software Engineer - Python & GO at Physicsx (score 28) |
+| Search runs | 76 |
+| Jobs found (all time) | 1003 |
+| Jobs found (latest run, 2026-08-26) | 19 |
+| Best match (latest run) | Software Engineer, Backend - Data Layer at Camunda (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
