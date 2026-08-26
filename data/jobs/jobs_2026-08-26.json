@@ -1,7 +1,35 @@
 {
   "date": "2026-08-26",
-  "count": 22,
+  "count": 25,
   "jobs": [
+    {
+      "id": "arbeitnow_senior-software-developer-frontend-react-saarbrucken-166842",
+      "title": "(Senior) Software Developer Frontend / React (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbr\u00fccken",
+      "description": "<br><strong>Your mission</strong><p><p><br></p><ul><li>You develop features and improvements across the full stack of our SaaS application \u2013 both on the backend (Django / Django REST Framework, FastAPI) and the frontend (React / TypeScript) \u2013 consistently leveraging AI-assisted development tools like GitHub Copilot or Cursor to deliver faster and more efficiently.</li><li>As an experienced software developer, you collaborate closely with both development teams and coordinate with all relevant st",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-166842",
+      "remote": false,
+      "tags": [
+        "fullstack",
+        "python",
+        "django",
+        "react",
+        "javascript",
+        "typescript"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787753392,
+      "fetched_at": "2026-08-26T19:30:41.848596",
+      "match_score": 63.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.6195,
+        "semantic_score": 53.39,
+        "location_match": 0,
+        "priority_keywords": 10
+      },
+      "scored_at": "2026-08-26T19:30:56.247359"
+    },
     {
       "id": "arbeitnow_remote-senior-full-stack-engineer-realtime-voice-customer-experience-platform-228373",
       "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
@@ -15,7 +43,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787737231,
-      "fetched_at": "2026-08-26T14:33:42.610427",
+      "fetched_at": "2026-08-26T19:30:40.587508",
       "match_score": 61.32,
       "score_breakdown": {
         "semantic_similarity": 0.4461,
@@ -23,7 +51,7 @@
         "location_match": 15,
         "priority_keywords": 15
       },
-      "scored_at": "2026-08-26T14:33:57.338072"
+      "scored_at": "2026-08-26T19:30:56.247232"
     },
     {
       "id": "arbeitnow_senior-software-engineer-belfast-482953",
@@ -38,7 +66,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787748035,
-      "fetched_at": "2026-08-26T14:33:42.609454",
+      "fetched_at": "2026-08-26T19:30:40.586749",
       "match_score": 48.23,
       "score_breakdown": {
         "semantic_similarity": 0.5789,
@@ -46,7 +74,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337795"
+      "scored_at": "2026-08-26T19:30:56.247081"
     },
     {
       "id": "arbeitnow_principal-software-engineer-belfast-132945",
@@ -61,7 +89,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787748035,
-      "fetched_at": "2026-08-26T14:33:42.609451",
+      "fetched_at": "2026-08-26T19:30:40.586747",
       "match_score": 40.32,
       "score_breakdown": {
         "semantic_similarity": 0.5168,
@@ -69,74 +97,70 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337747"
+      "scored_at": "2026-08-26T19:30:56.247055"
     },
     {
-      "id": "arbeitnow_remote-software-engineer-backend-data-layer-315999",
-      "title": "Software Engineer, Backend - Data Layer",
-      "company": "Camunda",
-      "location": "Remote",
-      "description": "<div style=\"text-align:left\"><img style=\"max-width:100%\" src=\"https://app.ashbyhq.com/api/images/user-content/f20716cd-6953-4b9e-88b6-92f7104876aa/48341bbf-da1e-445e-b9ec-c809998caaef/Screenshot%202026-07-23%20at%2014.38.01.png\" /></div><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camunda.com/wb-life-at-camunda/\"><strong>Register Here!</strong></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Camunda is <strong>the enterprise p",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-data-layer-315999",
+      "id": "arbeitnow_data-engineer-berlin-6005",
+      "title": "Data Engineer",
+      "company": "Platoapp",
+      "location": "Berlin",
+      "description": "<br><strong>Your responsibilities</strong><p><span style=\"font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Joining our data team, you'll lead the build of Plato's real-time data platform, data warehouse, and the infrastructure behind our suite of data products. You'll work closely with data science, product, design, and engineering to build the data foundation that powers customer-facing a",
+      "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-6005",
       "remote": false,
       "tags": [
-        "Products"
+        "startup",
+        "B2B",
+        "SaaS",
+        "Data Engineering",
+        "Databricks",
+        "Snowflake",
+        "dbt",
+        "Data Modeling",
+        "Starrocks",
+        "Python",
+        "Terraform",
+        "ETL",
+        "ELT"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787715624,
-      "fetched_at": "2026-08-26T14:33:42.611537",
-      "match_score": 38.2,
+      "posted_at": 1787764208,
+      "fetched_at": "2026-08-26T19:30:40.583102",
+      "match_score": 36.61,
       "score_breakdown": {
-        "semantic_similarity": 0.3823,
-        "semantic_score": 23.2,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.338222"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-golang-118246",
-      "title": "Senior Software Engineer - Golang",
-      "company": "nearform",
-      "location": "",
-      "description": "&lt;p&gt;This is a &lt;strong&gt;permanent full-time&amp;nbsp;remote&lt;/strong&gt; opportunity f&lt;strong&gt;or those based in the UK.&lt;/strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Nearform&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nearform is an independent team of data &amp;amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower d",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-software-engineer-golang-118246",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787705722,
-      "fetched_at": "2026-08-26T14:33:42.611776",
-      "match_score": 34.85,
-      "score_breakdown": {
-        "semantic_similarity": 0.3559,
-        "semantic_score": 19.85,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.338320"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-full-stack-healthcare-applications-munchen-423647",
-      "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
-      "company": "Snke",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>What you'll do</strong><p>As<strong>\u00a0(Senior) Software Engineer - Healthcare Applications</strong> at\u00a0<strong>Snke\u00a0</strong>you will shape how clinicians interact with patient data every day. You will build and maintain healthcare web applications end to end, with modular and reusable frontend widgets and backend microservices that connect to hospital systems via FHIR, DICOM and HL7. You'll also develop shared libraries that enable other teams to do the same, from ready-to-use client",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-423647",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787743795,
-      "fetched_at": "2026-08-26T14:33:42.606763",
-      "match_score": 33.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.4654,
-        "semantic_score": 33.78,
+        "semantic_similarity": 0.4876,
+        "semantic_score": 36.61,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337562"
+      "scored_at": "2026-08-26T19:30:56.246746"
+    },
+    {
+      "id": "arbeitnow_technical-project-manager-software-development-saarbrucken-202925",
+      "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbr\u00fccken",
+      "description": "<br><strong>Your mission</strong><p><ul><li>You are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.</li><li>You lead our Development Leads and development teams both functionally and disciplinarily. You establish clear responsibilities, develop team members, and ensure that pro",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-202925",
+      "remote": false,
+      "tags": [
+        "Lead Developer",
+        "Engineering Lead",
+        "Software Architecture",
+        "Python",
+        "Django",
+        "React"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787753392,
+      "fetched_at": "2026-08-26T19:30:41.848592",
+      "match_score": 32.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.4545,
+        "semantic_score": 32.39,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.247327"
     },
     {
       "id": "arbeitnow_remote-staff-backend-engineer-developer-experience-279537",
@@ -151,7 +175,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787716509,
-      "fetched_at": "2026-08-26T14:33:42.611194",
+      "fetched_at": "2026-08-26T19:30:40.588087",
       "match_score": 31.08,
       "score_breakdown": {
         "semantic_similarity": 0.3264,
@@ -159,99 +183,166 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338200"
+      "scored_at": "2026-08-26T19:30:56.247299"
     },
     {
-      "id": "arbeitnow_software-engineer-business-technology-london-434615",
-      "title": "Software Engineer, Business Technology",
-      "company": "anthropic",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/software-engineer-business-technology-london-434615",
+      "id": "arbeitnow_java-software-engineer-berlin-33008",
+      "title": "Java Software Engineer (m/w/d)",
+      "company": "Swisio GmbH",
+      "location": "Berlin",
+      "description": "<p>Jobbeschreibung</p>\n<p><strong>Gestalte mit uns die Zukunft der Schichtplanung im Gesundheitswesen</strong></p>\n<p>Du m\u00f6chtest mit deiner Arbeit wirklich etwas bewegen? Bei <strong>Swisio</strong> entwickeln wir eine der f\u00fchrenden SaaS-Cloud-L\u00f6sungen f\u00fcr Workforce Management, Dienst- und Personalplanung \u2013 und helfen Krankenh\u00e4usern und Pflegeeinrichtungen dabei, den Arbeitsalltag f\u00fcr tausende Menschen zu verbessern.</p>\n<p><strong>Das Beste aus zwei Welten:</strong><br>\nBei uns erlebst du die ",
+      "url": "https://www.arbeitnow.com/jobs/companies/swisio-gmbh/java-software-engineer-berlin-33008",
       "remote": false,
       "tags": [
-        "Security"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787694961,
-      "fetched_at": "2026-08-26T14:33:42.612817",
-      "match_score": 22.13,
+      "posted_at": 1787752882,
+      "fetched_at": "2026-08-26T19:30:40.585343",
+      "match_score": 26.32,
       "score_breakdown": {
-        "semantic_similarity": 0.3739,
-        "semantic_score": 22.13,
+        "semantic_similarity": 0.4068,
+        "semantic_score": 26.32,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338506"
+      "scored_at": "2026-08-26T19:30:56.246866"
     },
     {
-      "id": "arbeitnow_senior-manager-customer-success-management-emea-apj-456935",
-      "title": "Senior Manager, Customer Success Management - EMEA/APJ",
-      "company": "chainguard",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-customer-success-management-emea-apj-456935",
+      "id": "arbeitnow_software-developer-full-stack-hamburg-358649",
+      "title": "Software Developer | Full-stack (m/w/d)",
+      "company": "Hoppe Marine Gmbh",
+      "location": "Hamburg",
+      "description": "<br><strong>Your mission</strong><p>The Applications team builds, maintains, and operates the solutions that collect high-quality sensor data<br>from large freight and offshore vessels - data our customers rely on via SCADA, web, and other on-board<br>applications. At the center of our work is the Software Engineering Center, our in-house backbone<br>application used company-wide to design and configure software projects for vessels around the world.<br>When something breaks, you're one of the p",
+      "url": "https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-358649",
       "remote": false,
-      "tags": [
-        "Customer Success Management"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1787705723,
-      "fetched_at": "2026-08-26T14:33:42.611773",
-      "match_score": 18.01,
+      "posted_at": 1787754613,
+      "fetched_at": "2026-08-26T19:30:40.584453",
+      "match_score": 25.61,
       "score_breakdown": {
-        "semantic_similarity": 0.2236,
-        "semantic_score": 3.01,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.338281"
-    },
-    {
-      "id": "arbeitnow_backend-developer-ai-engineer-cologne-58190",
-      "title": "Backend Developer / AI Engineer (m/w/d)",
-      "company": "AB-Jobs",
-      "location": "Cologne",
-      "description": "<p>Entdecke spannende Web &#x26; AI Perspektiven bei i-gelb!</p>\n<p>F\u00fcr Kunden aus dem Non-Profit-Bereich entwickeln wir<br>\nl\u00e4ngst nicht nur Websites: Im Kern steht ai-gelb, unsere KI-Plattform.<br>\nAuf ihr entstehen Enterprise-AI-L\u00f6sungen f\u00fcr<br>\nOrganisationen mit gesellschaftlicher Verantwortung \u2013 von KI-Assistenten<br>\n\u00fcber Wissenssuche bis zu automatisierten Abl\u00e4ufen.</p>\n<p>Zu unseren Kunden z\u00e4hlen Hilfsorganisationen, Kirchen, Verb\u00e4nde und \u00f6ffentliche Einrichtungen.</p>\n<p>Bei uns bist d",
-      "url": "https://www.arbeitnow.com/jobs/companies/ab-jobs/backend-developer-ai-engineer-cologne-58190",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787736634,
-      "fetched_at": "2026-08-26T14:33:45.809299",
-      "match_score": 18.01,
-      "score_breakdown": {
-        "semantic_similarity": 0.3415,
-        "semantic_score": 18.01,
+        "semantic_similarity": 0.4012,
+        "semantic_score": 25.61,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338621"
+      "scored_at": "2026-08-26T19:30:56.246830"
     },
     {
-      "id": "arbeitnow_manager-forward-deployed-engineering-433653",
-      "title": "Manager, Forward Deployed Engineering",
-      "company": "parloa",
-      "location": "",
-      "description": "&lt;h2&gt;&lt;strong&gt;About Parloa&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Parloa\u2019s mission is to make every customer conversation feel effortless for both customers and the companies serving them. As agentic AI accelerates, Parloans are shaping the foundation of a new era in customer experience, one where customer support is no longer transactions, but meaningful exchanges. It is not just a vision; Parloa has powered over ONE BILLION interactions between global enterprise brands and their customer",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/parloa/manager-forward-deployed-engineering-433653",
+      "id": "arbeitnow_full-stack-developer-berlin-hybrid-437698",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Ess Energy Sales Services Gmbh",
+      "location": "Berlin - Hybrid",
+      "description": "<br><strong>Wer wir sind</strong><p><p>Wir sind die <strong>PLAN-B NET ZERO AG</strong> \u2013 ein schnell wachsendes GreenTech-Unternehmen mit Sitz in der Schweiz. Unsere Mission: Der erste wirklich emissionsfreie, voll integrierte, digitale pan-europ\u00e4ische Energieversorger.</p><p>Wir denken Energie neu \u2013 nachhaltig, vernetzt und radikal zukunftsorientiert. Mit intelligenter KI, innovativen Technologien und digitalen Produkten entwickeln wir Energie vom Commodity zur modernen Lifestyle-Marke.</p><p>",
+      "url": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/full-stack-developer-berlin-hybrid-437698",
       "remote": false,
       "tags": [
-        "Professional Services"
+        "Full Stack",
+        "React",
+        "React Native",
+        "TypeScript",
+        "JavaScript",
+        "Mobile App Entwicklung",
+        "Webentwicklung",
+        "REST API",
+        "Supabase",
+        "PostgreSQL",
+        "Firebase",
+        "Netlify",
+        "Vercel",
+        "CI/CD",
+        "Git",
+        "GitHub",
+        "Apple App Store",
+        "Google Play Store",
+        "Cross-Plattform",
+        "Responsive Design",
+        "GreenTech",
+        "KI",
+        "Hybrid",
+        "Berlin"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787705708,
-      "fetched_at": "2026-08-26T14:33:42.612141",
+      "posted_at": 1787754607,
+      "fetched_at": "2026-08-26T19:30:43.129903",
+      "match_score": 17.36,
+      "score_breakdown": {
+        "semantic_similarity": 0.2971,
+        "semantic_score": 12.36,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-26T19:30:56.247390"
+    },
+    {
+      "id": "arbeitnow_technical-lead-of-software-autonomy-munchen-447691",
+      "title": "Technical Lead of Software Autonomy (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "description": "<figure style=\"text-align:center;\"><a target=\"_blank\" href=\"https://www.fernride.com/\"><img style=\"width:650px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/b8sbpn98trem3vs54lo7m8fynocgn4/Quantum-Systems-uebernimmt-Fernride-169FullWidth-1559f24-393125.avif\"></a></figure><p style=\"text-align:start;min-height: 1.7em;\"></p><p class=\"Paragraph SCXW25839312 BCX8\">As the <strong>Technical Lead of Autonomy SW \u2013 Land Domain</strong>, you will shape the next generation of autonomous ",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/technical-lead-of-software-autonomy-munchen-447691",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787765407,
+      "fetched_at": "2026-08-26T19:30:40.582894",
+      "match_score": 15.79,
+      "score_breakdown": {
+        "semantic_similarity": 0.324,
+        "semantic_score": 15.79,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.246719"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-ai-enabler-333615",
+      "title": "Senior Software Engineer  / AI Enabler (m/f/d)",
+      "company": "leasingmarkt",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;A career driven by you. &lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;At LeasingMarkt.de, we bring customers and dealers together to make car leasing more accessible, transparent, and efficient. Wi",
+      "url": "https://www.arbeitnow.com/jobs/companies/leasingmarkt/senior-software-engineer-ai-enabler-333615",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787756118,
+      "fetched_at": "2026-08-26T19:30:40.583532",
       "match_score": 15.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1246,
+        "semantic_similarity": 0.1404,
         "semantic_score": 0.0,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338376"
+      "scored_at": "2026-08-26T19:30:56.246771"
+    },
+    {
+      "id": "arbeitnow_staff-devops-engineer-london-48968",
+      "title": "Staff DevOps Engineer",
+      "company": "Ripple",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Ripple, we\u2019re building a world where value moves like information does today. It\u2019s big, it\u2019s bold, and we\u2019re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the be",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-devops-engineer-london-48968",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787759741,
+      "fetched_at": "2026-08-26T19:30:40.585537",
+      "match_score": 14.92,
+      "score_breakdown": {
+        "semantic_similarity": 0.3172,
+        "semantic_score": 14.92,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.246907"
     },
     {
       "id": "arbeitnow_software-engineer-business-intelligence-bi-london-399847",
@@ -266,7 +357,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787727328,
-      "fetched_at": "2026-08-26T14:33:42.610556",
+      "fetched_at": "2026-08-26T19:30:40.587613",
       "match_score": 14.19,
       "score_breakdown": {
         "semantic_similarity": 0.3115,
@@ -274,7 +365,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338119"
+      "scored_at": "2026-08-26T19:30:56.247257"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-london-156715",
@@ -289,7 +380,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787748021,
-      "fetched_at": "2026-08-26T14:33:42.609888",
+      "fetched_at": "2026-08-26T19:30:40.587086",
       "match_score": 13.54,
       "score_breakdown": {
         "semantic_similarity": 0.3064,
@@ -297,7 +388,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337883"
+      "scored_at": "2026-08-26T19:30:56.247129"
     },
     {
       "id": "arbeitnow_senior-backend-engineer-united-kingdom-260719",
@@ -312,7 +403,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787748017,
-      "fetched_at": "2026-08-26T14:33:42.609925",
+      "fetched_at": "2026-08-26T19:30:40.587115",
       "match_score": 12.37,
       "score_breakdown": {
         "semantic_similarity": 0.2972,
@@ -320,51 +411,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337953"
+      "scored_at": "2026-08-26T19:30:56.247161"
     },
     {
-      "id": "arbeitnow_senior-ai-augmented-software-engineer-all-genders-hamburg-188515",
-      "title": "(Senior) AI-Augmented Software Engineer (all genders)",
-      "company": "Apoprojekt",
-      "location": "Hamburg",
-      "description": "<br><strong>WAS DU VON UNS ERWARTEN KANNST</strong><p>apoprojekt ist Partner f\u00fcr jeden Transformationsbedarf im Bestand und eines der dynamischsten Unternehmen der Bau- und Immobilienbranche. Seit unserer Gr\u00fcndung 2007 sind wir von einem Zwei-Mann-Unternehmen zu einer Gr\u00f6\u00dfe von mehr als 600 Mitarbeitenden gewachsen. Wir wollen den Markt ver\u00e4ndern: Mit unserem Design &amp; Build-Ansatz und weniger Schnittstellen zwischen Planung und Ausf\u00fchrung. Mit mehr Miteinander und voller Verantwortung f\u00fcr un",
-      "url": "https://www.arbeitnow.com/jobs/companies/apoprojekt/senior-ai-augmented-software-engineer-all-genders-hamburg-188515",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787742554,
-      "fetched_at": "2026-08-26T14:33:42.608286",
-      "match_score": 11.35,
-      "score_breakdown": {
-        "semantic_similarity": 0.2892,
-        "semantic_score": 11.35,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.337634"
-    },
-    {
-      "id": "arbeitnow_senior-product-engineer-issuer-partnerships-london-422665",
-      "title": "Senior Product Engineer, Issuer Partnerships",
-      "company": "Checkout.com",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><em><strong>Company Description</strong></em></p><p style=\"min-height:1.5em\"><em>We\u2019re</em><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://checkout.com\"><em> </em></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Checkout.com\"><em>Checkout.com</em></a><em>. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we\u2019re behind many of the digital experiences you use every day. </em></p><p style=\"mi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-product-engineer-issuer-partnerships-london-422665",
+      "id": "arbeitnow_staff-engineer-mwd-crm-tech-berlin-37754",
+      "title": "Staff Engineer (m|w|d) - CRM Tech",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "description": "<p>Reliable data, resilient services and scalable architectures are at the heart of every CRM interaction at idealo. As a <strong>Staff Engineer,</strong> you'll shape the technical foundation <span style=\"color:#000000\">behind identity resolution, subscriptions, data flows, and message delivery while ensuring GDPR compliance and supporting personalized user experiences.</span></p><p style=\"min-height: 1.7em;\"></p><p>This role combines <strong>backend engineering, data engineering and architectu",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/staff-engineer-mwd-crm-tech-berlin-37754",
       "remote": false,
       "tags": [
-        "All Departments"
+        "Technology & Data"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787704826,
-      "fetched_at": "2026-08-26T14:33:42.612396",
-      "match_score": 10.43,
+      "posted_at": 1787754637,
+      "fetched_at": "2026-08-26T19:30:40.584072",
+      "match_score": 11.68,
       "score_breakdown": {
-        "semantic_similarity": 0.282,
-        "semantic_score": 10.43,
+        "semantic_similarity": 0.2918,
+        "semantic_score": 11.68,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338416"
+      "scored_at": "2026-08-26T19:30:56.246799"
     },
     {
       "id": "arbeitnow_forward-deployed-engineering-lead-london-112971",
@@ -379,7 +449,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787748021,
-      "fetched_at": "2026-08-26T14:33:42.609851",
+      "fetched_at": "2026-08-26T19:30:40.587058",
       "match_score": 9.44,
       "score_breakdown": {
         "semantic_similarity": 0.2742,
@@ -387,74 +457,120 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337841"
+      "scored_at": "2026-08-26T19:30:56.247106"
     },
     {
-      "id": "arbeitnow_director-of-systems-delivery-london-uk-182062",
-      "title": "Director of Systems Delivery",
-      "company": "Quantum Motion Technologies - Personio",
-      "location": "London, UK",
-      "description": "<br><strong>About The Role and Team</strong><p><span style=\"color:rgb(0,0,0);font-family:Arial, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years\u2019 experience in developing qubits and quantum computing architectures. Bringing together state-",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/director-of-systems-delivery-london-uk-182062",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787702982,
-      "fetched_at": "2026-08-26T14:33:42.612645",
-      "match_score": 7.04,
-      "score_breakdown": {
-        "semantic_similarity": 0.2553,
-        "semantic_score": 7.04,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.338457"
-    },
-    {
-      "id": "arbeitnow_software-developer-plattform-landshut-39235",
-      "title": "Software Developer - Plattform (m/w/d)",
-      "company": "ADITO Software GmbH",
-      "location": "Landshut",
-      "description": "<p>Du entwickelst gerne Software, bei der du technische L\u00f6sungen von der Idee bis zur Umsetzung mitgestalten kannst?<br>\nIn unserem Team \u201eDesigner\u201c gestaltest du die Zukunft der hauseigenen Rapid-Application-Plattform aktiv mit und arbeitest an der n\u00e4chsten Generation unserer eigenen Entwicklungsumgebung.</p>\n<p>Dabei erarbeitest du technische Konzepte, setzt diese um und k\u00fcmmerst dich auch um Testing, Debugging und Dokumentation.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Aktive Mitgestaltung und Entwicklu",
-      "url": "https://www.arbeitnow.com/jobs/companies/adito-software-gmbh/software-developer-plattform-landshut-39235",
+      "id": "arbeitnow_founding-ai-engineer-at-embedded-ai-efficiency-layer-berlin-281186",
+      "title": "Founding AI Engineer @ Embedded AI Efficiency Layer, Berlin",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "description": "<p><em><span style=\"color:#000000\">This is an Atlantic portfolio venture.<br><br></span></em></p><p><strong><span style=\"color:#000000\">About the Venture</span></strong></p><p><span style=\"color:#000000\">AI is being integrated into more products every month, and every interaction consumes tokens. As usage scales, costs add up quickly. The first race was adoption. The next is efficiency: inference costs increasingly determine what companies can afford to build and ship.</span></p><p><span style=\"",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/founding-ai-engineer-at-embedded-ai-efficiency-layer-berlin-281186",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Portfolio Company"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787734845,
-      "fetched_at": "2026-08-26T14:33:43.681926",
-      "match_score": 1.63,
-      "score_breakdown": {
-        "semantic_similarity": 0.2128,
-        "semantic_score": 1.63,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-26T14:33:57.338564"
-    },
-    {
-      "id": "arbeitnow_quantitative-trading-analyst-frankfurt-am-main-314442",
-      "title": "Quantitative Trading Analyst (f/m/d)",
-      "company": "XTP AG",
-      "location": "Frankfurt am Main",
-      "description": "<p><strong>About XTP</strong></p>\n<p>XTP is a specialist consultant focusing on transparency, cost, and risk. For more than 20 years we have helped institutional investors to get the most from their current investment set-up and enhance investment governance. We have a proven track record of increasing implementation efficiency in public and private market assets from clients across Europe and the USA.</p>\n<p>We are a data-driven organisation with a highly experienced team of more than 50 senior",
-      "url": "https://www.arbeitnow.com/jobs/companies/xtp-ag/quantitative-trading-analyst-frankfurt-am-main-314442",
-      "remote": false,
-      "tags": [
-        "Finance"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787734845,
-      "fetched_at": "2026-08-26T14:33:42.609374",
+      "posted_at": 1787765423,
+      "fetched_at": "2026-08-26T19:30:40.582791",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1637,
+        "semantic_similarity": 0.1847,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.337690"
+      "scored_at": "2026-08-26T19:30:56.246680"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-advertising-engineering-manchester-367207",
+      "title": "Senior Software Engineer, Advertising Engineering",
+      "company": "Roku",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-advertising-engineering-manchester-367207",
+      "remote": false,
+      "tags": [
+        "225 - Advertising Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787759730,
+      "fetched_at": "2026-08-26T19:30:40.585695",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.0978,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.246932"
+    },
+    {
+      "id": "arbeitnow_senior-platform-engineer-cardiff-170760",
+      "title": "Senior Platform Engineer",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;\ud83d\ude80 We\u2019re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a hr",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-platform-engineer-cardiff-170760",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787759715,
+      "fetched_at": "2026-08-26T19:30:40.585858",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1425,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.246974"
+    },
+    {
+      "id": "arbeitnow_director-systems-software-oxford-322400",
+      "title": "Director, Systems Software",
+      "company": "ionq",
+      "location": "Oxford",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About IonQ:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fionq.com%2F&amp;amp;esheet=54451094&amp;amp;newsitemid=20260316477473&amp;amp;lan=en-US&amp;amp;anchor=IonQ%2C+Inc&amp;amp;index=7&amp;amp;md5=0818ffbedc6dbad8c4d1611ac94c2a0f&quot; target=&quot;_blank&quot;&gt;IonQ, Inc&lt;/a&gt;&lt;/u&gt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/director-systems-software-oxford-322400",
+      "remote": false,
+      "tags": [
+        "Engineering & Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1787759712,
+      "fetched_at": "2026-08-26T19:30:40.586263",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.0875,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.247000"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-bristol-345809",
+      "title": "Senior Software Engineer",
+      "company": "Ping Identity",
+      "location": "Bristol, City Of Bristol, England, United Kingdom",
+      "description": "<div class=\"content-intro\"><p><strong>About Ping Identity:&nbsp;</strong></p>\n<p>At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp;</p>\n<p>Our intelligent, cloud identity platform lets people shop, w",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ping-identity/senior-software-engineer-bristol-345809",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1787755530,
+      "fetched_at": "2026-08-26T19:30:40.586689",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1302,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-26T19:30:56.247027"
     },
     {
       "id": "arbeitnow_engineering-manager-royalty-share-pdego-london-140538",
@@ -469,7 +585,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787738109,
-      "fetched_at": "2026-08-26T14:33:42.610415",
+      "fetched_at": "2026-08-26T19:30:40.587501",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0837,
@@ -477,7 +593,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338014"
+      "scored_at": "2026-08-26T19:30:56.247205"
     },
     {
       "id": "arbeitnow_software-engineer-ii-london-45542",
@@ -492,7 +608,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787727307,
-      "fetched_at": "2026-08-26T14:33:42.610558",
+      "fetched_at": "2026-08-26T19:30:40.587615",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.049,
@@ -500,7 +616,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-26T14:33:57.338157"
+      "scored_at": "2026-08-26T19:30:56.247276"
     }
   ]
 }

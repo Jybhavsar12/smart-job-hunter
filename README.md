@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-26 14:33 UTC
+**Last updated:** 2026-08-26 19:30 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 76 |
-| Jobs found (all time) | 1006 |
-| Jobs found (latest run, 2026-08-26) | 22 |
-| Best match (latest run) | Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform at Hopper (score 61) |
+| Jobs found (all time) | 1009 |
+| Jobs found (latest run, 2026-08-26) | 25 |
+| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
