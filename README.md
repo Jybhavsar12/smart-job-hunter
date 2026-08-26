@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-26 06:26 UTC
+**Last updated:** 2026-08-26 10:23 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 76 |
-| Jobs found (all time) | 1003 |
-| Jobs found (latest run, 2026-08-26) | 19 |
+| Jobs found (all time) | 1007 |
+| Jobs found (latest run, 2026-08-26) | 23 |
 | Best match (latest run) | Software Engineer, Backend - Data Layer at Camunda (score 38) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
