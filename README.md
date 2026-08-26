@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-26 10:23 UTC
+**Last updated:** 2026-08-26 14:33 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 76 |
-| Jobs found (all time) | 1007 |
-| Jobs found (latest run, 2026-08-26) | 23 |
-| Best match (latest run) | Software Engineer, Backend - Data Layer at Camunda (score 38) |
+| Jobs found (all time) | 1006 |
+| Jobs found (latest run, 2026-08-26) | 22 |
+| Best match (latest run) | Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform at Hopper (score 61) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
