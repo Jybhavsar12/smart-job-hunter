@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-26 19:30 UTC
+**Last updated:** 2026-08-27 02:21 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 76 |
-| Jobs found (all time) | 1009 |
-| Jobs found (latest run, 2026-08-26) | 25 |
-| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
+| Search runs | 77 |
+| Jobs found (all time) | 1026 |
+| Jobs found (latest run, 2026-08-27) | 17 |
+| Best match (latest run) | Senior Software Engineer – Data Ingestion & Extraction (m/f/d) at Certivity (score 50) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
