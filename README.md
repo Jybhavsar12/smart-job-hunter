@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-28 01:51 UTC
+**Last updated:** 2026-08-28 17:48 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 78 |
-| Jobs found (all time) | 1061 |
-| Jobs found (latest run, 2026-08-28) | 28 |
-| Best match (latest run) | Senior Software Engineer - .Net & AI (m/f/d) at Rapid Data (score 44) |
+| Jobs found (all time) | 1051 |
+| Jobs found (latest run, 2026-08-28) | 18 |
+| Best match (latest run) | Staff Security Engineer at Ppro (score 20) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
