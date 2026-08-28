@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-27 16:58 UTC
+**Last updated:** 2026-08-28 01:51 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 77 |
-| Jobs found (all time) | 1033 |
-| Jobs found (latest run, 2026-08-27) | 24 |
-| Best match (latest run) | Principal Software Engineer at Cytix (score 46) |
+| Search runs | 78 |
+| Jobs found (all time) | 1061 |
+| Jobs found (latest run, 2026-08-28) | 28 |
+| Best match (latest run) | Senior Software Engineer - .Net & AI (m/f/d) at Rapid Data (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
