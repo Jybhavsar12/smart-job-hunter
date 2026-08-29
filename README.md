@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-29 01:15 UTC
+**Last updated:** 2026-08-29 11:53 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 79 |
-| Jobs found (all time) | 1085 |
-| Jobs found (latest run, 2026-08-29) | 34 |
-| Best match (latest run) | Staff/Senior AI Engineer, AI for Code at jetbrains (score 41) |
+| Jobs found (all time) | 1068 |
+| Jobs found (latest run, 2026-08-29) | 17 |
+| Best match (latest run) | Senior Security Engineer (all genders) at Capmo (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
