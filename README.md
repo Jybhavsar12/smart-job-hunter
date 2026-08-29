@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-28 17:48 UTC
+**Last updated:** 2026-08-29 01:15 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 78 |
-| Jobs found (all time) | 1051 |
-| Jobs found (latest run, 2026-08-28) | 18 |
-| Best match (latest run) | Staff Security Engineer at Ppro (score 20) |
+| Search runs | 79 |
+| Jobs found (all time) | 1085 |
+| Jobs found (latest run, 2026-08-29) | 34 |
+| Best match (latest run) | Staff/Senior AI Engineer, AI for Code at jetbrains (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
