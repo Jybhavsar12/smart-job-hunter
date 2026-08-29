@@ -1,32 +1,31 @@
 {
   "date": "2026-08-29",
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
-      "id": "arbeitnow_senior-security-engineer-all-genders-munich-16640",
-      "title": "Senior Security Engineer (all genders)",
-      "company": "Capmo",
-      "location": "Munich",
-      "description": "<br><strong>Your role</strong><p><p style=\"line-height:1.38;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Capmo is the digital partner on construction sites, with over 100k projects delivered faster and more successfully with the help of our platform. We enable architects, engineers, project managers and contractors to collaborate effi",
-      "url": "https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-16640",
+      "id": "arbeitnow_senior-frontend-software-engineer-angular-berlin-381142",
+      "title": "Senior Frontend Software Engineer - Angular (m/f/x)",
+      "company": "neoshare",
+      "location": "Berlin",
+      "description": "<br><strong>Your mission</strong><p><ul><li>You contribute to the further development of our platform in the front-end area.</li><li>You will develop technical concepts independently and as part of a team, implement them, carry out tests, and document the results of your work.</li><li>You are constantly collaborating with UI/UX designers, and the backend and frontend team \u0442\u043e deliver the best possible result.</li><li>You actively participate in the development of reusable components and contribut",
+      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-381142",
       "remote": false,
       "tags": [
-        "nodeJS",
-        "react.js",
-        "AWS",
-        "TypeScript"
+        "angular",
+        "frontend",
+        "fintech"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787981425,
-      "fetched_at": "2026-08-29T11:53:04.030546",
-      "match_score": 43.89,
+      "posted_at": 1788003010,
+      "fetched_at": "2026-08-29T17:26:59.407866",
+      "match_score": 40.63,
       "score_breakdown": {
-        "semantic_similarity": 0.5448,
-        "semantic_score": 43.89,
+        "semantic_similarity": 0.5192,
+        "semantic_score": 40.63,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482350"
+      "scored_at": "2026-08-29T17:27:16.745895"
     },
     {
       "id": "arbeitnow_remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213",
@@ -42,7 +41,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787992216,
-      "fetched_at": "2026-08-29T11:53:04.027341",
+      "fetched_at": "2026-08-29T17:26:59.410370",
       "match_score": 39.84,
       "score_breakdown": {
         "semantic_similarity": 0.3559,
@@ -50,45 +49,136 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-08-29T11:53:17.482175"
+      "scored_at": "2026-08-29T17:27:16.746140"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-ai-native-development-munchen-329381",
-      "title": "Senior Software Engineer (m/f/d): AI-Native Development",
-      "company": "Myra",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>Job Description</strong><p>We protect our customers\u2019 digital infrastructure, keeping it secure, fast, and online, even under active attack. As a cybersecurity provider, we run high-performance systems in a genuinely hostile environment, where code quality, security, and rigorous input validation are not hygiene: they are the product. Our customers trust us with business-critical traffic, and we build and operate to the highest standards of certification for critical infrastructure.<b",
-      "url": "https://www.arbeitnow.com/jobs/companies/myra/senior-software-engineer-ai-native-development-munchen-329381",
+      "id": "arbeitnow_data-engineer-working-student-koln-276326",
+      "title": "Data Engineer Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "K\u00f6ln",
+      "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the development of databases and data integration processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehouses</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in documenting and structuri",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-276326",
       "remote": false,
       "tags": [
-        "AI Native Development",
-        "PHP",
-        "Symfony",
-        "React",
-        "GraphQL",
-        "Rust",
-        "Python",
-        "Go",
-        "Security by Design",
-        "CI/CD",
-        "Fullstack Development",
-        "Javascript",
-        "ReactJS",
-        "Typescript",
-        "Devops",
-        "Software Developer"
+        "Working Student",
+        "Working Student Data Analyst",
+        "Data Analyst",
+        "IT-Strategy",
+        "ESG",
+        "Working Student Data Engineer",
+        "Data Engineer",
+        "Data Bricks"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787991003,
-      "fetched_at": "2026-08-29T11:53:04.029391",
-      "match_score": 35.21,
+      "posted_at": 1788001825,
+      "fetched_at": "2026-08-29T17:26:59.408703",
+      "match_score": 38.77,
       "score_breakdown": {
-        "semantic_similarity": 0.4767,
-        "semantic_score": 35.21,
+        "semantic_similarity": 0.5047,
+        "semantic_score": 38.77,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482220"
+      "scored_at": "2026-08-29T17:27:16.745945"
+    },
+    {
+      "id": "arbeitnow_cybersecurity-senior-software-engineer-munchen-230524",
+      "title": "Cybersecurity (Senior) Software Engineer (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You develop secure software and infrastructure solutions and integrate security-by-design principles into the development and deployment process from the very beginning.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You support our clients in the design, development, and protection of modern applications and infrastructures, for example in the areas of AI, web, AP",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-230524",
+      "remote": false,
+      "tags": [
+        "Software Engineering",
+        "Cybersecurity",
+        "DevSecOPs"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788001825,
+      "fetched_at": "2026-08-29T17:26:59.408842",
+      "match_score": 38.24,
+      "score_breakdown": {
+        "semantic_similarity": 0.5004,
+        "semantic_score": 38.24,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-29T17:27:16.745999"
+    },
+    {
+      "id": "arbeitnow_junior-software-engineer-focus-on-ios-munchen-52025",
+      "title": "Junior Software Engineer (m/f/d) - focus on iOS",
+      "company": "Ottonova",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>YOUR TEAM</strong><p>We are seeking a Junior Software Engineer with focus on iOS to join our team to further develop the modern ottonova software ecosystem. At ottonova, we value teamwork, technical excellence, delivering value, positivity, constant improvement, growth and innovation. You will be part of one of our five software engineering teams, which offers a great way to learn from experienced Software Engineers and advance in your professional career.<br>In addition, you will ha",
+      "url": "https://www.arbeitnow.com/jobs/companies/ottonova/junior-software-engineer-focus-on-ios-munchen-52025",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1788001799,
+      "fetched_at": "2026-08-29T17:26:59.409348",
+      "match_score": 35.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.4427,
+        "semantic_score": 30.89,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-29T17:27:16.746067"
+    },
+    {
+      "id": "arbeitnow_cybersecurity-working-student-munchen-232998",
+      "title": "Cybersecurity Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the preparation and execution of projects related to Risk Management, Identity &amp; Access Management, DevSecOps, and AI Security for our clients</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the development and implementation of security strategies and solutions</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-232998",
+      "remote": false,
+      "tags": [
+        "Working Student",
+        "Start-Up",
+        "IT-Security",
+        "Cybersecurity",
+        "Safety Analysis"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788001825,
+      "fetched_at": "2026-08-29T17:26:59.408732",
+      "match_score": 31.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.4475,
+        "semantic_score": 31.5,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-29T17:27:16.745972"
+    },
+    {
+      "id": "arbeitnow_cloud-senior-engineer-architect-m-w-d-koln-293569",
+      "title": "Cloud (Senior) Engineer / Architect (m/ w/ d)",
+      "company": "Trusteq Gmbh",
+      "location": "K\u00f6ln",
+      "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You analyze and design solutions for our customers with regard to modern cloud architectures</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You design and operate tailored solutions both in the cloud and in hybrid environments, and contribute your expertise and ideas to continuous development and improvement</li><li style=\"font-family:Arial, Helvetica, sans-serif;f",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-m-w-d-koln-293569",
+      "remote": false,
+      "tags": [
+        "Cloud Engineer",
+        "Cloud Architect",
+        "Cloud Developer",
+        "Software Developer"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788001825,
+      "fetched_at": "2026-08-29T17:26:59.408906",
+      "match_score": 27.52,
+      "score_breakdown": {
+        "semantic_similarity": 0.4163,
+        "semantic_score": 27.52,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-29T17:27:16.746024"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-225012",
@@ -103,7 +193,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787996417,
-      "fetched_at": "2026-08-29T11:53:04.031085",
+      "fetched_at": "2026-08-29T17:26:59.417416",
       "match_score": 25.79,
       "score_breakdown": {
         "semantic_similarity": 0.4026,
@@ -111,53 +201,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482392"
+      "scored_at": "2026-08-29T17:27:16.746290"
     },
     {
-      "id": "arbeitnow_frontend-engineer-london-434461",
-      "title": "Frontend Engineer",
-      "company": "Lightningai",
+      "id": "arbeitnow_senior-software-engineer-java-london-315303",
+      "title": "Senior Software Engineer  (Java)",
+      "company": "Arq",
       "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Who &lt;strong&gt;We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems\u2014designed to take ideas from research to production with less friction.&lt;/p&gt;\n&lt;p&gt;Through our merger with Voltage Park, a neocloud and AI Factory, Lightning AI combines developer-first software with cost-efficient, large-scal",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461",
+      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-software-engineer-java-london-315303",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787932563,
-      "fetched_at": "2026-08-29T11:53:04.033885",
-      "match_score": 18.19,
+      "posted_at": 1788018009,
+      "fetched_at": "2026-08-29T17:26:59.411470",
+      "match_score": 24.35,
       "score_breakdown": {
-        "semantic_similarity": 0.3429,
-        "semantic_score": 18.19,
+        "semantic_similarity": 0.3913,
+        "semantic_score": 24.35,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482678"
+      "scored_at": "2026-08-29T17:27:16.746178"
     },
     {
-      "id": "arbeitnow_staff-backend-software-engineer-edinburgh-382848",
-      "title": "Staff Backend Software Engineer",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-backend-software-engineer-edinburgh-382848",
+      "id": "arbeitnow_software-engineer-java-london-167455",
+      "title": "Software Engineer  (Java)",
+      "company": "Arq",
+      "location": "London",
+      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-london-167455",
       "remote": false,
       "tags": [
-        "Core Product Engineering"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787932569,
-      "fetched_at": "2026-08-29T11:53:04.033539",
-      "match_score": 17.52,
+      "posted_at": 1788018009,
+      "fetched_at": "2026-08-29T17:26:59.411473",
+      "match_score": 22.67,
       "score_breakdown": {
-        "semantic_similarity": 0.3377,
-        "semantic_score": 17.52,
+        "semantic_similarity": 0.3781,
+        "semantic_score": 22.67,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482644"
+      "scored_at": "2026-08-29T17:27:16.746212"
+    },
+    {
+      "id": "arbeitnow_engineering-lead-london-41330",
+      "title": "Engineering Lead",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">BJAK builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineering bar around them.</p><p style=\"min-height:1.5em\">The Engineering Lead owns <strong>technical direction and execution for major products and systems</strong>. This is a hands-on role - you will design systems, write code, and d",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-lead-london-41330",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788007222,
+      "fetched_at": "2026-08-29T17:26:59.416689",
+      "match_score": 18.73,
+      "score_breakdown": {
+        "semantic_similarity": 0.3471,
+        "semantic_score": 18.73,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-29T17:27:16.746259"
     },
     {
       "id": "arbeitnow_remote-senior-software-engineer-devops-84240",
@@ -172,7 +285,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787975725,
-      "fetched_at": "2026-08-29T11:53:04.031390",
+      "fetched_at": "2026-08-29T17:26:59.417714",
       "match_score": 15.62,
       "score_breakdown": {
         "semantic_similarity": 0.2049,
@@ -180,166 +293,63 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482430"
+      "scored_at": "2026-08-29T17:27:16.746326"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-backend-identity-international-271131",
-      "title": "Staff Software Engineer, Backend (Identity International)",
-      "company": "Affirm",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Identity at Affirm is mission-critical; it is the very first step of the customer journey and the foundation of global expansion. The International Expansion Unit (IEU) owns Identity for every market outside North America, placing our team at th",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/staff-software-engineer-backend-identity-international-271131",
+      "id": "arbeitnow_robotics-software-engineer-intern-swarm-systems-munich-deu-335725",
+      "title": "Robotics Software Engineer Intern \u2013 Swarm Systems (m/f/d)",
+      "company": "autonomous-teaming",
+      "location": "Munich (DEU)",
+      "description": "<br><strong>What we offer</strong><p><ul style=\"border:0px solid;color:rgb(32,32,32);font-size:14px;font-style:normal;font-weight:400;text-transform:none;font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';background-color:rgb(255,255,255);\"><li><span><span>Work in an international, agile team building </span><s",
+      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-intern-swarm-systems-munich-deu-335725",
       "remote": false,
       "tags": [
-        "Checkout"
+        "Robotics",
+        "UAV systems",
+        "SLAM",
+        "Navigation",
+        "perception",
+        "multi agent coordination",
+        "Linux",
+        "C++",
+        "ROS2",
+        "Software engineering",
+        "algorithm"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787954111,
-      "fetched_at": "2026-08-29T11:53:04.032508",
-      "match_score": 15.0,
+      "posted_at": 1788002975,
+      "fetched_at": "2026-08-29T17:26:59.408281",
+      "match_score": 15.3,
       "score_breakdown": {
-        "semantic_similarity": 0.0928,
-        "semantic_score": 0.0,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482499"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-in-build-engineering-bristol-252678",
-      "title": "Senior Software Engineer in Build Engineering",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "description": "&lt;h2&gt;&lt;strong&gt;About Graphcore&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Graphcore&amp;nbsp;is one of the world\u2019s leading innovators in Artificial Intelligence compute.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of the SoftBank Group,&amp;nbsp;Graphcore\u202fis a member of a",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-bristol-252678",
-      "remote": false,
-      "tags": [
-        "Software Ops"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787932572,
-      "fetched_at": "2026-08-29T11:53:04.033527",
-      "match_score": 14.08,
-      "score_breakdown": {
-        "semantic_similarity": 0.3106,
-        "semantic_score": 14.08,
+        "semantic_similarity": 0.3202,
+        "semantic_score": 15.3,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482534"
+      "scored_at": "2026-08-29T17:27:16.745918"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-in-build-engineering-cambridge-118460",
-      "title": "Senior Software Engineer in Build Engineering",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "description": "&lt;h2&gt;&lt;strong&gt;About Graphcore&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Graphcore&amp;nbsp;is one of the world\u2019s leading innovators in Artificial Intelligence compute.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of the SoftBank Group,&amp;nbsp;Graphcore\u202fis a member of a",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-cambridge-118460",
+      "id": "arbeitnow_site-reliability-engineer-ii-ai-infrastructure-berlin-47960",
+      "title": "Site Reliability Engineer II - AI & Infrastructure (f/m/d)",
+      "company": "Focused",
+      "location": "Berlin, DE",
+      "description": "<p style=\"min-height:1.5em\">Focused Energy is a pioneering international deep-tech company with locations in Germany and the US, dedicated to commercializing laser-driven nuclear fusion. Our mission is to deliver clean, safe, and virtually limitless energy to the world. As we rapidly scale, we seek talented individuals who thrive on bringing clarity and structure to fast-growing environments.</p><p style=\"min-height:1.5em\"></p><h2>About the Role</h2><p style=\"min-height:1.5em\">Focused Energy is ",
+      "url": "https://www.arbeitnow.com/jobs/companies/focused/site-reliability-engineer-ii-ai-infrastructure-berlin-47960",
       "remote": false,
       "tags": [
-        "Software Ops"
+        "IT"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1787932572,
-      "fetched_at": "2026-08-29T11:53:04.033531",
-      "match_score": 14.08,
+      "posted_at": 1788003622,
+      "fetched_at": "2026-08-29T17:26:59.407688",
+      "match_score": 10.46,
       "score_breakdown": {
-        "semantic_similarity": 0.3106,
-        "semantic_score": 14.08,
+        "semantic_similarity": 0.2822,
+        "semantic_score": 10.46,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482564"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-in-build-engineering-london-387845",
-      "title": "Senior Software Engineer in Build Engineering",
-      "company": "Graphcore",
-      "location": "London",
-      "description": "&lt;h2&gt;&lt;strong&gt;About Graphcore&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Graphcore&amp;nbsp;is one of the world\u2019s leading innovators in Artificial Intelligence compute.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry.\u202f&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of the SoftBank Group,&amp;nbsp;Graphcore\u202fis a member of a",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-387845",
-      "remote": false,
-      "tags": [
-        "Software Ops"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787932572,
-      "fetched_at": "2026-08-29T11:53:04.033534",
-      "match_score": 14.08,
-      "score_breakdown": {
-        "semantic_similarity": 0.3106,
-        "semantic_score": 14.08,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482593"
-    },
-    {
-      "id": "arbeitnow_forward-deployed-engineer-berlin-249380",
-      "title": "Forward Deployed Engineer",
-      "company": "Lumaai",
-      "location": "Berlin, GER",
-      "description": "<p style=\"min-height:1.5em\">Forward Deployed Engineers turn what Luma's models can do into systems customers actually rely on. You embed with a customer, learn their workflow, define the problem with them, and build the production system that solves it, with their data and their constraints. You own both the relationship and the code.</p><p style=\"min-height:1.5em\">This is engineering at the edge, where ambiguity is the default and \"what should we build?\" is yours to answer. It's built for peopl",
-      "url": "https://www.arbeitnow.com/jobs/companies/lumaai/forward-deployed-engineer-berlin-249380",
-      "remote": false,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787982005,
-      "fetched_at": "2026-08-29T11:53:04.030447",
-      "match_score": 12.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.2972,
-        "semantic_score": 12.37,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482326"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-teilprojektleitung-munchen-317791",
-      "title": "Senior Software Engineer (m/w/d) \u2013 Teilprojektleitung",
-      "company": "Steadforce",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du \u00fcbernimmst die <strong>fachliche\u00a0</strong>und <strong>technische\u00a0</strong>Verantwortung f\u00fcr mehrere Teilprojekte, damit diese p\u00fcnktlich und den Qualit\u00e4tsvorgaben entsprechend geliefert werden.</li><li>Du <strong>stimmst dich</strong> \u00fcber diese Teilprojekte mit dem Team Lead, Projektmanager, den anderen Teilprojekten und verschiedenen Ansprechpartnern beim Kunden <strong>ab</strong>.</li><li>Du <strong>nimmst aktiv Einfluss\u00a0</strong>auf die Planun",
-      "url": "https://www.arbeitnow.com/jobs/companies/steadforce/senior-software-engineer-teilprojektleitung-munchen-317791",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787990981,
-      "fetched_at": "2026-08-29T11:53:04.029533",
-      "match_score": 10.3,
-      "score_breakdown": {
-        "semantic_similarity": 0.2809,
-        "semantic_score": 10.3,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482260"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-reference-data-ai-ml-uk-edinburgh-459864",
-      "title": "Staff Software Engineer - Reference Data - AI/ML (UK)",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-reference-data-ai-ml-uk-edinburgh-459864",
-      "remote": false,
-      "tags": [
-        "Data Architecture & Integration"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1787932569,
-      "fetched_at": "2026-08-29T11:53:04.033536",
-      "match_score": 9.21,
-      "score_breakdown": {
-        "semantic_similarity": 0.2724,
-        "semantic_score": 9.21,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482620"
+      "scored_at": "2026-08-29T17:27:16.745832"
     },
     {
       "id": "arbeitnow_senior-software-engineer-agents-berlin-154430",
@@ -354,7 +364,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787992829,
-      "fetched_at": "2026-08-29T11:53:04.026452",
+      "fetched_at": "2026-08-29T17:26:59.409538",
       "match_score": 6.19,
       "score_breakdown": {
         "semantic_similarity": 0.2486,
@@ -362,28 +372,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482113"
-    },
-    {
-      "id": "arbeitnow_senior-applied-scientist-recommendations-berlin-379660",
-      "title": "(Senior) Applied Scientist, Recommendations",
-      "company": "Wolt - English",
-      "location": "Berlin, Berlin, Germany",
-      "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the gl",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-applied-scientist-recommendations-berlin-379660",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1787985923,
-      "fetched_at": "2026-08-29T11:53:04.029832",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1567,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-29T11:53:17.482294"
+      "scored_at": "2026-08-29T17:27:16.746099"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-468751",
@@ -398,7 +387,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1787974819,
-      "fetched_at": "2026-08-29T11:53:04.031534",
+      "fetched_at": "2026-08-29T17:26:59.417856",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1703,
@@ -406,7 +395,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-29T11:53:17.482467"
+      "scored_at": "2026-08-29T17:27:16.746361"
     }
   ]
 }

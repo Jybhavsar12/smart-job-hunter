@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-29 11:53 UTC
+**Last updated:** 2026-08-29 17:27 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 79 |
-| Jobs found (all time) | 1068 |
-| Jobs found (latest run, 2026-08-29) | 17 |
-| Best match (latest run) | Senior Security Engineer (all genders) at Capmo (score 44) |
+| Jobs found (all time) | 1067 |
+| Jobs found (latest run, 2026-08-29) | 16 |
+| Best match (latest run) | Senior Frontend Software Engineer - Angular (m/f/x) at neoshare (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
