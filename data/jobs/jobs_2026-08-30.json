@@ -1,38 +1,70 @@
 {
   "date": "2026-08-30",
-  "count": 28,
+  "count": 24,
   "jobs": [
     {
-      "id": "arbeitnow_head-of-engineering-munchen-205488",
-      "title": "Head of Engineering",
-      "company": "deeploi - This is IT",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>Your mission</strong><p><span style=\"font-size:15px;font-family:Arial, Helvetica, sans-serif;\">We\u2019re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You lead the team day to day and still roll up your sleeves when a problem needs your hands on it.</span><spa",
-      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-205488",
+      "id": "arbeitnow_backend-developer-java-python-microservices-brunswick-germany-230528",
+      "title": "Backend Developer (Java & Python, Microservices)",
+      "company": "OKAPI:Orbits GmbH",
+      "location": "Brunswick (Germany)",
+      "description": "<br><strong>Your mission</strong><p>Your mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellite operators throughout their entire mission lifecycle.<br><br>You'll work primarily on external customer projects with a Python-based tech stack, while also contributing in par",
+      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-230528",
       "remote": false,
       "tags": [
-        "Leadership",
-        "ownership",
-        "TypeScript",
-        "Node.js",
-        "React",
+        "Backend Developer",
+        "Java",
+        "Spring Boot",
         "Python",
-        "PostgreSQL",
-        "API",
-        "AWS",
-        "AI Agents"
+        "Microservices",
+        "Asynchronous Systems",
+        "Distributed Systems",
+        "Kubernetes",
+        "DevOps",
+        "Space"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788046181,
-      "fetched_at": "2026-08-30T10:50:05.312859",
-      "match_score": 47.23,
+      "posted_at": 1788089422,
+      "fetched_at": "2026-08-30T17:50:10.076723",
+      "match_score": 46.4,
       "score_breakdown": {
-        "semantic_similarity": 0.5711,
-        "semantic_score": 47.23,
+        "semantic_similarity": 0.5253,
+        "semantic_score": 41.4,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-08-30T10:50:19.170062"
+      "scored_at": "2026-08-30T17:50:25.032475"
+    },
+    {
+      "id": "arbeitnow_backend-developer-java-python-microservices-munich-germany-129099",
+      "title": "Backend Developer (Java & Python, Microservices)",
+      "company": "OKAPI:Orbits GmbH",
+      "location": "Munich (Germany)",
+      "description": "<br><strong>Your mission</strong><p>Your mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellite operators throughout their entire mission lifecycle.<br><br>You'll work primarily on external customer projects with a Python-based tech stack, while also contributing in par",
+      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-munich-germany-129099",
+      "remote": false,
+      "tags": [
+        "Backend Developer",
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Microservices",
+        "Asynchronous Systems",
+        "Distributed Systems",
+        "Kubernetes",
+        "DevOps",
+        "Space"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788089422,
+      "fetched_at": "2026-08-30T17:50:10.076758",
+      "match_score": 46.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.5253,
+        "semantic_score": 41.4,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-30T17:50:25.032505"
     },
     {
       "id": "arbeitnow_senior-robotics-software-engineer-c-c-d-germany-munich-hq-260950",
@@ -45,7 +77,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788055790,
-      "fetched_at": "2026-08-30T10:50:05.312202",
+      "fetched_at": "2026-08-30T17:50:10.080833",
       "match_score": 40.0,
       "score_breakdown": {
         "semantic_similarity": 0.5143,
@@ -53,7 +85,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169832"
+      "scored_at": "2026-08-30T17:50:25.032877"
     },
     {
       "id": "arbeitnow_remote-senior-software-engineer-tools-automation-251844",
@@ -66,7 +98,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788055832,
-      "fetched_at": "2026-08-30T10:50:05.311056",
+      "fetched_at": "2026-08-30T17:50:10.079748",
       "match_score": 35.03,
       "score_breakdown": {
         "semantic_similarity": 0.3574,
@@ -74,7 +106,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169728"
+      "scored_at": "2026-08-30T17:50:25.032773"
     },
     {
       "id": "arbeitnow_remote-c-kotlin-software-developer-rustrover-debugger-176052",
@@ -89,7 +121,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788069312,
-      "fetched_at": "2026-08-30T10:50:06.383931",
+      "fetched_at": "2026-08-30T17:50:11.286977",
       "match_score": 32.69,
       "score_breakdown": {
         "semantic_similarity": 0.339,
@@ -97,72 +129,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170282"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-databases-tempo-germany-remote-114097",
-      "title": "Staff Software Engineer - Databases, Tempo | Germany | Remote",
-      "company": "grafanalabs",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, underst",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-germany-remote-114097",
-      "remote": false,
-      "tags": [
-        "R&D : Databases"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788047704,
-      "fetched_at": "2026-08-30T10:50:05.312443",
-      "match_score": 31.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.3286,
-        "semantic_score": 16.37,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.170024"
-    },
-    {
-      "id": "arbeitnow_software-engineer-munich-132048",
-      "title": "Software Engineer (f/m/x)",
-      "company": "Tanso",
-      "location": "Munich",
-      "description": "<br><strong>Become part of Tanso and decarbonize industries with us.</strong><p><span style=\"color:rgb(31,31,31);font-family:Inter;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">What if the impact of your role extended beyond a job title?</span><br style=\"border:0px solid rgb(229,231,235);font-family:Inter;color:rgb(31,31,31);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,2",
-      "url": "https://www.arbeitnow.com/jobs/companies/tanso/software-engineer-munich-132048",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788044987,
-      "fetched_at": "2026-08-30T10:50:05.313172",
-      "match_score": 28.33,
-      "score_breakdown": {
-        "semantic_similarity": 0.4226,
-        "semantic_score": 28.33,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.170084"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-munich-297725",
-      "title": "Senior Software Engineer (f/m/x)",
-      "company": "Tanso",
-      "location": "Munich",
-      "description": "<br><strong>Become part of Tanso and decarbonize industries with us.</strong><p><span style=\"color:rgb(31,31,31);font-family:Inter;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">What if the impact of your role extended beyond a job title?</span><br style=\"border:0px solid rgb(229,231,235);font-family:Inter;color:rgb(31,31,31);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,2",
-      "url": "https://www.arbeitnow.com/jobs/companies/tanso/senior-software-engineer-munich-297725",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788044987,
-      "fetched_at": "2026-08-30T10:50:05.313175",
-      "match_score": 27.15,
-      "score_breakdown": {
-        "semantic_similarity": 0.4133,
-        "semantic_score": 27.15,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.170103"
+      "scored_at": "2026-08-30T17:50:25.033076"
     },
     {
       "id": "arbeitnow_staff-software-engineer-for-telemedicine-platform-munchen-245526",
@@ -175,7 +142,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788067782,
-      "fetched_at": "2026-08-30T10:50:05.309917",
+      "fetched_at": "2026-08-30T17:50:10.078718",
       "match_score": 26.98,
       "score_breakdown": {
         "semantic_similarity": 0.412,
@@ -183,7 +150,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169655"
+      "scored_at": "2026-08-30T17:50:25.032712"
+    },
+    {
+      "id": "arbeitnow_associate-product-manager-delivery-berlin-399180",
+      "title": "Associate Product Manager, Delivery (m/f/d)",
+      "company": "Future Demand",
+      "location": "Berlin",
+      "description": "<p>We are looking for an Associate Product Manager, Delivery to help turn product priorities into clear, well-organized work for our engineering and design teams.</p>\n<p>Working closely with our Product Lead, you will help define new features, prepare upcoming work, coordinate requirements, and track sprint progress. You will bring structure and clarity to the product-development process while growing your product-management skills through hands-on experience and mentorship.</p>\n<p>This is a gre",
+      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-399180",
+      "remote": false,
+      "tags": [
+        "Product Management"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788107454,
+      "fetched_at": "2026-08-30T17:50:10.076477",
+      "match_score": 26.13,
+      "score_breakdown": {
+        "semantic_similarity": 0.4053,
+        "semantic_score": 26.13,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-30T17:50:25.032404"
     },
     {
       "id": "arbeitnow_tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-15801",
@@ -196,7 +186,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788055808,
-      "fetched_at": "2026-08-30T10:50:05.311282",
+      "fetched_at": "2026-08-30T17:50:10.079971",
       "match_score": 25.67,
       "score_breakdown": {
         "semantic_similarity": 0.4017,
@@ -204,7 +194,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169760"
+      "scored_at": "2026-08-30T17:50:25.032805"
     },
     {
       "id": "arbeitnow_senior-software-engineer-java-london-315303",
@@ -219,7 +209,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788018009,
-      "fetched_at": "2026-08-30T10:50:05.315832",
+      "fetched_at": "2026-08-30T17:50:10.083397",
       "match_score": 24.35,
       "score_breakdown": {
         "semantic_similarity": 0.3913,
@@ -227,7 +217,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170221"
+      "scored_at": "2026-08-30T17:50:25.033012"
     },
     {
       "id": "arbeitnow_software-engineer-java-london-167455",
@@ -242,7 +232,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788018009,
-      "fetched_at": "2026-08-30T10:50:05.315839",
+      "fetched_at": "2026-08-30T17:50:10.083400",
       "match_score": 22.67,
       "score_breakdown": {
         "semantic_similarity": 0.3781,
@@ -250,7 +240,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170254"
+      "scored_at": "2026-08-30T17:50:25.033047"
     },
     {
       "id": "arbeitnow_member-of-technical-staff-emea-london-131926",
@@ -265,7 +255,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788050412,
-      "fetched_at": "2026-08-30T10:50:05.313991",
+      "fetched_at": "2026-08-30T17:50:10.081760",
       "match_score": 21.33,
       "score_breakdown": {
         "semantic_similarity": 0.3676,
@@ -273,7 +263,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170157"
+      "scored_at": "2026-08-30T17:50:25.032948"
     },
     {
       "id": "arbeitnow_ai-forward-deployed-engineer-emea-london-364965",
@@ -288,7 +278,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788050412,
-      "fetched_at": "2026-08-30T10:50:05.314060",
+      "fetched_at": "2026-08-30T17:50:10.081828",
       "match_score": 19.34,
       "score_breakdown": {
         "semantic_similarity": 0.352,
@@ -296,30 +286,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170183"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-firefox-desktop-484027",
-      "title": "Senior Software Engineer, Firefox Desktop",
-      "company": "mozilla",
-      "location": "",
-      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month,",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-software-engineer-firefox-desktop-484027",
-      "remote": false,
-      "tags": [
-        "Firefox"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788047739,
-      "fetched_at": "2026-08-30T10:50:05.312266",
-      "match_score": 15.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1505,
-        "semantic_score": 0.0,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.169878"
+      "scored_at": "2026-08-30T17:50:25.032974"
     },
     {
       "id": "arbeitnow_geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
@@ -332,7 +299,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788055808,
-      "fetched_at": "2026-08-30T10:50:05.311314",
+      "fetched_at": "2026-08-30T17:50:10.080001",
       "match_score": 13.67,
       "score_breakdown": {
         "semantic_similarity": 0.3074,
@@ -340,7 +307,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169805"
+      "scored_at": "2026-08-30T17:50:25.032850"
     },
     {
       "id": "arbeitnow_security-architect-hamburg-139815",
@@ -353,7 +320,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788067817,
-      "fetched_at": "2026-08-30T10:50:05.309764",
+      "fetched_at": "2026-08-30T17:50:10.078558",
       "match_score": 11.64,
       "score_breakdown": {
         "semantic_similarity": 0.2914,
@@ -361,7 +328,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169616"
+      "scored_at": "2026-08-30T17:50:25.032676"
     },
     {
       "id": "arbeitnow_senior-software-engineer-gn-camera-integration-framework-dresden-261479",
@@ -385,7 +352,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788055786,
-      "fetched_at": "2026-08-30T10:50:05.312264",
+      "fetched_at": "2026-08-30T17:50:10.080896",
       "match_score": 9.26,
       "score_breakdown": {
         "semantic_similarity": 0.2728,
@@ -393,7 +360,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169850"
+      "scored_at": "2026-08-30T17:50:25.032895"
     },
     {
       "id": "arbeitnow_engineering-manager-belfast-315487",
@@ -408,7 +375,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788072012,
-      "fetched_at": "2026-08-30T10:50:05.313552",
+      "fetched_at": "2026-08-30T17:50:10.081332",
       "match_score": 5.02,
       "score_breakdown": {
         "semantic_similarity": 0.2394,
@@ -416,76 +383,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170129"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-berlin-33055",
-      "title": "Senior Software Engineer",
-      "company": "wolt",
-      "location": "Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with D",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-berlin-33055",
-      "remote": false,
-      "tags": [
-        "Data group"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788047713,
-      "fetched_at": "2026-08-30T10:50:05.312269",
-      "match_score": 4.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.2351,
-        "semantic_score": 4.47,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.169913"
-    },
-    {
-      "id": "arbeitnow_senior-data-engineer-constellation-services-berlin-107524",
-      "title": "Senior Data Engineer, Constellation Services",
-      "company": "planetlabs",
-      "location": "Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and dat",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-data-engineer-constellation-services-berlin-107524",
-      "remote": false,
-      "tags": [
-        "(OLD) Data Science"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788047706,
-      "fetched_at": "2026-08-30T10:50:05.312438",
-      "match_score": 1.61,
-      "score_breakdown": {
-        "semantic_similarity": 0.2127,
-        "semantic_score": 1.61,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.169995"
-    },
-    {
-      "id": "arbeitnow_senior-applied-scientist-recommendations-berlin-240412",
-      "title": "(Senior) Applied Scientist, Recommendations",
-      "company": "wolt",
-      "location": "Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with D",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-applied-scientist-recommendations-berlin-240412",
-      "remote": false,
-      "tags": [
-        "Consumer Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788047713,
-      "fetched_at": "2026-08-30T10:50:05.312301",
-      "match_score": 1.38,
-      "score_breakdown": {
-        "semantic_similarity": 0.2109,
-        "semantic_score": 1.38,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-30T10:50:19.169966"
+      "scored_at": "2026-08-30T17:50:25.032920"
     },
     {
       "id": "arbeitnow_lead-software-engineer-germany-102370",
@@ -500,7 +398,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788079228,
-      "fetched_at": "2026-08-30T10:50:05.308873",
+      "fetched_at": "2026-08-30T17:50:10.077675",
       "match_score": 0.29,
       "score_breakdown": {
         "semantic_similarity": 0.2023,
@@ -508,7 +406,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169560"
+      "scored_at": "2026-08-30T17:50:25.032620"
+    },
+    {
+      "id": "arbeitnow_embedded-software-engineer-ottobrunn-bavaria-269119",
+      "title": "Embedded Software Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mission Brief&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;TextRun SCXW114497174 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;span class=&quot;NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW114497174 BCX8&quot;&gt;&lt;span class=&quot;TextRun SCXW254634564 BCX0&quot; lang=&quot;EN-US&quot; data-contrast=&quot;none&quot;&gt;&lt;span class=&quot;Normal",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/embedded-software-engineer-ottobrunn-bavaria-269119",
+      "remote": false,
+      "tags": [
+        "AGNC"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788090916,
+      "fetched_at": "2026-08-30T17:50:10.076687",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1266,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-30T17:50:25.032440"
     },
     {
       "id": "arbeitnow_engineering-lead-germany-185460",
@@ -523,7 +444,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788079228,
-      "fetched_at": "2026-08-30T10:50:05.308821",
+      "fetched_at": "2026-08-30T17:50:10.077627",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1523,
@@ -531,7 +452,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169466"
+      "scored_at": "2026-08-30T17:50:25.032536"
     },
     {
       "id": "arbeitnow_technical-lead-germany-50664",
@@ -546,7 +467,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788079228,
-      "fetched_at": "2026-08-30T10:50:05.308867",
+      "fetched_at": "2026-08-30T17:50:10.077672",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1397,
@@ -554,7 +475,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169505"
+      "scored_at": "2026-08-30T17:50:25.032563"
     },
     {
       "id": "arbeitnow_principal-software-engineer-germany-167127",
@@ -569,7 +490,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788079228,
-      "fetched_at": "2026-08-30T10:50:05.308870",
+      "fetched_at": "2026-08-30T17:50:10.077674",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1833,
@@ -577,7 +498,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169534"
+      "scored_at": "2026-08-30T17:50:25.032588"
     },
     {
       "id": "arbeitnow_staff-software-engineer-germany-249724",
@@ -592,7 +513,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788079228,
-      "fetched_at": "2026-08-30T10:50:05.308875",
+      "fetched_at": "2026-08-30T17:50:10.077677",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1571,
@@ -600,7 +521,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169584"
+      "scored_at": "2026-08-30T17:50:25.032645"
     },
     {
       "id": "arbeitnow_product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-221401",
@@ -618,7 +539,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788056993,
-      "fetched_at": "2026-08-30T10:50:05.311012",
+      "fetched_at": "2026-08-30T17:50:10.079709",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1473,
@@ -626,7 +547,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.169696"
+      "scored_at": "2026-08-30T17:50:25.032744"
     },
     {
       "id": "arbeitnow_aero-software-developer-bicester-united-kingdom-251126",
@@ -642,7 +563,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788049837,
-      "fetched_at": "2026-08-30T10:50:06.388553",
+      "fetched_at": "2026-08-30T17:50:11.290484",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0886,
@@ -650,7 +571,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-30T10:50:19.170320"
+      "scored_at": "2026-08-30T17:50:25.033113"
     }
   ]
 }

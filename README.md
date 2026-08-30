@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-30 10:50 UTC
+**Last updated:** 2026-08-30 17:50 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 80 |
-| Jobs found (all time) | 1092 |
-| Jobs found (latest run, 2026-08-30) | 28 |
-| Best match (latest run) | Head of Engineering at deeploi - This is IT (score 47) |
+| Jobs found (all time) | 1088 |
+| Jobs found (latest run, 2026-08-30) | 24 |
+| Best match (latest run) | Backend Developer (Java & Python, Microservices) at OKAPI:Orbits GmbH (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
