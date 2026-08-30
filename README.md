@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-30 17:50 UTC
+**Last updated:** 2026-08-30 20:11 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 80 |
-| Jobs found (all time) | 1088 |
-| Jobs found (latest run, 2026-08-30) | 24 |
+| Jobs found (all time) | 1087 |
+| Jobs found (latest run, 2026-08-30) | 23 |
 | Best match (latest run) | Backend Developer (Java & Python, Microservices) at OKAPI:Orbits GmbH (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
