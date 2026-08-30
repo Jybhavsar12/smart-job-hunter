@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-29 23:41 UTC
+**Last updated:** 2026-08-30 10:50 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 79 |
-| Jobs found (all time) | 1064 |
-| Jobs found (latest run, 2026-08-29) | 13 |
-| Best match (latest run) | Senior Frontend Software Engineer - Angular (m/f/x) at neoshare (score 41) |
+| Search runs | 80 |
+| Jobs found (all time) | 1092 |
+| Jobs found (latest run, 2026-08-30) | 28 |
+| Best match (latest run) | Head of Engineering at deeploi - This is IT (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
