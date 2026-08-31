@@ -1,128 +1,7 @@
 {
   "date": "2026-08-31",
-  "count": 22,
+  "count": 21,
   "jobs": [
-    {
-      "id": "arbeitnow_remote-senior-ai-engineer-all-genders-447613",
-      "title": "Senior AI Engineer (all genders)",
-      "company": "Eraneos",
-      "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-      "description": "<br><strong>What you can expect from us</strong><p><span style=\"color:rgba(0,0,0,0.9);font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learning. Within the group",
-      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-447613",
-      "remote": false,
-      "tags": [
-        "Data Engineer",
-        "Machine Learning",
-        "Software Development",
-        "Python",
-        "Cloud",
-        "AWS",
-        "Azure",
-        "GCP",
-        "SQL",
-        "Solution Engineering",
-        "AI Engineeering",
-        "LLM"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788120587,
-      "fetched_at": "2026-08-31T00:00:28.046537",
-      "match_score": 57.22,
-      "score_breakdown": {
-        "semantic_similarity": 0.5317,
-        "semantic_score": 42.22,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.527689"
-    },
-    {
-      "id": "arbeitnow_backend-developer-java-python-microservices-brunswick-germany-230528",
-      "title": "Backend Developer (Java & Python, Microservices)",
-      "company": "OKAPI:Orbits GmbH",
-      "location": "Brunswick (Germany)",
-      "description": "<br><strong>Your mission</strong><p>Your mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellite operators throughout their entire mission lifecycle.<br><br>You'll work primarily on external customer projects with a Python-based tech stack, while also contributing in par",
-      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-230528",
-      "remote": false,
-      "tags": [
-        "Backend Developer",
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Microservices",
-        "Asynchronous Systems",
-        "Distributed Systems",
-        "Kubernetes",
-        "DevOps",
-        "Space"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788089422,
-      "fetched_at": "2026-08-31T00:00:28.047323",
-      "match_score": 46.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.5253,
-        "semantic_score": 41.4,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-31T00:00:43.527850"
-    },
-    {
-      "id": "arbeitnow_backend-developer-java-python-microservices-munich-germany-129099",
-      "title": "Backend Developer (Java & Python, Microservices)",
-      "company": "OKAPI:Orbits GmbH",
-      "location": "Munich (Germany)",
-      "description": "<br><strong>Your mission</strong><p>Your mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellite operators throughout their entire mission lifecycle.<br><br>You'll work primarily on external customer projects with a Python-based tech stack, while also contributing in par",
-      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-munich-germany-129099",
-      "remote": false,
-      "tags": [
-        "Backend Developer",
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Microservices",
-        "Asynchronous Systems",
-        "Distributed Systems",
-        "Kubernetes",
-        "DevOps",
-        "Space"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788089422,
-      "fetched_at": "2026-08-31T00:00:28.047357",
-      "match_score": 46.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.5253,
-        "semantic_score": 41.4,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-08-31T00:00:43.527884"
-    },
-    {
-      "id": "arbeitnow_remote-c-kotlin-software-developer-rustrover-debugger-176052",
-      "title": "C++/Kotlin Software Developer (RustRover Debugger)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "description": "&lt;h2&gt;C++/Kotlin Software Developer (RustRover Debugger)&lt;/h2&gt;\n&lt;p&gt;You care deeply about how developer tools are built, especially when it comes to the intricacies of debugging. You enjoy solving complex, low-level problems and want to make the Rust ecosystem better for everyone.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About JetBrains&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 comp",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-c-kotlin-software-developer-rustrover-debugger-176052",
-      "remote": false,
-      "tags": [
-        "Rust Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788069312,
-      "fetched_at": "2026-08-31T00:00:29.263011",
-      "match_score": 32.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.339,
-        "semantic_score": 17.69,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.528213"
-    },
     {
       "id": "arbeitnow_senior-software-engineer-go-498325",
       "title": "Senior Software Engineer (Go)",
@@ -136,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788116111,
-      "fetched_at": "2026-08-31T00:00:28.049104",
+      "fetched_at": "2026-08-31T12:00:03.217732",
       "match_score": 28.94,
       "score_breakdown": {
         "semantic_similarity": 0.3095,
@@ -144,30 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528034"
-    },
-    {
-      "id": "arbeitnow_associate-product-manager-delivery-berlin-399180",
-      "title": "Associate Product Manager, Delivery (m/f/d)",
-      "company": "Future Demand",
-      "location": "Berlin",
-      "description": "<p>We are looking for an Associate Product Manager, Delivery to help turn product priorities into clear, well-organized work for our engineering and design teams.</p>\n<p>Working closely with our Product Lead, you will help define new features, prepare upcoming work, coordinate requirements, and track sprint progress. You will bring structure and clarity to the product-development process while growing your product-management skills through hands-on experience and mentorship.</p>\n<p>This is a gre",
-      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-399180",
-      "remote": false,
-      "tags": [
-        "Product Management"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788107454,
-      "fetched_at": "2026-08-31T00:00:28.047103",
-      "match_score": 26.13,
-      "score_breakdown": {
-        "semantic_similarity": 0.4053,
-        "semantic_score": 26.13,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.527797"
+      "scored_at": "2026-08-31T12:00:17.394201"
     },
     {
       "id": "arbeitnow_senior-software-engineer-java-london-315303",
@@ -182,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788018009,
-      "fetched_at": "2026-08-31T00:00:28.051522",
+      "fetched_at": "2026-08-31T12:00:03.219740",
       "match_score": 24.35,
       "score_breakdown": {
         "semantic_similarity": 0.3913,
@@ -190,30 +46,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528152"
-    },
-    {
-      "id": "arbeitnow_software-engineer-java-london-167455",
-      "title": "Software Engineer  (Java)",
-      "company": "Arq",
-      "location": "London",
-      "description": "<h1><strong>About ARQ</strong></h1><p style=\"min-height:1.5em\">ARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We\u2019re still early in our journey, which means every person who joins shapes the future of our product, culture, and growth. If you\u2019re excited by big challenges, global impact, and the chance to grow fast with a world-class team, ARQ is the place to do ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-london-167455",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788018009,
-      "fetched_at": "2026-08-31T00:00:28.051526",
-      "match_score": 22.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.3781,
-        "semantic_score": 22.67,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.528186"
+      "scored_at": "2026-08-31T12:00:17.394295"
     },
     {
       "id": "arbeitnow_member-of-technical-staff-emea-london-131926",
@@ -228,7 +61,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788050412,
-      "fetched_at": "2026-08-31T00:00:28.049969",
+      "fetched_at": "2026-08-31T12:00:03.218466",
       "match_score": 21.33,
       "score_breakdown": {
         "semantic_similarity": 0.3676,
@@ -236,7 +69,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528085"
+      "scored_at": "2026-08-31T12:00:17.394245"
+    },
+    {
+      "id": "arbeitnow_software-developer-all-genders-junior-bis-mid-level-berlin-83581",
+      "title": "Software Developer (all genders) - Junior bis Mid-Level",
+      "company": "Medivise Healthcare GmbH",
+      "location": "Berlin",
+      "description": "<p>Du m\u00f6chtest Software entwickeln, die am Ende im echten Versorgungsalltag eingesetzt wird? Du arbeitest strukturiert, pragmatisch und m\u00f6chtest dich fachlich weiterentwickeln? Dann bist du bei uns genau richtig.</p>\n<p><strong>\u00dcber uns</strong></p>\n<p>MEDIVISE ist ein wachsendes HealthTech-Startup aus Berlin. Wir entwickeln digitale Infrastruktur f\u00fcr moderne medizinische Versorgungsprozesse.</p>\n<p>Unsere MEDIVISE-Systeme verbinden Software, Hardware, Cloud-Infrastruktur und die deutsche Telema",
+      "url": "https://www.arbeitnow.com/jobs/companies/medivise-healthcare-gmbh/software-developer-all-genders-junior-bis-mid-level-berlin-83581",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159634,
+      "fetched_at": "2026-08-31T12:00:04.328142",
+      "match_score": 20.92,
+      "score_breakdown": {
+        "semantic_similarity": 0.3251,
+        "semantic_score": 15.92,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-08-31T12:00:17.394323"
     },
     {
       "id": "arbeitnow_ai-forward-deployed-engineer-emea-london-364965",
@@ -251,7 +107,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788050412,
-      "fetched_at": "2026-08-31T00:00:28.050041",
+      "fetched_at": "2026-08-31T12:00:03.218520",
       "match_score": 19.34,
       "score_breakdown": {
         "semantic_similarity": 0.352,
@@ -259,28 +115,222 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528110"
+      "scored_at": "2026-08-31T12:00:17.394264"
     },
     {
-      "id": "arbeitnow_principal-software-developer-market-data-frankfurt-am-main-326325",
-      "title": "Principal Software Developer (f/m/d) - Market Data",
-      "company": "Solactive",
-      "location": "Frankfurt am Main",
-      "description": "<br><strong>Company Description</strong><p>Solactive AG is a FinTech company operating globally and growing at a fast pace, headquartered in Frankfurt. Since 2007, we develop tailor-made and multi-asset class index solutions for ETFs and other index-linked investment products for the leading global investment banks and asset managers as our clients. Flexibility, efficiency, and providing the highest quality are at the heart and soul of our business philosophy. We are now hiring!</p><br><strong>J",
-      "url": "https://www.arbeitnow.com/jobs/companies/solactive/principal-software-developer-market-data-frankfurt-am-main-326325",
+      "id": "arbeitnow_working-student-software-engineering-gilching-304963",
+      "title": "Working Student - Software Engineering (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "description": "<p>As a working student in Software Engineering, you support the annotation and quality assurance of training data as well as the structured management of our datasets. You also contribute to the definition and evaluation of KPIs for assessing our models and assist in conducting end-to-end tests of the entire system pipeline. In addition, you research new approaches in the field of computer vision and compare them with existing solutions. Furthermore, you help to further develop our testing infr",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-software-engineering-gilching-304963",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Student & Early Professionals"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1788120542,
-      "fetched_at": "2026-08-31T00:00:28.046879",
-      "match_score": 15.0,
+      "posted_at": 1788165007,
+      "fetched_at": "2026-08-31T12:00:03.216036",
+      "match_score": 18.56,
       "score_breakdown": {
-        "semantic_similarity": 0.3179,
-        "semantic_score": 15.0,
+        "semantic_similarity": 0.3458,
+        "semantic_score": 18.56,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.527766"
+      "scored_at": "2026-08-31T12:00:17.393865"
+    },
+    {
+      "id": "arbeitnow_principal-software-engineer-java-manchester-327034",
+      "title": "Principal Software Engineer (Java)",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-java-manchester-327034",
+      "remote": false,
+      "tags": [
+        "Product and Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.217128",
+      "match_score": 11.74,
+      "score_breakdown": {
+        "semantic_similarity": 0.2923,
+        "semantic_score": 11.74,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.393941"
+    },
+    {
+      "id": "arbeitnow_product-manager-maritime-all-genders-swindon-257447",
+      "title": "Product Manager - Maritime (All Genders)",
+      "company": "Stark",
+      "location": "Swindon",
+      "description": "<br><strong>About Us</strong><p><p style=\"line-height:1.2;margin-top:0pt;margin-bottom:3pt;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;text-decoration:none;\">STARK is a new kind of defence technology company revolutionising the way autonomous systems are deployed across multiple domains. We design, develop, and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and co",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/product-manager-maritime-all-genders-swindon-257447",
+      "remote": false,
+      "tags": [
+        "Product Manager",
+        "Product Owner",
+        "Maritime",
+        "USV",
+        "vessels",
+        "drone",
+        "roadmap",
+        "requirements management",
+        "stakeholder management",
+        "communication",
+        "integration"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788167392,
+      "fetched_at": "2026-08-31T12:00:04.328338",
+      "match_score": 11.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.2867,
+        "semantic_score": 11.03,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.394340"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-manchester-39874",
+      "title": "Senior Software Engineer",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-software-engineer-manchester-39874",
+      "remote": false,
+      "tags": [
+        "Platform Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.216923",
+      "match_score": 9.81,
+      "score_breakdown": {
+        "semantic_similarity": 0.2771,
+        "semantic_score": 9.81,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.393912"
+    },
+    {
+      "id": "arbeitnow_principal-machine-learning-engineer-london-387942",
+      "title": "Principal Machine Learning Engineer",
+      "company": "Anaplan",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-machine-learning-engineer-london-387942",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.217169",
+      "match_score": 8.17,
+      "score_breakdown": {
+        "semantic_similarity": 0.2642,
+        "semantic_score": 8.17,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.393966"
+    },
+    {
+      "id": "arbeitnow_director-of-systems-delivery-london-uk-376315",
+      "title": "Director of Systems Delivery",
+      "company": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
+      "description": "<br><strong>About The Role and Team</strong><p><span style=\"color:rgb(0,0,0);font-family:Arial, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years\u2019 experience in developing qubits and quantum computing architectures. Bringing together state-",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/director-of-systems-delivery-london-uk-376315",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1788134959,
+      "fetched_at": "2026-08-31T12:00:03.217680",
+      "match_score": 7.04,
+      "score_breakdown": {
+        "semantic_similarity": 0.2553,
+        "semantic_score": 7.04,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.394174"
+    },
+    {
+      "id": "arbeitnow_principal-data-engineer-london-84559",
+      "title": "Principal Data Engineer",
+      "company": "Anaplan",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559",
+      "remote": false,
+      "tags": [
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.217250",
+      "match_score": 6.05,
+      "score_breakdown": {
+        "semantic_similarity": 0.2476,
+        "semantic_score": 6.05,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.394011"
+    },
+    {
+      "id": "arbeitnow_ai-architect-manchester-437330",
+      "title": "AI Architect",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/ai-architect-manchester-437330",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.217429",
+      "match_score": 5.45,
+      "score_breakdown": {
+        "semantic_similarity": 0.2428,
+        "semantic_score": 5.45,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.394033"
+    },
+    {
+      "id": "arbeitnow_principal-engineer-ai-london-214159",
+      "title": "Principal Engineer - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-engineer-ai-london-214159",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788159319,
+      "fetched_at": "2026-08-31T12:00:03.217208",
+      "match_score": 5.34,
+      "score_breakdown": {
+        "semantic_similarity": 0.2419,
+        "semantic_score": 5.34,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-08-31T12:00:17.393989"
     },
     {
       "id": "arbeitnow_engineering-manager-belfast-315487",
@@ -295,7 +345,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788072012,
-      "fetched_at": "2026-08-31T00:00:28.049561",
+      "fetched_at": "2026-08-31T12:00:03.218119",
       "match_score": 5.02,
       "score_breakdown": {
         "semantic_similarity": 0.2394,
@@ -303,43 +353,22 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528059"
+      "scored_at": "2026-08-31T12:00:17.394221"
     },
     {
-      "id": "arbeitnow_staff-engineer-berlin-17712",
-      "title": "Staff Engineer (m/f/d)",
-      "company": "Solactive",
-      "location": "Berlin",
-      "description": "<br><strong>Company Description</strong><p>Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a faster service, with greater flexibility and at a reasonable cost. Solactive AG and its subsidiaries have become one of the fastest growing index providers over the past few years and support the leading investment ba",
-      "url": "https://www.arbeitnow.com/jobs/companies/solactive/staff-engineer-berlin-17712",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788120542,
-      "fetched_at": "2026-08-31T00:00:28.046848",
-      "match_score": 3.63,
-      "score_breakdown": {
-        "semantic_similarity": 0.2285,
-        "semantic_score": 3.63,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.527731"
-    },
-    {
-      "id": "arbeitnow_lead-software-engineer-germany-102370",
+      "id": "arbeitnow_lead-software-engineer-london-155087",
       "title": "Lead Software Engineer",
       "company": "Bjak",
-      "location": "Germany",
+      "location": "United Kingdom",
       "description": "<p style=\"min-height:1.5em\"><strong>About KIRA</strong></p><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><div style=\"min-height:1.2em;margin-top:0;m",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/lead-software-engineer-germany-102370",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-software-engineer-london-155087",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788079228,
-      "fetched_at": "2026-08-31T00:00:28.048223",
+      "posted_at": 1788136811,
+      "fetched_at": "2026-08-31T12:00:03.217491",
       "match_score": 0.29,
       "score_breakdown": {
         "semantic_similarity": 0.2023,
@@ -347,71 +376,22 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.527980"
+      "scored_at": "2026-08-31T12:00:17.394134"
     },
     {
-      "id": "arbeitnow_technical-product-owner-hamburg-215817",
-      "title": "Technical Product Owner (m/f/d)",
-      "company": "Letmeship",
-      "location": "Hamburg",
-      "description": "<br><strong>About us</strong><p><p style=\"line-height:1.3800000000000001;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size:11pt;font-family:Calibri, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Since 2000,\u00a0</span><a style=\"text-decoration:none;\" href=\"https://www.italogistics.com/\"><span style=\"font-size:11pt;font-family:Calibri, sans-serif;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;text",
-      "url": "https://www.arbeitnow.com/jobs/companies/letmeship/technical-product-owner-hamburg-215817",
-      "remote": false,
-      "tags": [
-        "join",
-        "ProductOwner",
-        "Technical",
-        "Logistics"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788120597,
-      "fetched_at": "2026-08-31T00:00:28.046388",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1347,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.527643"
-    },
-    {
-      "id": "arbeitnow_embedded-software-engineer-ottobrunn-bavaria-269119",
-      "title": "Embedded Software Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mission Brief&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;TextRun SCXW114497174 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;span class=&quot;NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW114497174 BCX8&quot;&gt;&lt;span class=&quot;TextRun SCXW254634564 BCX0&quot; lang=&quot;EN-US&quot; data-contrast=&quot;none&quot;&gt;&lt;span class=&quot;Normal",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/embedded-software-engineer-ottobrunn-bavaria-269119",
-      "remote": false,
-      "tags": [
-        "AGNC"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788090916,
-      "fetched_at": "2026-08-31T00:00:28.047289",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1266,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.527821"
-    },
-    {
-      "id": "arbeitnow_engineering-lead-germany-185460",
+      "id": "arbeitnow_engineering-lead-london-464473",
       "title": "Engineering Lead",
       "company": "Bjak",
-      "location": "Germany",
+      "location": "United Kingdom",
       "description": "<p style=\"min-height:1.5em\"><strong>About KIRA</strong></p><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><div style=\"min-height:1.2em;margin-top:0;m",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/engineering-lead-germany-185460",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-lead-london-464473",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788079228,
-      "fetched_at": "2026-08-31T00:00:28.048183",
+      "posted_at": 1788136811,
+      "fetched_at": "2026-08-31T12:00:03.217459",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1523,
@@ -419,22 +399,22 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.527913"
+      "scored_at": "2026-08-31T12:00:17.394066"
     },
     {
-      "id": "arbeitnow_technical-lead-germany-50664",
+      "id": "arbeitnow_technical-lead-london-83306",
       "title": "Technical Lead",
       "company": "Bjak",
-      "location": "Germany",
+      "location": "United Kingdom",
       "description": "<p style=\"min-height:1.5em\"><strong>About KIRA</strong></p><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><div style=\"min-height:1.2em;margin-top:0;m",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-lead-germany-50664",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-lead-london-83306",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788079228,
-      "fetched_at": "2026-08-31T00:00:28.048218",
+      "posted_at": 1788136811,
+      "fetched_at": "2026-08-31T12:00:03.217488",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1397,
@@ -442,22 +422,22 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.527937"
+      "scored_at": "2026-08-31T12:00:17.394098"
     },
     {
-      "id": "arbeitnow_principal-software-engineer-germany-167127",
+      "id": "arbeitnow_principal-software-engineer-london-46993",
       "title": "Principal Software Engineer",
       "company": "Bjak",
-      "location": "Germany",
+      "location": "United Kingdom",
       "description": "<p style=\"min-height:1.5em\"><strong>About KIRA</strong></p><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><div style=\"min-height:1.2em;margin-top:0;m",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/principal-software-engineer-germany-167127",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/principal-software-engineer-london-46993",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788079228,
-      "fetched_at": "2026-08-31T00:00:28.048220",
+      "posted_at": 1788136811,
+      "fetched_at": "2026-08-31T12:00:03.217490",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1833,
@@ -465,22 +445,22 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.527959"
+      "scored_at": "2026-08-31T12:00:17.394117"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-germany-249724",
+      "id": "arbeitnow_staff-software-engineer-london-432971",
       "title": "Staff Software Engineer",
       "company": "Bjak",
-      "location": "Germany",
+      "location": "United Kingdom",
       "description": "<p style=\"min-height:1.5em\"><strong>About KIRA</strong></p><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><div style=\"min-height:1.2em;margin-top:0;m",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/staff-software-engineer-germany-249724",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-software-engineer-london-432971",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788079228,
-      "fetched_at": "2026-08-31T00:00:28.048225",
+      "posted_at": 1788136811,
+      "fetched_at": "2026-08-31T12:00:03.217493",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1571,
@@ -488,7 +468,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528001"
+      "scored_at": "2026-08-31T12:00:17.394150"
     },
     {
       "id": "arbeitnow_aero-software-developer-bicester-united-kingdom-251126",
@@ -504,7 +484,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788049837,
-      "fetched_at": "2026-08-31T00:00:29.264283",
+      "fetched_at": "2026-08-31T12:00:04.330266",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0886,
@@ -512,31 +492,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-08-31T00:00:43.528249"
-    },
-    {
-      "id": "arbeitnow_remote-senior-java-backend-developer-karlsruhe-314599",
-      "title": "Senior Java Backend Developer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "description": "<p>Als IT-Dienstleister treiben wir die Digitalisierung des \u00f6ffentlichen Sektors voran und schaffen echten Mehrwert f\u00fcr Millionen Menschen in Deutschland. Wir k\u00f6nnen vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem K\u00f6nnen und Engagement etwas bewegen wollen. F\u00fchlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Healthcare.</p><p style=\"min-height: 1.7em;\"></p><h3><span",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-314599",
-      "remote": true,
-      "tags": [
-        "Customer Cluster Healthcare",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788121807,
-      "fetched_at": "2026-08-31T00:00:31.721913",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.111,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-08-31T00:00:43.528281"
+      "scored_at": "2026-08-31T12:00:17.394369"
     }
   ]
 }
