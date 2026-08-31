@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-30 20:11 UTC
+**Last updated:** 2026-08-31 00:00 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 80 |
-| Jobs found (all time) | 1087 |
-| Jobs found (latest run, 2026-08-30) | 23 |
-| Best match (latest run) | Backend Developer (Java & Python, Microservices) at OKAPI:Orbits GmbH (score 46) |
+| Search runs | 81 |
+| Jobs found (all time) | 1109 |
+| Jobs found (latest run, 2026-08-31) | 22 |
+| Best match (latest run) | Senior AI Engineer (all genders) at Eraneos (score 57) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
