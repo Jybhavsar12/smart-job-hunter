@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-31 12:00 UTC
+**Last updated:** 2026-08-31 19:45 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 81 |
-| Jobs found (all time) | 1108 |
-| Jobs found (latest run, 2026-08-31) | 21 |
-| Best match (latest run) | Senior Software Engineer (Go) at Form3 (score 29) |
+| Jobs found (all time) | 1114 |
+| Jobs found (latest run, 2026-08-31) | 27 |
+| Best match (latest run) | Senior Machine Learning Engineer, AI Platform at Smartly (score 37) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
