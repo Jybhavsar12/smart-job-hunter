@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-01 00:52 UTC
+**Last updated:** 2026-09-01 10:39 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 82 |
-| Jobs found (all time) | 1147 |
-| Jobs found (latest run, 2026-09-01) | 33 |
-| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
+| Jobs found (all time) | 1135 |
+| Jobs found (latest run, 2026-09-01) | 21 |
+| Best match (latest run) | Senior Backend Developer (C# .NET) at TransPerfect (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
