@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "count": 17,
+  "count": 12,
   "jobs": [
     {
       "id": "arbeitnow_senior-software-developer-frontend-react-saarbrucken-8062",
@@ -20,7 +20,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788271796,
-      "fetched_at": "2026-09-01T17:30:00.207258",
+      "fetched_at": "2026-09-01T20:15:20.305155",
       "match_score": 63.39,
       "score_breakdown": {
         "semantic_similarity": 0.6195,
@@ -28,7 +28,7 @@
         "location_match": 0,
         "priority_keywords": 10
       },
-      "scored_at": "2026-09-01T17:30:15.357910"
+      "scored_at": "2026-09-01T20:15:33.672402"
     },
     {
       "id": "arbeitnow_engineering-manager-front-end-background-uk-london-72836",
@@ -43,7 +43,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788275137,
-      "fetched_at": "2026-09-01T17:29:58.990593",
+      "fetched_at": "2026-09-01T20:15:19.186696",
       "match_score": 44.26,
       "score_breakdown": {
         "semantic_similarity": 0.5477,
@@ -51,7 +51,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357603"
+      "scored_at": "2026-09-01T20:15:33.672276"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-healthcare-applications-munchen-488952",
@@ -64,7 +64,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788271753,
-      "fetched_at": "2026-09-01T17:29:58.987863",
+      "fetched_at": "2026-09-01T20:15:19.183989",
       "match_score": 33.78,
       "score_breakdown": {
         "semantic_similarity": 0.4654,
@@ -72,7 +72,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357494"
+      "scored_at": "2026-09-01T20:15:33.672162"
     },
     {
       "id": "arbeitnow_technical-project-manager-software-development-saarbrucken-121942",
@@ -92,7 +92,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788271796,
-      "fetched_at": "2026-09-01T17:30:00.207250",
+      "fetched_at": "2026-09-01T20:15:20.305152",
       "match_score": 32.39,
       "score_breakdown": {
         "semantic_similarity": 0.4545,
@@ -100,7 +100,51 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357871"
+      "scored_at": "2026-09-01T20:15:33.672372"
+    },
+    {
+      "id": "arbeitnow_remote-forward-deployed-engineer-fde-united-kingdom-441564",
+      "title": "Forward Deployed Engineer (FDE): United Kingdom",
+      "company": "Forgd Ai",
+      "location": "Remote - UK",
+      "description": "<h1><strong>Forward Deployed Engineer (FDE)</strong></h1><p style=\"min-height:1.5em\"><em>Remote /  20% Travel</em></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h2>About forgd</h2><p style=\"min-height:1.5em\">forgd is the consultancy partnering exclusively with Anthropic to help enterprises build AI-native businesses. We start with engineering \u2014 helping organizations move from individual developers using Claude Code to entire teams shipping together with AI-native workflow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788288003,
+      "fetched_at": "2026-09-01T20:15:19.185442",
+      "match_score": 26.99,
+      "score_breakdown": {
+        "semantic_similarity": 0.2942,
+        "semantic_score": 11.99,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T20:15:33.672191"
+    },
+    {
+      "id": "arbeitnow_software-developer-full-stack-hamburg-280691",
+      "title": "Software Developer | Full-stack (m/w/d)",
+      "company": "Hoppe Marine Gmbh",
+      "location": "Hamburg",
+      "description": "<br><strong>Your mission</strong><p>The Applications team builds, maintains, and operates the solutions that collect high-quality sensor data<br>from large freight and offshore vessels - data our customers rely on via SCADA, web, and other on-board<br>applications. At the center of our work is the Software Engineering Center, our in-house backbone<br>application used company-wide to design and configure software projects for vessels around the world.<br>When something breaks, you're one of the p",
+      "url": "https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-280691",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1788282579,
+      "fetched_at": "2026-09-01T20:15:19.181750",
+      "match_score": 25.61,
+      "score_breakdown": {
+        "semantic_similarity": 0.4012,
+        "semantic_score": 25.61,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T20:15:33.672083"
     },
     {
       "id": "arbeitnow_software-engineer-data-london-373837",
@@ -115,7 +159,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788277212,
-      "fetched_at": "2026-09-01T17:29:58.989419",
+      "fetched_at": "2026-09-01T20:15:19.185775",
       "match_score": 23.94,
       "score_breakdown": {
         "semantic_similarity": 0.3881,
@@ -123,76 +167,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357538"
-    },
-    {
-      "id": "arbeitnow_senior-full-stack-developer-ai-team-149782",
-      "title": "Senior Full Stack Developer - AI Team",
-      "company": "Think Cell",
-      "location": "",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About The Role&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;At think-cell, we are continuously improving how professionals create business presentations by introducing smarter automatio",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/think-cell/senior-full-stack-developer-ai-team-149782",
-      "remote": false,
-      "tags": [
-        "Product Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788224104,
-      "fetched_at": "2026-09-01T17:30:01.428158",
-      "match_score": 23.48,
-      "score_breakdown": {
-        "semantic_similarity": 0.2274,
-        "semantic_score": 3.48,
-        "location_match": 15,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-09-01T17:30:15.358006"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-physical-ai-london-246734",
-      "title": "Staff Software Engineer - Physical AI",
-      "company": "Coreweave",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_1770241969069985273m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for AI\u2122. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-246734",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788213342,
-      "fetched_at": "2026-09-01T17:29:58.992073",
-      "match_score": 20.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.3633,
-        "semantic_score": 20.78,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T17:30:15.357810"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-physical-ai-london-128249",
-      "title": "Senior Software Engineer - Physical AI",
-      "company": "Coreweave",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_1770241969069985273m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for AI\u2122. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-128249",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788213341,
-      "fetched_at": "2026-09-01T17:29:58.992160",
-      "match_score": 20.49,
-      "score_breakdown": {
-        "semantic_similarity": 0.361,
-        "semantic_score": 20.49,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T17:30:15.357839"
+      "scored_at": "2026-09-01T20:15:33.672226"
     },
     {
       "id": "arbeitnow_principal-solutions-engineer-uki-london-168794",
@@ -207,7 +182,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788267307,
-      "fetched_at": "2026-09-01T17:29:58.990848",
+      "fetched_at": "2026-09-01T20:15:19.186892",
       "match_score": 18.76,
       "score_breakdown": {
         "semantic_similarity": 0.3474,
@@ -215,53 +190,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357680"
-    },
-    {
-      "id": "arbeitnow_software-engineer-integrity-foundations-london-468711",
-      "title": "Software Engineer, Integrity Foundations - London",
-      "company": "Openai",
-      "location": "London, UK",
-      "description": "<h3><strong>About the team</strong></h3><p style=\"min-height:1.5em\">The Applied Foundations team at OpenAI is dedicated to ensuring that our cutting-edge technology is not only revolutionary, but also secure from a myriad of adversarial threats. We strive to maintain the integrity of our platforms as they scale. Our team is at the front lines of defending against financial abuse, scaled attacks, and other forms of misuse that could undermine the user experience or harm our operational stability<",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/software-engineer-integrity-foundations-london-468711",
-      "remote": false,
-      "tags": [
-        "Applied AI"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788223212,
-      "fetched_at": "2026-09-01T17:29:58.991918",
-      "match_score": 13.61,
-      "score_breakdown": {
-        "semantic_similarity": 0.3069,
-        "semantic_score": 13.61,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T17:30:15.357778"
-    },
-    {
-      "id": "arbeitnow_software-developer-c-and-c-munich-22422",
-      "title": "Software Developer C++ and C# (m/w/d)",
-      "company": "K-tronik GmbH",
-      "location": "Munich",
-      "description": "<h2>Projektbeschreibung:</h2>\n<p>Begeistern Sie sich f\u00fcr Technik? Wir auch! Zur Verst\u00e4rkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Software Developer C++ and C# (m/w/d) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie pers\u00f6nlich kennenzulernen \u2013 und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.</p>\n<h2>Aufgaben:</h2>\n<ul>\n<li>Implementierung von Ger\u00e4te- und Syst",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-developer-c-and-c-munich-22422",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788277642,
-      "fetched_at": "2026-09-01T17:30:00.208994",
-      "match_score": 10.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.2827,
-        "semantic_score": 10.53,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T17:30:15.357981"
+      "scored_at": "2026-09-01T20:15:33.672343"
     },
     {
       "id": "arbeitnow_chief-technology-officer-london-262770",
@@ -276,7 +205,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788277204,
-      "fetched_at": "2026-09-01T17:29:58.990177",
+      "fetched_at": "2026-09-01T20:15:19.186376",
       "match_score": 8.96,
       "score_breakdown": {
         "semantic_similarity": 0.2704,
@@ -284,30 +213,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357572"
-    },
-    {
-      "id": "arbeitnow_full-stack-engineer-london-397872",
-      "title": "Full Stack Engineer",
-      "company": "Catonetworks",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networking and security into one centralized and global service that is delivered by cloud. It is led by networking and security pioneer Shlomo Kramer (Check Point, Imperva) and early investor (Palo Alto Netwo",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/full-stack-engineer-london-397872",
-      "remote": false,
-      "tags": [
-        "Engineering - SSE"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788267307,
-      "fetched_at": "2026-09-01T17:29:58.990990",
-      "match_score": 5.25,
-      "score_breakdown": {
-        "semantic_similarity": 0.2019,
-        "semantic_score": 0.25,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-09-01T17:30:15.357718"
+      "scored_at": "2026-09-01T20:15:33.672251"
     },
     {
       "id": "arbeitnow_director-of-engineering-frontend-technologies-marketplace-technologies-berlin-54101",
@@ -322,7 +228,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788274602,
-      "fetched_at": "2026-09-01T17:30:03.830434",
+      "fetched_at": "2026-09-01T20:15:23.740729",
       "match_score": 3.12,
       "score_breakdown": {
         "semantic_similarity": 0.2245,
@@ -330,7 +236,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.358043"
+      "scored_at": "2026-09-01T20:15:33.672429"
     },
     {
       "id": "arbeitnow_staff-engineer-supply-berlin-480409",
@@ -345,7 +251,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788274602,
-      "fetched_at": "2026-09-01T17:29:58.986530",
+      "fetched_at": "2026-09-01T20:15:19.182965",
       "match_score": 0.15,
       "score_breakdown": {
         "semantic_similarity": 0.2012,
@@ -353,7 +259,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357442"
+      "scored_at": "2026-09-01T20:15:33.672130"
     },
     {
       "id": "arbeitnow_head-of-analytics-commercial-london-gb-267327",
@@ -368,7 +274,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788275082,
-      "fetched_at": "2026-09-01T17:29:58.990723",
+      "fetched_at": "2026-09-01T20:15:19.186795",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1453,
@@ -376,30 +282,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T17:30:15.357643"
-    },
-    {
-      "id": "arbeitnow_ai-security-field-cto-london-132669",
-      "title": "AI Security Field CTO",
-      "company": "Catonetworks",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networking and security into one centralized and global service that is delivered by cloud. It is led by networking and security pioneer Shlomo Kramer (Check Point, Imperva) and early investor (Palo Alto Netwo",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/ai-security-field-cto-london-132669",
-      "remote": false,
-      "tags": [
-        "Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788267307,
-      "fetched_at": "2026-09-01T17:29:58.991026",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1909,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T17:30:15.357746"
+      "scored_at": "2026-09-01T20:15:33.672314"
     }
   ]
 }

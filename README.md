@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-01 17:30 UTC
+**Last updated:** 2026-09-01 20:15 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 82 |
-| Jobs found (all time) | 1131 |
-| Jobs found (latest run, 2026-09-01) | 17 |
+| Jobs found (all time) | 1126 |
+| Jobs found (latest run, 2026-09-01) | 12 |
 | Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
