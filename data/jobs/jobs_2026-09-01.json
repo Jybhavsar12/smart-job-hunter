@@ -1,98 +1,129 @@
 {
   "date": "2026-09-01",
-  "count": 21,
+  "count": 17,
   "jobs": [
     {
-      "id": "arbeitnow_senior-backend-developer-c-net-london-195475",
-      "title": "Senior Backend Developer (C# .NET)",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "description": "<p>We\u2019re looking for a <strong>Senior Software Engineer </strong>to join our global team to be responsible for the quality, development, and execution of our software products.</p><p>You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe \u2013 Barcelona, New York, London, Manchester, Bucharest and India. If you\u2019re ready to join a growing company and make an immediate impact, we want to hear from you!</p><p s",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-backend-developer-c-net-london-195475",
+      "id": "arbeitnow_senior-software-developer-frontend-react-saarbrucken-8062",
+      "title": "(Senior) Software Developer Frontend / React (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbr\u00fccken",
+      "description": "<br><strong>Your mission</strong><p><p><br></p><ul><li>You develop features and improvements across the full stack of our SaaS application \u2013 both on the backend (Django / Django REST Framework, FastAPI) and the frontend (React / TypeScript) \u2013 consistently leveraging AI-assisted development tools like GitHub Copilot or Cursor to deliver faster and more efficiently.</li><li>As an experienced software developer, you collaborate closely with both development teams and coordinate with all relevant st",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-8062",
       "remote": false,
       "tags": [
-        "Tech"
+        "fullstack",
+        "python",
+        "django",
+        "react",
+        "javascript",
+        "typescript"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788211805,
-      "fetched_at": "2026-09-01T10:39:00.943503",
-      "match_score": 43.83,
+      "posted_at": 1788271796,
+      "fetched_at": "2026-09-01T17:30:00.207258",
+      "match_score": 63.39,
       "score_breakdown": {
-        "semantic_similarity": 0.5444,
-        "semantic_score": 43.83,
+        "semantic_similarity": 0.6195,
+        "semantic_score": 53.39,
+        "location_match": 0,
+        "priority_keywords": 10
+      },
+      "scored_at": "2026-09-01T17:30:15.357910"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-front-end-background-uk-london-72836",
+      "title": "Engineering Manager - Front-end background (UK)",
+      "company": "Pigment",
+      "location": "London",
+      "description": "<div><span style=\"font-size: 24px;\">The Opportunity</span></div>\n<div>&nbsp;</div>\n<div><strong style=\"font-size: 10.5pt;\">We are looking for Senior software engineers with front-end expertise who can also be people managers of other software engineers, for a share of their time (up to 50%).</strong></div>\n<div>&nbsp;</div>\n<div><strong>On the engineering part:</strong></div>\n<div>&nbsp;</div>\n<div>- Design and implement high-performance, scalable, and responsive user interfaces.</div>\n<div>- Op",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/engineering-manager-front-end-background-uk-london-72836",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788275137,
+      "fetched_at": "2026-09-01T17:29:58.990593",
+      "match_score": 44.26,
+      "score_breakdown": {
+        "semantic_similarity": 0.5477,
+        "semantic_score": 44.26,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312834"
+      "scored_at": "2026-09-01T17:30:15.357603"
     },
     {
-      "id": "arbeitnow_software-engineer-net-c-london-95674",
-      "title": "Software Engineer (.NET C#)",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "description": "<p>We\u2019re looking for a <strong>Software Engineer</strong> to join our global team to be responsible for the quality, development, and execution of our software products.</p><p>You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe \u2013 Barcelona, New York, London, Manchester, Bucharest and India. If you\u2019re ready to join a growing company and make an immediate impact, we want to hear from you!</p><p style=\"m",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-95674",
+      "id": "arbeitnow_senior-software-engineer-full-stack-healthcare-applications-munchen-488952",
+      "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
+      "company": "Snke",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>What you'll do</strong><p>As<strong>\u00a0(Senior) Software Engineer - Healthcare Applications</strong> at\u00a0<strong>Snke\u00a0</strong>you will shape how clinicians interact with patient data every day. You will build and maintain healthcare web applications end to end, with modular and reusable frontend widgets and backend microservices that connect to hospital systems via FHIR, DICOM and HL7. You'll also develop shared libraries that enable other teams to do the same, from ready-to-use client",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-488952",
       "remote": false,
-      "tags": [
-        "Tech"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1788211805,
-      "fetched_at": "2026-09-01T10:39:00.943383",
-      "match_score": 37.09,
+      "posted_at": 1788271753,
+      "fetched_at": "2026-09-01T17:29:58.987863",
+      "match_score": 33.78,
       "score_breakdown": {
-        "semantic_similarity": 0.4914,
-        "semantic_score": 37.09,
+        "semantic_similarity": 0.4654,
+        "semantic_score": 33.78,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312797"
+      "scored_at": "2026-09-01T17:30:15.357494"
     },
     {
-      "id": "arbeitnow_elastic-consulting-architect-public-sector-106294",
-      "title": "Elastic Consulting Architect - Public Sector",
-      "company": "Elastic",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/elastic-consulting-architect-public-sector-106294",
+      "id": "arbeitnow_technical-project-manager-software-development-saarbrucken-121942",
+      "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbr\u00fccken",
+      "description": "<br><strong>Your mission</strong><p><ul><li>You are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.</li><li>You lead our Development Leads and development teams both functionally and disciplinarily. You establish clear responsibilities, develop team members, and ensure that pro",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-121942",
       "remote": false,
       "tags": [
-        "Consulting - EMEA"
+        "Lead Developer",
+        "Engineering Lead",
+        "Software Architecture",
+        "Python",
+        "Django",
+        "React"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788213317,
-      "fetched_at": "2026-09-01T10:39:00.943130",
-      "match_score": 27.2,
+      "posted_at": 1788271796,
+      "fetched_at": "2026-09-01T17:30:00.207250",
+      "match_score": 32.39,
       "score_breakdown": {
-        "semantic_similarity": 0.2959,
-        "semantic_score": 12.2,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.312753"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-c-net-london-319508",
-      "title": "Senior Software Engineer (C# .NET) | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "description": "<p>We\u2019re looking for a <strong>Senior Software Engineer </strong>to join our global team to be responsible for the quality, development, and execution of our software products.</p><p>You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe \u2013 Barcelona, New York, London, Manchester, Bucharest and India. If you\u2019re ready to join a growing company and make an immediate impact, we want to hear from you!</p><p s",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-319508",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788211804,
-      "fetched_at": "2026-09-01T10:39:00.943581",
-      "match_score": 25.47,
-      "score_breakdown": {
-        "semantic_similarity": 0.4001,
-        "semantic_score": 25.47,
+        "semantic_similarity": 0.4545,
+        "semantic_score": 32.39,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312876"
+      "scored_at": "2026-09-01T17:30:15.357871"
+    },
+    {
+      "id": "arbeitnow_software-engineer-data-london-373837",
+      "title": "Software Engineer (Data)",
+      "company": "Ben",
+      "location": "London",
+      "description": "<h1><strong>Our Mission</strong></h1><p style=\"min-height:1.5em\">We\u2019re not your average benefits platform \u2013 we\u2019re the driving force that uplifts people\u2019s lives. Our technology connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers.</p><p style=\"min-height:1.5em\">Our mission is clear: to build a world where everything works at its best, ensuring every employee gets the support they need to thrive\u2014both at work and beyond.</p><p style=\"min-",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/software-engineer-data-london-373837",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788277212,
+      "fetched_at": "2026-09-01T17:29:58.989419",
+      "match_score": 23.94,
+      "score_breakdown": {
+        "semantic_similarity": 0.3881,
+        "semantic_score": 23.94,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T17:30:15.357538"
     },
     {
       "id": "arbeitnow_senior-full-stack-developer-ai-team-149782",
@@ -107,7 +138,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788224104,
-      "fetched_at": "2026-09-01T10:39:03.192208",
+      "fetched_at": "2026-09-01T17:30:01.428158",
       "match_score": 23.48,
       "score_breakdown": {
         "semantic_similarity": 0.2274,
@@ -115,7 +146,7 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-01T10:39:14.313242"
+      "scored_at": "2026-09-01T17:30:15.358006"
     },
     {
       "id": "arbeitnow_staff-software-engineer-physical-ai-london-246734",
@@ -130,7 +161,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788213342,
-      "fetched_at": "2026-09-01T10:39:00.941947",
+      "fetched_at": "2026-09-01T17:29:58.992073",
       "match_score": 20.78,
       "score_breakdown": {
         "semantic_similarity": 0.3633,
@@ -138,7 +169,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312679"
+      "scored_at": "2026-09-01T17:30:15.357810"
     },
     {
       "id": "arbeitnow_senior-software-engineer-physical-ai-london-128249",
@@ -153,7 +184,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788213341,
-      "fetched_at": "2026-09-01T10:39:00.942030",
+      "fetched_at": "2026-09-01T17:29:58.992160",
       "match_score": 20.49,
       "score_breakdown": {
         "semantic_similarity": 0.361,
@@ -161,112 +192,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312712"
+      "scored_at": "2026-09-01T17:30:15.357839"
     },
     {
-      "id": "arbeitnow_senior-platform-engineer-cambridge-497541",
-      "title": "Senior Platform Engineer",
-      "company": "Partnerize",
-      "location": "Cambridge, England, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>Who We Are</strong></p>\n<p>At Partnerize, we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitable partnerships that drive real results. We're a team of passionate problem-solvers who are dedicated to helping our clients wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-cambridge-497541",
+      "id": "arbeitnow_principal-solutions-engineer-uki-london-168794",
+      "title": "Principal Solutions Engineer - UKI",
+      "company": "Amplitude",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amplitude is the leading AI analytics platform, helping over 4,700 customers\u2014including Atlassian, Burger King, NBCUniversal, and Square\u2014build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2\u2019s Winter 2026 Report, Amplitude is the best-in-class solution for product, data, and marketing ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/amplitude/principal-solutions-engineer-uki-london-168794",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Solutions Consulting"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1788187523,
-      "fetched_at": "2026-09-01T10:39:00.944184",
-      "match_score": 14.91,
+      "posted_at": 1788267307,
+      "fetched_at": "2026-09-01T17:29:58.990848",
+      "match_score": 18.76,
       "score_breakdown": {
-        "semantic_similarity": 0.3171,
-        "semantic_score": 14.91,
+        "semantic_similarity": 0.3474,
+        "semantic_score": 18.76,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312910"
-    },
-    {
-      "id": "arbeitnow_senior-platform-engineer-manchester-469731",
-      "title": "Senior Platform Engineer",
-      "company": "Partnerize",
-      "location": "Manchester, England, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>Who We Are</strong></p>\n<p>At Partnerize, we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitable partnerships that drive real results. We're a team of passionate problem-solvers who are dedicated to helping our clients wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-manchester-469731",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788187523,
-      "fetched_at": "2026-09-01T10:39:00.944195",
-      "match_score": 14.91,
-      "score_breakdown": {
-        "semantic_similarity": 0.3171,
-        "semantic_score": 14.91,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.312938"
-    },
-    {
-      "id": "arbeitnow_senior-platform-engineer-bristol-489774",
-      "title": "Senior Platform Engineer",
-      "company": "Partnerize",
-      "location": "Bristol, England, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>Who We Are</strong></p>\n<p>At Partnerize, we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitable partnerships that drive real results. We're a team of passionate problem-solvers who are dedicated to helping our clients wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-bristol-489774",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788187523,
-      "fetched_at": "2026-09-01T10:39:00.944206",
-      "match_score": 14.91,
-      "score_breakdown": {
-        "semantic_similarity": 0.3171,
-        "semantic_score": 14.91,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.312963"
-    },
-    {
-      "id": "arbeitnow_senior-platform-engineer-edinburgh-398111",
-      "title": "Senior Platform Engineer",
-      "company": "Partnerize",
-      "location": "Edinburgh, Scotland, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>Who We Are</strong></p>\n<p>At Partnerize, we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitable partnerships that drive real results. We're a team of passionate problem-solvers who are dedicated to helping our clients wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-edinburgh-398111",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788187523,
-      "fetched_at": "2026-09-01T10:39:00.944216",
-      "match_score": 14.91,
-      "score_breakdown": {
-        "semantic_similarity": 0.3171,
-        "semantic_score": 14.91,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.312987"
-    },
-    {
-      "id": "arbeitnow_senior-platform-engineer-england-united-kingdom-423807",
-      "title": "Senior Platform Engineer",
-      "company": "Partnerize",
-      "location": "England, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>Who We Are</strong></p>\n<p>At Partnerize, we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitable partnerships that drive real results. We're a team of passionate problem-solvers who are dedicated to helping our clients wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/partnerize/senior-platform-engineer-england-united-kingdom-423807",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788187523,
-      "fetched_at": "2026-09-01T10:39:00.944226",
-      "match_score": 14.91,
-      "score_breakdown": {
-        "semantic_similarity": 0.3171,
-        "semantic_score": 14.91,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.313012"
+      "scored_at": "2026-09-01T17:30:15.357680"
     },
     {
       "id": "arbeitnow_software-engineer-integrity-foundations-london-468711",
@@ -281,7 +230,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788223212,
-      "fetched_at": "2026-09-01T10:39:00.941823",
+      "fetched_at": "2026-09-01T17:29:58.991918",
       "match_score": 13.61,
       "score_breakdown": {
         "semantic_similarity": 0.3069,
@@ -289,203 +238,168 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312637"
+      "scored_at": "2026-09-01T17:30:15.357778"
     },
     {
-      "id": "arbeitnow_software-security-engineer-frankfurt-am-main-342307",
-      "title": "Software Security Engineer*",
-      "company": "Accso \u2013 Accelerated Solutions GmbH",
-      "location": "Frankfurt am Main",
-      "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarel\u00f6sungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Fram",
-      "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-342307",
+      "id": "arbeitnow_software-developer-c-and-c-munich-22422",
+      "title": "Software Developer C++ and C# (m/w/d)",
+      "company": "K-tronik GmbH",
+      "location": "Munich",
+      "description": "<h2>Projektbeschreibung:</h2>\n<p>Begeistern Sie sich f\u00fcr Technik? Wir auch! Zur Verst\u00e4rkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Software Developer C++ and C# (m/w/d) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie pers\u00f6nlich kennenzulernen \u2013 und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.</p>\n<h2>Aufgaben:</h2>\n<ul>\n<li>Implementierung von Ger\u00e4te- und Syst",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-developer-c-and-c-munich-22422",
       "remote": false,
       "tags": [
-        "Internet and software",
-        "high school coursework"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788240010,
-      "fetched_at": "2026-09-01T10:39:00.939256",
-      "match_score": 12.62,
+      "posted_at": 1788277642,
+      "fetched_at": "2026-09-01T17:30:00.208994",
+      "match_score": 10.53,
       "score_breakdown": {
-        "semantic_similarity": 0.2991,
-        "semantic_score": 12.62,
+        "semantic_similarity": 0.2827,
+        "semantic_score": 10.53,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.312586"
+      "scored_at": "2026-09-01T17:30:15.357981"
     },
     {
-      "id": "arbeitnow_principal-software-engineer-java-manchester-327034",
-      "title": "Principal Software Engineer (Java)",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-software-engineer-java-manchester-327034",
+      "id": "arbeitnow_chief-technology-officer-london-262770",
+      "title": "Chief Technology Officer",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About ActAI</strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for lon",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/chief-technology-officer-london-262770",
       "remote": false,
       "tags": [
-        "Product and Engineering"
+        "ActAI CEO Office"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788159319,
-      "fetched_at": "2026-09-01T10:39:00.944654",
-      "match_score": 11.74,
+      "posted_at": 1788277204,
+      "fetched_at": "2026-09-01T17:29:58.990177",
+      "match_score": 8.96,
       "score_breakdown": {
-        "semantic_similarity": 0.2923,
-        "semantic_score": 11.74,
+        "semantic_similarity": 0.2704,
+        "semantic_score": 8.96,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.313076"
+      "scored_at": "2026-09-01T17:30:15.357572"
     },
     {
-      "id": "arbeitnow_product-manager-maritime-all-genders-swindon-257447",
-      "title": "Product Manager - Maritime (All Genders)",
-      "company": "Stark",
-      "location": "Swindon",
-      "description": "<br><strong>About Us</strong><p><p style=\"line-height:1.2;margin-top:0pt;margin-bottom:3pt;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;text-decoration:none;\">STARK is a new kind of defence technology company revolutionising the way autonomous systems are deployed across multiple domains. We design, develop, and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and co",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/product-manager-maritime-all-genders-swindon-257447",
+      "id": "arbeitnow_full-stack-engineer-london-397872",
+      "title": "Full Stack Engineer",
+      "company": "Catonetworks",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networking and security into one centralized and global service that is delivered by cloud. It is led by networking and security pioneer Shlomo Kramer (Check Point, Imperva) and early investor (Palo Alto Netwo",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/full-stack-engineer-london-397872",
       "remote": false,
       "tags": [
-        "Product Manager",
-        "Product Owner",
-        "Maritime",
-        "USV",
-        "vessels",
-        "drone",
-        "roadmap",
-        "requirements management",
-        "stakeholder management",
-        "communication",
-        "integration"
+        "Engineering - SSE"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788167392,
-      "fetched_at": "2026-09-01T10:39:02.067355",
-      "match_score": 11.03,
+      "posted_at": 1788267307,
+      "fetched_at": "2026-09-01T17:29:58.990990",
+      "match_score": 5.25,
       "score_breakdown": {
-        "semantic_similarity": 0.2867,
-        "semantic_score": 11.03,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.313182"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-manchester-39874",
-      "title": "Senior Software Engineer",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-software-engineer-manchester-39874",
-      "remote": false,
-      "tags": [
-        "Platform Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788159319,
-      "fetched_at": "2026-09-01T10:39:00.944385",
-      "match_score": 9.81,
-      "score_breakdown": {
-        "semantic_similarity": 0.2771,
-        "semantic_score": 9.81,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.313046"
-    },
-    {
-      "id": "arbeitnow_backend-full-stack-developer-krailling-424909",
-      "title": "Backend / Full Stack Developer (m/w/d)",
-      "company": "SOFI AI GmbH",
-      "location": "Krailling",
-      "description": "<p>Wir sind SOFI AI und bauen eine KI-Plattform f\u00fcr einen hochregulierten Markt, ohne dass unsere Kunden daf\u00fcr Vertraulichkeit oder Datensouver\u00e4nit\u00e4t aufgeben m\u00fcssen. Genau diese Verbindung aus starker KI und kompromissloser Datensicherheit macht unsere Arbeit technisch anspruchsvoll und spannend.</p>\n<p>Wir sind ein kleines Team mit kurzen Wegen, echter Verantwortung und einem Produkt, dessen Wirkung du direkt siehst.</p>\n<h2>Aufgaben</h2>\n<p>Gemeinsam mit unserem bestehenden Entwicklungsteam b",
-      "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
-      "remote": true,
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788247824,
-      "fetched_at": "2026-09-01T10:39:03.188919",
-      "match_score": 8.29,
-      "score_breakdown": {
-        "semantic_similarity": 0.2258,
-        "semantic_score": 3.29,
+        "semantic_similarity": 0.2019,
+        "semantic_score": 0.25,
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-01T10:39:14.313219"
+      "scored_at": "2026-09-01T17:30:15.357718"
     },
     {
-      "id": "arbeitnow_principal-machine-learning-engineer-london-387942",
-      "title": "Principal Machine Learning Engineer",
-      "company": "Anaplan",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-machine-learning-engineer-london-387942",
+      "id": "arbeitnow_director-of-engineering-frontend-technologies-marketplace-technologies-berlin-54101",
+      "title": "Director of Engineering, Frontend technologies, Marketplace Technologies",
+      "company": "Vinteden",
+      "location": "Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to make second-hand the first choice, and we&#39;re looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third. &lt;br&gt;The ",
+      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/director-of-engineering-frontend-technologies-marketplace-technologies-berlin-54101",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788159319,
-      "fetched_at": "2026-09-01T10:39:00.944704",
-      "match_score": 8.17,
+      "posted_at": 1788274602,
+      "fetched_at": "2026-09-01T17:30:03.830434",
+      "match_score": 3.12,
       "score_breakdown": {
-        "semantic_similarity": 0.2642,
-        "semantic_score": 8.17,
+        "semantic_similarity": 0.2245,
+        "semantic_score": 3.12,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.313105"
+      "scored_at": "2026-09-01T17:30:15.358043"
     },
     {
-      "id": "arbeitnow_principal-data-engineer-london-84559",
-      "title": "Principal Data Engineer",
-      "company": "Anaplan",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-data-engineer-london-84559",
-      "remote": false,
-      "tags": [
-        "Data Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788159319,
-      "fetched_at": "2026-09-01T10:39:00.944812",
-      "match_score": 6.05,
-      "score_breakdown": {
-        "semantic_similarity": 0.2476,
-        "semantic_score": 6.05,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T10:39:14.313160"
-    },
-    {
-      "id": "arbeitnow_principal-engineer-ai-london-214159",
-      "title": "Principal Engineer - AI",
-      "company": "Anaplan",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Our customers r",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/principal-engineer-ai-london-214159",
+      "id": "arbeitnow_staff-engineer-supply-berlin-480409",
+      "title": "Staff Engineer, Supply",
+      "company": "Vinteden",
+      "location": "Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to make second-hand the first choice, and we&#39;re looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third. &lt;br&gt;The ",
+      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/staff-engineer-supply-berlin-480409",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788159319,
-      "fetched_at": "2026-09-01T10:39:00.944755",
-      "match_score": 5.34,
+      "posted_at": 1788274602,
+      "fetched_at": "2026-09-01T17:29:58.986530",
+      "match_score": 0.15,
       "score_breakdown": {
-        "semantic_similarity": 0.2419,
-        "semantic_score": 5.34,
+        "semantic_similarity": 0.2012,
+        "semantic_score": 0.15,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T10:39:14.313133"
+      "scored_at": "2026-09-01T17:30:15.357442"
+    },
+    {
+      "id": "arbeitnow_head-of-analytics-commercial-london-gb-267327",
+      "title": "Head of Analytics - Commercial",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "description": "<h3>Introduction</h3>\n<div>In just 10 years, Octopus Energy has evolved from a disruptive challenger into the UK\u2019s largest energy retailer and a well-loved brand, serving more than 8 million customers. Our rapid expansion has been powered by consistently strong growth across diverse sales channels, the smooth integration of retailer acquisitions, and impressive customer retention.</div>\n<div>&nbsp;</div>\n<div>We continue to lead and redefine the energy market through innovative time-of-use tarif",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-analytics-commercial-london-gb-267327",
+      "remote": false,
+      "tags": [
+        "Data"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788275082,
+      "fetched_at": "2026-09-01T17:29:58.990723",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1453,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T17:30:15.357643"
+    },
+    {
+      "id": "arbeitnow_ai-security-field-cto-london-132669",
+      "title": "AI Security Field CTO",
+      "company": "Catonetworks",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networking and security into one centralized and global service that is delivered by cloud. It is led by networking and security pioneer Shlomo Kramer (Check Point, Imperva) and early investor (Palo Alto Netwo",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/ai-security-field-cto-london-132669",
+      "remote": false,
+      "tags": [
+        "Product"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788267307,
+      "fetched_at": "2026-09-01T17:29:58.991026",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1909,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T17:30:15.357746"
     }
   ]
 }
