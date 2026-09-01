@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-08-31 19:45 UTC
+**Last updated:** 2026-09-01 00:52 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 81 |
-| Jobs found (all time) | 1114 |
-| Jobs found (latest run, 2026-08-31) | 27 |
-| Best match (latest run) | Senior Machine Learning Engineer, AI Platform at Smartly (score 37) |
+| Search runs | 82 |
+| Jobs found (all time) | 1147 |
+| Jobs found (latest run, 2026-09-01) | 33 |
+| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
