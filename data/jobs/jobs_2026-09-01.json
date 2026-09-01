@@ -1,107 +1,7 @@
 {
   "date": "2026-09-01",
-  "count": 12,
+  "count": 11,
   "jobs": [
-    {
-      "id": "arbeitnow_senior-software-developer-frontend-react-saarbrucken-8062",
-      "title": "(Senior) Software Developer Frontend / React (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbr\u00fccken",
-      "description": "<br><strong>Your mission</strong><p><p><br></p><ul><li>You develop features and improvements across the full stack of our SaaS application \u2013 both on the backend (Django / Django REST Framework, FastAPI) and the frontend (React / TypeScript) \u2013 consistently leveraging AI-assisted development tools like GitHub Copilot or Cursor to deliver faster and more efficiently.</li><li>As an experienced software developer, you collaborate closely with both development teams and coordinate with all relevant st",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-8062",
-      "remote": false,
-      "tags": [
-        "fullstack",
-        "python",
-        "django",
-        "react",
-        "javascript",
-        "typescript"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788271796,
-      "fetched_at": "2026-09-01T20:15:20.305155",
-      "match_score": 63.39,
-      "score_breakdown": {
-        "semantic_similarity": 0.6195,
-        "semantic_score": 53.39,
-        "location_match": 0,
-        "priority_keywords": 10
-      },
-      "scored_at": "2026-09-01T20:15:33.672402"
-    },
-    {
-      "id": "arbeitnow_engineering-manager-front-end-background-uk-london-72836",
-      "title": "Engineering Manager - Front-end background (UK)",
-      "company": "Pigment",
-      "location": "London",
-      "description": "<div><span style=\"font-size: 24px;\">The Opportunity</span></div>\n<div>&nbsp;</div>\n<div><strong style=\"font-size: 10.5pt;\">We are looking for Senior software engineers with front-end expertise who can also be people managers of other software engineers, for a share of their time (up to 50%).</strong></div>\n<div>&nbsp;</div>\n<div><strong>On the engineering part:</strong></div>\n<div>&nbsp;</div>\n<div>- Design and implement high-performance, scalable, and responsive user interfaces.</div>\n<div>- Op",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pigment/engineering-manager-front-end-background-uk-london-72836",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788275137,
-      "fetched_at": "2026-09-01T20:15:19.186696",
-      "match_score": 44.26,
-      "score_breakdown": {
-        "semantic_similarity": 0.5477,
-        "semantic_score": 44.26,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T20:15:33.672276"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-full-stack-healthcare-applications-munchen-488952",
-      "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
-      "company": "Snke",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>What you'll do</strong><p>As<strong>\u00a0(Senior) Software Engineer - Healthcare Applications</strong> at\u00a0<strong>Snke\u00a0</strong>you will shape how clinicians interact with patient data every day. You will build and maintain healthcare web applications end to end, with modular and reusable frontend widgets and backend microservices that connect to hospital systems via FHIR, DICOM and HL7. You'll also develop shared libraries that enable other teams to do the same, from ready-to-use client",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-488952",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788271753,
-      "fetched_at": "2026-09-01T20:15:19.183989",
-      "match_score": 33.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.4654,
-        "semantic_score": 33.78,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T20:15:33.672162"
-    },
-    {
-      "id": "arbeitnow_technical-project-manager-software-development-saarbrucken-121942",
-      "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbr\u00fccken",
-      "description": "<br><strong>Your mission</strong><p><ul><li>You are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.</li><li>You lead our Development Leads and development teams both functionally and disciplinarily. You establish clear responsibilities, develop team members, and ensure that pro",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-121942",
-      "remote": false,
-      "tags": [
-        "Lead Developer",
-        "Engineering Lead",
-        "Software Architecture",
-        "Python",
-        "Django",
-        "React"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788271796,
-      "fetched_at": "2026-09-01T20:15:20.305152",
-      "match_score": 32.39,
-      "score_breakdown": {
-        "semantic_similarity": 0.4545,
-        "semantic_score": 32.39,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-01T20:15:33.672372"
-    },
     {
       "id": "arbeitnow_remote-forward-deployed-engineer-fde-united-kingdom-441564",
       "title": "Forward Deployed Engineer (FDE): United Kingdom",
@@ -115,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788288003,
-      "fetched_at": "2026-09-01T20:15:19.185442",
+      "fetched_at": "2026-09-01T23:38:38.043523",
       "match_score": 26.99,
       "score_breakdown": {
         "semantic_similarity": 0.2942,
@@ -123,7 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672191"
+      "scored_at": "2026-09-01T23:38:54.819597"
     },
     {
       "id": "arbeitnow_software-developer-full-stack-hamburg-280691",
@@ -136,7 +36,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788282579,
-      "fetched_at": "2026-09-01T20:15:19.181750",
+      "fetched_at": "2026-09-01T23:38:38.038923",
       "match_score": 25.61,
       "score_breakdown": {
         "semantic_similarity": 0.4012,
@@ -144,7 +44,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672083"
+      "scored_at": "2026-09-01T23:38:54.819479"
     },
     {
       "id": "arbeitnow_software-engineer-data-london-373837",
@@ -159,7 +59,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788277212,
-      "fetched_at": "2026-09-01T20:15:19.185775",
+      "fetched_at": "2026-09-01T23:38:38.043949",
       "match_score": 23.94,
       "score_breakdown": {
         "semantic_similarity": 0.3881,
@@ -167,30 +67,80 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672226"
+      "scored_at": "2026-09-01T23:38:54.819640"
     },
     {
-      "id": "arbeitnow_principal-solutions-engineer-uki-london-168794",
-      "title": "Principal Solutions Engineer - UKI",
-      "company": "Amplitude",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amplitude is the leading AI analytics platform, helping over 4,700 customers\u2014including Atlassian, Burger King, NBCUniversal, and Square\u2014build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2\u2019s Winter 2026 Report, Amplitude is the best-in-class solution for product, data, and marketing ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/amplitude/principal-solutions-engineer-uki-london-168794",
+      "id": "arbeitnow_senior-ai-engineer-london-197914",
+      "title": "Senior AI Engineer",
+      "company": "Quantum",
+      "location": "London (hybrid)",
+      "description": "<p style=\"min-height:1.5em\"><strong>Our Company<br /></strong>At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world\u2019s most used digital comparison service, delivering value and simplicity to millions.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We drive growt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-ai-engineer-london-197914",
       "remote": false,
       "tags": [
-        "Solutions Consulting"
+        "Technology"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788267307,
-      "fetched_at": "2026-09-01T20:15:19.186892",
-      "match_score": 18.76,
+      "posted_at": 1788298807,
+      "fetched_at": "2026-09-01T23:38:38.042138",
+      "match_score": 14.67,
       "score_breakdown": {
-        "semantic_similarity": 0.3474,
-        "semantic_score": 18.76,
+        "semantic_similarity": 0.3153,
+        "semantic_score": 14.67,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672343"
+      "scored_at": "2026-09-01T23:38:54.819556"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-data-berlin-466023",
+      "title": "Senior Software Engineer, Data",
+      "company": "Circonomit",
+      "location": "Berlin, Germany",
+      "description": "<p>We are building the world's decision infrastructure: the strategic twin of every industrial organization for complex combinatorial problems. We unlocked what wasn't possible before: mapping reality with its levers and constraints into a computer, then running n-dimensional optimization on critical value-chain decisions. We help Europe stay strong and the German Mittelstand make good decisions between market shifts, orders, machines and people.</p><p>Founded by Dana (CEO) and Erik (CTO) from R",
+      "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-berlin-466023",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788294008,
+      "fetched_at": "2026-09-01T23:38:38.037930",
+      "match_score": 10.31,
+      "score_breakdown": {
+        "semantic_similarity": 0.281,
+        "semantic_score": 10.31,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T23:38:54.819417"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-data-cologne-45873",
+      "title": "Senior Software Engineer, Data",
+      "company": "Circonomit",
+      "location": "Cologne, Germany",
+      "description": "<p>We are building the world's decision infrastructure: the strategic twin of every industrial organization for complex combinatorial problems. We unlocked what wasn't possible before: mapping reality with its levers and constraints into a computer, then running n-dimensional optimization on critical value-chain decisions. We help Europe stay strong and the German Mittelstand make good decisions between market shifts, orders, machines and people.</p><p>Founded by Dana (CEO) and Erik (CTO) from R",
+      "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-cologne-45873",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788294008,
+      "fetched_at": "2026-09-01T23:38:38.037933",
+      "match_score": 10.31,
+      "score_breakdown": {
+        "semantic_similarity": 0.281,
+        "semantic_score": 10.31,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T23:38:54.819448"
     },
     {
       "id": "arbeitnow_chief-technology-officer-london-262770",
@@ -205,7 +155,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788277204,
-      "fetched_at": "2026-09-01T20:15:19.186376",
+      "fetched_at": "2026-09-01T23:38:38.044705",
       "match_score": 8.96,
       "score_breakdown": {
         "semantic_similarity": 0.2704,
@@ -213,7 +163,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672251"
+      "scored_at": "2026-09-01T23:38:54.819672"
+    },
+    {
+      "id": "arbeitnow_senior-backend-engineer-mwd-java-kotlin-aws-kafka-berlin-205855",
+      "title": "Senior Backend Engineer (m|w|d) - Java/Kotlin, AWS, Kafka",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "description": "<p class=\"Paragraph SCXW183918819 BCX0\" style=\"text-align:start;\"><span style=\"color:#121317\">Team CRM Tech is responsible for delivering the technical infrastructure that enables idealo's CRM campaigns. They build and maintain systems that handle identity resolution, subscriptions, data flows, and message delivery, while ensuring GDPR compliance and supporting personalized user experiences. </span></p><p class=\"Paragraph SCXW183918819 BCX0\" style=\"text-align:start;\"><span style=\"color:#121317\">",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-backend-engineer-mwd-java-kotlin-aws-kafka-berlin-205855",
+      "remote": false,
+      "tags": [
+        "Technology & Data"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788294619,
+      "fetched_at": "2026-09-01T23:38:38.037927",
+      "match_score": 5.78,
+      "score_breakdown": {
+        "semantic_similarity": 0.2454,
+        "semantic_score": 5.78,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-01T23:38:54.819381"
     },
     {
       "id": "arbeitnow_director-of-engineering-frontend-technologies-marketplace-technologies-berlin-54101",
@@ -228,7 +201,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788274602,
-      "fetched_at": "2026-09-01T20:15:23.740729",
+      "fetched_at": "2026-09-01T23:38:43.068881",
       "match_score": 3.12,
       "score_breakdown": {
         "semantic_similarity": 0.2245,
@@ -236,7 +209,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672429"
+      "scored_at": "2026-09-01T23:38:54.819708"
     },
     {
       "id": "arbeitnow_staff-engineer-supply-berlin-480409",
@@ -251,7 +224,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788274602,
-      "fetched_at": "2026-09-01T20:15:19.182965",
+      "fetched_at": "2026-09-01T23:38:38.040483",
       "match_score": 0.15,
       "score_breakdown": {
         "semantic_similarity": 0.2012,
@@ -259,30 +232,32 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672130"
+      "scored_at": "2026-09-01T23:38:54.819520"
     },
     {
-      "id": "arbeitnow_head-of-analytics-commercial-london-gb-267327",
-      "title": "Head of Analytics - Commercial",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "description": "<h3>Introduction</h3>\n<div>In just 10 years, Octopus Energy has evolved from a disruptive challenger into the UK\u2019s largest energy retailer and a well-loved brand, serving more than 8 million customers. Our rapid expansion has been powered by consistently strong growth across diverse sales channels, the smooth integration of retailer acquisitions, and impressive customer retention.</div>\n<div>&nbsp;</div>\n<div>We continue to lead and redefine the energy market through innovative time-of-use tarif",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/head-of-analytics-commercial-london-gb-267327",
-      "remote": false,
+      "id": "arbeitnow_technical-co-founder-cto-berlin-287353",
+      "title": "Technical Co-Founder / CTO",
+      "company": "Dunetrace",
+      "location": "Berlin",
+      "description": "<p>Dunetrace is looking for a Technical Co-Founder / CTO to join us in building the infrastructure layer for reliable AI agents.</p>\n<p>AI agents are rapidly moving from prototypes into production. As they become more autonomous, companies need new infrastructure to understand what agents are doing, detect failures, enforce policies, and automatically recover from problems.</p>\n<p>Dunetrace is a VC-backed, Berlin-based, open-source startup focused on runtime reliability, and control for AI agent",
+      "url": "https://www.arbeitnow.com/jobs/companies/dunetrace/technical-co-founder-cto-berlin-287353",
+      "remote": true,
       "tags": [
-        "Data"
+        "Remote",
+        "Directors",
+        "Chief Executives"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788275082,
-      "fetched_at": "2026-09-01T20:15:19.186795",
+      "posted_at": 1788294624,
+      "fetched_at": "2026-09-01T23:38:38.037872",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1453,
+        "semantic_similarity": 0.1593,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-01T20:15:33.672314"
+      "scored_at": "2026-09-01T23:38:54.819344"
     }
   ]
 }

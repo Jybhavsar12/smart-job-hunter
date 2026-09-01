@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-01 20:15 UTC
+**Last updated:** 2026-09-01 23:38 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 82 |
-| Jobs found (all time) | 1126 |
-| Jobs found (latest run, 2026-09-01) | 12 |
-| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
+| Jobs found (all time) | 1125 |
+| Jobs found (latest run, 2026-09-01) | 11 |
+| Best match (latest run) | Forward Deployed Engineer (FDE): United Kingdom at Forgd Ai (score 27) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
