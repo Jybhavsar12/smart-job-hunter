@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-01 23:38 UTC
+**Last updated:** 2026-09-02 10:06 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 82 |
-| Jobs found (all time) | 1125 |
-| Jobs found (latest run, 2026-09-01) | 11 |
-| Best match (latest run) | Forward Deployed Engineer (FDE): United Kingdom at Forgd Ai (score 27) |
+| Search runs | 83 |
+| Jobs found (all time) | 1133 |
+| Jobs found (latest run, 2026-09-02) | 8 |
+| Best match (latest run) | Senior Software Engineer – Data Ingestion & Extraction (m/f/d) at Certivity (score 50) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
