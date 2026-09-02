@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-02 10:06 UTC
+**Last updated:** 2026-09-02 17:29 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 83 |
-| Jobs found (all time) | 1133 |
-| Jobs found (latest run, 2026-09-02) | 8 |
-| Best match (latest run) | Senior Software Engineer – Data Ingestion & Extraction (m/f/d) at Certivity (score 50) |
+| Jobs found (all time) | 1144 |
+| Jobs found (latest run, 2026-09-02) | 19 |
+| Best match (latest run) | Fullstack Software Engineer - Core at dataiku (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
