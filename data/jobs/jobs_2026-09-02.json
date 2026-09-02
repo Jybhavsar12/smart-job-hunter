@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "count": 19,
+  "count": 21,
   "jobs": [
     {
       "id": "arbeitnow_remote-fullstack-software-engineer-core-184220",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788364530,
-      "fetched_at": "2026-09-02T20:13:42.514083",
+      "fetched_at": "2026-09-02T23:40:23.200687",
       "match_score": 44.02,
       "score_breakdown": {
         "semantic_similarity": 0.428,
@@ -23,7 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312137"
+      "scored_at": "2026-09-02T23:40:38.975363"
     },
     {
       "id": "arbeitnow_software-engineer-frontend-react-react-native-edinburgh-328067",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788321313,
-      "fetched_at": "2026-09-02T20:13:42.515041",
+      "fetched_at": "2026-09-02T23:40:23.202118",
       "match_score": 43.97,
       "score_breakdown": {
         "semantic_similarity": 0.5062,
@@ -46,7 +46,53 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-02T20:13:56.312241"
+      "scored_at": "2026-09-02T23:40:38.975481"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ii-full-stack-web-engineering-462983",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
+      "remote": false,
+      "tags": [
+        "Web and Localization"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788386104,
+      "fetched_at": "2026-09-02T23:40:23.198796",
+      "match_score": 38.81,
+      "score_breakdown": {
+        "semantic_similarity": 0.3478,
+        "semantic_score": 18.81,
+        "location_match": 15,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-02T23:40:38.975246"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-integrations-3p-platform-61663",
+      "title": "Senior Software Engineer - Integrations 3P - Platform",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-software-engineer-integrations-3p-platform-61663",
+      "remote": false,
+      "tags": [
+        "Enterprise Search - Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788386103,
+      "fetched_at": "2026-09-02T23:40:23.198800",
+      "match_score": 34.26,
+      "score_breakdown": {
+        "semantic_similarity": 0.3514,
+        "semantic_score": 19.26,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-02T23:40:38.975335"
     },
     {
       "id": "arbeitnow_technical-lead-118498",
@@ -61,7 +107,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788321314,
-      "fetched_at": "2026-09-02T20:13:42.515039",
+      "fetched_at": "2026-09-02T23:40:23.202113",
       "match_score": 30.04,
       "score_breakdown": {
         "semantic_similarity": 0.3181,
@@ -69,7 +115,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312212"
+      "scored_at": "2026-09-02T23:40:38.975453"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ii-edr-workflows-security-390663",
+      "title": "Software Engineer II - EDR Workflows - Security",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-edr-workflows-security-390663",
+      "remote": false,
+      "tags": [
+        "Security - Integrations"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788386103,
+      "fetched_at": "2026-09-02T23:40:23.198798",
+      "match_score": 24.34,
+      "score_breakdown": {
+        "semantic_similarity": 0.2734,
+        "semantic_score": 9.34,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-02T23:40:38.975282"
     },
     {
       "id": "arbeitnow_senior-devops-engineer-london-250935",
@@ -84,7 +153,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788342013,
-      "fetched_at": "2026-09-02T20:13:43.742919",
+      "fetched_at": "2026-09-02T23:40:24.498836",
       "match_score": 20.28,
       "score_breakdown": {
         "semantic_similarity": 0.3594,
@@ -92,30 +161,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312328"
-    },
-    {
-      "id": "arbeitnow_engineering-manager-berlin-264919",
-      "title": "Engineering Manager",
-      "company": "Nelly Solutions",
-      "location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\">We're looking for an Engineering Manager to lead a Product Engineering team in our Automation Domain in Berlin.</p><p style=\"min-height:1.5em\"> The Automation Domain is responsible for building and owning Nelly\u2019s SaaS and AI products - everything from onboarding new medical practices, the Doctor, Patient, and Back Office portals, to automating bureaucracy and practice workflows, and the AI Scribe, Billing Agent, and Treatment Plan generation products.</p><p style=\"min",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/engineering-manager-berlin-264919",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788349202,
-      "fetched_at": "2026-09-02T20:13:42.512989",
-      "match_score": 16.19,
-      "score_breakdown": {
-        "semantic_similarity": 0.3272,
-        "semantic_score": 16.19,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-02T20:13:56.312115"
+      "scored_at": "2026-09-02T23:40:38.975551"
     },
     {
       "id": "arbeitnow_software-engineer-release-engineering-177435",
@@ -130,7 +176,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788364518,
-      "fetched_at": "2026-09-02T20:13:42.514087",
+      "fetched_at": "2026-09-02T23:40:23.200690",
       "match_score": 15.0,
       "score_breakdown": {
         "semantic_similarity": 0.1514,
@@ -138,30 +184,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312160"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-london-197914",
-      "title": "Senior AI Engineer",
-      "company": "Quantum",
-      "location": "London (hybrid)",
-      "description": "<p style=\"min-height:1.5em\"><strong>Our Company<br /></strong>At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world\u2019s most used digital comparison service, delivering value and simplicity to millions.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We drive growt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-ai-engineer-london-197914",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788298807,
-      "fetched_at": "2026-09-02T20:13:42.515873",
-      "match_score": 14.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.3153,
-        "semantic_score": 14.67,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-02T20:13:56.312301"
+      "scored_at": "2026-09-02T23:40:38.975390"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-cologne-germany-410416",
@@ -174,7 +197,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512362",
+      "fetched_at": "2026-09-02T23:40:23.198100",
       "match_score": 12.63,
       "score_breakdown": {
         "semantic_similarity": 0.2993,
@@ -182,7 +205,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311985"
+      "scored_at": "2026-09-02T23:40:38.975110"
     },
     {
       "id": "arbeitnow_senior-software-engineer-core-experiences-berlin-germany-380128",
@@ -195,7 +218,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512364",
+      "fetched_at": "2026-09-02T23:40:23.198102",
       "match_score": 10.9,
       "score_breakdown": {
         "semantic_similarity": 0.2856,
@@ -203,7 +226,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312026"
+      "scored_at": "2026-09-02T23:40:38.975143"
     },
     {
       "id": "arbeitnow_freelance-iot-software-engineer-all-genders-berlin-berlin-255711",
@@ -218,7 +241,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788350113,
-      "fetched_at": "2026-09-02T20:13:42.512735",
+      "fetched_at": "2026-09-02T23:40:23.198668",
       "match_score": 10.51,
       "score_breakdown": {
         "semantic_similarity": 0.2826,
@@ -226,7 +249,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312084"
+      "scored_at": "2026-09-02T23:40:38.975209"
+    },
+    {
+      "id": "arbeitnow_senior-kotlin-engineer-b2b-sales-distribution-team-munchen-203427",
+      "title": "Senior Kotlin Engineer (m/f/d) - B2B Sales & Distribution team",
+      "company": "Flix",
+      "location": "M\u00fcnchen, Bayern, Germany",
+      "description": "<p data-renderer-start-pos=\"1\" data-local-id=\"f93ce731e6b5\"><span style=\"font-size: 12pt;\">At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership.</span></p>\n<p data-renderer-start-pos=\"185\" data-local-id=\"4a4166fe119b\"><span style=\"font-size: 12pt;\">B2B Sales &amp; Distribution team in Demand Division<strong> </strong>builds and operates the backend platform powering Fl",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-kotlin-engineer-b2b-sales-distribution-team-munchen-203427",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1788381927,
+      "fetched_at": "2026-09-02T23:40:23.195557",
+      "match_score": 10.41,
+      "score_breakdown": {
+        "semantic_similarity": 0.2818,
+        "semantic_score": 10.41,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-02T23:40:38.974818"
     },
     {
       "id": "arbeitnow_engineering-manager-experimentation-london-354837",
@@ -241,7 +285,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788307490,
-      "fetched_at": "2026-09-02T20:13:42.515269",
+      "fetched_at": "2026-09-02T23:40:23.202474",
       "match_score": 5.29,
       "score_breakdown": {
         "semantic_similarity": 0.2416,
@@ -249,7 +293,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312273"
+      "scored_at": "2026-09-02T23:40:38.975519"
     },
     {
       "id": "arbeitnow_frontend-software-engineer-london-96025",
@@ -264,7 +308,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788353702,
-      "fetched_at": "2026-09-02T20:13:42.514851",
+      "fetched_at": "2026-09-02T23:40:23.201822",
       "match_score": 4.43,
       "score_breakdown": {
         "semantic_similarity": 0.2348,
@@ -272,7 +316,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312192"
+      "scored_at": "2026-09-02T23:40:38.975428"
     },
     {
       "id": "arbeitnow_embedded-software-engineer-iot-connectivity-munchen-3116",
@@ -290,7 +334,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788368964,
-      "fetched_at": "2026-09-02T20:13:42.511471",
+      "fetched_at": "2026-09-02T23:40:23.196774",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1182,
@@ -298,7 +342,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311770"
+      "scored_at": "2026-09-02T23:40:38.974870"
     },
     {
       "id": "arbeitnow_software-engineer-platform-munich-germany-477527",
@@ -311,7 +355,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512353",
+      "fetched_at": "2026-09-02T23:40:23.198088",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1385,
@@ -319,7 +363,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311834"
+      "scored_at": "2026-09-02T23:40:38.974922"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-frankfurt-germany-297787",
@@ -332,7 +376,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512356",
+      "fetched_at": "2026-09-02T23:40:23.198091",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1791,
@@ -340,7 +384,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311869"
+      "scored_at": "2026-09-02T23:40:38.974963"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-berlin-germany-91842",
@@ -353,7 +397,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512358",
+      "fetched_at": "2026-09-02T23:40:23.198094",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1752,
@@ -361,7 +405,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311900"
+      "scored_at": "2026-09-02T23:40:38.975002"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-cologne-germany-423898",
@@ -374,7 +418,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512359",
+      "fetched_at": "2026-09-02T23:40:23.198096",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1191,
@@ -382,7 +426,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311930"
+      "scored_at": "2026-09-02T23:40:38.975036"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-berlin-germany-201939",
@@ -395,7 +439,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512361",
+      "fetched_at": "2026-09-02T23:40:23.198098",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1217,
@@ -403,7 +447,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.311955"
+      "scored_at": "2026-09-02T23:40:38.975067"
     },
     {
       "id": "arbeitnow_software-engineer-platform-cologne-germany-147673",
@@ -416,7 +460,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788356728,
-      "fetched_at": "2026-09-02T20:13:42.512373",
+      "fetched_at": "2026-09-02T23:40:23.198104",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1462,
@@ -424,7 +468,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-02T20:13:56.312060"
+      "scored_at": "2026-09-02T23:40:38.975180"
     }
   ]
 }

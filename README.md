@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-02 20:13 UTC
+**Last updated:** 2026-09-02 23:40 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 83 |
-| Jobs found (all time) | 1144 |
-| Jobs found (latest run, 2026-09-02) | 19 |
+| Jobs found (all time) | 1146 |
+| Jobs found (latest run, 2026-09-02) | 21 |
 | Best match (latest run) | Fullstack Software Engineer - Core at dataiku (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
