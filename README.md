@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-03 10:15 UTC
+**Last updated:** 2026-09-03 17:22 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 84 |
-| Jobs found (all time) | 1159 |
-| Jobs found (latest run, 2026-09-03) | 13 |
-| Best match (latest run) | Software Engineer II - Full Stack - Web Engineering at Elastic (score 39) |
+| Jobs found (all time) | 1175 |
+| Jobs found (latest run, 2026-09-03) | 29 |
+| Best match (latest run) | Senior Frontend Engineer at Magentic (score 45) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
