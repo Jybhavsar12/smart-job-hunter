@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-04 10:04 UTC
+**Last updated:** 2026-09-04 17:14 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 85 |
-| Jobs found (all time) | 1199 |
-| Jobs found (latest run, 2026-09-04) | 31 |
-| Best match (latest run) | Software Engineer at Fanduel (score 37) |
+| Jobs found (all time) | 1196 |
+| Jobs found (latest run, 2026-09-04) | 28 |
+| Best match (latest run) | Software Developer  Java/ Node.JS (Web Development Team) at jetbrains (score 40) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
