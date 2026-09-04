@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-03 23:38 UTC
+**Last updated:** 2026-09-04 10:04 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 84 |
-| Jobs found (all time) | 1168 |
-| Jobs found (latest run, 2026-09-03) | 22 |
-| Best match (latest run) | Senior Frontend Engineer at Magentic (score 45) |
+| Search runs | 85 |
+| Jobs found (all time) | 1199 |
+| Jobs found (latest run, 2026-09-04) | 31 |
+| Best match (latest run) | Software Engineer at Fanduel (score 37) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
