@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-04 19:59 UTC
+**Last updated:** 2026-09-04 23:30 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 85 |
-| Jobs found (all time) | 1189 |
-| Jobs found (latest run, 2026-09-04) | 21 |
-| Best match (latest run) | Software Engineer at Fanduel (score 37) |
+| Jobs found (all time) | 1185 |
+| Jobs found (latest run, 2026-09-04) | 17 |
+| Best match (latest run) | Software Engineer at Axle Careers (score 35) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
