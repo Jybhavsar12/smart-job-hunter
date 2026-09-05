@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "count": 20,
+  "count": 17,
   "jobs": [
     {
       "id": "arbeitnow_fullstack-engineer-prospect-ui-solutions-munich-415043",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788586808,
-      "fetched_at": "2026-09-05T09:34:03.344239",
+      "fetched_at": "2026-09-05T13:06:22.718880",
       "match_score": 55.32,
       "score_breakdown": {
         "semantic_similarity": 0.5168,
@@ -23,7 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121103"
+      "scored_at": "2026-09-05T13:06:37.917743"
     },
     {
       "id": "arbeitnow_software-engineer-net-c-london-314586",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788568234,
-      "fetched_at": "2026-09-05T09:34:03.350472",
+      "fetched_at": "2026-09-05T13:06:22.723375",
       "match_score": 37.09,
       "score_breakdown": {
         "semantic_similarity": 0.4914,
@@ -46,30 +46,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121572"
-    },
-    {
-      "id": "arbeitnow_senior-frontend-developer-all-genders-berlin-89965",
-      "title": "Senior Frontend Developer (all genders)",
-      "company": "Lightspeedhq",
-      "location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\">Hi there! Thanks for stopping by \ud83d\udc4b</p><p style=\"min-height:1.5em\">Are you actively looking for a new opportunity? Or just checking the market? Well\u2026 you might just be in the right place!</p><p style=\"min-height:1.5em\">We are looking for a <strong>Senior Frontend Developer</strong> to join one of our squads where you will be supporting Lightspeed\u2019s Hospitality product group on the mission to expand our reach into new markets and countries while enhancing our advanced h",
-      "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/senior-frontend-developer-all-genders-berlin-89965",
-      "remote": false,
-      "tags": [
-        "Technology"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788565211,
-      "fetched_at": "2026-09-05T09:34:07.973062",
-      "match_score": 35.01,
-      "score_breakdown": {
-        "semantic_similarity": 0.4751,
-        "semantic_score": 35.01,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121772"
+      "scored_at": "2026-09-05T13:06:37.918038"
     },
     {
       "id": "arbeitnow_senior-software-architect-356646",
@@ -85,7 +62,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T09:34:04.494262",
+      "fetched_at": "2026-09-05T13:06:23.921765",
       "match_score": 34.68,
       "score_breakdown": {
         "semantic_similarity": 0.3547,
@@ -93,7 +70,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121731"
+      "scored_at": "2026-09-05T13:06:37.918126"
     },
     {
       "id": "arbeitnow_software-architect-377105",
@@ -109,7 +86,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T09:34:04.494212",
+      "fetched_at": "2026-09-05T13:06:23.921713",
       "match_score": 33.89,
       "score_breakdown": {
         "semantic_similarity": 0.3484,
@@ -117,7 +94,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121699"
+      "scored_at": "2026-09-05T13:06:37.918098"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-engineer-team-decide-berlin-197390",
+      "title": "Senior Full-Stack Engineer - Team Decide",
+      "company": "Taktile",
+      "location": "Berlin Office",
+      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for a a Senior Full-stack Engineer to join our engineering team. In Team Decide you'll focus on designing the distributed execution engine that runs customer workflows. You'll own critical systems end-to-end on a team where your decisions ",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-team-decide-berlin-197390",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788608408,
+      "fetched_at": "2026-09-05T13:06:22.717205",
+      "match_score": 32.59,
+      "score_breakdown": {
+        "semantic_similarity": 0.456,
+        "semantic_score": 32.59,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T13:06:37.917635"
     },
     {
       "id": "arbeitnow_senior-software-engineer-stream-processing-28133",
@@ -132,7 +132,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T09:34:03.347816",
+      "fetched_at": "2026-09-05T13:06:22.721115",
       "match_score": 30.6,
       "score_breakdown": {
         "semantic_similarity": 0.3226,
@@ -140,7 +140,31 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121332"
+      "scored_at": "2026-09-05T13:06:37.917851"
+    },
+    {
+      "id": "arbeitnow_remote-senior-software-engineer-berlin-462841",
+      "title": "Senior Software Engineer",
+      "company": "Nucs AI",
+      "location": "Remote job",
+      "description": "<p style=\"text-align:justify;\"><strong><span style=\"color:#121317\">About Nucs AI</span></strong></p><p style=\"text-align:justify;\"><span style=\"color:#121317\">Nucs AI is revolutionizing prostate cancer care through cutting-edge AI and medical imaging technology. Founded in 2024 by a multidisciplinary team of oncologists, AI researchers, and healthcare innovators, we're tackling one of medicine's most pressing challenges: the growing demand for accurate, timely cancer diagnostics in the face of r",
+      "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841",
+      "remote": true,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788597028,
+      "fetched_at": "2026-09-05T13:06:22.718259",
+      "match_score": 29.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.3131,
+        "semantic_score": 14.39,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T13:06:37.917715"
     },
     {
       "id": "arbeitnow_senior-tech-lead-backend-engineer-managed-kubernetes-388791",
@@ -155,7 +179,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T09:34:03.347813",
+      "fetched_at": "2026-09-05T13:06:22.721111",
       "match_score": 27.52,
       "score_breakdown": {
         "semantic_similarity": 0.2984,
@@ -163,7 +187,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121297"
+      "scored_at": "2026-09-05T13:06:37.917820"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-merchants-london-330430",
@@ -178,7 +202,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788579602,
-      "fetched_at": "2026-09-05T09:34:03.349781",
+      "fetched_at": "2026-09-05T13:06:22.722781",
       "match_score": 25.48,
       "score_breakdown": {
         "semantic_similarity": 0.3609,
@@ -186,7 +210,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-05T09:34:20.121423"
+      "scored_at": "2026-09-05T13:06:37.917927"
     },
     {
       "id": "arbeitnow_senior-software-engineer-c-net-london-196243",
@@ -201,7 +225,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788568234,
-      "fetched_at": "2026-09-05T09:34:03.350646",
+      "fetched_at": "2026-09-05T13:06:22.723492",
       "match_score": 25.47,
       "score_breakdown": {
         "semantic_similarity": 0.4001,
@@ -209,57 +233,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121610"
-    },
-    {
-      "id": "arbeitnow_flight-test-engineer-onsite-test-coordinator-all-genders-berlin-492135",
-      "title": "Flight Test Engineer & Onsite Test Coordinator (all genders)",
-      "company": "Stark",
-      "location": "Berlin",
-      "description": "<br><strong>About Us</strong><p><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">STARK</span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0is a new kind of defence technology company, revolutionizing the way autonomous systems are deployed across multiple domains. We design, de",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/flight-test-engineer-onsite-test-coordinator-all-genders-berlin-492135",
-      "remote": false,
-      "tags": [
-        "flighttest",
-        "flighttesting",
-        "engineering",
-        "pilots",
-        "drones"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788574148,
-      "fetched_at": "2026-09-05T09:34:03.346769",
-      "match_score": 23.7,
-      "score_breakdown": {
-        "semantic_similarity": 0.3862,
-        "semantic_score": 23.7,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121266"
-    },
-    {
-      "id": "arbeitnow_data-platform-engineer-london-230787",
-      "title": "Data Platform Engineer",
-      "company": "Lendable",
-      "location": "London",
-      "description": "<h2>About Lendable</h2><p style=\"min-height:1.5em\">Lendable is on a mission to build the world's best technology to help people get credit and save money.<strong> </strong>We're building one of the world\u2019s leading fintech companies and are off to a strong start:</p><p style=\"min-height:1.5em\"></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">One of the UK\u2019s newest unicorns with a team of just over 700 people</p></li><li><p style=\"min-height:1.5em\">Among the<strong> fastest-growing",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-230787",
-      "remote": false,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788558013,
-      "fetched_at": "2026-09-05T09:34:03.351431",
-      "match_score": 23.6,
-      "score_breakdown": {
-        "semantic_similarity": 0.3854,
-        "semantic_score": 23.6,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121642"
+      "scored_at": "2026-09-05T13:06:37.918069"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-224985",
@@ -274,7 +248,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788568809,
-      "fetched_at": "2026-09-05T09:34:03.349967",
+      "fetched_at": "2026-09-05T13:06:22.722947",
       "match_score": 18.99,
       "score_breakdown": {
         "semantic_similarity": 0.3492,
@@ -282,28 +256,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121526"
+      "scored_at": "2026-09-05T13:06:37.918004"
     },
     {
-      "id": "arbeitnow_technical-product-manager-all-gender-berlin-340395",
-      "title": "Technical Product Manager (All gender)",
-      "company": "Stark",
-      "location": "Berlin",
-      "description": "<br><strong>About Us</strong><p><p style=\"line-height:1.2;margin-top:0pt;margin-bottom:3pt;text-align:justify;\"><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;text-decoration:none;\">STARK is a new kind of defence technology company revolutionising the way autonomous systems are deployed across multiple domains. We design, develop, and manufacture high-performance unmanned systems that are software-defined, ma",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/technical-product-manager-all-gender-berlin-340395",
-      "remote": false,
-      "tags": [],
+      "id": "arbeitnow_remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production \u2014 safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+      "remote": true,
+      "tags": [
+        "Revenue Operations"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1788574148,
-      "fetched_at": "2026-09-05T09:34:03.346222",
-      "match_score": 16.64,
+      "posted_at": 1788597611,
+      "fetched_at": "2026-09-05T13:06:22.718113",
+      "match_score": 15.0,
       "score_breakdown": {
-        "semantic_similarity": 0.3307,
-        "semantic_score": 16.64,
-        "location_match": 0,
+        "semantic_similarity": 0.1979,
+        "semantic_score": 0.0,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121221"
+      "scored_at": "2026-09-05T13:06:37.917683"
     },
     {
       "id": "arbeitnow_senior-ios-engineer-swift-mwd-berlin-330230",
@@ -318,7 +294,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788586217,
-      "fetched_at": "2026-09-05T09:34:03.344427",
+      "fetched_at": "2026-09-05T13:06:22.719026",
       "match_score": 12.71,
       "score_breakdown": {
         "semantic_similarity": 0.2999,
@@ -326,34 +302,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121148"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-mission-autonomy-all-genders-munich-57865",
-      "title": "Senior Software Engineer - Mission Autonomy (All Genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "description": "<br><strong>About Us</strong><p><p style=\"line-height:1.38;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">STARK is a new kind of defence technology company revolutionizing the way autonomous systems are deployed across multiple domains. We design, develop and manufacture high-performance unmanned systems that are software-defined, mass-",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-57865",
-      "remote": false,
-      "tags": [
-        "Multi\u2011vehicle task allocation",
-        "Swarm\u2011level optimisation",
-        "SITL (Software\u2011in\u2011the\u2011Loop) simulation",
-        "Real\u2011time decision metrics",
-        "Auction\u2011based / Hungarian algorithm"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788574148,
-      "fetched_at": "2026-09-05T09:34:03.346560",
-      "match_score": 8.64,
-      "score_breakdown": {
-        "semantic_similarity": 0.2679,
-        "semantic_score": 8.64,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121245"
+      "scored_at": "2026-09-05T13:06:37.917773"
     },
     {
       "id": "arbeitnow_software-engineer-london-380457",
@@ -368,7 +317,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788569720,
-      "fetched_at": "2026-09-05T09:34:03.349882",
+      "fetched_at": "2026-09-05T13:06:22.722865",
       "match_score": 8.1,
       "score_breakdown": {
         "semantic_similarity": 0.2636,
@@ -376,28 +325,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121462"
-    },
-    {
-      "id": "arbeitnow_tactical-data-link-expert-all-genders-munich-288061",
-      "title": "Tactical Data Link Expert (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "description": "<br><strong>About Us</strong><p><p style=\"line-height:1.38;margin-top:0pt;margin-bottom:7pt;\"><span style=\"font-size:10.5pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">STARK is a new kind of defence technology company revolutionizing the way autonomous systems are deployed across multiple domains. We design, develop and manufacture high performance unmanned systems that are software-defined, mass-scalable, and ",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-288061",
-      "remote": false,
-      "tags": [],
-      "source": "Arbeitnow",
-      "posted_at": 1788574148,
-      "fetched_at": "2026-09-05T09:34:04.492031",
-      "match_score": 6.23,
-      "score_breakdown": {
-        "semantic_similarity": 0.249,
-        "semantic_score": 6.23,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121664"
+      "scored_at": "2026-09-05T13:06:37.917975"
     },
     {
       "id": "arbeitnow_senior-machine-learning-engineer-london-177034",
@@ -412,7 +340,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T09:34:03.348355",
+      "fetched_at": "2026-09-05T13:06:22.721537",
       "match_score": 5.7,
       "score_breakdown": {
         "semantic_similarity": 0.2448,
@@ -420,31 +348,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121392"
-    },
-    {
-      "id": "arbeitnow_remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
-      "title": "Software Engineer \u2013 Developer Experience / Tooling (Golang/PHP) (m/w/d)",
-      "company": "shopware AG",
-      "location": "Homeoffice",
-      "description": "<p class=\"Paragraph SCXW246874034 BCX0\">Shopware ist eine international f\u00fchrende Open\u2011Commerce\u2011Plattform f\u00fcr ambitionierte Unternehmen im digitalen Handel. Mit einem API\u2011First\u2011Ansatz, maximaler Flexibilit\u00e4t und einer starken Community schaffen wir zukunftsorientierte E\u2011Commerce\u2011L\u00f6sungen. Unsere 450 Mitarbeitenden in ganz Europa teilen eine Leidenschaft f\u00fcr Innovation, Offenheit und Teamgeist.&nbsp;</p><p class=\"isSelectedEnd\"><strong>In dieser Rolle arbeitest du an Tools wie der <a rel=\"noopener",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
-      "remote": true,
-      "tags": [
-        "Product",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788575418,
-      "fetched_at": "2026-09-05T09:34:03.345926",
-      "match_score": 2.06,
-      "score_breakdown": {
-        "semantic_similarity": 0.2162,
-        "semantic_score": 2.06,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T09:34:20.121194"
+      "scored_at": "2026-09-05T13:06:37.917902"
     },
     {
       "id": "arbeitnow_site-reliability-engineer-london-259308",
@@ -459,7 +363,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T09:34:03.348313",
+      "fetched_at": "2026-09-05T13:06:22.721504",
       "match_score": 1.98,
       "score_breakdown": {
         "semantic_similarity": 0.2155,
@@ -467,7 +371,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T09:34:20.121363"
+      "scored_at": "2026-09-05T13:06:37.917878"
+    },
+    {
+      "id": "arbeitnow_senior-cloud-engineer-battersea-power-station-98014",
+      "title": "Senior Cloud Engineer",
+      "company": "Sharkninjaoperatingllc",
+      "location": "Battersea Power Station",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:280}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;SharkNinja&amp;nbsp;is a global product design and technology company, with a diversified portfolio of 5-star rated lifestyle solutio",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/senior-cloud-engineer-battersea-power-station-98014",
+      "remote": false,
+      "tags": [
+        "12000 - Product Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788602106,
+      "fetched_at": "2026-09-05T13:06:22.720518",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1964,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T13:06:37.917795"
     }
   ]
 }

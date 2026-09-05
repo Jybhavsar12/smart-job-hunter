@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-05 09:34 UTC
+**Last updated:** 2026-09-05 13:06 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 86 |
-| Jobs found (all time) | 1205 |
-| Jobs found (latest run, 2026-09-05) | 20 |
+| Jobs found (all time) | 1202 |
+| Jobs found (latest run, 2026-09-05) | 17 |
 | Best match (latest run) | FullStack Engineer - Prospect UI Solutions at Constructor (score 55) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
