@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-05 19:39 UTC
+**Last updated:** 2026-09-05 23:27 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 86 |
-| Jobs found (all time) | 1221 |
-| Jobs found (latest run, 2026-09-05) | 36 |
-| Best match (latest run) | FullStack Engineer - Prospect UI Solutions at Constructor (score 55) |
+| Jobs found (all time) | 1226 |
+| Jobs found (latest run, 2026-09-05) | 41 |
+| Best match (latest run) | Python Backend Engineer (m/f/x) at Makersite GmbH (score 51) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

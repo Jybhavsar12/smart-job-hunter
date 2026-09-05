@@ -1,30 +1,7 @@
 {
   "date": "2026-09-05",
-  "count": 36,
+  "count": 41,
   "jobs": [
-    {
-      "id": "arbeitnow_fullstack-engineer-prospect-ui-solutions-munich-415043",
-      "title": "FullStack Engineer - Prospect UI Solutions",
-      "company": "Constructor",
-      "location": "Remote",
-      "description": "<h3><strong>About You</strong></h3><p style=\"min-height:1.5em\">You have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair programming, code reviews, and collaborative brainstorming with a team are activities you find fulfilling. You're eager to work alongside developers, prospective customers, account executives,",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788586808,
-      "fetched_at": "2026-09-05T19:39:21.894032",
-      "match_score": 55.32,
-      "score_breakdown": {
-        "semantic_similarity": 0.5168,
-        "semantic_score": 40.32,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.302572"
-    },
     {
       "id": "arbeitnow_remote-python-backend-engineer-berlin-203775",
       "title": "Python Backend Engineer (m/f/x)",
@@ -39,7 +16,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788618632,
-      "fetched_at": "2026-09-05T19:39:21.891214",
+      "fetched_at": "2026-09-05T23:27:10.822964",
       "match_score": 50.96,
       "score_breakdown": {
         "semantic_similarity": 0.4433,
@@ -47,7 +24,53 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-05T19:39:36.302384"
+      "scored_at": "2026-09-05T23:27:26.255344"
+    },
+    {
+      "id": "arbeitnow_remote-staff-software-engineer-security-agent-448040",
+      "title": "Staff Software Engineer - Security Agent",
+      "company": "Datadog",
+      "location": "Remote",
+      "description": "&lt;p&gt;This role is part of Datadog\u2019s Security Agent team, which powers critical security capabilities across Workload Protection, Vulnerability Management, Cloud Security products, and other emerging security offerings. As a Staff Software Engineer, you will lead the design and development of low-level Linux instrumentation and runtime security technologies that help customers detect threats, monitor system activity, and protect cloud-native workloads at scale. You will work on complex techni",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-staff-software-engineer-security-agent-448040",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828535",
+      "match_score": 46.93,
+      "score_breakdown": {
+        "semantic_similarity": 0.4509,
+        "semantic_score": 31.93,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255776"
+    },
+    {
+      "id": "arbeitnow_remote-senior-ai-engineer-notebooks-388076",
+      "title": "Senior AI Engineer \u2013 Notebooks",
+      "company": "Datadog",
+      "location": "Bordeaux; Remote; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
+      "description": "&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt;\n&lt;p&gt;We are looking for a product-oriented Senior Software Engineer to help build the AI-assisted w",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-388076",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.829052",
+      "match_score": 40.27,
+      "score_breakdown": {
+        "semantic_similarity": 0.3986,
+        "semantic_score": 25.27,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256039"
     },
     {
       "id": "arbeitnow_remote-senior-data-scientist-berlin-143991",
@@ -63,7 +86,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788618632,
-      "fetched_at": "2026-09-05T19:39:21.891368",
+      "fetched_at": "2026-09-05T23:27:10.823075",
       "match_score": 35.67,
       "score_breakdown": {
         "semantic_similarity": 0.3624,
@@ -71,7 +94,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302420"
+      "scored_at": "2026-09-05T23:27:26.255370"
     },
     {
       "id": "arbeitnow_senior-software-architect-356646",
@@ -87,7 +110,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T19:39:23.071287",
+      "fetched_at": "2026-09-05T23:27:12.096863",
       "match_score": 34.68,
       "score_breakdown": {
         "semantic_similarity": 0.3547,
@@ -95,7 +118,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303488"
+      "scored_at": "2026-09-05T23:27:26.256243"
     },
     {
       "id": "arbeitnow_senior-systems-engineer-bristol-461847",
@@ -110,7 +133,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-05T19:39:21.894435",
+      "fetched_at": "2026-09-05T23:27:10.825260",
       "match_score": 34.25,
       "score_breakdown": {
         "semantic_similarity": 0.4691,
@@ -118,7 +141,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302644"
+      "scored_at": "2026-09-05T23:27:26.255527"
     },
     {
       "id": "arbeitnow_software-architect-377105",
@@ -134,7 +157,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T19:39:23.071230",
+      "fetched_at": "2026-09-05T23:27:12.096821",
       "match_score": 33.89,
       "score_breakdown": {
         "semantic_similarity": 0.3484,
@@ -142,7 +165,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303458"
+      "scored_at": "2026-09-05T23:27:26.256221"
     },
     {
       "id": "arbeitnow_senior-full-stack-engineer-team-decide-berlin-197390",
@@ -157,7 +180,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788608408,
-      "fetched_at": "2026-09-05T19:39:21.891895",
+      "fetched_at": "2026-09-05T23:27:10.823472",
       "match_score": 32.59,
       "score_breakdown": {
         "semantic_similarity": 0.456,
@@ -165,7 +188,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302463"
+      "scored_at": "2026-09-05T23:27:26.255409"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-security-agent-paris-151153",
+      "title": "Staff Software Engineer - Security Agent",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;This role is part of Datadog\u2019s Security Agent team, which powers critical security capabilities across Workload Protection, Vulnerability Management, Cloud Security products, and other emerging security offerings. As a Staff Software Engineer, you will lead the design and development of low-level Linux instrumentation and runtime security technologies that help customers detect threats, monitor system activity, and protect cloud-native workloads at scale. You will work on complex techni",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-software-engineer-security-agent-paris-151153",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828536",
+      "match_score": 31.93,
+      "score_breakdown": {
+        "semantic_similarity": 0.4509,
+        "semantic_score": 31.93,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255798"
     },
     {
       "id": "arbeitnow_senior-software-engineer-stream-processing-28133",
@@ -180,7 +226,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T19:39:21.896243",
+      "fetched_at": "2026-09-05T23:27:10.826658",
       "match_score": 30.6,
       "score_breakdown": {
         "semantic_similarity": 0.3226,
@@ -188,7 +234,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302840"
+      "scored_at": "2026-09-05T23:27:26.255665"
     },
     {
       "id": "arbeitnow_remote-senior-software-engineer-berlin-462841",
@@ -204,7 +250,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788597028,
-      "fetched_at": "2026-09-05T19:39:21.893223",
+      "fetched_at": "2026-09-05T23:27:10.824475",
       "match_score": 29.39,
       "score_breakdown": {
         "semantic_similarity": 0.3131,
@@ -212,7 +258,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302537"
+      "scored_at": "2026-09-05T23:27:26.255471"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-go-402117",
+      "title": "Senior Software Engineer (Go)",
+      "company": "Form3",
+      "location": "",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;\ud83d\udcdd&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;As a Senior Software Engineer at Form3, you\u2019ll work on established, high-volume services that sit at the heart of Form3\u2019s clou",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788645306,
+      "fetched_at": "2026-09-05T23:27:10.825077",
+      "match_score": 28.94,
+      "score_breakdown": {
+        "semantic_similarity": 0.3095,
+        "semantic_score": 13.94,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255498"
     },
     {
       "id": "arbeitnow_senior-tech-lead-backend-engineer-managed-kubernetes-388791",
@@ -227,7 +296,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T19:39:21.896240",
+      "fetched_at": "2026-09-05T23:27:10.826654",
       "match_score": 27.52,
       "score_breakdown": {
         "semantic_similarity": 0.2984,
@@ -235,7 +304,53 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302814"
+      "scored_at": "2026-09-05T23:27:26.255647"
+    },
+    {
+      "id": "arbeitnow_staff-engineer-compute-paris-312198",
+      "title": "Staff Engineer, Compute",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;As a Staff Engineer on Datadog&#39;s Compute \u2013 Disruption and Workload Placement team, you&#39;ll help define how our Kubernetes fleet scales to meet the demands of rapidly growing AI and cloud-native workloads. You&#39;ll work on the systems that ensure engineering teams have the right compute capacity, in the right region, at the right time across AWS, Google Cloud, and Azure. This is a highly technical, high-impact role where you&#39;ll shape the future of capacity orchestration, inf",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-engineer-compute-paris-312198",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828639",
+      "match_score": 26.68,
+      "score_breakdown": {
+        "semantic_similarity": 0.4096,
+        "semantic_score": 26.68,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255826"
+    },
+    {
+      "id": "arbeitnow_senior-platform-security-engineer-paris-146911",
+      "title": "Senior Platform Security Engineer",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;As a Platform Security Engineer you will partner with different stakeholders across the organization to secure our infrastructure and application components of the Datadog platform. As part of the Platform Security organization we secure the building blocks of Datadog\u2019s applications and infrastructure. We do this by building solutions solving systemic risks making the secure path easier and the insecure path harder.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place v",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-platform-security-engineer-paris-146911",
+      "remote": false,
+      "tags": [
+        "Security"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828877",
+      "match_score": 26.48,
+      "score_breakdown": {
+        "semantic_similarity": 0.4081,
+        "semantic_score": 26.48,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255974"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-merchants-london-330430",
@@ -250,7 +365,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788579602,
-      "fetched_at": "2026-09-05T19:39:21.898230",
+      "fetched_at": "2026-09-05T23:27:10.828148",
       "match_score": 25.48,
       "score_breakdown": {
         "semantic_similarity": 0.3609,
@@ -258,30 +373,122 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-05T19:39:36.302925"
+      "scored_at": "2026-09-05T23:27:26.255726"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-london-224985",
-      "title": "Senior Software Engineer",
-      "company": "Odin",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Odin is building the investment infrastructure for the future of private markets.<br />We believe capital is one of the most powerful tools for shaping the world - and more people should know how to put it to work. Our mission is to make it radically easier to raise and deploy capital, so that anyone, anywhere, can back the companies and ideas they believe in.</p><p style=\"min-height:1.5em\">Our first product is a full-stack platform for launching and running private i",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-software-engineer-london-224985",
+      "id": "arbeitnow_senior-software-engineer-backend-bordeaux-paris-335697",
+      "title": "Senior Software Engineer - Backend",
+      "company": "Datadog",
+      "location": "Bordeaux; Paris",
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are building the best platform in the world for engineers to understand, scale, and protect their systems, applications, and teams. We operate at high scale\u2014trillions of data points per day\u2014providing always-on alerting, metrics visualization, logs, application tracing, and security insights for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way&lt;/span",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-backend-bordeaux-paris-335697",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Dev Eng"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788568809,
-      "fetched_at": "2026-09-05T19:39:21.898435",
-      "match_score": 18.99,
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828682",
+      "match_score": 23.33,
       "score_breakdown": {
-        "semantic_similarity": 0.3492,
-        "semantic_score": 18.99,
+        "semantic_similarity": 0.3833,
+        "semantic_score": 23.33,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302992"
+      "scored_at": "2026-09-05T23:27:26.255925"
+    },
+    {
+      "id": "arbeitnow_ai-research-engineer-datadog-ai-research-dair-paris-174212",
+      "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;As a Research Engineer on our team, you will partner with Research Scientists to turn research ideas into working systems, building the data, tooling, and infrastructure that enable rapid iteration, trustworthy evaluation, and a smooth path from prototype to production.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;4616&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Building on our track record of AI-powered solutions (e.g., &lt;a href=&quot;https://www.datadoghq.com/blog/bits-ai-sre/&quot;&gt;",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/ai-research-engineer-datadog-ai-research-dair-paris-174212",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.829499",
+      "match_score": 20.04,
+      "score_breakdown": {
+        "semantic_similarity": 0.3574,
+        "semantic_score": 20.04,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256072"
+    },
+    {
+      "id": "arbeitnow_senior-applied-scientist-ai-platform-paris-338469",
+      "title": "Senior Applied Scientist - AI Platform",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;AI Platform builds the foundations of Datadog&#39;s AI efforts. The org is 70+ people organised in three pillars: training and serving (GPU clusters, distributed training, low-level infrastructure), agents (agent harnesses, memory systems, the internal AI gateway that routes every LLM request at Datadog), and evaluation and experimentation. This role sits in the evaluation and experimentation pillar, which owns Datadog&#39;s shared annotation and evaluation infrastructure \u2014 including th",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-applied-scientist-ai-platform-paris-338469",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828975",
+      "match_score": 19.83,
+      "score_breakdown": {
+        "semantic_similarity": 0.3558,
+        "semantic_score": 19.83,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256015"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-security-libraries-bordeaux-lyon-nantes-paris-sophia-antipolis-153314",
+      "title": "Senior Software Engineer - Security Libraries",
+      "company": "Datadog",
+      "location": "Bordeaux; Lyon; Nantes; Paris; Sophia Antipolis",
+      "description": "&lt;h2&gt;About Datadog&lt;/h2&gt;\n&lt;p&gt;We&#39;re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale with trillions of data points per day, enabling seamless collaboration and problem-solving among Dev, Ops, and Security teams for tens of thousands of companies globally. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-security-libraries-bordeaux-lyon-nantes-paris-sophia-antipolis-153314",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828672",
+      "match_score": 19.7,
+      "score_breakdown": {
+        "semantic_similarity": 0.3548,
+        "semantic_score": 19.7,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255847"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-redapl-graph-engine-paris-120616",
+      "title": "Senior Software Engineer - REDAPL Graph Engine",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog&#39;s main platform for tracking our customers&#39; infrastructure resources and relationships. The platform enables products where customers can understand, keep track of, and gain insights into their infrastructure related to performance, cost, security, and more.&lt;/p&gt;\n&lt;p&gt;Many Datadog products use REDAPL today such Cloud Security Posture ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-redapl-graph-engine-paris-120616",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828675",
+      "match_score": 18.58,
+      "score_breakdown": {
+        "semantic_similarity": 0.346,
+        "semantic_score": 18.58,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255866"
     },
     {
       "id": "arbeitnow_senior-software-engineer-cambridge-296220",
@@ -296,7 +503,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-05T19:39:21.894437",
+      "fetched_at": "2026-09-05T23:27:10.825262",
       "match_score": 17.56,
       "score_breakdown": {
         "semantic_similarity": 0.338,
@@ -304,30 +511,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302682"
+      "scored_at": "2026-09-05T23:27:26.255555"
     },
     {
-      "id": "arbeitnow_software-engineer-paris-137699",
-      "title": "Software Engineer",
-      "company": "Owkin",
-      "location": "Paris",
-      "description": "<h1>About us</h1><p style=\"min-height:1.5em\">Owkin is an agentic AI company pioneering Biological Artificial Superintelligence to solve problems in biology where human researchers alone have failed.<br />Owkin builds K Pro - an AI scientist for pharmaceutical research and strategic decision-making. K Pro orchestrates a suite of AI skills and tools to decode complex biology, accelerate research, and dramatically increase productivity.<br />K Pro is built on Owkin\u2019s unrivalled multimodal patient d",
-      "url": "https://www.arbeitnow.fr/jobs/companies/owkin/software-engineer-paris-137699",
+      "id": "arbeitnow_remote-senior-software-engineer-redapl-graph-engine-422891",
+      "title": "Senior Software Engineer - REDAPL Graph Engine",
+      "company": "Datadog",
+      "location": "Remote",
+      "description": "&lt;div id=&quot;message-list_1786698316.066069&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;strong&gt;&lt;em&gt;Please note that the job is only available from the locations outlined.&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;&amp;nbsp;&lt;/",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-422891",
       "remote": false,
       "tags": [
-        "R&TECH"
+        "Dev Eng"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788626406,
-      "fetched_at": "2026-09-05T19:39:21.899652",
-      "match_score": 16.36,
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828678",
+      "match_score": 16.57,
       "score_breakdown": {
-        "semantic_similarity": 0.3286,
-        "semantic_score": 16.36,
-        "location_match": 0,
+        "semantic_similarity": 0.2123,
+        "semantic_score": 1.57,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303078"
+      "scored_at": "2026-09-05T23:27:26.255881"
     },
     {
       "id": "arbeitnow_sr-software-engineer-ai-ml-ai-platform-london-276160",
@@ -342,7 +549,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-05T19:39:21.894441",
+      "fetched_at": "2026-09-05T23:27:10.825267",
       "match_score": 15.72,
       "score_breakdown": {
         "semantic_similarity": 0.3235,
@@ -350,7 +557,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302736"
+      "scored_at": "2026-09-05T23:27:26.255593"
+    },
+    {
+      "id": "arbeitnow_data-scientist-manager-9th-arrondissement-of-paris-75009-paris-41499",
+      "title": "Data Scientist Manager",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees.&lt;/p&gt;\n&lt;p&gt;Our mission is to help businesses unlock the full potential of AI and data by developing tailor-made solutions that address their specific industry challenges. As pioneers in this field, we com",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-scientist-manager-9th-arrondissement-of-paris-75009-paris-41499",
+      "remote": false,
+      "tags": [
+        "Data Science"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829628",
+      "match_score": 15.25,
+      "score_breakdown": {
+        "semantic_similarity": 0.3198,
+        "semantic_score": 15.25,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256173"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-incident-insights-readiness-paris-107340",
+      "title": "Senior Software Engineer - Incident Insights & Readiness",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;The Incident Insights &amp;amp; Readiness SRE team at Datadog fosters a resilient culture by using incidents as learning opportunities and catalysts for growth. Our users are Datadog engineers, and we build the software, tooling, and operational frameworks that help them prepare for, respond to, and learn from incidents. We work closely with engineering teams across Datadog to analyze incidents and turn those insights into better tools, stronger incident response, and organizational lea",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-107340",
+      "remote": false,
+      "tags": [
+        "Security"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828680",
+      "match_score": 15.05,
+      "score_breakdown": {
+        "semantic_similarity": 0.3182,
+        "semantic_score": 15.05,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.255901"
     },
     {
       "id": "arbeitnow_remote-senior-gtm-systems-ai-and-automation-engineer-43415",
@@ -365,7 +618,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788597611,
-      "fetched_at": "2026-09-05T19:39:21.893036",
+      "fetched_at": "2026-09-05T23:27:10.824330",
       "match_score": 15.0,
       "score_breakdown": {
         "semantic_similarity": 0.1979,
@@ -373,76 +626,76 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302505"
+      "scored_at": "2026-09-05T23:27:26.255445"
     },
     {
-      "id": "arbeitnow_senior-ai-engineer-forward-deployed-paris-france-491177",
-      "title": "Senior AI Engineer (Forward-Deployed)",
-      "company": "Brevo",
-      "location": "Paris, France",
-      "description": "<div>At Brevo, we\u2019re not just building a CRM. With our technology, <b>we\u2019re helping millions of organizations build lasting relationships with their customers.</b></div><div><br></div><div>From emails and SMS to WhatsApp, Chat, and Marketing Automation, <b>our tools are intuitive, powerful, and built to scale with every ambition.</b> We give businesses a clear view of the customer journey, so they can focus on what matters: connection.</div><div><br></div><div>As a <b>certified B Corp</b>, we\u2019re",
-      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-ai-engineer-forward-deployed-paris-france-491177",
+      "id": "arbeitnow_senior-data-scientist-9th-arrondissement-of-paris-75009-paris-17575",
+      "title": "Senior Data Scientist",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees.&lt;/p&gt;\n&lt;p&gt;Our mission is to help businesses unlock the full potential of AI and data by developing tailor-made solutions that address their specific industry challenges. As pioneers in this field, we com",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-scientist-9th-arrondissement-of-paris-75009-paris-17575",
       "remote": false,
       "tags": [
-        "AI Ops"
+        "Data Science"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788624261,
-      "fetched_at": "2026-09-05T19:39:21.900302",
-      "match_score": 13.71,
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829551",
+      "match_score": 14.5,
       "score_breakdown": {
-        "semantic_similarity": 0.3077,
-        "semantic_score": 13.71,
+        "semantic_similarity": 0.314,
+        "semantic_score": 14.5,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303147"
+      "scored_at": "2026-09-05T23:27:26.256112"
     },
     {
-      "id": "arbeitnow_senior-ios-engineer-swift-mwd-berlin-330230",
-      "title": "Senior iOS Engineer - Swift (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "description": "<p>As a Senior iOS Engineer at idealo, you drive the evolution of our award-winning e-commerce apps. We enable millions of users to compare prices and make informed purchasing decisions on their mobile devices. We are a fully integrated and autonomous team that balances proven technologies with cutting-edge experimentation, delivering best-in-class user experiences that drive idealo's mission.. We own our code and decide on the technical direction of our products. We're looking for a Senior iOS ",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ios-engineer-swift-mwd-berlin-330230",
+      "id": "arbeitnow_senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235",
+      "title": "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB)",
+      "company": "Ppro",
+      "location": "Berlin",
+      "description": "<div>\n<div aria-setsize=\"-1\" id=\"message-list_1784212978.479209\">\n<div>\n<div aria-roledescription=\"message\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>At PPRO, we simplify access to local payments - providing a local payments platform that empowers giants like PayPal, Stripe, and Microsoft to connect with billions of consumers worldwide. We are on an ambitious, fast-paced mission to 3x our growth by 2028 - and we\u2019re just getting started.<br><br>Our magic lies in our team of proud paym",
+      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235",
       "remote": false,
       "tags": [
-        "Technology & Data"
+        "Software Engineering: Transaction Processing"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788586217,
-      "fetched_at": "2026-09-05T19:39:21.894213",
-      "match_score": 12.71,
+      "posted_at": 1788638691,
+      "fetched_at": "2026-09-05T23:27:10.821983",
+      "match_score": 14.37,
       "score_breakdown": {
-        "semantic_similarity": 0.2999,
-        "semantic_score": 12.71,
+        "semantic_similarity": 0.3129,
+        "semantic_score": 14.37,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302606"
+      "scored_at": "2026-09-05T23:27:26.255290"
     },
     {
-      "id": "arbeitnow_director-biopharma-data-science-france-405781",
-      "title": "Director, Biopharma Data Science",
-      "company": "Owkin",
-      "location": "France",
-      "description": "<h1>About us</h1><p style=\"min-height:1.5em\">Owkin is an agentic AI company pioneering Biological Artificial Superintelligence to solve problems in biology where human researchers alone have failed.<br />Owkin builds K Pro - an AI scientist for pharmaceutical research and strategic decision-making. K Pro orchestrates a suite of AI skills and tools to decode complex biology, accelerate research, and dramatically increase productivity.<br />K Pro is built on Owkin\u2019s unrivalled multimodal patient d",
-      "url": "https://www.arbeitnow.fr/jobs/companies/owkin/director-biopharma-data-science-france-405781",
+      "id": "arbeitnow_senior-software-engineer-action-platform-paris-218090",
+      "title": "Senior Software Engineer - Action Platform",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;We are looking for a strong technical leader to join the Private Action Runner team, part of the larger Action Platform group&amp;nbsp; and help shape one of the core execution layers behind Datadog\u2019s action-taking and remediation capabilities. Private Action Runner (PAR) enables Datadog products and AI agents to securely run actions inside customer infrastructure with controls for authentication, permissions, auditing and safe execution.&amp;nbsp; The role will be hands-on, covering ar",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-action-platform-paris-218090",
       "remote": false,
       "tags": [
-        "BIOMEDICAL"
+        "Dev Eng"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788626406,
-      "fetched_at": "2026-09-05T19:39:21.899719",
-      "match_score": 11.02,
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.828685",
+      "match_score": 14.01,
       "score_breakdown": {
-        "semantic_similarity": 0.2866,
-        "semantic_score": 11.02,
+        "semantic_similarity": 0.3101,
+        "semantic_score": 14.01,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303110"
+      "scored_at": "2026-09-05T23:27:26.255949"
     },
     {
       "id": "arbeitnow_sr-software-engineer-investor-solutions-edinburgh-383916",
@@ -457,7 +710,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-05T19:39:21.894439",
+      "fetched_at": "2026-09-05T23:27:10.825265",
       "match_score": 10.5,
       "score_breakdown": {
         "semantic_similarity": 0.2825,
@@ -465,7 +718,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302711"
+      "scored_at": "2026-09-05T23:27:26.255575"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-9th-arrondissement-of-paris-75009-paris-360066",
+      "title": "Senior Software Engineer",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Senior&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Hybride et Mobile&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Package: 66-76k\u20ac&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Qui sommes-nous ?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&g",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-software-engineer-9th-arrondissement-of-paris-75009-paris-360066",
+      "remote": false,
+      "tags": [
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829526",
+      "match_score": 8.61,
+      "score_breakdown": {
+        "semantic_similarity": 0.2677,
+        "semantic_score": 8.61,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256092"
     },
     {
       "id": "arbeitnow_software-engineer-london-380457",
@@ -480,7 +756,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788569720,
-      "fetched_at": "2026-09-05T19:39:21.898331",
+      "fetched_at": "2026-09-05T23:27:10.828224",
       "match_score": 8.1,
       "score_breakdown": {
         "semantic_similarity": 0.2636,
@@ -488,7 +764,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302961"
+      "scored_at": "2026-09-05T23:27:26.255751"
+    },
+    {
+      "id": "arbeitnow_lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-43874",
+      "title": "Lead Software Engineer - Paris",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Lead&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Hybride et Mobile&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;&lt;strong&gt;Package: 83-93k\u20ac&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Qui sommes-nous ?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-43874",
+      "remote": false,
+      "tags": [
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829597",
+      "match_score": 7.88,
+      "score_breakdown": {
+        "semantic_similarity": 0.2619,
+        "semantic_score": 7.88,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256155"
+    },
+    {
+      "id": "arbeitnow_data-analytics-manager-9th-arrondissement-of-paris-75009-paris-296757",
+      "title": "Data Analytics Manager",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;div&gt;\n&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Artefact is a French consulting and engineering firm specializing in data and AI, and a leader in Europe. Headquartered in Paris, we are now present in 23 countries across all continents, with a team of 1,700 employees.&lt;/p&gt;\n&lt;p&gt;Our mission is to help businesses unlock the full potential of AI and data by developing tailor-made solutions that address their specific industry challenges. As pioneers in this",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-analytics-manager-9th-arrondissement-of-paris-75009-paris-296757",
+      "remote": false,
+      "tags": [
+        "Data Analytics"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829664",
+      "match_score": 6.76,
+      "score_breakdown": {
+        "semantic_similarity": 0.2531,
+        "semantic_score": 6.76,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256192"
+    },
+    {
+      "id": "arbeitnow_senior-data-consultant-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-355976",
+      "title": "Senior Data Consultant (H/F) - CDI - Paris",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;h3&gt;&lt;strong&gt;Qui sommes-nous?&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Artefact est une nouvelle g\u00e9n\u00e9ration de cabinet de conseil sp\u00e9cialis\u00e9e en Data dont plus de 2000 employ\u00e9s r\u00e9partis sur 26 pays ont pour mission d\u2019accompagner la transformation chez nos clients.&lt;/p&gt;\n&lt;p&gt;Nous offrons une large gamme de solutions data-driven, que nous adaptions aux besoins sp\u00e9cifiques de nos clients, que ce soit des projets IA pour l&#39;automatisation des process internes \u00e0 chaque \u00e9tape de leur ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-consultant-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-355976",
+      "remote": false,
+      "tags": [
+        "Data Consulting"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788638109,
+      "fetched_at": "2026-09-05T23:27:10.829595",
+      "match_score": 6.22,
+      "score_breakdown": {
+        "semantic_similarity": 0.2489,
+        "semantic_score": 6.22,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T23:27:26.256137"
     },
     {
       "id": "arbeitnow_senior-machine-learning-engineer-london-177034",
@@ -503,7 +848,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T19:39:21.896812",
+      "fetched_at": "2026-09-05T23:27:10.827083",
       "match_score": 5.7,
       "score_breakdown": {
         "semantic_similarity": 0.2448,
@@ -511,30 +856,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302895"
-    },
-    {
-      "id": "arbeitnow_software-engineer-java-paris-374073",
-      "title": "Software Engineer Java",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-java-paris-374073",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.900798",
-      "match_score": 5.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.2424,
-        "semantic_score": 5.4,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303180"
+      "scored_at": "2026-09-05T23:27:26.255706"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-cambridge-169608",
@@ -549,7 +871,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788612904,
-      "fetched_at": "2026-09-05T19:39:21.894868",
+      "fetched_at": "2026-09-05T23:27:10.825595",
       "match_score": 5.0,
       "score_breakdown": {
         "semantic_similarity": 0.1061,
@@ -557,99 +879,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-05T19:39:36.302763"
-    },
-    {
-      "id": "arbeitnow_lead-ai-engineer-bordeaux-353267",
-      "title": "Lead AI engineer",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-bordeaux-353267",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901390",
-      "match_score": 3.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.2297,
-        "semantic_score": 3.78,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303395"
-    },
-    {
-      "id": "arbeitnow_lead-ai-engineer-paris-356902",
-      "title": "Lead AI engineer",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-paris-356902",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901455",
-      "match_score": 3.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.2297,
-        "semantic_score": 3.78,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303424"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-bordeaux-91121",
-      "title": "Senior AI Engineer",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-bordeaux-91121",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.900876",
-      "match_score": 2.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.2157,
-        "semantic_score": 2.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303209"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-paris-72618",
-      "title": "Senior AI Engineer",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-paris-72618",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.900956",
-      "match_score": 2.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.2157,
-        "semantic_score": 2.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303237"
+      "scored_at": "2026-09-05T23:27:26.255612"
     },
     {
       "id": "arbeitnow_site-reliability-engineer-london-259308",
@@ -664,7 +894,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T19:39:21.896769",
+      "fetched_at": "2026-09-05T23:27:10.827050",
       "match_score": 1.98,
       "score_breakdown": {
         "semantic_similarity": 0.2155,
@@ -672,30 +902,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302867"
-    },
-    {
-      "id": "arbeitnow_senior-qa-engineer-rennes-ille-et-vilaine-254760",
-      "title": "Senior QA Engineer (f/m/d)",
-      "company": "idnow",
-      "location": "Rennes, Ille-et-Vilaine",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span class=&quot;fabric-text-color-mark&quot; data-renderer-mark=&quot;true&quot; data-text-custom-color=&quot;#36b37e&quot;&gt;IDnow is a&lt;strong&gt; leader in digital identity and fraud prevention in Europe&lt;/strong&gt; with a mission to transform trust into the most powerful asset in the digital world, empowering enterprises with &lt;strong&gt;AI-driven, SaaS-based identity solutions that deliver scalable security, adaptive complianc",
-      "url": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-qa-engineer-rennes-ille-et-vilaine-254760",
-      "remote": false,
-      "tags": [
-        "Engineering & Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788627317,
-      "fetched_at": "2026-09-05T19:39:21.898535",
-      "match_score": 1.02,
-      "score_breakdown": {
-        "semantic_similarity": 0.208,
-        "semantic_score": 1.02,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303017"
+      "scored_at": "2026-09-05T23:27:26.255686"
     },
     {
       "id": "arbeitnow_senior-cloud-engineer-battersea-power-station-98014",
@@ -710,7 +917,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788602106,
-      "fetched_at": "2026-09-05T19:39:21.895512",
+      "fetched_at": "2026-09-05T23:27:10.826101",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1964,
@@ -718,122 +925,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.302787"
+      "scored_at": "2026-09-05T23:27:26.255627"
     },
     {
-      "id": "arbeitnow_head-of-genai-platform-paris-97984",
-      "title": "Head of GenAI Platform",
-      "company": "Photoroom",
+      "id": "arbeitnow_director-product-management-cloud-security-and-shared-capabilities-paris-248576",
+      "title": "Director, Product Management - Cloud Security and Shared Capabilities",
+      "company": "Datadog",
       "location": "Paris",
-      "description": "<h2><strong>About us</strong></h2><p style=\"min-height:1.5em\">Founded in 2019 and part of Y Combinator's 2020 cohort, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"c-link c-link--focus-visible c-link--underline\" href=\"https://www.photoroom.com\"><u>Photoroom</u></a>  is the leading visual solution for e-commerce.<br /><br />We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small businesses and major enterprises",
-      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/head-of-genai-platform-paris-97984",
+      "description": "&lt;p data-local-id=&quot;9c85003d8d23&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-block=&quot;true&quot;&gt;&lt;strong data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;strong&quot;&gt;About Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-local-id=&quot;27a1dcb014fc&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-b",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/director-product-management-cloud-security-and-shared-capabilities-paris-248576",
       "remote": false,
       "tags": [
-        "R&D"
+        "Product Management"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788626415,
-      "fetched_at": "2026-09-05T19:39:21.899241",
+      "posted_at": 1788638115,
+      "fetched_at": "2026-09-05T23:27:10.829357",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1474,
+        "semantic_similarity": 0.1199,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T19:39:36.303042"
-    },
-    {
-      "id": "arbeitnow_product-manager-fulfillment-freelance-paris-345312",
-      "title": "Product Manager - Fulfillment (Freelance)",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-paris-345312",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901010",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1805,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303267"
-    },
-    {
-      "id": "arbeitnow_product-manager-fulfillment-freelance-bordeaux-213850",
-      "title": "Product Manager  - Fulfillment (Freelance)",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-bordeaux-213850",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901063",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1805,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303295"
-    },
-    {
-      "id": "arbeitnow_product-manager-fulfillment-12-month-contract-paris-271339",
-      "title": "Product Manager - Fulfillment (12-month contract)",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-paris-271339",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901115",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1621,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303323"
-    },
-    {
-      "id": "arbeitnow_product-manager-fulfillment-12-month-contract-bordeaux-441604",
-      "title": "Product Manager - Fulfillment (12-month contract)",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-bordeaux-441604",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788616515,
-      "fetched_at": "2026-09-05T19:39:21.901167",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1621,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-05T19:39:36.303350"
+      "scored_at": "2026-09-05T23:27:26.256054"
     }
   ]
 }
