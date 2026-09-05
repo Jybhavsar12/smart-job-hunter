@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-04 23:30 UTC
+**Last updated:** 2026-09-05 09:34 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 85 |
-| Jobs found (all time) | 1185 |
-| Jobs found (latest run, 2026-09-04) | 17 |
-| Best match (latest run) | Software Engineer at Axle Careers (score 35) |
+| Search runs | 86 |
+| Jobs found (all time) | 1205 |
+| Jobs found (latest run, 2026-09-05) | 20 |
+| Best match (latest run) | FullStack Engineer - Prospect UI Solutions at Constructor (score 55) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
