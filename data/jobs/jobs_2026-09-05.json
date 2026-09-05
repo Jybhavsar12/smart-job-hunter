@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "count": 17,
+  "count": 41,
   "jobs": [
     {
       "id": "arbeitnow_fullstack-engineer-prospect-ui-solutions-munich-415043",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788586808,
-      "fetched_at": "2026-09-05T13:06:22.718880",
+      "fetched_at": "2026-09-05T16:21:20.307632",
       "match_score": 55.32,
       "score_breakdown": {
         "semantic_similarity": 0.5168,
@@ -23,30 +23,147 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917743"
+      "scored_at": "2026-09-05T16:21:38.710680"
     },
     {
-      "id": "arbeitnow_software-engineer-net-c-london-314586",
-      "title": "Software Engineer (.NET C#)",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "description": "<p>We\u2019re looking for a <strong>Software Engineer</strong> to join our global team to be responsible for the quality, development, and execution of our software products.</p><p>You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe \u2013 Barcelona, New York, London, Manchester, Bucharest and India. If you\u2019re ready to join a growing company and make an immediate impact, we want to hear from you!</p><p style=\"m",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
-      "remote": false,
+      "id": "arbeitnow_remote-python-backend-engineer-berlin-203775",
+      "title": "Python Backend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "description": "<p>Job Title: (Senior) Python Engineer (m/f/x)</p><p>Location: EU</p><p>(Remote)</p><p><br></p><h4><strong>Who You\u2019ll Work For:</strong></h4><p><br></p><p>At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture wi",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
+      "remote": true,
       "tags": [
-        "Tech"
+        "Engineering",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788568234,
-      "fetched_at": "2026-09-05T13:06:22.723375",
-      "match_score": 37.09,
+      "posted_at": 1788618632,
+      "fetched_at": "2026-09-05T16:21:20.304802",
+      "match_score": 50.96,
       "score_breakdown": {
-        "semantic_similarity": 0.4914,
-        "semantic_score": 37.09,
+        "semantic_similarity": 0.4433,
+        "semantic_score": 30.96,
+        "location_match": 15,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-05T16:21:38.710474"
+    },
+    {
+      "id": "arbeitnow_remote-software-engineer-190870",
+      "title": "Software Engineer",
+      "company": "360Learning",
+      "location": "Paris, Remote",
+      "description": "<div><span style=\"font-size: 10.5pt;\">At the start of 360Learning's growth, we were only 10 developers in the R&amp;D department working on a single codebase. Today, we are a team of 60+ engineers divided into 10 product squads. Each squad includes developers, product managers and designers. Our technical teams are paramount to 360Learning\u2019s response to our increasingly demanding customers and are strategic players for the growth of the company. We have the opportunity to:&nbsp;</span></div>\n<di",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-software-engineer-190870",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788613474,
+      "fetched_at": "2026-09-05T16:21:20.316546",
+      "match_score": 46.42,
+      "score_breakdown": {
+        "semantic_similarity": 0.4469,
+        "semantic_score": 31.42,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711670"
+    },
+    {
+      "id": "arbeitnow_senior-solutions-engineer-paris-47949",
+      "title": "Senior Solutions Engineer",
+      "company": "Kong",
+      "location": "France",
+      "description": "<p style=\"min-height:1.5em\"><strong>Are you ready to unlock intelligence?</strong></p><p style=\"min-height:1.5em\">If you don\u2019t think you meet all of the criteria below but are still interested in the job, please apply.  Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong></p><p style=\"min-height:1.5em\">Ko",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kong/senior-solutions-engineer-paris-47949",
+      "remote": false,
+      "tags": [
+        "All Cost Center"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615605,
+      "fetched_at": "2026-09-05T16:21:20.315962",
+      "match_score": 43.63,
+      "score_breakdown": {
+        "semantic_similarity": 0.5428,
+        "semantic_score": 43.63,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.918038"
+      "scored_at": "2026-09-05T16:21:38.711446"
+    },
+    {
+      "id": "arbeitnow_remote-technical-lead-engineering-485030",
+      "title": "Technical Lead Engineering",
+      "company": "360Learning",
+      "location": "Paris, Remote",
+      "description": "<div>Our R&amp;D team gathers 60+ engineers divided into 10+ product squads. Each squad includes developers, product managers and designers. They are paramount to 360Learning\u2019s response to our increasingly demanding customers and are strategic players for the growth of the company.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Today, we are creating a new role within the department i.e Technical Lead. The scope includes existing responsibilities, as well as new opportunities:&nbsp;</div>\n<div>- be the poin",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-technical-lead-engineering-485030",
+      "remote": false,
+      "tags": [
+        "Engineering II"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788613474,
+      "fetched_at": "2026-09-05T16:21:20.316540",
+      "match_score": 42.02,
+      "score_breakdown": {
+        "semantic_similarity": 0.4123,
+        "semantic_score": 27.02,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711627"
+    },
+    {
+      "id": "arbeitnow_remote-website-software-engineer-431081",
+      "title": "Website Software Engineer",
+      "company": "360Learning",
+      "location": "Paris, Remote",
+      "description": "<div><span style=\"font-size: 10.5pt;\">Our R&amp;D department gathers a team of 60+ engineers divided into 10+ squads. Each squad includes developers, product managers and designers. The Website squad is one of them.&nbsp;</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 10.5pt;\">Composed of 2 engineers, 1 Product Manager and 1 Designer, its objective is to:</span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 10.5pt;\">- empower our 25+ person marketing team to manage content au",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-website-software-engineer-431081",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788613474,
+      "fetched_at": "2026-09-05T16:21:20.316494",
+      "match_score": 41.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.4094,
+        "semantic_score": 26.65,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711591"
+    },
+    {
+      "id": "arbeitnow_remote-senior-data-scientist-berlin-143991",
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "description": "<p class=\"Paragraph SCXW111181217 BCX4\">Data Scientist (m/f/x)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">Location: EU</p><p class=\"Paragraph SCXW111181217 BCX4\">(Remote)&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><h4><strong><span style=\"color:#000000\">Who You\u2019ll Work For</span><span style=\"color:#2F5496\">:</span></strong><span style=\"color:#2F5496\">&nbsp;</span></h4><p class=\"Paragraph SCXW111181217 BCX4\">&nbsp;</p><p class=\"Paragraph SCXW111181217 BCX4\"><span style=\"colo",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-143991",
+      "remote": true,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788618632,
+      "fetched_at": "2026-09-05T16:21:20.304963",
+      "match_score": 35.67,
+      "score_breakdown": {
+        "semantic_similarity": 0.3624,
+        "semantic_score": 20.67,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.710510"
     },
     {
       "id": "arbeitnow_senior-software-architect-356646",
@@ -62,7 +179,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T13:06:23.921765",
+      "fetched_at": "2026-09-05T16:21:21.547972",
       "match_score": 34.68,
       "score_breakdown": {
         "semantic_similarity": 0.3547,
@@ -70,7 +187,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.918126"
+      "scored_at": "2026-09-05T16:21:38.711760"
     },
     {
       "id": "arbeitnow_software-architect-377105",
@@ -86,7 +203,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-05T13:06:23.921713",
+      "fetched_at": "2026-09-05T16:21:21.547911",
       "match_score": 33.89,
       "score_breakdown": {
         "semantic_similarity": 0.3484,
@@ -94,7 +211,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.918098"
+      "scored_at": "2026-09-05T16:21:38.711731"
     },
     {
       "id": "arbeitnow_senior-full-stack-engineer-team-decide-berlin-197390",
@@ -109,7 +226,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788608408,
-      "fetched_at": "2026-09-05T13:06:22.717205",
+      "fetched_at": "2026-09-05T16:21:20.305484",
       "match_score": 32.59,
       "score_breakdown": {
         "semantic_similarity": 0.456,
@@ -117,7 +234,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917635"
+      "scored_at": "2026-09-05T16:21:38.710553"
     },
     {
       "id": "arbeitnow_senior-software-engineer-stream-processing-28133",
@@ -132,7 +249,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T13:06:22.721115",
+      "fetched_at": "2026-09-05T16:21:20.310388",
       "match_score": 30.6,
       "score_breakdown": {
         "semantic_similarity": 0.3226,
@@ -140,7 +257,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917851"
+      "scored_at": "2026-09-05T16:21:38.710833"
     },
     {
       "id": "arbeitnow_remote-senior-software-engineer-berlin-462841",
@@ -156,7 +273,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788597028,
-      "fetched_at": "2026-09-05T13:06:22.718259",
+      "fetched_at": "2026-09-05T16:21:20.306836",
       "match_score": 29.39,
       "score_breakdown": {
         "semantic_similarity": 0.3131,
@@ -164,7 +281,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917715"
+      "scored_at": "2026-09-05T16:21:38.710630"
     },
     {
       "id": "arbeitnow_senior-tech-lead-backend-engineer-managed-kubernetes-388791",
@@ -179,7 +296,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-05T13:06:22.721111",
+      "fetched_at": "2026-09-05T16:21:20.310385",
       "match_score": 27.52,
       "score_breakdown": {
         "semantic_similarity": 0.2984,
@@ -187,7 +304,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917820"
+      "scored_at": "2026-09-05T16:21:38.710807"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-engineer-identity-authentication-paris-371425",
+      "title": "Senior Full-Stack Engineer \u2013 Identity & Authentication",
+      "company": "Kpler",
+      "location": "Paris",
+      "description": "<div><span style=\"font-size: 16px;\">At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. </span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 16px;\">Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 exper",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-full-stack-engineer-identity-authentication-paris-371425",
+      "remote": false,
+      "tags": [
+        "Engineering Application Platform"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788613507,
+      "fetched_at": "2026-09-05T16:21:20.316313",
+      "match_score": 25.7,
+      "score_breakdown": {
+        "semantic_similarity": 0.4019,
+        "semantic_score": 25.7,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711511"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-merchants-london-330430",
@@ -202,7 +342,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788579602,
-      "fetched_at": "2026-09-05T13:06:22.722781",
+      "fetched_at": "2026-09-05T16:21:20.312354",
       "match_score": 25.48,
       "score_breakdown": {
         "semantic_similarity": 0.3609,
@@ -210,30 +350,30 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-05T13:06:37.917927"
+      "scored_at": "2026-09-05T16:21:38.710919"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-c-net-london-196243",
-      "title": "Senior Software Engineer (C# .NET) | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "description": "<p>We\u2019re looking for a <strong>Senior Software Engineer </strong>to join our global team to be responsible for the quality, development, and execution of our software products.</p><p>You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe \u2013 Barcelona, New York, London, Manchester, Bucharest and India. If you\u2019re ready to join a growing company and make an immediate impact, we want to hear from you!</p><p s",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-196243",
+      "id": "arbeitnow_senior-ai-engineer-ai-enablement-paris-330049",
+      "title": "Senior AI Engineer (AI Enablement)",
+      "company": "Kpler",
+      "location": "Paris",
+      "description": "<div><span style=\"font-size: 16px;\">At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. </span></div>\n<div>&nbsp;</div>\n<div><span style=\"font-size: 16px;\">Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 exper",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-ai-engineer-ai-enablement-paris-330049",
       "remote": false,
       "tags": [
-        "Tech"
+        "Engineering Cloud Platform"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788568234,
-      "fetched_at": "2026-09-05T13:06:22.723492",
-      "match_score": 25.47,
+      "posted_at": 1788613507,
+      "fetched_at": "2026-09-05T16:21:20.316362",
+      "match_score": 24.06,
       "score_breakdown": {
-        "semantic_similarity": 0.4001,
-        "semantic_score": 25.47,
+        "semantic_similarity": 0.389,
+        "semantic_score": 24.06,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.918069"
+      "scored_at": "2026-09-05T16:21:38.711537"
     },
     {
       "id": "arbeitnow_senior-software-engineer-london-224985",
@@ -248,7 +388,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788568809,
-      "fetched_at": "2026-09-05T13:06:22.722947",
+      "fetched_at": "2026-09-05T16:21:20.312541",
       "match_score": 18.99,
       "score_breakdown": {
         "semantic_similarity": 0.3492,
@@ -256,7 +396,32 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.918004"
+      "scored_at": "2026-09-05T16:21:38.710989"
+    },
+    {
+      "id": "arbeitnow_remote-solution-architect-strasbourg-54507",
+      "title": "Solution Architect",
+      "company": "European Dynamics",
+      "location": "Strasbourg, France",
+      "description": "<p></p><p>We currently have a vacancy for a <strong>Solution Architect</strong> in English, to offer his/her services as an expert<strong>&nbsp;remotely (within EU)</strong>. In the context of the first assignment, the successful candidate will be integrated in the Development team of the company that will closely cooperate with a major client\u2019s IT team.</p><p><strong>Tasks:</strong></p><ul><li>Understand, interpret and respond to detailed business requirements specifications and implement that ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-solution-architect-strasbourg-54507",
+      "remote": true,
+      "tags": [
+        "Computer Software",
+        "PRD",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788614407,
+      "fetched_at": "2026-09-05T16:21:20.316280",
+      "match_score": 15.37,
+      "score_breakdown": {
+        "semantic_similarity": 0.3207,
+        "semantic_score": 15.37,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711484"
     },
     {
       "id": "arbeitnow_remote-senior-gtm-systems-ai-and-automation-engineer-43415",
@@ -271,7 +436,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788597611,
-      "fetched_at": "2026-09-05T13:06:22.718113",
+      "fetched_at": "2026-09-05T16:21:20.306636",
       "match_score": 15.0,
       "score_breakdown": {
         "semantic_similarity": 0.1979,
@@ -279,7 +444,53 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917683"
+      "scored_at": "2026-09-05T16:21:38.710596"
+    },
+    {
+      "id": "arbeitnow_software-engineer-release-engineering-201928",
+      "title": "Software Engineer, Release Engineering",
+      "company": "mozilla",
+      "location": "",
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month,",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/software-engineer-release-engineering-201928",
+      "remote": false,
+      "tags": [
+        "Firefox"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788605730,
+      "fetched_at": "2026-09-05T16:21:20.316830",
+      "match_score": 15.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1514,
+        "semantic_score": 0.0,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711697"
+    },
+    {
+      "id": "arbeitnow_principal-transformation-consultant-paris-ile-de-france-france-327150",
+      "title": "Principal Transformation Consultant (f/m/d)",
+      "company": "Valiantys",
+      "location": "Paris, \u00cele-de-France, France",
+      "description": "<h2><span style=\"font-size: 16px;\">About Valiantys</span></h2>\n<div>\n<div>\n<div>Valiantys is a global leader in consulting and services for the Atlassian ecosystem, helping businesses transform their IT operations and business processes. With a focus on driving operational excellence, innovation, and agility, we empower organizations to achieve their goals through tailored solutions for Atlassian tools and adjacent technologies.&nbsp;</div>\n<div>Joining Valiantys means becoming part of a growing",
+      "url": "https://www.arbeitnow.fr/jobs/companies/valiantys/principal-transformation-consultant-paris-ile-de-france-france-327150",
+      "remote": false,
+      "tags": [
+        "Transformation Consulting"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788613481,
+      "fetched_at": "2026-09-05T16:21:20.316422",
+      "match_score": 13.09,
+      "score_breakdown": {
+        "semantic_similarity": 0.3028,
+        "semantic_score": 13.09,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711565"
     },
     {
       "id": "arbeitnow_senior-ios-engineer-swift-mwd-berlin-330230",
@@ -294,7 +505,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788586217,
-      "fetched_at": "2026-09-05T13:06:22.719026",
+      "fetched_at": "2026-09-05T16:21:20.307823",
       "match_score": 12.71,
       "score_breakdown": {
         "semantic_similarity": 0.2999,
@@ -302,7 +513,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917773"
+      "scored_at": "2026-09-05T16:21:38.710714"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-python-xtm-one-france-183856",
+      "title": "Senior Software Engineer (python) - XTM One",
+      "company": "Filigran",
+      "location": "France",
+      "description": "<h2>\ud83c\udf00 The Company</h2><p style=\"min-height:1.5em\">Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cyber threats, identify security gaps, and strengthen organizational security posture.</p><p style=\"min-height:1.5em\">Filigran solutions are now trusted by over 6,000 public and private organizations worldw",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-python-xtm-one-france-183856",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615611,
+      "fetched_at": "2026-09-05T16:21:20.314847",
+      "match_score": 12.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.2587,
+        "semantic_score": 7.47,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-05T16:21:38.711318"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-paris-139544",
+      "title": "Senior Software Engineer",
+      "company": "Dedale Intelligence",
+      "location": "Paris",
+      "description": "<h1><strong><u>About Dedale:</u></strong></h1><p style=\"min-height:1.5em\">Dedale is the <strong>differentiating source of strategic intelligence </strong>in the <strong>technology space.</strong></p><p style=\"min-height:1.5em\">With a unique team of over 100 full-time research analysts &amp; planners, Dedale leverages a network of over 10,000 market professionals to deliver on-the-ground strategic intelligence to investors and corporates, with a core focus around North America and Europe.</p><p s",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/senior-software-engineer-paris-139544",
+      "remote": false,
+      "tags": [
+        "Product & Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615606,
+      "fetched_at": "2026-09-05T16:21:20.315864",
+      "match_score": 8.85,
+      "score_breakdown": {
+        "semantic_similarity": 0.2695,
+        "semantic_score": 8.85,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711409"
     },
     {
       "id": "arbeitnow_software-engineer-london-380457",
@@ -317,7 +574,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788569720,
-      "fetched_at": "2026-09-05T13:06:22.722865",
+      "fetched_at": "2026-09-05T16:21:20.312455",
       "match_score": 8.1,
       "score_breakdown": {
         "semantic_similarity": 0.2636,
@@ -325,7 +582,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917975"
+      "scored_at": "2026-09-05T16:21:38.710957"
     },
     {
       "id": "arbeitnow_senior-machine-learning-engineer-london-177034",
@@ -340,7 +597,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T13:06:22.721537",
+      "fetched_at": "2026-09-05T16:21:20.310951",
       "match_score": 5.7,
       "score_breakdown": {
         "semantic_similarity": 0.2448,
@@ -348,7 +605,145 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917902"
+      "scored_at": "2026-09-05T16:21:38.710889"
+    },
+    {
+      "id": "arbeitnow_software-engineer-java-paris-374073",
+      "title": "Software Engineer Java",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-java-paris-374073",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313344",
+      "match_score": 5.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.2424,
+        "semantic_score": 5.4,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711023"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-full-stack-cambridge-169608",
+      "title": "Senior Software Engineer, Full Stack",
+      "company": "Roku",
+      "location": "Cambridge",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-full-stack-cambridge-169608",
+      "remote": false,
+      "tags": [
+        "213 - Embedded SW Auto and Tools"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788612904,
+      "fetched_at": "2026-09-05T16:21:20.309004",
+      "match_score": 5.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1061,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-05T16:21:38.710752"
+    },
+    {
+      "id": "arbeitnow_lead-ai-engineer-bordeaux-353267",
+      "title": "Lead AI engineer",
+      "company": "mirakllabs",
+      "location": "Bordeaux",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-bordeaux-353267",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313924",
+      "match_score": 3.78,
+      "score_breakdown": {
+        "semantic_similarity": 0.2297,
+        "semantic_score": 3.78,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711217"
+    },
+    {
+      "id": "arbeitnow_lead-ai-engineer-paris-356902",
+      "title": "Lead AI engineer",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-paris-356902",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313986",
+      "match_score": 3.78,
+      "score_breakdown": {
+        "semantic_similarity": 0.2297,
+        "semantic_score": 3.78,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711243"
+    },
+    {
+      "id": "arbeitnow_senior-ai-engineer-bordeaux-91121",
+      "title": "Senior AI Engineer",
+      "company": "mirakllabs",
+      "location": "Bordeaux",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-bordeaux-91121",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313424",
+      "match_score": 2.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.2157,
+        "semantic_score": 2.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711052"
+    },
+    {
+      "id": "arbeitnow_senior-ai-engineer-paris-72618",
+      "title": "Senior AI Engineer",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-paris-72618",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313498",
+      "match_score": 2.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.2157,
+        "semantic_score": 2.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711079"
     },
     {
       "id": "arbeitnow_site-reliability-engineer-london-259308",
@@ -363,7 +758,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-05T13:06:22.721504",
+      "fetched_at": "2026-09-05T16:21:20.310908",
       "match_score": 1.98,
       "score_breakdown": {
         "semantic_similarity": 0.2155,
@@ -371,7 +766,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917878"
+      "scored_at": "2026-09-05T16:21:38.710861"
+    },
+    {
+      "id": "arbeitnow_senior-analytics-data-engineer-enterprise-data-platform-france-419837",
+      "title": "Senior Analytics / Data Engineer - Enterprise Data Platform",
+      "company": "Filigran",
+      "location": "France",
+      "description": "<h2>\ud83c\udf00 The Company</h2><p style=\"min-height:1.5em\">Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cyber threats, identify security gaps, and strengthen organizational security posture.</p><p style=\"min-height:1.5em\">Filigran solutions are now trusted by over 6,000 public and private organizations worldw",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-analytics-data-engineer-enterprise-data-platform-france-419837",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615611,
+      "fetched_at": "2026-09-05T16:21:20.314696",
+      "match_score": 1.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.2116,
+        "semantic_score": 1.47,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711284"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-platform-distributed-systems-xtm-foundation-france-426377",
+      "title": "Senior Software Engineer \u2014 Platform & Distributed Systems (XTM Foundation)",
+      "company": "Filigran",
+      "location": "France",
+      "description": "<h2>\ud83c\udf00 The Company</h2><p style=\"min-height:1.5em\">Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cyber threats, identify security gaps, and strengthen organizational security posture.</p><p style=\"min-height:1.5em\">Filigran solutions are now trusted by over 6,000 public and private organizations worldw",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-platform-distributed-systems-xtm-foundation-france-426377",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615611,
+      "fetched_at": "2026-09-05T16:21:20.314855",
+      "match_score": 0.87,
+      "score_breakdown": {
+        "semantic_similarity": 0.2069,
+        "semantic_score": 0.87,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711352"
     },
     {
       "id": "arbeitnow_senior-cloud-engineer-battersea-power-station-98014",
@@ -386,7 +827,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788602106,
-      "fetched_at": "2026-09-05T13:06:22.720518",
+      "fetched_at": "2026-09-05T16:21:20.309657",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1964,
@@ -394,7 +835,122 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-05T13:06:37.917795"
+      "scored_at": "2026-09-05T16:21:38.710777"
+    },
+    {
+      "id": "arbeitnow_product-manager-fulfillment-freelance-paris-345312",
+      "title": "Product Manager - Fulfillment (Freelance)",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-paris-345312",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313551",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1805,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711108"
+    },
+    {
+      "id": "arbeitnow_product-manager-fulfillment-freelance-bordeaux-213850",
+      "title": "Product Manager  - Fulfillment (Freelance)",
+      "company": "mirakllabs",
+      "location": "Bordeaux",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-bordeaux-213850",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313601",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1805,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711135"
+    },
+    {
+      "id": "arbeitnow_product-manager-fulfillment-12-month-contract-paris-271339",
+      "title": "Product Manager - Fulfillment (12-month contract)",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-paris-271339",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313667",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1621,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711163"
+    },
+    {
+      "id": "arbeitnow_product-manager-fulfillment-12-month-contract-bordeaux-441604",
+      "title": "Product Manager - Fulfillment (12-month contract)",
+      "company": "mirakllabs",
+      "location": "Bordeaux",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-bordeaux-441604",
+      "remote": false,
+      "tags": [
+        "Tech"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788616515,
+      "fetched_at": "2026-09-05T16:21:20.313721",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1621,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711189"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-opengrc-france-227487",
+      "title": "Senior Software Engineer - OpenGRC",
+      "company": "Filigran",
+      "location": "France",
+      "description": "<h2>\ud83c\udf00 The Company</h2><p style=\"min-height:1.5em\">Filigran, founded in October 2022, stands out in the cybertech ecosystem for its commitment to revolutionizing cyber threat management with a proactive approach. Its mission is to develop innovative open-source solutions designed to anticipate cyber threats, identify security gaps, and strengthen organizational security posture.</p><p style=\"min-height:1.5em\">Filigran solutions are now trusted by over 6,000 public and private organizations worldw",
+      "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-opengrc-france-227487",
+      "remote": false,
+      "tags": [
+        "Research & Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788615611,
+      "fetched_at": "2026-09-05T16:21:20.314859",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1902,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-05T16:21:38.711381"
     }
   ]
 }
