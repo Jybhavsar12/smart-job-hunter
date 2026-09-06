@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-05 23:27 UTC
+**Last updated:** 2026-09-06 09:48 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 86 |
-| Jobs found (all time) | 1226 |
-| Jobs found (latest run, 2026-09-05) | 41 |
-| Best match (latest run) | Python Backend Engineer (m/f/x) at Makersite GmbH (score 51) |
+| Search runs | 87 |
+| Jobs found (all time) | 1272 |
+| Jobs found (latest run, 2026-09-06) | 46 |
+| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
