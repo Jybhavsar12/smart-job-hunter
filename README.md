@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-06 19:42 UTC
+**Last updated:** 2026-09-06 23:19 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 87 |
-| Jobs found (all time) | 1255 |
-| Jobs found (latest run, 2026-09-06) | 29 |
+| Jobs found (all time) | 1250 |
+| Jobs found (latest run, 2026-09-06) | 24 |
 | Best match (latest run) | Senior Security Engineer (all genders) at Capmo (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
