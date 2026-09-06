@@ -1,58 +1,7 @@
 {
   "date": "2026-09-06",
-  "count": 30,
+  "count": 29,
   "jobs": [
-    {
-      "id": "arbeitnow_senior-software-developer-frontend-react-saarbrucken-42438",
-      "title": "(Senior) Software Developer Frontend / React (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbr\u00fccken",
-      "description": "<br><strong>Your mission</strong><p><p><br></p><ul><li>You develop features and improvements across the full stack of our SaaS application \u2013 both on the backend (Django / Django REST Framework, FastAPI) and the frontend (React / TypeScript) \u2013 consistently leveraging AI-assisted development tools like GitHub Copilot or Cursor to deliver faster and more efficiently.</li><li>As an experienced software developer, you collaborate closely with both development teams and coordinate with all relevant st",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-42438",
-      "remote": false,
-      "tags": [
-        "fullstack",
-        "python",
-        "django",
-        "react",
-        "javascript",
-        "typescript"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788671359,
-      "fetched_at": "2026-09-06T16:32:55.119935",
-      "match_score": 63.39,
-      "score_breakdown": {
-        "semantic_similarity": 0.6195,
-        "semantic_score": 53.39,
-        "location_match": 0,
-        "priority_keywords": 10
-      },
-      "scored_at": "2026-09-06T16:33:09.399212"
-    },
-    {
-      "id": "arbeitnow_software-engineer-software-platform-middleware-early-career-munich-409502",
-      "title": "Software Engineer \u2014 Software Platform & Middleware (Early Career)",
-      "company": "Apex Ai",
-      "location": "Munich",
-      "description": "<div>\n<p><strong>Build the Software Platform Powering Next-Generation Mobility</strong></p>\n<p>Apex.AI is developing the software foundation for autonomous systems, intelligent machines, and software-defined vehicles. We are looking for an early-career Software Engineer to help advance our core software platform technologies, including Apex.Grace and Apex.Ida.</p>\n<p>This role is ideal for recent university graduates or engineers with 1\u20132 years of experience who are passionate about modern C++, ",
-      "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788672272,
-      "fetched_at": "2026-09-06T16:32:53.953525",
-      "match_score": 44.92,
-      "score_breakdown": {
-        "semantic_similarity": 0.553,
-        "semantic_score": 44.92,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-06T16:33:09.398661"
-    },
     {
       "id": "arbeitnow_senior-security-engineer-all-genders-munich-5553",
       "title": "Senior Security Engineer (all genders)",
@@ -69,7 +18,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788703764,
-      "fetched_at": "2026-09-06T16:32:53.951180",
+      "fetched_at": "2026-09-06T19:42:01.555182",
       "match_score": 43.89,
       "score_breakdown": {
         "semantic_similarity": 0.5448,
@@ -77,7 +26,28 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398427"
+      "scored_at": "2026-09-06T19:42:15.037553"
+    },
+    {
+      "id": "arbeitnow_remote-junior-software-engineer-platforms-all-genders-57344",
+      "title": "Junior Software Engineer - Platforms (all genders)",
+      "company": "gridX GmbH",
+      "location": "Remote DE; Aachen; Munich",
+      "description": "<br><strong>Your impact at gridX</strong><p><span style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;color:rgb(31,31,31);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">As a\u00a0</span><span style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;color:rgb(31,31,31);background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">Junior Software Engineer</span><span style=\"font-size:14px;font-family:Arial, Helvetica, sans-",
+      "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-junior-software-engineer-platforms-all-genders-57344",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1788714582,
+      "fetched_at": "2026-09-06T19:42:01.553882",
+      "match_score": 43.64,
+      "score_breakdown": {
+        "semantic_similarity": 0.3857,
+        "semantic_score": 23.64,
+        "location_match": 15,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-06T19:42:15.037447"
     },
     {
       "id": "arbeitnow_remote-staff-software-developer-iam-383896",
@@ -92,7 +62,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788684912,
-      "fetched_at": "2026-09-06T16:32:53.952009",
+      "fetched_at": "2026-09-06T19:42:01.555884",
       "match_score": 41.59,
       "score_breakdown": {
         "semantic_similarity": 0.409,
@@ -100,7 +70,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398502"
+      "scored_at": "2026-09-06T19:42:15.037614"
     },
     {
       "id": "arbeitnow_senior-security-engineer-remote-301763",
@@ -115,7 +85,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788702005,
-      "fetched_at": "2026-09-06T16:32:53.959103",
+      "fetched_at": "2026-09-06T19:42:01.561295",
       "match_score": 40.12,
       "score_breakdown": {
         "semantic_similarity": 0.3974,
@@ -123,7 +93,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399061"
+      "scored_at": "2026-09-06T19:42:15.038038"
     },
     {
       "id": "arbeitnow_senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321",
@@ -138,7 +108,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788684907,
-      "fetched_at": "2026-09-06T16:32:53.952132",
+      "fetched_at": "2026-09-06T19:42:01.555989",
       "match_score": 39.0,
       "score_breakdown": {
         "semantic_similarity": 0.5064,
@@ -146,30 +116,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398539"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-software-platform-middleware-munich-251904",
-      "title": "Senior Software Engineer \u2014 Software Platform & Middleware",
-      "company": "Apex Ai",
-      "location": "Munich",
-      "description": "<div>\n<p><strong>Build the Software Platform Powering Next-Generation Mobility</strong></p>\n<p>Apex.AI is developing the software foundation for autonomous systems, intelligent machines, and software-defined vehicles. We are looking for an experienced Software Engineer to help advance our core software platform technologies, including Apex.Grace and Apex.Ida.</p>\n<p>In this role, you will work on high-performance middleware, runtime systems, developer tooling, and software platform infrastructur",
-      "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-251904",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788672272,
-      "fetched_at": "2026-09-06T16:32:53.953530",
-      "match_score": 38.22,
-      "score_breakdown": {
-        "semantic_similarity": 0.5003,
-        "semantic_score": 38.22,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-06T16:33:09.398692"
+      "scored_at": "2026-09-06T19:42:15.037644"
     },
     {
       "id": "arbeitnow_senior-software-architect-356646",
@@ -185,7 +132,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-06T16:32:55.124825",
+      "fetched_at": "2026-09-06T19:42:02.796032",
       "match_score": 34.68,
       "score_breakdown": {
         "semantic_similarity": 0.3547,
@@ -193,7 +140,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399273"
+      "scored_at": "2026-09-06T19:42:15.038157"
     },
     {
       "id": "arbeitnow_senior-systems-engineer-bristol-461847",
@@ -208,7 +155,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-06T16:32:53.955832",
+      "fetched_at": "2026-09-06T19:42:01.558406",
       "match_score": 34.25,
       "score_breakdown": {
         "semantic_similarity": 0.4691,
@@ -216,7 +163,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398782"
+      "scored_at": "2026-09-06T19:42:15.037806"
     },
     {
       "id": "arbeitnow_software-architect-377105",
@@ -232,7 +179,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788580510,
-      "fetched_at": "2026-09-06T16:32:55.124779",
+      "fetched_at": "2026-09-06T19:42:02.795992",
       "match_score": 33.89,
       "score_breakdown": {
         "semantic_similarity": 0.3484,
@@ -240,35 +187,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399244"
-    },
-    {
-      "id": "arbeitnow_technical-project-manager-software-development-saarbrucken-384502",
-      "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbr\u00fccken",
-      "description": "<br><strong>Your mission</strong><p><ul><li>You are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.</li><li>You lead our Development Leads and development teams both functionally and disciplinarily. You establish clear responsibilities, develop team members, and ensure that pro",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502",
-      "remote": false,
-      "tags": [
-        "Lead Developer",
-        "Engineering Lead",
-        "Software Architecture",
-        "Python",
-        "Django",
-        "React"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788671359,
-      "fetched_at": "2026-09-06T16:32:55.119933",
-      "match_score": 32.39,
-      "score_breakdown": {
-        "semantic_similarity": 0.4545,
-        "semantic_score": 32.39,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-06T16:33:09.399176"
+      "scored_at": "2026-09-06T19:42:15.038133"
     },
     {
       "id": "arbeitnow_senior-software-engineer-stream-processing-28133",
@@ -283,7 +202,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-06T16:32:53.957495",
+      "fetched_at": "2026-09-06T19:42:01.559806",
       "match_score": 30.6,
       "score_breakdown": {
         "semantic_similarity": 0.3226,
@@ -291,30 +210,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398959"
-    },
-    {
-      "id": "arbeitnow_staff-forward-deployed-engineer-berlin-munich-227443",
-      "title": "Staff Forward Deployed Engineer",
-      "company": "databricks",
-      "location": "Berlin; Munich",
-      "description": "&lt;p&gt;&lt;strong&gt;CSQ427R243&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-forward-deployed-engineer-berlin-munich-227443",
-      "remote": false,
-      "tags": [
-        "Professional Services Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788674114,
-      "fetched_at": "2026-09-06T16:32:53.953341",
-      "match_score": 29.13,
-      "score_breakdown": {
-        "semantic_similarity": 0.4289,
-        "semantic_score": 29.13,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-06T16:33:09.398620"
+      "scored_at": "2026-09-06T19:42:15.037965"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-402117",
@@ -329,7 +225,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788645306,
-      "fetched_at": "2026-09-06T16:32:53.955621",
+      "fetched_at": "2026-09-06T19:42:01.558222",
       "match_score": 28.94,
       "score_breakdown": {
         "semantic_similarity": 0.3095,
@@ -337,7 +233,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398756"
+      "scored_at": "2026-09-06T19:42:15.037783"
     },
     {
       "id": "arbeitnow_senior-tech-lead-backend-engineer-managed-kubernetes-388791",
@@ -352,7 +248,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788591307,
-      "fetched_at": "2026-09-06T16:32:53.957492",
+      "fetched_at": "2026-09-06T19:42:01.559803",
       "match_score": 27.52,
       "score_breakdown": {
         "semantic_similarity": 0.2984,
@@ -360,7 +256,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398935"
+      "scored_at": "2026-09-06T19:42:15.037947"
     },
     {
       "id": "arbeitnow_software-developer-full-stack-hamburg-109254",
@@ -373,7 +269,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788682145,
-      "fetched_at": "2026-09-06T16:32:53.952994",
+      "fetched_at": "2026-09-06T19:42:01.556731",
       "match_score": 25.61,
       "score_breakdown": {
         "semantic_similarity": 0.4012,
@@ -381,7 +277,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398581"
+      "scored_at": "2026-09-06T19:42:15.037678"
+    },
+    {
+      "id": "arbeitnow_remote-principal-security-researcher-92261",
+      "title": "Principal Security Researcher",
+      "company": "gitlab",
+      "location": "Remote",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-92261",
+      "remote": false,
+      "tags": [
+        "Product Security"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788720920,
+      "fetched_at": "2026-09-06T19:42:01.556842",
+      "match_score": 23.49,
+      "score_breakdown": {
+        "semantic_similarity": 0.2667,
+        "semantic_score": 8.49,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-06T19:42:15.037702"
     },
     {
       "id": "arbeitnow_associate-backend-software-engineer-python-manchester-430147",
@@ -396,7 +315,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788688504,
-      "fetched_at": "2026-09-06T16:32:53.954446",
+      "fetched_at": "2026-09-06T19:42:01.557228",
       "match_score": 22.76,
       "score_breakdown": {
         "semantic_similarity": 0.3396,
@@ -404,7 +323,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-06T16:33:09.398724"
+      "scored_at": "2026-09-06T19:42:15.037757"
     },
     {
       "id": "arbeitnow_software-engineer-ii-c-rust-kassel-hesse-452567",
@@ -419,7 +338,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788706505,
-      "fetched_at": "2026-09-06T16:32:53.950605",
+      "fetched_at": "2026-09-06T19:42:01.554742",
       "match_score": 20.65,
       "score_breakdown": {
         "semantic_similarity": 0.3622,
@@ -427,7 +346,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398341"
+      "scored_at": "2026-09-06T19:42:15.037498"
     },
     {
       "id": "arbeitnow_software-developer-go-security-analytics-berlin-146655",
@@ -442,7 +361,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788687023,
-      "fetched_at": "2026-09-06T16:32:55.118116",
+      "fetched_at": "2026-09-06T19:42:02.791287",
       "match_score": 20.38,
       "score_breakdown": {
         "semantic_similarity": 0.3601,
@@ -450,7 +369,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399145"
+      "scored_at": "2026-09-06T19:42:15.038106"
     },
     {
       "id": "arbeitnow_senior-software-engineer-cambridge-296220",
@@ -465,7 +384,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-06T16:32:53.955836",
+      "fetched_at": "2026-09-06T19:42:01.558410",
       "match_score": 17.56,
       "score_breakdown": {
         "semantic_similarity": 0.338,
@@ -473,7 +392,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398815"
+      "scored_at": "2026-09-06T19:42:15.037834"
     },
     {
       "id": "arbeitnow_senior-software-engineer-i-paris-paris-341689",
@@ -488,7 +407,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788681307,
-      "fetched_at": "2026-09-06T16:32:53.961159",
+      "fetched_at": "2026-09-06T19:42:01.563056",
       "match_score": 17.24,
       "score_breakdown": {
         "semantic_similarity": 0.3355,
@@ -496,7 +415,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399091"
+      "scored_at": "2026-09-06T19:42:15.038063"
     },
     {
       "id": "arbeitnow_senior-embedded-software-engineer-hardware-berlin-470158",
@@ -511,7 +430,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788684915,
-      "fetched_at": "2026-09-06T16:32:53.951971",
+      "fetched_at": "2026-09-06T19:42:01.555851",
       "match_score": 17.18,
       "score_breakdown": {
         "semantic_similarity": 0.335,
@@ -519,7 +438,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398461"
+      "scored_at": "2026-09-06T19:42:15.037581"
     },
     {
       "id": "arbeitnow_sr-software-engineer-ai-ml-ai-platform-london-276160",
@@ -534,7 +453,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-06T16:32:53.955842",
+      "fetched_at": "2026-09-06T19:42:01.558414",
       "match_score": 15.72,
       "score_breakdown": {
         "semantic_similarity": 0.3235,
@@ -542,7 +461,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398865"
+      "scored_at": "2026-09-06T19:42:15.037873"
+    },
+    {
+      "id": "arbeitnow_staff-engineer-web-platform-london-232412",
+      "title": "Staff Engineer - Web Platform",
+      "company": "intercom",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey \u2013 from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-engineer-web-platform-london-232412",
+      "remote": false,
+      "tags": [
+        "Marketing"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788710116,
+      "fetched_at": "2026-09-06T19:42:01.556986",
+      "match_score": 14.99,
+      "score_breakdown": {
+        "semantic_similarity": 0.3178,
+        "semantic_score": 14.99,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-06T19:42:15.037730"
     },
     {
       "id": "arbeitnow_sr-software-engineer-investor-solutions-edinburgh-383916",
@@ -557,7 +499,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-06T16:32:53.955839",
+      "fetched_at": "2026-09-06T19:42:01.558412",
       "match_score": 10.5,
       "score_breakdown": {
         "semantic_similarity": 0.2825,
@@ -565,7 +507,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398840"
+      "scored_at": "2026-09-06T19:42:15.037855"
     },
     {
       "id": "arbeitnow_senior-software-engineer-teilprojektleitung-munchen-195012",
@@ -578,7 +520,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788703786,
-      "fetched_at": "2026-09-06T16:32:53.950813",
+      "fetched_at": "2026-09-06T19:42:01.554883",
       "match_score": 10.3,
       "score_breakdown": {
         "semantic_similarity": 0.2809,
@@ -586,7 +528,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398400"
+      "scored_at": "2026-09-06T19:42:15.037533"
     },
     {
       "id": "arbeitnow_senior-machine-learning-engineer-london-177034",
@@ -601,7 +543,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-06T16:32:53.958000",
+      "fetched_at": "2026-09-06T19:42:01.560232",
       "match_score": 5.7,
       "score_breakdown": {
         "semantic_similarity": 0.2448,
@@ -609,7 +551,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399013"
+      "scored_at": "2026-09-06T19:42:15.038009"
     },
     {
       "id": "arbeitnow_senior-software-engineer-full-stack-cambridge-169608",
@@ -624,7 +566,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788612904,
-      "fetched_at": "2026-09-06T16:32:53.956227",
+      "fetched_at": "2026-09-06T19:42:01.558739",
       "match_score": 5.0,
       "score_breakdown": {
         "semantic_similarity": 0.1061,
@@ -632,7 +574,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-06T16:33:09.398888"
+      "scored_at": "2026-09-06T19:42:15.037893"
     },
     {
       "id": "arbeitnow_product-manager-data-fluent-french-english-paris-paris-416720",
@@ -647,7 +589,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788681307,
-      "fetched_at": "2026-09-06T16:32:53.961311",
+      "fetched_at": "2026-09-06T19:42:01.563187",
       "match_score": 4.04,
       "score_breakdown": {
         "semantic_similarity": 0.2317,
@@ -655,7 +597,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.399115"
+      "scored_at": "2026-09-06T19:42:15.038082"
     },
     {
       "id": "arbeitnow_site-reliability-engineer-london-259308",
@@ -670,7 +612,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788590413,
-      "fetched_at": "2026-09-06T16:32:53.957962",
+      "fetched_at": "2026-09-06T19:42:01.560199",
       "match_score": 1.98,
       "score_breakdown": {
         "semantic_similarity": 0.2155,
@@ -678,7 +620,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398987"
+      "scored_at": "2026-09-06T19:42:15.037987"
     },
     {
       "id": "arbeitnow_senior-cloud-engineer-battersea-power-station-98014",
@@ -693,7 +635,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788602106,
-      "fetched_at": "2026-09-06T16:32:53.956837",
+      "fetched_at": "2026-09-06T19:42:01.559242",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1964,
@@ -701,7 +643,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-06T16:33:09.398909"
+      "scored_at": "2026-09-06T19:42:15.037926"
+    },
+    {
+      "id": "arbeitnow_data-manager-paris-478505",
+      "title": "Data Manager",
+      "company": "DeepHealth",
+      "location": "Paris, \u00cele-de-France, France",
+      "description": "<p class=\"Paragraph SCXW266388420 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#A10693\">Company Overview&nbsp;&nbsp;</span></strong></p><p class=\"Paragraph SCXW266388420 BCX0\" style=\"text-align:start;\"><span style=\"color:#221E1F\">&nbsp;</span></p><p class=\"Paragraph SCXW266388420 BCX0\" style=\"text-align:start;\"><span style=\"color:#221E1F\">DeepHealth, a RadNet company, is focused on delivering AI-powered solutions that improve population health, optimize radiology workflows, and dri",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505",
+      "remote": false,
+      "tags": [
+        "R&D"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788712237,
+      "fetched_at": "2026-09-06T19:42:02.796543",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1893,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-06T19:42:15.038172"
     }
   ]
 }

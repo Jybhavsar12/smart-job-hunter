@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-06 16:33 UTC
+**Last updated:** 2026-09-06 19:42 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 87 |
-| Jobs found (all time) | 1256 |
-| Jobs found (latest run, 2026-09-06) | 30 |
-| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
+| Jobs found (all time) | 1255 |
+| Jobs found (latest run, 2026-09-06) | 29 |
+| Best match (latest run) | Senior Security Engineer (all genders) at Capmo (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
