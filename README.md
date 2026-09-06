@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-06 13:15 UTC
+**Last updated:** 2026-09-06 16:33 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 87 |
-| Jobs found (all time) | 1257 |
-| Jobs found (latest run, 2026-09-06) | 31 |
-| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
+| Jobs found (all time) | 1256 |
+| Jobs found (latest run, 2026-09-06) | 30 |
+| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
