@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-07 18:29 UTC
+**Last updated:** 2026-09-07 23:51 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 88 |
-| Jobs found (all time) | 1277 |
-| Jobs found (latest run, 2026-09-07) | 27 |
-| Best match (latest run) | Senior Security Engineer - Remote at Parity (score 40) |
+| Jobs found (all time) | 1280 |
+| Jobs found (latest run, 2026-09-07) | 30 |
+| Best match (latest run) | Senior Systems Engineer at Graphcore (score 34) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

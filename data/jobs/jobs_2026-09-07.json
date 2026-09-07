@@ -1,30 +1,7 @@
 {
   "date": "2026-09-07",
-  "count": 27,
+  "count": 30,
   "jobs": [
-    {
-      "id": "arbeitnow_senior-security-engineer-remote-301763",
-      "title": "Senior Security Engineer - Remote",
-      "company": "Parity",
-      "location": "Remote",
-      "description": "<h2><strong>About Us </strong></h2><p style=\"min-height:1.5em\">Parity is one of the world\u2019s most experienced companies building the core infrastructure behind blockchain \u2014 the system that allows information and value to be shared securely without needing an intermediary. We\u2019re laying the foundation for a better web which respects the freedom and data of individuals, and empowers developers to build better, more trustworthy online services.</p><p style=\"min-height:1.5em\"><br />Our remote-first, g",
-      "url": "https://www.arbeitnow.fr/jobs/companies/parity/senior-security-engineer-remote-301763",
-      "remote": false,
-      "tags": [
-        "Acceleration"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788702005,
-      "fetched_at": "2026-09-07T18:28:52.918576",
-      "match_score": 40.12,
-      "score_breakdown": {
-        "semantic_similarity": 0.3974,
-        "semantic_score": 25.12,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-07T18:29:09.788564"
-    },
     {
       "id": "arbeitnow_senior-systems-engineer-bristol-461847",
       "title": "Senior Systems Engineer",
@@ -38,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788623715,
-      "fetched_at": "2026-09-07T18:28:52.914528",
+      "fetched_at": "2026-09-07T23:51:18.419948",
       "match_score": 34.25,
       "score_breakdown": {
         "semantic_similarity": 0.4691,
@@ -46,7 +23,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788256"
+      "scored_at": "2026-09-07T23:51:36.504657"
     },
     {
       "id": "arbeitnow_senior-software-engineer-go-402117",
@@ -61,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788645306,
-      "fetched_at": "2026-09-07T18:28:52.914304",
+      "fetched_at": "2026-09-07T23:51:18.419699",
       "match_score": 28.94,
       "score_breakdown": {
         "semantic_similarity": 0.3095,
@@ -69,7 +46,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788192"
+      "scored_at": "2026-09-07T23:51:36.504630"
     },
     {
       "id": "arbeitnow_software-engineer-munich-408751",
@@ -82,7 +59,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788800964,
-      "fetched_at": "2026-09-07T18:28:52.908446",
+      "fetched_at": "2026-09-07T23:51:18.413241",
       "match_score": 28.33,
       "score_breakdown": {
         "semantic_similarity": 0.4226,
@@ -90,7 +67,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787733"
+      "scored_at": "2026-09-07T23:51:36.504118"
     },
     {
       "id": "arbeitnow_senior-software-engineer-munich-15675",
@@ -103,7 +80,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788800964,
-      "fetched_at": "2026-09-07T18:28:52.908466",
+      "fetched_at": "2026-09-07T23:51:18.413244",
       "match_score": 27.15,
       "score_breakdown": {
         "semantic_similarity": 0.4133,
@@ -111,7 +88,77 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787767"
+      "scored_at": "2026-09-07T23:51:36.504143"
+    },
+    {
+      "id": "arbeitnow_senior-systems-engineer-commissioning-and-characterisation-bristol-london-10176",
+      "title": "Senior Systems Engineer - Commissioning and Characterisation",
+      "company": "Graphcore",
+      "location": "Bristol; London",
+      "description": "&lt;p&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Explore how a next-generation AI architecture behaves from rack scale to data centre scale.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Senior Systems Engineer, you will investigate a novel AI computing architecture under demanding real-world workloads. You will work on problems where answers aren&#39;t readily known, turning curiosity into measurable evidence.&lt;/p&gt;\n&lt;p&gt;You will design experiments, benchmark representative AI",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-commissioning-and-characterisation-bristol-london-10176",
+      "remote": false,
+      "tags": [
+        "System QA"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788807303,
+      "fetched_at": "2026-09-07T23:51:18.415764",
+      "match_score": 24.91,
+      "score_breakdown": {
+        "semantic_similarity": 0.3957,
+        "semantic_score": 24.91,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504431"
+    },
+    {
+      "id": "arbeitnow_remote-senior-application-security-engineer-all-genders-berlin-401064",
+      "title": "Senior Application Security Engineer (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "description": "<p><strong>Distribusion</strong> is the world\u2019s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com.</p><p style=\"min-height: 1.7em;\"></p><p>We are shaping the future of travel and building the largest global network of tr",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-401064",
+      "remote": true,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788802204,
+      "fetched_at": "2026-09-07T23:51:18.413041",
+      "match_score": 24.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.2777,
+        "semantic_score": 9.89,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504081"
+    },
+    {
+      "id": "arbeitnow_junior-data-scientist-sales-marketing-london-52590",
+      "title": "Junior Data Scientist - Sales & Marketing",
+      "company": "iwoca",
+      "location": "London",
+      "description": "<h1>Junior Data Scientist - Sales &amp; Marketing</h1><p style=\"min-height:1.5em\">Hybrid in London, United Kingdom</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>We\u2019re looking for a Junior Data Scientist</strong></p><p style=\"min-height:1.5em\">You'll design experiments and build the statistical models that shape how iwoca reaches new customers. You'll practise mastery of your craft, mentored by the team's data scientist, with iwoca's wider data science community around yo",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/junior-data-scientist-sales-marketing-london-52590",
+      "remote": false,
+      "tags": [
+        "Data Science"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788806402,
+      "fetched_at": "2026-09-07T23:51:18.415992",
+      "match_score": 23.73,
+      "score_breakdown": {
+        "semantic_similarity": 0.3472,
+        "semantic_score": 18.73,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-09-07T23:51:36.504465"
     },
     {
       "id": "arbeitnow_remote-principal-security-researcher-92261",
@@ -126,7 +173,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788720920,
-      "fetched_at": "2026-09-07T18:28:52.912642",
+      "fetched_at": "2026-09-07T23:51:18.417942",
       "match_score": 23.49,
       "score_breakdown": {
         "semantic_similarity": 0.2667,
@@ -134,7 +181,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788091"
+      "scored_at": "2026-09-07T23:51:36.504529"
+    },
+    {
+      "id": "arbeitnow_remote-ai-enablement-lead-gn-data-intelligence-183432",
+      "title": "AI Enablement Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "location": "Europe - Remote",
+      "description": "<div>\n<p>The AI Enablement Team is the catalyst for internal transformation and product acceleration across Actian. In the modern data landscape, AI is not a siloed experimental lab; it is a core capability that must be embedded into our product DNA and our engineering workflows.</p>\n<p>We are looking for an <strong>AI Enablement Lead</strong> who will architect, scale, and own our AI enablement strategy end-to-end. You are not a theoretical researcher or a passive prompt engineer; you are a hig",
+      "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-ai-enablement-lead-gn-data-intelligence-183432",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788818645,
+      "fetched_at": "2026-09-07T23:51:18.420109",
+      "match_score": 22.93,
+      "score_breakdown": {
+        "semantic_similarity": 0.2623,
+        "semantic_score": 7.93,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504755"
     },
     {
       "id": "arbeitnow_associate-backend-software-engineer-python-manchester-430147",
@@ -149,7 +219,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788688504,
-      "fetched_at": "2026-09-07T18:28:52.913110",
+      "fetched_at": "2026-09-07T23:51:18.418423",
       "match_score": 22.76,
       "score_breakdown": {
         "semantic_similarity": 0.3396,
@@ -157,7 +227,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-07T18:29:09.788159"
+      "scored_at": "2026-09-07T23:51:36.504598"
     },
     {
       "id": "arbeitnow_full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
@@ -172,7 +242,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788797051,
-      "fetched_at": "2026-09-07T18:28:55.607246",
+      "fetched_at": "2026-09-07T23:51:20.727362",
       "match_score": 21.45,
       "score_breakdown": {
         "semantic_similarity": 0.3292,
@@ -180,30 +250,30 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-07T18:29:09.788616"
+      "scored_at": "2026-09-07T23:51:36.505083"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-cambridge-296220",
-      "title": "Senior Software Engineer",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "description": "&lt;p&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Own the quality gate for the drivers that power Graphcore\u2019s next-generation AI systems.&lt;/p&gt;\n&lt;p&gt;As a Staff System Software Engineer in Test, you will join the Drivers QA team in Cambridge. You will design, build and run tests for complex Linux device drivers, user space libraries and platform tools.&lt;/p&gt;\n&lt;p&gt;Your work will help ensure Graphcore\u2019s driver releases are reliable, robust and production ready. ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-cambridge-296220",
+      "id": "arbeitnow_senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-53740",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "company": "Datadog",
+      "location": "Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Distributed Systems engineers at Datadog design, implement and run in production the foundational platforms powering our applications. Your data pipelines will ingest, store, analyze and query in real-time billions of events per second from companies all over the globe. The platforms are optimized for durability, high availability, low latency, internet-scale footprint and operability.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&l",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-53740",
       "remote": false,
       "tags": [
-        "Core"
+        "Dev Eng"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788623715,
-      "fetched_at": "2026-09-07T18:28:52.914530",
-      "match_score": 17.56,
+      "posted_at": 1788821708,
+      "fetched_at": "2026-09-07T23:51:18.420028",
+      "match_score": 19.14,
       "score_breakdown": {
-        "semantic_similarity": 0.338,
-        "semantic_score": 17.56,
+        "semantic_similarity": 0.3504,
+        "semantic_score": 19.14,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788293"
+      "scored_at": "2026-09-07T23:51:36.504724"
     },
     {
       "id": "arbeitnow_senior-application-security-engineer-all-genders-berlin-47116",
@@ -219,7 +289,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788794416,
-      "fetched_at": "2026-09-07T18:28:52.908815",
+      "fetched_at": "2026-09-07T23:51:18.413611",
       "match_score": 15.84,
       "score_breakdown": {
         "semantic_similarity": 0.3244,
@@ -227,30 +297,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787867"
-    },
-    {
-      "id": "arbeitnow_sr-software-engineer-ai-ml-ai-platform-london-276160",
-      "title": "Sr. Software Engineer - AI/ML - AI Platform",
-      "company": "Addepar1",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
-      "remote": false,
-      "tags": [
-        "Alts & Data Management"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788623715,
-      "fetched_at": "2026-09-07T18:28:52.914536",
-      "match_score": 15.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.3235,
-        "semantic_score": 15.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-07T18:29:09.788346"
+      "scored_at": "2026-09-07T23:51:36.504225"
     },
     {
       "id": "arbeitnow_staff-engineer-web-platform-london-232412",
@@ -265,7 +312,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788710116,
-      "fetched_at": "2026-09-07T18:28:52.912808",
+      "fetched_at": "2026-09-07T23:51:18.418118",
       "match_score": 14.99,
       "score_breakdown": {
         "semantic_similarity": 0.3178,
@@ -273,76 +320,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788126"
+      "scored_at": "2026-09-07T23:51:36.504564"
     },
     {
-      "id": "arbeitnow_ai-developer-nuremberg-458711",
-      "title": "AI Developer (m/w/d)",
-      "company": "PartSpace GmbH",
-      "location": "Nuremberg",
-      "description": "<h2>Werde Teil von PartSpace und gestalte mit uns die Zukunft der Bauteilbeschaffung!</h2>\n<p>**<strong>PartSpace</strong> ist ein <strong>wachstumsstarkes, innovatives Tech-Unternehmen</strong>mit einer klaren Mission: Mit K\u00fcnstlicher Intelligenz und echten Engineering-Daten definiert PartSpace den technischen Einkauf der Zukunft neu. Unsere cloudbasierte Plattform macht die Beschaffung von Bauteilen in der Industrie intelligenter \u2013 und agiert dabei wie ein Ingenieur.</p>\n<p>Wir haben Gro\u00dfes vo",
-      "url": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/ai-developer-nuremberg-458711",
+      "id": "arbeitnow_founding-ai-engineer-at-plato-backed-by-hexa-paris-61480",
+      "title": "Founding AI Engineer @Plato (backed by Hexa)",
+      "company": "Hexa",
+      "location": "Paris",
+      "description": "<h3><strong>\u2696\ufe0f Who are we</strong></h3><p style=\"min-height:1.5em\"><strong>Plato is building the AI OS for litigation lawyers.</strong></p><p style=\"min-height:1.5em\">With AI, the legal industry is on the verge of a major transformation. Litigation lawyers are overwhelmed by complex and repetitive tasks: complex damage calculations, thousands of documents to review, days spent drafting legal documents, and more.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our mission:<",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/founding-ai-engineer-at-plato-backed-by-hexa-paris-61480",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Plato"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788786052,
-      "fetched_at": "2026-09-07T18:28:52.910528",
-      "match_score": 13.75,
+      "posted_at": 1788810018,
+      "fetched_at": "2026-09-07T23:51:18.420235",
+      "match_score": 6.94,
       "score_breakdown": {
-        "semantic_similarity": 0.308,
-        "semantic_score": 13.75,
+        "semantic_similarity": 0.2545,
+        "semantic_score": 6.94,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788024"
-    },
-    {
-      "id": "arbeitnow_sr-software-engineer-investor-solutions-edinburgh-383916",
-      "title": "Sr. Software Engineer, Investor Solutions",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,400 firms in",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
-      "remote": false,
-      "tags": [
-        "Alts & Data Management"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788623715,
-      "fetched_at": "2026-09-07T18:28:52.914533",
-      "match_score": 10.5,
-      "score_breakdown": {
-        "semantic_similarity": 0.2825,
-        "semantic_score": 10.5,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-07T18:29:09.788320"
-    },
-    {
-      "id": "arbeitnow_backend-developer-golang-hamburg-420727",
-      "title": "Backend Developer - Golang (f/m/d)",
-      "company": "Justdice",
-      "location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">At justDice, we create mobile gaming experiences that reward players for their time and engagement. We move quickly, take ownership, and value people who bring ideas, curiosity, and a willingness to challenge how we do things. You\u2019ll work with experienced teammates, solve meaningful problems, and have the freedom to make an impact from day one.</p><p style=\"min-height:1.5em\"><strong>JustDice</strong> is a leading developer of mobile gaming loyalty programs. We create ",
-      "url": "https://www.arbeitnow.com/jobs/companies/justdice/backend-developer-golang-hamburg-420727",
-      "remote": false,
-      "tags": [
-        "justDice"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788781203,
-      "fetched_at": "2026-09-07T18:28:56.857888",
-      "match_score": 8.95,
-      "score_breakdown": {
-        "semantic_similarity": 0.2703,
-        "semantic_score": 8.95,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-07T18:29:09.788651"
+      "scored_at": "2026-09-07T23:51:36.504823"
     },
     {
       "id": "arbeitnow_principal-ai-engineer-bordeaux-164162",
@@ -355,7 +356,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788795927,
-      "fetched_at": "2026-09-07T18:28:52.915811",
+      "fetched_at": "2026-09-07T23:51:18.420714",
       "match_score": 6.21,
       "score_breakdown": {
         "semantic_similarity": 0.2488,
@@ -363,7 +364,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788462"
+      "scored_at": "2026-09-07T23:51:36.504957"
     },
     {
       "id": "arbeitnow_principal-ai-engineer-paris-233488",
@@ -376,7 +377,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788795927,
-      "fetched_at": "2026-09-07T18:28:52.915860",
+      "fetched_at": "2026-09-07T23:51:18.420772",
       "match_score": 6.21,
       "score_breakdown": {
         "semantic_similarity": 0.2488,
@@ -384,7 +385,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788494"
+      "scored_at": "2026-09-07T23:51:36.504994"
+    },
+    {
+      "id": "arbeitnow_senior-security-engineer-detection-and-response-london-264137",
+      "title": "Senior Security Engineer, Detection and Response",
+      "company": "HackerOne",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\">HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming, and code security, HackerOne delivers measurable, continuous r",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hackerone/senior-security-engineer-detection-and-response-london-264137",
+      "remote": false,
+      "tags": [
+        "Office of the CISO"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788817207,
+      "fetched_at": "2026-09-07T23:51:18.415551",
+      "match_score": 5.39,
+      "score_breakdown": {
+        "semantic_similarity": 0.2423,
+        "semantic_score": 5.39,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504376"
     },
     {
       "id": "arbeitnow_director-of-cybersecurity-it-paris-55382",
@@ -399,7 +423,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788788413,
-      "fetched_at": "2026-09-07T18:28:52.915978",
+      "fetched_at": "2026-09-07T23:51:18.420899",
       "match_score": 5.03,
       "score_breakdown": {
         "semantic_similarity": 0.2395,
@@ -407,30 +431,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788530"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-full-stack-cambridge-169608",
-      "title": "Senior Software Engineer, Full Stack",
-      "company": "Roku",
-      "location": "Cambridge",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-full-stack-cambridge-169608",
-      "remote": false,
-      "tags": [
-        "213 - Embedded SW Auto and Tools"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788612904,
-      "fetched_at": "2026-09-07T18:28:52.914913",
-      "match_score": 5.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1061,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-09-07T18:29:09.788372"
+      "scored_at": "2026-09-07T23:51:36.505031"
     },
     {
       "id": "arbeitnow_werkstudent-ai-engineering-cologne-5088",
@@ -445,7 +446,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788791437,
-      "fetched_at": "2026-09-07T18:28:52.909005",
+      "fetched_at": "2026-09-07T23:51:18.413818",
       "match_score": 4.2,
       "score_breakdown": {
         "semantic_similarity": 0.233,
@@ -453,7 +454,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787905"
+      "scored_at": "2026-09-07T23:51:36.504262"
     },
     {
       "id": "arbeitnow_werkstudent-ai-engineering-nuremberg-370334",
@@ -468,7 +469,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788791437,
-      "fetched_at": "2026-09-07T18:28:52.909059",
+      "fetched_at": "2026-09-07T23:51:18.413884",
       "match_score": 4.2,
       "score_breakdown": {
         "semantic_similarity": 0.233,
@@ -476,7 +477,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787938"
+      "scored_at": "2026-09-07T23:51:36.504294"
     },
     {
       "id": "arbeitnow_software-engineer-linux-os-karlsruhe-142963",
@@ -494,7 +495,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788790198,
-      "fetched_at": "2026-09-07T18:28:52.909426",
+      "fetched_at": "2026-09-07T23:51:18.414257",
       "match_score": 4.18,
       "score_breakdown": {
         "semantic_similarity": 0.2328,
@@ -502,7 +503,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787973"
+      "scored_at": "2026-09-07T23:51:36.504337"
     },
     {
       "id": "arbeitnow_senior-data-scientist-london-183366",
@@ -517,7 +518,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788774011,
-      "fetched_at": "2026-09-07T18:28:52.911980",
+      "fetched_at": "2026-09-07T23:51:18.417224",
       "match_score": 2.87,
       "score_breakdown": {
         "semantic_similarity": 0.2226,
@@ -525,7 +526,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788062"
+      "scored_at": "2026-09-07T23:51:36.504500"
     },
     {
       "id": "arbeitnow_software-engineer-founding-team-berlin-454795",
@@ -540,7 +541,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788800428,
-      "fetched_at": "2026-09-07T18:28:52.908675",
+      "fetched_at": "2026-09-07T23:51:18.413459",
       "match_score": 2.45,
       "score_breakdown": {
         "semantic_similarity": 0.2192,
@@ -548,7 +549,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.787820"
+      "scored_at": "2026-09-07T23:51:36.504186"
     },
     {
       "id": "arbeitnow_principal-ai-engineer-bordeaux-34460",
@@ -563,7 +564,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788800108,
-      "fetched_at": "2026-09-07T18:28:52.915498",
+      "fetched_at": "2026-09-07T23:51:18.420365",
       "match_score": 1.6,
       "score_breakdown": {
         "semantic_similarity": 0.2126,
@@ -571,7 +572,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788405"
+      "scored_at": "2026-09-07T23:51:36.504895"
     },
     {
       "id": "arbeitnow_principal-ai-engineer-paris-360434",
@@ -586,7 +587,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788800108,
-      "fetched_at": "2026-09-07T18:28:52.915560",
+      "fetched_at": "2026-09-07T23:51:18.420431",
       "match_score": 1.6,
       "score_breakdown": {
         "semantic_similarity": 0.2126,
@@ -594,7 +595,76 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788433"
+      "scored_at": "2026-09-07T23:51:36.504927"
+    },
+    {
+      "id": "arbeitnow_software-engineer-iii-data-fmx-london-366500",
+      "title": "Software Engineer III - Data - FMX",
+      "company": "Fanaticsfbg",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/software-engineer-iii-data-fmx-london-366500",
+      "remote": false,
+      "tags": [
+        "Gaming - Core Data"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788807304,
+      "fetched_at": "2026-09-07T23:51:18.415720",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1548,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504402"
+    },
+    {
+      "id": "arbeitnow_stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-335224",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefactlinkedin",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&lt;strong&gt;Qui sommes-nous ?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Fond\u00e9e en 2014, Artefact est une soci\u00e9t\u00e9 internationale de services autour de l&#39;IA et de la data, sp\u00e9cialis\u00e9e dans le conseil en IA, transformation data et en data &amp;amp; digital marketing. L\u2019approche unique d\u2019Artefact, qui fait le pont entre la donn\u00e9e et le business, permet \u00e0 nos clients d\u2019atteindre leurs objectifs business de fa\u00e7on d\u00e9di\u00e9e et efficace. Nos 2500 collaborateurs r\u00e9partis dans 27 bureaux \u00e0 travers le ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-335224",
+      "remote": false,
+      "tags": [
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788821711,
+      "fetched_at": "2026-09-07T23:51:18.419951",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1585,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504696"
+    },
+    {
+      "id": "arbeitnow_stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-30251",
+      "title": "Stage Software Engineer - Paris - H/F/X",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "description": "&lt;p&gt;&lt;strong&gt;Qui sommes-nous ?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Fond\u00e9e en 2014, Artefact est une soci\u00e9t\u00e9 internationale de services autour de l&#39;IA et de la data, sp\u00e9cialis\u00e9e dans le conseil en IA, transformation data et en data &amp;amp; digital marketing. L\u2019approche unique d\u2019Artefact, qui fait le pont entre la donn\u00e9e et le business, permet \u00e0 nos clients d\u2019atteindre leurs objectifs business de fa\u00e7on d\u00e9di\u00e9e et efficace. Nos 2500 collaborateurs r\u00e9partis dans 27 bureaux \u00e0 travers le ",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-30251",
+      "remote": false,
+      "tags": [
+        "Data Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788810915,
+      "fetched_at": "2026-09-07T23:51:18.420111",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1723,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-07T23:51:36.504789"
     },
     {
       "id": "arbeitnow_data-manager-paris-478505",
@@ -609,7 +679,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788712237,
-      "fetched_at": "2026-09-07T18:28:54.355689",
+      "fetched_at": "2026-09-07T23:51:19.577552",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1893,
@@ -617,7 +687,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-07T18:29:09.788584"
+      "scored_at": "2026-09-07T23:51:36.505051"
     }
   ]
 }
