@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-08 17:38 UTC
+**Last updated:** 2026-09-08 20:25 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 89 |
-| Jobs found (all time) | 1308 |
-| Jobs found (latest run, 2026-09-08) | 28 |
-| Best match (latest run) | Senior Software Engineer - AI/ML at mitratech (score 46) |
+| Jobs found (all time) | 1309 |
+| Jobs found (latest run, 2026-09-08) | 29 |
+| Best match (latest run) | Staff/Lead Software Developer (AI Agents & Integrations) at jetbrains (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
