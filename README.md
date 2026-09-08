@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-08 10:12 UTC
+**Last updated:** 2026-09-08 17:38 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 89 |
-| Jobs found (all time) | 1312 |
-| Jobs found (latest run, 2026-09-08) | 32 |
-| Best match (latest run) | Senior software engineer (Node.js/TypeScript) at Seccl (score 34) |
+| Jobs found (all time) | 1308 |
+| Jobs found (latest run, 2026-09-08) | 28 |
+| Best match (latest run) | Senior Software Engineer - AI/ML at mitratech (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
