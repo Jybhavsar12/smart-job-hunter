@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-07 23:51 UTC
+**Last updated:** 2026-09-08 10:12 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 88 |
-| Jobs found (all time) | 1280 |
-| Jobs found (latest run, 2026-09-07) | 30 |
-| Best match (latest run) | Senior Systems Engineer at Graphcore (score 34) |
+| Search runs | 89 |
+| Jobs found (all time) | 1312 |
+| Jobs found (latest run, 2026-09-08) | 32 |
+| Best match (latest run) | Senior software engineer (Node.js/TypeScript) at Seccl (score 34) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
