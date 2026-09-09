@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-09 17:24 UTC
+**Last updated:** 2026-09-09 20:09 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 90 |
-| Jobs found (all time) | 1345 |
-| Jobs found (latest run, 2026-09-09) | 36 |
-| Best match (latest run) | Staff Software Engineer at OLR Holdings Ltd trading as DFYNE (score 34) |
+| Jobs found (all time) | 1341 |
+| Jobs found (latest run, 2026-09-09) | 32 |
+| Best match (latest run) | Contract Platform Engineer at Yld (score 37) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
