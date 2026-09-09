@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-09 20:09 UTC
+**Last updated:** 2026-09-09 23:38 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 90 |
-| Jobs found (all time) | 1341 |
-| Jobs found (latest run, 2026-09-09) | 32 |
-| Best match (latest run) | Contract Platform Engineer at Yld (score 37) |
+| Jobs found (all time) | 1337 |
+| Jobs found (latest run, 2026-09-09) | 28 |
+| Best match (latest run) | Senior AI Engineer – Notebooks at Datadog (score 40) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 

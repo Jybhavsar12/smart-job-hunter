@@ -1,7 +1,30 @@
 {
   "date": "2026-09-09",
-  "count": 32,
+  "count": 28,
   "jobs": [
+    {
+      "id": "arbeitnow_remote-senior-ai-engineer-notebooks-116524",
+      "title": "Senior AI Engineer \u2013 Notebooks",
+      "company": "Datadog",
+      "location": "Remote",
+      "description": "&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt;\n&lt;p&gt;We are looking for a product-oriented Senior Software Engineer to help build the AI-assisted w",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-116524",
+      "remote": false,
+      "tags": [
+        "Dev Eng"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788994561,
+      "fetched_at": "2026-09-09T23:38:23.365001",
+      "match_score": 40.27,
+      "score_breakdown": {
+        "semantic_similarity": 0.3986,
+        "semantic_score": 25.27,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-09T23:38:38.116499"
+    },
     {
       "id": "arbeitnow_contract-platform-engineer-259901",
       "title": "Contract Platform Engineer",
@@ -15,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788980102,
-      "fetched_at": "2026-09-09T20:08:42.976878",
+      "fetched_at": "2026-09-09T23:38:23.363807",
       "match_score": 36.63,
       "score_breakdown": {
         "semantic_similarity": 0.3699,
@@ -23,30 +46,32 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080660"
+      "scored_at": "2026-09-09T23:38:38.116422"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-uddingston-281004",
-      "title": "Staff Software Engineer",
-      "company": "OLR Holdings Ltd trading as DFYNE",
-      "location": "Uddingston",
-      "description": "<p><strong>Role:</strong></p>\n<p>Staff Software Engineer</p>\n<p><strong>About You:</strong></p>\n<p>Are you the engineer other engineers trust when the stakes are highest? Do you thrive on solving complex technical challenges, setting technical direction and helping teams deliver scalable, reliable systems that support business growth? Are you as comfortable reviewing architecture and leading incident response as you are writing production code? If you bring a blend of technical excellence, leade",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/staff-software-engineer-uddingston-281004",
+      "id": "arbeitnow_java-full-stack-developer-martinsried-85702",
+      "title": "Java Full Stack Developer (m/f/d)",
+      "company": "Epay",
+      "location": "Martinsried, Germany",
+      "description": "<p>Do you enjoy developing scalable applications, while consistently adopting an AI-first approach? As a Java Full Stack Developer, AI-powered tools are a key part of your daily work, while you design, build and optimize modern software solutions. From implementing new features and conducting code reviews to testing and troubleshooting, you play a key role in delivering high-quality applications that are both reliable and user-friendly.</p><p><img src=\"https://workablehr.s3.amazonaws.com/uploads",
+      "url": "https://www.arbeitnow.com/jobs/companies/epay/java-full-stack-developer-martinsried-85702",
       "remote": false,
       "tags": [
-        "IT"
+        "Information Technology",
+        "Information Technology and Services",
+        "epay Germany (Transact)"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1788951628,
-      "fetched_at": "2026-09-09T20:08:42.979229",
-      "match_score": 33.74,
+      "posted_at": 1788985204,
+      "fetched_at": "2026-09-09T23:38:25.836218",
+      "match_score": 31.73,
       "score_breakdown": {
-        "semantic_similarity": 0.4651,
-        "semantic_score": 33.74,
+        "semantic_similarity": 0.41,
+        "semantic_score": 26.73,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-09-09T20:09:00.080810"
+      "scored_at": "2026-09-09T23:38:38.116889"
     },
     {
       "id": "arbeitnow_senior-data-engineer-paris-291600",
@@ -61,7 +86,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788895833,
-      "fetched_at": "2026-09-09T20:08:42.983223",
+      "fetched_at": "2026-09-09T23:38:23.367291",
       "match_score": 30.65,
       "score_breakdown": {
         "semantic_similarity": 0.4408,
@@ -69,7 +94,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081366"
+      "scored_at": "2026-09-09T23:38:38.116814"
+    },
+    {
+      "id": "arbeitnow_software-engineering-intern-paris-74277",
+      "title": "Software Engineering Intern",
+      "company": "Datadog",
+      "location": "Paris",
+      "description": "&lt;p&gt;We\u2019re looking for Software Engineering Interns to help build and scale the systems that power Datadog\u2019s observability and security platform. Interns contribute directly to real-world engineering challenges across backend, frontend, infrastructure, data engineering, and developer tooling while working alongside experienced engineers and mentors. You\u2019ll help design, build, and improve systems that process and analyze massive volumes of metrics, logs, and application data in real time. Whe",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-74277",
+      "remote": false,
+      "tags": [
+        "Engineering Interns"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788994561,
+      "fetched_at": "2026-09-09T23:38:23.364967",
+      "match_score": 29.9,
+      "score_breakdown": {
+        "semantic_similarity": 0.4349,
+        "semantic_score": 29.9,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-09T23:38:38.116476"
     },
     {
       "id": "arbeitnow_remote-product-manager-350008",
@@ -84,7 +132,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788951318,
-      "fetched_at": "2026-09-09T20:08:42.980524",
+      "fetched_at": "2026-09-09T23:38:23.365541",
       "match_score": 29.76,
       "score_breakdown": {
         "semantic_similarity": 0.316,
@@ -92,103 +140,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081110"
-    },
-    {
-      "id": "arbeitnow_senior-qa-automation-engineer-uddingston-229952",
-      "title": "Senior QA Automation Engineer",
-      "company": "OLR Holdings Ltd trading as DFYNE",
-      "location": "Uddingston",
-      "description": "<p><strong>Role:</strong></p>\n<p>Senior QA Automation Engineer</p>\n<p><strong>About You:</strong></p>\n<p>Are you the kind of engineer who sees quality as a technical challenge rather than a manual process? Do you enjoy building automated test frameworks, creating release safeguards and preventing production issues before they happen? Are you as comfortable writing code as you are designing quality strategies and identifying risks across complex systems? If you enjoy improving how software is bui",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-qa-automation-engineer-uddingston-229952",
-      "remote": false,
-      "tags": [
-        "IT"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788957040,
-      "fetched_at": "2026-09-09T20:08:42.978881",
-      "match_score": 28.74,
-      "score_breakdown": {
-        "semantic_similarity": 0.4258,
-        "semantic_score": 28.74,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.080779"
-    },
-    {
-      "id": "arbeitnow_machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
-      "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
-      "company": "Synthesia",
-      "location": "Remote",
-      "description": "<p style=\"min-height:1.5em\">Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. </p><p style=\"min-height:1.5em\">As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.</p><p st",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788946806,
-      "fetched_at": "2026-09-09T20:08:42.979795",
-      "match_score": 28.02,
-      "score_breakdown": {
-        "semantic_similarity": 0.3023,
-        "semantic_score": 13.02,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.080905"
-    },
-    {
-      "id": "arbeitnow_ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
-      "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
-      "company": "LILT (Production)",
-      "location": "France (Remote)",
-      "description": "<h2><strong>About The Opportunity</strong></h2><p style=\"min-height:1.5em\">We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt language effects, non-English data processing, and complex locale/encoding edge cases in terminal workflows.</p><p style=\"min-height:1.5em\">We are seeking experienced native-speaking software en",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
-      "remote": false,
-      "tags": [
-        "LiltLancer Community"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788885617,
-      "fetched_at": "2026-09-09T20:08:42.984442",
-      "match_score": 25.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.2817,
-        "semantic_score": 10.4,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.081432"
-    },
-    {
-      "id": "arbeitnow_flight-test-engineer-onsite-test-coordinator-all-genders-berlin-335099",
-      "title": "Flight Test Engineer & Onsite Test Coordinator (all genders)",
-      "company": "Stark",
-      "location": "Berlin",
-      "description": "<br><strong>About Us</strong><p><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">STARK</span><span style=\"font-size:11pt;font-family:Arial, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0is a new kind of defence technology company, revolutionizing the way autonomous systems are deployed across multiple domains. We design, de",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/flight-test-engineer-onsite-test-coordinator-all-genders-berlin-335099",
-      "remote": false,
-      "tags": [
-        "flighttest",
-        "flighttesting",
-        "engineering",
-        "pilots",
-        "drones"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788962969,
-      "fetched_at": "2026-09-09T20:08:42.975433",
-      "match_score": 23.7,
-      "score_breakdown": {
-        "semantic_similarity": 0.3862,
-        "semantic_score": 23.7,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.080603"
+      "scored_at": "2026-09-09T23:38:38.116637"
     },
     {
       "id": "arbeitnow_software-engineer-infrastructure-london-437423",
@@ -203,7 +155,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788979203,
-      "fetched_at": "2026-09-09T20:08:42.977444",
+      "fetched_at": "2026-09-09T23:38:23.364211",
       "match_score": 22.25,
       "score_breakdown": {
         "semantic_similarity": 0.3748,
@@ -211,7 +163,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080709"
+      "scored_at": "2026-09-09T23:38:38.116450"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-stuttgart-72092",
+      "title": "Engineering Manager (f/m/d)",
+      "company": "Markt Pilot",
+      "location": "Stuttgart",
+      "description": "<div><strong>Be bold, think big and grow with us!</strong></div>\n<p>We are one of the fastest growing B2B scale-ups in Germany, creating real value for the engineering industry. With our software, we are setting a new standard in the spare parts business, enabling comprehensive market transparency for the first time. To achieve this, we challenge the status quo every day and support our employees in actively shaping their careers and pushing their own boundaries. Become part of a team that can't",
+      "url": "https://www.arbeitnow.com/jobs/companies/markt-pilot/engineering-manager-stuttgart-72092",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1788985460,
+      "fetched_at": "2026-09-09T23:38:23.359552",
+      "match_score": 19.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.3525,
+        "semantic_score": 19.4,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-09T23:38:38.116208"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-paris-153877",
@@ -226,7 +201,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788928812,
-      "fetched_at": "2026-09-09T20:08:42.981465",
+      "fetched_at": "2026-09-09T23:38:23.366178",
       "match_score": 17.83,
       "score_breakdown": {
         "semantic_similarity": 0.3401,
@@ -234,7 +209,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081346"
+      "scored_at": "2026-09-09T23:38:38.116799"
     },
     {
       "id": "arbeitnow_financial-planning-analysis-intern-bordeaux-450504",
@@ -249,7 +224,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788939606,
-      "fetched_at": "2026-09-09T20:08:42.981381",
+      "fetched_at": "2026-09-09T23:38:23.366123",
       "match_score": 16.31,
       "score_breakdown": {
         "semantic_similarity": 0.3282,
@@ -257,7 +232,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081318"
+      "scored_at": "2026-09-09T23:38:38.116779"
     },
     {
       "id": "arbeitnow_working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-103577",
@@ -270,7 +245,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788962969,
-      "fetched_at": "2026-09-09T20:08:42.974872",
+      "fetched_at": "2026-09-09T23:38:23.362032",
       "match_score": 14.07,
       "score_breakdown": {
         "semantic_similarity": 0.3106,
@@ -278,28 +253,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080554"
+      "scored_at": "2026-09-09T23:38:38.116351"
     },
     {
-      "id": "arbeitnow_software-engineer-backend-bi-platform-london-59220",
-      "title": "Software Engineer, Backend (BI Platform)\u00a0",
-      "company": "Wolt - English",
-      "location": "London, England, United Kingdom",
-      "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the gl",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/software-engineer-backend-bi-platform-london-59220",
+      "id": "arbeitnow_senior-software-engineer-london-486762",
+      "title": "Senior Software Engineer",
+      "company": "Deliveroo",
+      "location": "London - The River Building HQ",
+      "description": "<p style=\"min-height:1.5em\"><strong>About the team</strong></p><p style=\"min-height:1.5em\"><em>Engineering the future of customer support \u2014 at global scale</em> \ud83c\udf0d</p><p style=\"min-height:1.5em\">We believe exceptional customer service is more than just a feature, it\u2019s a fundamental part of who we are. That\u2019s why we\u2019ve built our own internal support tooling from the ground up, tailored to help our customer, courier, and merchant support teams shine in every interaction.</p><p style=\"min-height:1.5",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-london-486762",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "All Cost Centers"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1788965125,
-      "fetched_at": "2026-09-09T20:08:42.978574",
-      "match_score": 13.74,
+      "posted_at": 1788990004,
+      "fetched_at": "2026-09-09T23:38:23.363344",
+      "match_score": 12.55,
       "score_breakdown": {
-        "semantic_similarity": 0.308,
-        "semantic_score": 13.74,
+        "semantic_similarity": 0.2986,
+        "semantic_score": 12.55,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080746"
+      "scored_at": "2026-09-09T23:38:38.116396"
     },
     {
       "id": "arbeitnow_senior-product-manager-full-remote-europe-germany-113907",
@@ -314,7 +291,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788964812,
-      "fetched_at": "2026-09-09T20:08:42.974315",
+      "fetched_at": "2026-09-09T23:38:23.361597",
       "match_score": 11.83,
       "score_breakdown": {
         "semantic_similarity": 0.293,
@@ -322,7 +299,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080510"
+      "scored_at": "2026-09-09T23:38:38.116320"
     },
     {
       "id": "arbeitnow_senior-software-engineer-mission-autonomy-all-genders-munich-173975",
@@ -341,7 +318,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788962969,
-      "fetched_at": "2026-09-09T20:08:42.975214",
+      "fetched_at": "2026-09-09T23:38:23.362292",
       "match_score": 8.64,
       "score_breakdown": {
         "semantic_similarity": 0.2679,
@@ -349,7 +326,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080581"
+      "scored_at": "2026-09-09T23:38:38.116368"
     },
     {
       "id": "arbeitnow_applied-ai-engineer-enterprise-paris-233263",
@@ -364,7 +341,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788940513,
-      "fetched_at": "2026-09-09T20:08:42.981063",
+      "fetched_at": "2026-09-09T23:38:23.365913",
       "match_score": 8.06,
       "score_breakdown": {
         "semantic_similarity": 0.2633,
@@ -372,7 +349,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081282"
+      "scored_at": "2026-09-09T23:38:38.116755"
     },
     {
       "id": "arbeitnow_tactical-data-link-expert-all-genders-munich-355326",
@@ -385,7 +362,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788962969,
-      "fetched_at": "2026-09-09T20:08:44.815381",
+      "fetched_at": "2026-09-09T23:38:24.589922",
       "match_score": 6.23,
       "score_breakdown": {
         "semantic_similarity": 0.249,
@@ -393,7 +370,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081454"
+      "scored_at": "2026-09-09T23:38:38.116853"
     },
     {
       "id": "arbeitnow_senior-software-engineer-meta-ai-berlin-239493",
@@ -408,7 +385,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788964813,
-      "fetched_at": "2026-09-09T20:08:42.974219",
+      "fetched_at": "2026-09-09T23:38:23.361530",
       "match_score": 5.12,
       "score_breakdown": {
         "semantic_similarity": 0.2402,
@@ -416,7 +393,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080465"
+      "scored_at": "2026-09-09T23:38:38.116288"
     },
     {
       "id": "arbeitnow_staff-software-engineer-paris-office-172974",
@@ -431,7 +408,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788969875,
-      "fetched_at": "2026-09-09T20:08:42.979929",
+      "fetched_at": "2026-09-09T23:38:23.365151",
       "match_score": 4.4,
       "score_breakdown": {
         "semantic_similarity": 0.2346,
@@ -439,7 +416,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080941"
+      "scored_at": "2026-09-09T23:38:38.116523"
     },
     {
       "id": "arbeitnow_senior-software-engineer-cloud-platform-berlin-123705",
@@ -454,7 +431,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788975606,
-      "fetched_at": "2026-09-09T20:08:42.972398",
+      "fetched_at": "2026-09-09T23:38:23.360160",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1817,
@@ -462,53 +439,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080405"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-transport-oxford-249408",
-      "title": "Senior Software Engineer, Transport",
-      "company": "ionq",
-      "location": "Oxford",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About IonQ:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fionq.com%2F&amp;amp;esheet=54451094&amp;amp;newsitemid=20260316477473&amp;amp;lan=en-US&amp;amp;anchor=IonQ%2C+Inc&amp;amp;index=7&amp;amp;md5=0818ffbedc6dbad8c4d1611ac94c2a0f&quot; target=&quot;_blank&quot;&gt;IonQ, Inc&lt;/a&gt;&lt;/u&gt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-software-engineer-transport-oxford-249408",
-      "remote": false,
-      "tags": [
-        "Compute Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788947708,
-      "fetched_at": "2026-09-09T20:08:42.979340",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1257,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.080831"
-    },
-    {
-      "id": "arbeitnow_senior-engineering-manager-cardiff-30466",
-      "title": "Senior Engineering Manager",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;\ud83d\ude80 We\u2019re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a hr",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-engineering-manager-cardiff-30466",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788947707,
-      "fetched_at": "2026-09-09T20:08:42.979528",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.14,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.080866"
+      "scored_at": "2026-09-09T23:38:38.116257"
     },
     {
       "id": "arbeitnow_software-engineer-platform-toulouse-france-237693",
@@ -523,7 +454,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788951324,
-      "fetched_at": "2026-09-09T20:08:42.980308",
+      "fetched_at": "2026-09-09T23:38:23.365398",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1251,
@@ -531,7 +462,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.080978"
+      "scored_at": "2026-09-09T23:38:38.116549"
     },
     {
       "id": "arbeitnow_software-engineer-platform-paris-france-77592",
@@ -546,7 +477,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788951324,
-      "fetched_at": "2026-09-09T20:08:42.980311",
+      "fetched_at": "2026-09-09T23:38:23.365400",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1246,
@@ -554,7 +485,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081012"
+      "scored_at": "2026-09-09T23:38:38.116571"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-toulouse-france-374302",
@@ -569,7 +500,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788951324,
-      "fetched_at": "2026-09-09T20:08:42.980318",
+      "fetched_at": "2026-09-09T23:38:23.365404",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1631,
@@ -577,7 +508,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081044"
+      "scored_at": "2026-09-09T23:38:38.116594"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-bordeaux-france-337689",
@@ -592,7 +523,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788951324,
-      "fetched_at": "2026-09-09T20:08:42.980322",
+      "fetched_at": "2026-09-09T23:38:23.365407",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1041,
@@ -600,7 +531,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081077"
+      "scored_at": "2026-09-09T23:38:38.116615"
     },
     {
       "id": "arbeitnow_software-engineer-data-infrastructure-acquisition-toulouse-france-308687",
@@ -613,7 +544,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788943532,
-      "fetched_at": "2026-09-09T20:08:42.980907",
+      "fetched_at": "2026-09-09T23:38:23.365782",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1813,
@@ -621,7 +552,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081148"
+      "scored_at": "2026-09-09T23:38:38.116663"
     },
     {
       "id": "arbeitnow_senior-software-engineer-windows-desktop-applications-bordeaux-france-372917",
@@ -634,7 +565,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788943532,
-      "fetched_at": "2026-09-09T20:08:42.980912",
+      "fetched_at": "2026-09-09T23:38:23.365784",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1222,
@@ -642,7 +573,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081179"
+      "scored_at": "2026-09-09T23:38:38.116685"
     },
     {
       "id": "arbeitnow_software-engineer-platform-toulouse-france-5150",
@@ -655,7 +586,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788943532,
-      "fetched_at": "2026-09-09T20:08:42.980914",
+      "fetched_at": "2026-09-09T23:38:23.365785",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1519,
@@ -663,7 +594,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081215"
+      "scored_at": "2026-09-09T23:38:38.116709"
     },
     {
       "id": "arbeitnow_software-engineer-platform-paris-france-21064",
@@ -676,7 +607,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1788943532,
-      "fetched_at": "2026-09-09T20:08:42.980917",
+      "fetched_at": "2026-09-09T23:38:23.365787",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1486,
@@ -684,7 +615,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081249"
+      "scored_at": "2026-09-09T23:38:38.116732"
     },
     {
       "id": "arbeitnow_it-engineer-paris-france-474669",
@@ -699,7 +630,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1788885617,
-      "fetched_at": "2026-09-09T20:08:42.984227",
+      "fetched_at": "2026-09-09T23:38:23.368050",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0771,
@@ -707,31 +638,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-09T20:09:00.081404"
-    },
-    {
-      "id": "arbeitnow_aero-software-developer-bicester-united-kingdom-13373",
-      "title": "Aero Software Developer",
-      "company": "Audif1",
-      "location": "Bicester United Kingdom",
-      "description": "<br><strong>Join Our Team</strong><p>We are the Audi Revolut F1\u00ae Team.<br>\u00a0\u00a0<br>\u00a0 Audi Revolut F1 Team is the official factory team of Audi, as the brand enters the FIA Formula 1 World Championship for the first time in 2026.<br>\u00a0\u00a0<br>\u00a0 The team is based in three locations: the power unit is developed by Audi Formula Racing GmbH at the Audi Competence Center Motorsport in Neuburg, Germany; the chassis is engineered and race operations are managed from the state-of-the-art facilities of Audi Moto",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/aero-software-developer-bicester-united-kingdom-13373",
-      "remote": false,
-      "tags": [
-        "aero",
-        "software"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1788955761,
-      "fetched_at": "2026-09-09T20:08:44.819441",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.0886,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-09T20:09:00.081491"
+      "scored_at": "2026-09-09T23:38:38.116837"
     }
   ]
 }
