@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-08 23:45 UTC
+**Last updated:** 2026-09-09 10:19 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 89 |
-| Jobs found (all time) | 1309 |
-| Jobs found (latest run, 2026-09-08) | 29 |
+| Search runs | 90 |
+| Jobs found (all time) | 1345 |
+| Jobs found (latest run, 2026-09-09) | 36 |
 | Best match (latest run) | Staff/Lead Software Developer (AI Agents & Integrations) at jetbrains (score 39) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
