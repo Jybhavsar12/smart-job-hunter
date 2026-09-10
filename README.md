@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-10 10:11 UTC
+**Last updated:** 2026-09-10 17:23 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 91 |
-| Jobs found (all time) | 1376 |
-| Jobs found (latest run, 2026-09-10) | 39 |
-| Best match (latest run) | Senior AI Engineer – Notebooks at Datadog (score 40) |
+| Jobs found (all time) | 1381 |
+| Jobs found (latest run, 2026-09-10) | 44 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
