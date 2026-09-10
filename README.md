@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-10 17:23 UTC
+**Last updated:** 2026-09-10 20:11 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 91 |
-| Jobs found (all time) | 1381 |
-| Jobs found (latest run, 2026-09-10) | 44 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1385 |
+| Jobs found (latest run, 2026-09-10) | 48 |
+| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
