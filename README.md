@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-09 23:38 UTC
+**Last updated:** 2026-09-10 10:11 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 90 |
-| Jobs found (all time) | 1337 |
-| Jobs found (latest run, 2026-09-09) | 28 |
+| Search runs | 91 |
+| Jobs found (all time) | 1376 |
+| Jobs found (latest run, 2026-09-10) | 39 |
 | Best match (latest run) | Senior AI Engineer – Notebooks at Datadog (score 40) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
