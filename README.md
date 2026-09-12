@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-12 19:47 UTC
+**Last updated:** 2026-09-12 23:31 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 93 |
-| Jobs found (all time) | 1448 |
-| Jobs found (latest run, 2026-09-12) | 38 |
-| Best match (latest run) | Senior Software Developer – Platform & Infrastructure Engineering (all genders) at Contabo (score 62) |
+| Jobs found (all time) | 1446 |
+| Jobs found (latest run, 2026-09-12) | 36 |
+| Best match (latest run) | (Senior) Fullstack Engineer - Node / React (all genders) at Gamigo (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
