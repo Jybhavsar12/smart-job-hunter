@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-12 13:13 UTC
+**Last updated:** 2026-09-12 16:37 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 93 |
-| Jobs found (all time) | 1438 |
-| Jobs found (latest run, 2026-09-12) | 28 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1448 |
+| Jobs found (latest run, 2026-09-12) | 38 |
+| Best match (latest run) | Senior Software Developer – Platform & Infrastructure Engineering (all genders) at Contabo (score 62) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
