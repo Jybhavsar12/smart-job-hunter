@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-13 10:44 UTC
+**Last updated:** 2026-09-13 17:08 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 94 |
-| Jobs found (all time) | 1482 |
-| Jobs found (latest run, 2026-09-13) | 36 |
-| Best match (latest run) | (Senior) Fullstack Engineer - Node / React (all genders) at Gamigo (score 46) |
+| Jobs found (all time) | 1490 |
+| Jobs found (latest run, 2026-09-13) | 44 |
+| Best match (latest run) | Full Stack Engineer  - Cloud & SaaS Integrations at Senior Full-Stack Engineer - AI Cost Visibility - Greenhouse (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
