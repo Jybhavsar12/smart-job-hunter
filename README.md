@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-13 19:58 UTC
+**Last updated:** 2026-09-13 23:44 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 94 |
-| Jobs found (all time) | 1490 |
-| Jobs found (latest run, 2026-09-13) | 44 |
-| Best match (latest run) | Full Stack Engineer  - Cloud & SaaS Integrations at Senior Full-Stack Engineer - AI Cost Visibility - Greenhouse (score 44) |
+| Jobs found (all time) | 1491 |
+| Jobs found (latest run, 2026-09-13) | 45 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
