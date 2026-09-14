@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-14 11:06 UTC
+**Last updated:** 2026-09-14 18:58 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 95 |
-| Jobs found (all time) | 1540 |
-| Jobs found (latest run, 2026-09-14) | 49 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1550 |
+| Jobs found (latest run, 2026-09-14) | 59 |
+| Best match (latest run) | Software Developer (m/f/d) at Rahantech GmbH (score 48) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
