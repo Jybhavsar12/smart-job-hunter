@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-15 17:49 UTC
+**Last updated:** 2026-09-15 20:33 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 96 |
-| Jobs found (all time) | 1580 |
-| Jobs found (latest run, 2026-09-15) | 30 |
-| Best match (latest run) | Software Engineer GO at Wakacje.pl (score 47) |
+| Jobs found (all time) | 1582 |
+| Jobs found (latest run, 2026-09-15) | 32 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
