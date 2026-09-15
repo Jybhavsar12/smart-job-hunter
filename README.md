@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-15 10:36 UTC
+**Last updated:** 2026-09-15 17:49 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 96 |
-| Jobs found (all time) | 1602 |
-| Jobs found (latest run, 2026-09-15) | 52 |
-| Best match (latest run) | (Senior) Software Developer Frontend / React (m/w/d) at Athereon (score 63) |
+| Jobs found (all time) | 1580 |
+| Jobs found (latest run, 2026-09-15) | 30 |
+| Best match (latest run) | Software Engineer GO at Wakacje.pl (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
