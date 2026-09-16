@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-15 23:48 UTC
+**Last updated:** 2026-09-16 10:25 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 96 |
-| Jobs found (all time) | 1587 |
-| Jobs found (latest run, 2026-09-15) | 37 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Search runs | 97 |
+| Jobs found (all time) | 1628 |
+| Jobs found (latest run, 2026-09-16) | 41 |
+| Best match (latest run) | Backend Developer - AI Trainer (France) at Anyone Ai (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
