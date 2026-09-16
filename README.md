@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-16 17:49 UTC
+**Last updated:** 2026-09-16 20:33 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 97 |
-| Jobs found (all time) | 1622 |
-| Jobs found (latest run, 2026-09-16) | 35 |
-| Best match (latest run) | Cloud Engineer - iGaming at Xdesign (score 55) |
+| Jobs found (all time) | 1636 |
+| Jobs found (latest run, 2026-09-16) | 49 |
+| Best match (latest run) | Senior Go Engineer, Full Stack at Topi (score 53) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
