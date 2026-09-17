@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-17 10:34 UTC
+**Last updated:** 2026-09-17 17:48 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 98 |
-| Jobs found (all time) | 1682 |
-| Jobs found (latest run, 2026-09-17) | 42 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1688 |
+| Jobs found (latest run, 2026-09-17) | 48 |
+| Best match (latest run) | Senior/Staff Product Engineer (Full Stack) (m/f/d) at epilot GmbH (score 65) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
