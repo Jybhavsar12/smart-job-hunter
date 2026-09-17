@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-17 17:48 UTC
+**Last updated:** 2026-09-17 20:40 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 98 |
-| Jobs found (all time) | 1688 |
-| Jobs found (latest run, 2026-09-17) | 48 |
+| Jobs found (all time) | 1683 |
+| Jobs found (latest run, 2026-09-17) | 43 |
 | Best match (latest run) | Senior/Staff Product Engineer (Full Stack) (m/f/d) at epilot GmbH (score 65) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
