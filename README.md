@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-16 23:57 UTC
+**Last updated:** 2026-09-17 10:34 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 97 |
-| Jobs found (all time) | 1640 |
-| Jobs found (latest run, 2026-09-16) | 53 |
-| Best match (latest run) | Senior Go Engineer, Full Stack at Topi (score 53) |
+| Search runs | 98 |
+| Jobs found (all time) | 1682 |
+| Jobs found (latest run, 2026-09-17) | 42 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
