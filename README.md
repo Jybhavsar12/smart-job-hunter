@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-17 20:40 UTC
+**Last updated:** 2026-09-17 23:47 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 98 |
-| Jobs found (all time) | 1683 |
-| Jobs found (latest run, 2026-09-17) | 43 |
-| Best match (latest run) | Senior/Staff Product Engineer (Full Stack) (m/f/d) at epilot GmbH (score 65) |
+| Jobs found (all time) | 1687 |
+| Jobs found (latest run, 2026-09-17) | 47 |
+| Best match (latest run) | Senior Full Stack Software Engineer at Octopus Energy Group (score 82) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
