@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-17 23:47 UTC
+**Last updated:** 2026-09-18 10:10 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 98 |
-| Jobs found (all time) | 1687 |
-| Jobs found (latest run, 2026-09-17) | 47 |
-| Best match (latest run) | Senior Full Stack Software Engineer at Octopus Energy Group (score 82) |
+| Search runs | 99 |
+| Jobs found (all time) | 1735 |
+| Jobs found (latest run, 2026-09-18) | 48 |
+| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
