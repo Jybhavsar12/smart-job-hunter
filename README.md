@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-18 17:21 UTC
+**Last updated:** 2026-09-18 20:05 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 99 |
-| Jobs found (all time) | 1704 |
-| Jobs found (latest run, 2026-09-18) | 17 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1706 |
+| Jobs found (latest run, 2026-09-18) | 19 |
+| Best match (latest run) | Senior Python Software Engineer (gn) / part-time or full-time at Voiio (score 58) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
