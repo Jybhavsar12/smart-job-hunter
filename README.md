@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-18 10:10 UTC
+**Last updated:** 2026-09-18 17:21 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 99 |
-| Jobs found (all time) | 1735 |
-| Jobs found (latest run, 2026-09-18) | 48 |
-| Best match (latest run) | Software Development Engineers in Test (Python) at Xm (score 64) |
+| Jobs found (all time) | 1704 |
+| Jobs found (latest run, 2026-09-18) | 17 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
