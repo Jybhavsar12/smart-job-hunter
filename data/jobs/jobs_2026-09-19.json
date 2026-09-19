@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "id": "arbeitnow_remote-senior-fullstack-software-engineer-ruby-react-ts-283957",
@@ -15,7 +15,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789803607,
-      "fetched_at": "2026-09-19T09:51:50.701137",
+      "fetched_at": "2026-09-19T13:32:29.135806",
       "match_score": 59.45,
       "score_breakdown": {
         "semantic_similarity": 0.51,
@@ -23,7 +23,7 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-19T09:52:05.953928"
+      "scored_at": "2026-09-19T13:32:43.264325"
     },
     {
       "id": "arbeitnow_remote-senior-backend-software-engineer-ruby-on-rails-413204",
@@ -38,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789803607,
-      "fetched_at": "2026-09-19T09:51:50.701143",
+      "fetched_at": "2026-09-19T13:32:29.135810",
       "match_score": 51.06,
       "score_breakdown": {
         "semantic_similarity": 0.4834,
@@ -46,7 +46,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953943"
+      "scored_at": "2026-09-19T13:32:43.264347"
     },
     {
       "id": "arbeitnow_junior-full-stack-developer-all-genders-berlin-289399",
@@ -59,7 +59,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1789805357,
-      "fetched_at": "2026-09-19T09:51:53.165226",
+      "fetched_at": "2026-09-19T13:32:31.590696",
       "match_score": 50.29,
       "score_breakdown": {
         "semantic_similarity": 0.4773,
@@ -67,7 +67,30 @@
         "location_match": 0,
         "priority_keywords": 15
       },
-      "scored_at": "2026-09-19T09:52:05.953965"
+      "scored_at": "2026-09-19T13:32:43.264405"
+    },
+    {
+      "id": "arbeitnow_principal-software-engineer-manchester-2371",
+      "title": "Principal Software Engineer",
+      "company": "Cytix",
+      "location": "Manchester",
+      "description": "<p style=\"min-height:1.5em\">You\u2019ll be a Technical Leader, unblock the engineering team by resolving complex technical impasses, standardising engineering practices, and owning cross-functional initiatives.<br /><br />You'll still be a highly hands-on engineer, responsible for rapidly prototyping, shipping MVPs, and turning product ideas into polished user experiences. You\u2019ll work across the stack, collaborating closely with product, design, and engineering teams while operating with a high degre",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cytix/principal-software-engineer-manchester-2371",
+      "remote": false,
+      "tags": [
+        "Product"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1789821602,
+      "fetched_at": "2026-09-19T13:32:29.128714",
+      "match_score": 45.86,
+      "score_breakdown": {
+        "semantic_similarity": 0.5603,
+        "semantic_score": 45.86,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-19T13:32:43.263911"
     },
     {
       "id": "remoteok_1136447",
@@ -93,7 +116,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886925",
+      "fetched_at": "2026-09-19T13:32:22.344181",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -101,37 +124,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953366"
-    },
-    {
-      "id": "remoteok_1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "",
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...<br/><br/>Please mention the word **HEARTFELT** and tag RMTM0LjMzLjcxLjM5 when applying to show you read the job post completely (#RMTM0LjMzLjcxLjM5). This is a beta feature to avoid spam applicants. Companies can sear",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-07-29T20:00:01+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886954",
-      "match_score": 43.63,
-      "score_breakdown": {
-        "semantic_similarity": 0.425,
-        "semantic_score": 28.63,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-19T09:52:05.953392"
+      "scored_at": "2026-09-19T13:32:43.263613"
     },
     {
       "id": "arbeitnow_staff-senior-ai-engineer-ai-for-code-london-227434",
@@ -146,7 +139,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789790108,
-      "fetched_at": "2026-09-19T09:51:50.697049",
+      "fetched_at": "2026-09-19T13:32:29.130113",
       "match_score": 41.48,
       "score_breakdown": {
         "semantic_similarity": 0.5259,
@@ -154,14 +147,14 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953670"
+      "scored_at": "2026-09-19T13:32:43.264064"
     },
     {
       "id": "remoteok_1137387",
       "title": "Software Engineer",
       "company": "Mirantis",
       "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMTM0LjMzLjcxLjM5 when applying to show you read the job post completely (#RMTM0LjMzLjcxLjM5). This is a beta feature to avoid spam applicants. Companies can searc",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RNzQuMjM1LjE0Mi4yMg== when applying to show you read the job post completely (#RNzQuMjM1LjE0Mi4yMg==). This is a beta feature to avoid spam applicants. Companies c",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
       "salary": "",
       "tags": [
@@ -172,15 +165,45 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886882",
-      "match_score": 37.97,
+      "fetched_at": "2026-09-19T13:32:22.344128",
+      "match_score": 40.06,
       "score_breakdown": {
-        "semantic_similarity": 0.3804,
-        "semantic_score": 22.97,
+        "semantic_similarity": 0.3969,
+        "semantic_score": 25.06,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953234"
+      "scored_at": "2026-09-19T13:32:43.263448"
+    },
+    {
+      "id": "remoteok_1135634",
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "location": "",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...<br/><br/>Please mention the word **HEARTFELT** and tag RNzQuMjM1LjE0Mi4yMg== when applying to show you read the job post completely (#RNzQuMjM1LjE0Mi4yMg==). This is a beta feature to avoid spam applicants. Companies ",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-07-29T20:00:01+00:00",
+      "fetched_at": "2026-09-19T13:32:22.344215",
+      "match_score": 39.85,
+      "score_breakdown": {
+        "semantic_similarity": 0.3953,
+        "semantic_score": 24.85,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-19T13:32:43.263645"
     },
     {
       "id": "arbeitnow_principal-software-engineer-search-infra-elasticsearch-164281",
@@ -195,7 +218,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789800905,
-      "fetched_at": "2026-09-19T09:51:50.696853",
+      "fetched_at": "2026-09-19T13:32:29.129863",
       "match_score": 30.9,
       "score_breakdown": {
         "semantic_similarity": 0.3249,
@@ -203,7 +226,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953645"
+      "scored_at": "2026-09-19T13:32:43.264033"
     },
     {
       "id": "arbeitnow_software-engineer-future-hiring-west-midlands-england-142258",
@@ -218,7 +241,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789788254,
-      "fetched_at": "2026-09-19T09:51:50.697780",
+      "fetched_at": "2026-09-19T13:32:29.131223",
       "match_score": 30.69,
       "score_breakdown": {
         "semantic_similarity": 0.4411,
@@ -226,30 +249,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953751"
-    },
-    {
-      "id": "arbeitnow_senior-ai-product-engineer-london-united-kingdom-45038",
-      "title": "Senior AI Product Engineer",
-      "company": "Elliptic",
-      "location": "London, United Kingdom",
-      "description": "<p style=\"min-height:1.5em\"><strong>Do you want to build the AI systems that compliance teams rely on to investigate real financial crime? Are you excited about taking agentic workflows from prototype to production at scale? Do you want your work to directly help catch bad actors moving money across blockchains?</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Elliptic is hiring a Senior AI Engineer to join our AI team. It is the team behind Elliptic's copilot, the AI prod",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-ai-product-engineer-london-united-kingdom-45038",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789778408,
-      "fetched_at": "2026-09-19T09:51:50.699880",
-      "match_score": 30.33,
-      "score_breakdown": {
-        "semantic_similarity": 0.4383,
-        "semantic_score": 30.33,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-19T09:52:05.953775"
+      "scored_at": "2026-09-19T13:32:43.264166"
     },
     {
       "id": "arbeitnow_remote-ai-transformation-owner-product-design-16935",
@@ -264,7 +264,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789790105,
-      "fetched_at": "2026-09-19T09:51:50.697238",
+      "fetched_at": "2026-09-19T13:32:29.130342",
       "match_score": 24.36,
       "score_breakdown": {
         "semantic_similarity": 0.2735,
@@ -272,7 +272,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953720"
+      "scored_at": "2026-09-19T13:32:43.264128"
+    },
+    {
+      "id": "arbeitnow_founding-engineer-intern-munich-398477",
+      "title": "Founding Engineer Intern",
+      "company": "SCAILE Technologies GmbH",
+      "location": "Munich",
+      "description": "<p>scaile is building the infrastructure that makes brands visible in AI search. As ChatGPT, Perplexity, and Google AI Overviews replace traditional search, we help companies get discovered and recommended by AI systems. We combine a proprietary Content Engine with AI agents to create, optimize, and deploy content at scale. Supported by Google Cloud for Startups and NCA VC, we're already live with clients like Beurer and Lyceum Technologies.</p>\n<p>We're hiring a Software Engineer Intern to buil",
+      "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/founding-engineer-intern-munich-398477",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1789813876,
+      "fetched_at": "2026-09-19T13:32:29.126522",
+      "match_score": 22.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.3729,
+        "semantic_score": 22.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-19T13:32:43.263704"
     },
     {
       "id": "arbeitnow_senior-platform-engineer-lille-btwin-village-nord-paris-paris-383769",
@@ -287,7 +310,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789804503,
-      "fetched_at": "2026-09-19T09:51:50.700378",
+      "fetched_at": "2026-09-19T13:32:29.134781",
       "match_score": 21.12,
       "score_breakdown": {
         "semantic_similarity": 0.3659,
@@ -295,7 +318,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953885"
+      "scored_at": "2026-09-19T13:32:43.264269"
     },
     {
       "id": "arbeitnow_electrician-stuttgart-434696",
@@ -310,7 +333,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789796415,
-      "fetched_at": "2026-09-19T09:51:50.694420",
+      "fetched_at": "2026-09-19T13:32:29.127794",
       "match_score": 19.48,
       "score_breakdown": {
         "semantic_similarity": 0.3531,
@@ -318,7 +341,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953468"
+      "scored_at": "2026-09-19T13:32:43.263802"
     },
     {
       "id": "arbeitnow_engineering-manager-machine-learning-101520",
@@ -333,7 +356,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789804505,
-      "fetched_at": "2026-09-19T09:51:50.700266",
+      "fetched_at": "2026-09-19T13:32:29.134606",
       "match_score": 19.09,
       "score_breakdown": {
         "semantic_similarity": 0.2321,
@@ -341,7 +364,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953830"
+      "scored_at": "2026-09-19T13:32:43.264201"
     },
     {
       "id": "arbeitnow_growth-manager-jetbrains-ai-london-245944",
@@ -356,7 +379,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789790108,
-      "fetched_at": "2026-09-19T09:51:50.697124",
+      "fetched_at": "2026-09-19T13:32:29.130207",
       "match_score": 14.34,
       "score_breakdown": {
         "semantic_similarity": 0.3127,
@@ -364,7 +387,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953698"
+      "scored_at": "2026-09-19T13:32:43.264100"
     },
     {
       "id": "arbeitnow_senior-software-engineer-back-end-shopping-app-paris-paris-240260",
@@ -379,7 +402,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789804503,
-      "fetched_at": "2026-09-19T09:51:50.700341",
+      "fetched_at": "2026-09-19T13:32:29.134732",
       "match_score": 12.51,
       "score_breakdown": {
         "semantic_similarity": 0.2983,
@@ -387,7 +410,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953859"
+      "scored_at": "2026-09-19T13:32:43.264236"
     },
     {
       "id": "arbeitnow_software-engineer-simulation-platform-munich-424378",
@@ -402,7 +425,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789796407,
-      "fetched_at": "2026-09-19T09:51:50.694664",
+      "fetched_at": "2026-09-19T13:32:29.128090",
       "match_score": 11.4,
       "score_breakdown": {
         "semantic_similarity": 0.2896,
@@ -410,7 +433,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953499"
+      "scored_at": "2026-09-19T13:32:43.263841"
     },
     {
       "id": "arbeitnow_engineering-lead-berlin-87197",
@@ -425,7 +448,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789807206,
-      "fetched_at": "2026-09-19T09:51:50.693549",
+      "fetched_at": "2026-09-19T13:32:29.126725",
       "match_score": 10.25,
       "score_breakdown": {
         "semantic_similarity": 0.2805,
@@ -433,30 +456,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953428"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-gtm-uk-460480",
-      "title": "Senior AI Engineer (GTM)",
-      "company": "Paddle",
-      "location": "UK",
-      "description": "<p style=\"min-height:1.5em\"><strong>What do we do?</strong></p><p style=\"min-height:1.5em\">Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we\u2019re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It\u2019s faster, safer, cheaper, and, above all, way better. </p><p style=\"min-height:1.5em\">We\u2019re bac",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-ai-engineer-gtm-uk-460480",
-      "remote": false,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789778404,
-      "fetched_at": "2026-09-19T09:51:50.699992",
-      "match_score": 9.53,
-      "score_breakdown": {
-        "semantic_similarity": 0.2748,
-        "semantic_score": 9.53,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-19T09:52:05.953802"
+      "scored_at": "2026-09-19T13:32:43.263757"
     },
     {
       "id": "remoteok_1136795",
@@ -484,7 +484,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886915",
+      "fetched_at": "2026-09-19T13:32:22.344168",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -492,7 +492,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953274"
+      "scored_at": "2026-09-19T13:32:43.263497"
     },
     {
       "id": "remoteok_1136569",
@@ -511,7 +511,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886922",
+      "fetched_at": "2026-09-19T13:32:22.344177",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -519,7 +519,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953339"
+      "scored_at": "2026-09-19T13:32:43.263578"
     },
     {
       "id": "arbeitnow_senior-simulation-engineer-computational-physics-munich-435897",
@@ -536,7 +536,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789796407,
-      "fetched_at": "2026-09-19T09:51:50.694702",
+      "fetched_at": "2026-09-19T13:32:29.128137",
       "match_score": 3.1,
       "score_breakdown": {
         "semantic_similarity": 0.2244,
@@ -544,7 +544,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953527"
+      "scored_at": "2026-09-19T13:32:43.263875"
     },
     {
       "id": "arbeitnow_senior-software-engineer-ai-safety-detection-precision-united-kingdom-418768",
@@ -557,7 +557,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1789803927,
-      "fetched_at": "2026-09-19T09:51:50.696608",
+      "fetched_at": "2026-09-19T13:32:29.129488",
       "match_score": 2.75,
       "score_breakdown": {
         "semantic_similarity": 0.2216,
@@ -565,7 +565,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953592"
+      "scored_at": "2026-09-19T13:32:43.263997"
     },
     {
       "id": "remoteok_1136570",
@@ -584,7 +584,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-09-19T09:51:42.886920",
+      "fetched_at": "2026-09-19T13:32:22.344174",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -592,7 +592,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953308"
+      "scored_at": "2026-09-19T13:32:43.263539"
     },
     {
       "id": "arbeitnow_sr-software-engineer-cloud-platform-united-kingdom-372540",
@@ -605,7 +605,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1789803927,
-      "fetched_at": "2026-09-19T09:51:50.696593",
+      "fetched_at": "2026-09-19T13:32:29.129483",
       "match_score": 1.11,
       "score_breakdown": {
         "semantic_similarity": 0.2087,
@@ -613,7 +613,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953551"
+      "scored_at": "2026-09-19T13:32:43.263943"
     },
     {
       "id": "arbeitnow_sr-software-engineer-cloud-platform-london-432039",
@@ -626,7 +626,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1789803927,
-      "fetched_at": "2026-09-19T09:51:50.696606",
+      "fetched_at": "2026-09-19T13:32:29.129486",
       "match_score": 1.11,
       "score_breakdown": {
         "semantic_similarity": 0.2087,
@@ -634,7 +634,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953572"
+      "scored_at": "2026-09-19T13:32:43.263970"
     },
     {
       "id": "arbeitnow_senior-digital-product-designer-value-chain-paris-paris-465042",
@@ -649,7 +649,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789804503,
-      "fetched_at": "2026-09-19T09:51:50.700470",
+      "fetched_at": "2026-09-19T13:32:29.134912",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1637,
@@ -657,7 +657,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-19T09:52:05.953910"
+      "scored_at": "2026-09-19T13:32:43.264301"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-guest-host-london-441",
+      "title": "Engineering Manager, Guest & Host",
+      "company": "airbnb",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic w",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airbnb/engineering-manager-guest-host-london-441",
+      "remote": false,
+      "tags": [
+        "Software Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1789811719,
+      "fetched_at": "2026-09-19T13:32:30.431944",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1512,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-19T13:32:43.264376"
     }
   ]
 }
