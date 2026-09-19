@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-19 19:42 UTC
+**Last updated:** 2026-09-19 23:45 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 100 |
-| Jobs found (all time) | 1736 |
-| Jobs found (latest run, 2026-09-19) | 30 |
-| Best match (latest run) | Senior Fullstack Software Engineer (Ruby/React & TS) at Pennylane SAS (score 59) |
+| Jobs found (all time) | 1733 |
+| Jobs found (latest run, 2026-09-19) | 27 |
+| Best match (latest run) | Principal Software Engineer at Cytix (score 46) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
