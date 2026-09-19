@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-19 13:32 UTC
+**Last updated:** 2026-09-19 16:53 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 100 |
-| Jobs found (all time) | 1734 |
-| Jobs found (latest run, 2026-09-19) | 28 |
+| Jobs found (all time) | 1733 |
+| Jobs found (latest run, 2026-09-19) | 27 |
 | Best match (latest run) | Senior Fullstack Software Engineer (Ruby/React & TS) at Pennylane SAS (score 59) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
