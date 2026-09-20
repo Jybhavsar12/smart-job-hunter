@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-19 23:45 UTC
+**Last updated:** 2026-09-20 10:13 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 100 |
-| Jobs found (all time) | 1733 |
-| Jobs found (latest run, 2026-09-19) | 27 |
-| Best match (latest run) | Principal Software Engineer at Cytix (score 46) |
+| Search runs | 101 |
+| Jobs found (all time) | 1747 |
+| Jobs found (latest run, 2026-09-20) | 14 |
+| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
