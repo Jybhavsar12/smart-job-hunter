@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-20 10:13 UTC
+**Last updated:** 2026-09-20 17:05 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 101 |
-| Jobs found (all time) | 1747 |
-| Jobs found (latest run, 2026-09-20) | 14 |
-| Best match (latest run) | Staff Software Engineer at Evolve (score 44) |
+| Jobs found (all time) | 1779 |
+| Jobs found (latest run, 2026-09-20) | 46 |
+| Best match (latest run) | Senior Full Stack Developer (all genders) at Hubject Gmbh (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
