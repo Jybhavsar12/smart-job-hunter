@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-20 17:05 UTC
+**Last updated:** 2026-09-20 19:54 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 101 |
-| Jobs found (all time) | 1779 |
-| Jobs found (latest run, 2026-09-20) | 46 |
+| Jobs found (all time) | 1774 |
+| Jobs found (latest run, 2026-09-20) | 41 |
 | Best match (latest run) | Senior Full Stack Developer (all genders) at Hubject Gmbh (score 47) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
