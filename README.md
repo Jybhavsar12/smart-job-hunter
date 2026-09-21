@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-20 23:40 UTC
+**Last updated:** 2026-09-21 11:16 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 101 |
-| Jobs found (all time) | 1773 |
-| Jobs found (latest run, 2026-09-20) | 40 |
-| Best match (latest run) | Senior Full Stack Developer (all genders) at Hubject Gmbh (score 47) |
+| Search runs | 102 |
+| Jobs found (all time) | 1814 |
+| Jobs found (latest run, 2026-09-21) | 41 |
+| Best match (latest run) | Senior .NET Software Engineer at OkWhen (score 66) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
