@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-09-21 11:16 UTC
+**Last updated:** 2026-09-21 18:58 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 102 |
-| Jobs found (all time) | 1814 |
-| Jobs found (latest run, 2026-09-21) | 41 |
+| Jobs found (all time) | 1806 |
+| Jobs found (latest run, 2026-09-21) | 33 |
 | Best match (latest run) | Senior .NET Software Engineer at OkWhen (score 66) |
 | Applications tracked | 0 |
 <!-- STATS_END -->

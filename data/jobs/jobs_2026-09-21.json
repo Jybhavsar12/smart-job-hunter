@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "count": 41,
+  "count": 33,
   "jobs": [
     {
       "id": "remoteok_1137411",
@@ -39,7 +39,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-20T00:00:31+00:00",
-      "fetched_at": "2026-09-21T11:16:29.951977",
+      "fetched_at": "2026-09-21T18:58:33.432066",
       "match_score": 66.08,
       "score_breakdown": {
         "semantic_similarity": 0.6013,
@@ -47,7 +47,63 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756574"
+      "scored_at": "2026-09-21T18:58:57.831676"
+    },
+    {
+      "id": "arbeitnow_remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
+      "title": "Senior Software Developer \u2013 Platform & Infrastructure Engineering (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "description": "<br><strong>Your creative field</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">We are looking for<strong>\u00a0two full-time, permanent Senior Software Developer</strong> \u2013 Platform &amp; Infrastructure Engineering (all genders) to <strong>start as soon as possible</strong>. We live remote-first within <strong>Germany</strong>, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.<br><b",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
+      "remote": true,
+      "tags": [
+        "software",
+        "hosting",
+        "cloud hositng",
+        "vps",
+        "data center",
+        "remote company",
+        "remote",
+        "hybrid work",
+        "tech company",
+        "software developer",
+        "software egineer",
+        "hosting company",
+        "international"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790010599,
+      "fetched_at": "2026-09-21T18:58:42.292305",
+      "match_score": 62.17,
+      "score_breakdown": {
+        "semantic_similarity": 0.5706,
+        "semantic_score": 47.17,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832351"
+    },
+    {
+      "id": "arbeitnow_remote-senior-software-engineer-it-risk-pricing-89515",
+      "title": "Senior Software Engineer \u2013 IT Risk & Pricing (m/f/d)",
+      "company": "Auxmoney Gmbh",
+      "location": "Remote / D\u00fcsseldorf",
+      "description": "<br><strong>Your new team: </strong><p>As a Senior Software Engineer (m/f/d) at auxmoney, you\u2019ll join our IT Risk &amp; Pricing team, where we build backend systems and services that support risk decisioning, pricing, and data-driven product logic. The work is backend-heavy, involving complex technical problem-solving and close integration with data/analytics workflows.\u00a0<br>\u00a0<br>In this role, you\u2019ll design and deliver impactful features, help evolve a scalable, resilient architecture, and take e",
+      "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-89515",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1789999773,
+      "fetched_at": "2026-09-21T18:58:41.105152",
+      "match_score": 46.43,
+      "score_breakdown": {
+        "semantic_similarity": 0.447,
+        "semantic_score": 31.43,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832051"
     },
     {
       "id": "remoteok_1136447",
@@ -73,7 +129,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-09-21T11:16:29.952041",
+      "fetched_at": "2026-09-21T18:58:33.432127",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -81,14 +137,14 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756761"
+      "scored_at": "2026-09-21T18:58:57.831837"
     },
     {
       "id": "remoteok_1137387",
       "title": "Software Engineer",
       "company": "Mirantis",
       "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMjAuMTY5LjEwMS4xOTM= when applying to show you read the job post completely (#RMjAuMTY5LjEwMS4xOTM=). This is a beta feature to avoid spam applicants. Companies c",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMjAuMTY5LjY5LjEzMQ== when applying to show you read the job post completely (#RMjAuMTY5LjY5LjEzMQ==). This is a beta feature to avoid spam applicants. Companies c",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
       "salary": "",
       "tags": [
@@ -99,68 +155,103 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-09-21T11:16:29.952005",
-      "match_score": 40.57,
+      "fetched_at": "2026-09-21T18:58:33.432095",
+      "match_score": 41.25,
       "score_breakdown": {
-        "semantic_similarity": 0.4009,
-        "semantic_score": 25.57,
+        "semantic_similarity": 0.4063,
+        "semantic_score": 26.25,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756645"
+      "scored_at": "2026-09-21T18:58:57.831738"
     },
     {
-      "id": "arbeitnow_software-engineer-new-grad-london-363",
-      "title": "Software Engineer, New Grad",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Software Engineer, New Grad&lt;/h2&gt;&lt;p&gt;Join us in our ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-new-grad-london-363",
-      "remote": false,
+      "id": "arbeitnow_remote-senior-software-developer-london-48594",
+      "title": "Senior Software Developer",
+      "company": "Framestore",
+      "location": "Remote job",
+      "description": "<p><strong>Please note this is a permanent role and we prefer a hybrid working model; we are flexible with remote working as long as you can meet with the team in our London studio in-person now and then. Please note we cannot support VISA + relocation for this role.</strong></p><p style=\"min-height: 1.7em;\"></p><p>At Framestore\u2019s Oscar-winning Technology team, innovation is at the heart of what we do, whether this be developing new techniques, new ideas or creative new ways to tell our clients\u2019",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-software-developer-london-48594",
+      "remote": true,
       "tags": [
-        "Engineering (Ads)"
+        "Technology",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587289",
-      "match_score": 38.45,
+      "posted_at": 1790004630,
+      "fetched_at": "2026-09-21T18:58:42.295621",
+      "match_score": 36.16,
       "score_breakdown": {
-        "semantic_similarity": 0.4628,
-        "semantic_score": 33.45,
-        "location_match": 0,
-        "priority_keywords": 5
+        "semantic_similarity": 0.3663,
+        "semantic_score": 21.16,
+        "location_match": 15,
+        "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757083"
+      "scored_at": "2026-09-21T18:58:57.832376"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-full-stack-london-384272",
-      "title": "Senior Software Engineer - Full-Stack",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer - Full Stack&lt;/h2&gt;&lt;p&gt;Join ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-london-384272",
-      "remote": false,
+      "id": "arbeitnow_remote-senior-fullstack-developer-london-80426",
+      "title": "Senior Fullstack Developer",
+      "company": "Framestore",
+      "location": "Remote job",
+      "description": "<p><strong>Please note this is a permanent role and we prefer a hybrid working model; we are flexible with remote working as long as you can meet with the team in our London studio in-person now and then. </strong></p><p><strong>Please note we cannot support VISA + relocation for this role.</strong></p><p style=\"min-height: 1.7em;\"></p><p>At Framestore\u2019s Oscar-winning Technology team, innovation is at the heart of what we do, whether this be developing new techniques, new ideas or creative new w",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-fullstack-developer-london-80426",
+      "remote": true,
       "tags": [
-        "Engineering (Ads)"
+        "Technology",
+        "Remote"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587304",
-      "match_score": 33.88,
+      "posted_at": 1790004630,
+      "fetched_at": "2026-09-21T18:58:42.295638",
+      "match_score": 35.54,
       "score_breakdown": {
-        "semantic_similarity": 0.4269,
-        "semantic_score": 28.88,
-        "location_match": 0,
-        "priority_keywords": 5
+        "semantic_similarity": 0.3614,
+        "semantic_score": 20.54,
+        "location_match": 15,
+        "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757256"
+      "scored_at": "2026-09-21T18:58:57.832396"
+    },
+    {
+      "id": "arbeitnow_remote-senior-ai-product-engineer-berlin-130597",
+      "title": "(Senior) AI Product Engineer (m/w/d)",
+      "company": "Legalhero",
+      "location": "Berlin",
+      "description": "<br><strong>What You'll Do</strong><p>You\u2019ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you\u2019ll work across our three product squads: You\u2019ll single-handedly turn unaddressed topics into products, hand them off once they\u2019re up and running, and serve as a sparring partner for the squad PMs on all AI-related topics. For us, \u201csenior\u201d refers to your approach to work, not your years of experience. You\u2019ll report directl",
+      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-130597",
+      "remote": true,
+      "tags": [
+        "AI",
+        "Product Engineer",
+        "AI Product Engineer",
+        "Berlin",
+        "Jobs",
+        "Homeoffice",
+        "Remote",
+        "Hybrid",
+        "Senior AI Product Engineer",
+        "AI Projects",
+        "AI features"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790010582,
+      "fetched_at": "2026-09-21T18:58:41.103412",
+      "match_score": 32.76,
+      "score_breakdown": {
+        "semantic_similarity": 0.4574,
+        "semantic_score": 32.76,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.831930"
     },
     {
       "id": "remoteok_1137409",
       "title": "Backend Software Engineer",
       "company": "Airspace Link",
       "location": "",
-      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forward\u00e2\u0080\u0094from Vanderbilt\u00e2\u0080\u0099s railroads to Edison\u00e2\u0080\u0099s electrical grid and Eisenhower\u00e2\u0080\u0099s highways. Today, we stand at another pivotal infrastructure moment with Airspace Link\u00e2\u0080\u0099s d...<br/><br/>Please mention the word **AMIABLE** and tag RMjAuMTY5LjEwMS4xOTM= when applying to show you read the job post completely (#RMjAuMTY5LjEwMS4xOTM=). This is a beta feature to avoid spam applicants. Companies ca",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forward\u00e2\u0080\u0094from Vanderbilt\u00e2\u0080\u0099s railroads to Edison\u00e2\u0080\u0099s electrical grid and Eisenhower\u00e2\u0080\u0099s highways. Today, we stand at another pivotal infrastructure moment with Airspace Link\u00e2\u0080\u0099s d...<br/><br/>Please mention the word **AMIABLE** and tag RMjAuMTY5LjY5LjEzMQ== when applying to show you read the job post completely (#RMjAuMTY5LjY5LjEzMQ==). This is a beta feature to avoid spam applicants. Companies ca",
       "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
       "salary": "",
       "tags": [
@@ -172,222 +263,61 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-19T20:00:01+00:00",
-      "fetched_at": "2026-09-21T11:16:29.951990",
-      "match_score": 32.55,
+      "fetched_at": "2026-09-21T18:58:33.432082",
+      "match_score": 32.51,
       "score_breakdown": {
-        "semantic_similarity": 0.3379,
-        "semantic_score": 17.55,
+        "semantic_similarity": 0.3376,
+        "semantic_score": 17.51,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756618"
+      "scored_at": "2026-09-21T18:58:57.831716"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-ios-london-283195",
-      "title": "Senior Software Engineer - iOS",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer - iOS&lt;/h2&gt;&lt;p&gt;Join us in o",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-ios-london-283195",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587302",
-      "match_score": 31.19,
-      "score_breakdown": {
-        "semantic_similarity": 0.445,
-        "semantic_score": 31.19,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757235"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-full-stack-london-336044",
-      "title": "Staff Software Engineer - Full-Stack",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Software Engineer - Full Stack&lt;/h1&gt;&lt;p&gt;Join u",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-full-stack-london-336044",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587115",
-      "match_score": 30.73,
-      "score_breakdown": {
-        "semantic_similarity": 0.4022,
-        "semantic_score": 25.73,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-09-21T11:16:53.757012"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-london-138199",
-      "title": "Senior Software Engineer",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer&lt;/h2&gt;&lt;p&gt;Join us in our mis",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-london-138199",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587311",
-      "match_score": 30.31,
-      "score_breakdown": {
-        "semantic_similarity": 0.4381,
-        "semantic_score": 30.31,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757343"
-    },
-    {
-      "id": "arbeitnow_software-engineer-java-kempten-163486",
-      "title": "Software Engineer Java (m/w/d)",
-      "company": "WURAVENTA - PASSION FOR TALENT",
-      "location": "Kempten",
-      "description": "<p>Sie m\u00f6chten Software nicht einfach nur entwickeln, sondern mitentscheiden, wie moderne Softwareentwicklung k\u00fcnftig funktioniert?</p>\n<p>Dann erwartet Sie eine Position, in der Sie technologische Standards aktiv mitgestalten. Gemeinsam mit Entwicklungsteams, Architekten und Produktbereichen arbeiten Sie an der Weiterentwicklung moderner Software-Engineering-Praktiken von Java und Cloud-native Development \u00fcber moderne Architekturans\u00e4tze bis hin zu KI-gest\u00fctzter und agentenbasierter Softwareentw",
-      "url": "https://www.arbeitnow.com/jobs/companies/wuraventa-passion-for-talent/software-engineer-java-kempten-163486",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789981056,
-      "fetched_at": "2026-09-21T11:16:37.584084",
-      "match_score": 29.62,
-      "score_breakdown": {
-        "semantic_similarity": 0.4327,
-        "semantic_score": 29.62,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.756796"
-    },
-    {
-      "id": "arbeitnow_software-engineer-backend-bi-platform-london-345210",
-      "title": "Software Engineer, Backend (BI Platform)",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Join us in our mission to transform the way people shop and eat",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-345210",
-      "remote": false,
-      "tags": [
-        "Engineering (Data Platform)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587294",
-      "match_score": 28.44,
-      "score_breakdown": {
-        "semantic_similarity": 0.4234,
-        "semantic_score": 28.44,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757150"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-android-london-348577",
-      "title": "Senior Software Engineer - Android",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer - Android&lt;/h2&gt;&lt;p&gt;Join us ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-android-london-348577",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587309",
-      "match_score": 28.24,
-      "score_breakdown": {
-        "semantic_similarity": 0.4219,
-        "semantic_score": 28.24,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757321"
-    },
-    {
-      "id": "arbeitnow_software-engineer-london-71686",
-      "title": "Software Engineer",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Software Engineer&lt;/h2&gt;&lt;p&gt;Join us in our mission to",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-71686",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587298",
-      "match_score": 26.33,
-      "score_breakdown": {
-        "semantic_similarity": 0.4069,
-        "semantic_score": 26.33,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757192"
-    },
-    {
-      "id": "arbeitnow_staff-software-engineer-london-37797",
-      "title": "Staff Software Engineer",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Staff Software Engineer&lt;/h2&gt;&lt;p&gt;Join us in our miss",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-london-37797",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587120",
-      "match_score": 26.29,
-      "score_breakdown": {
-        "semantic_similarity": 0.4066,
-        "semantic_score": 26.29,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757060"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-c-java-289718",
-      "title": "Senior Software Engineer - C# / Java",
-      "company": "Threecolts",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;About Threecolts&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Threecolts is the leading software suite for online &amp;amp; offline consumer brands (Amazon, Walmart, Target, Shopify, eBay, etc.). We\u2019ve built a powerful ecosystem of software solutions to help businesses grow smarter \u2014 from revenue recovery and retail finance, to multichannel operations and pricing optimization. With over 500 employees globally and strong backing, we\u2019re scal",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/threecolts/senior-software-engineer-c-java-289718",
+      "id": "arbeitnow_senior-backend-engineer-munich-435745",
+      "title": "Senior Backend Engineer (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "description": "<h3>TYTAN Technologies</h3><p><span style=\"color:#121317\">The </span><strong><span style=\"color:#121317\">PACE</span></strong><span style=\"color:#121317\"> is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who thrive on ownership, embrace challenges, and are energized by meaningful work. If ",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-backend-engineer-munich-435745",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908910,
-      "fetched_at": "2026-09-21T11:16:37.586002",
-      "match_score": 26.05,
+      "posted_at": 1790001023,
+      "fetched_at": "2026-09-21T18:58:41.104739",
+      "match_score": 31.46,
       "score_breakdown": {
-        "semantic_similarity": 0.2868,
-        "semantic_score": 11.05,
-        "location_match": 15,
+        "semantic_similarity": 0.4472,
+        "semantic_score": 31.46,
+        "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756986"
+      "scored_at": "2026-09-21T18:58:57.831965"
+    },
+    {
+      "id": "arbeitnow_working-student-software-engineering-frankfurt-am-main-498877",
+      "title": "Working Student Software Engineering (m/f/d)",
+      "company": "Ginmon GmbH",
+      "location": "Frankfurt am Main, Hessen, Deutschland",
+      "description": "<p>Are you a Bachelor\u2019s or Master\u2019s student in the Rhein-Main area who is passionate about shaping the financial<strong> </strong>world<strong> </strong>of<strong> </strong>tomorrow and eager to level up your skills by working on real projects in a modern FinTech environment?</p><p style=\"min-height: 1.7em;\"></p><p>Then <strong>Ginmon</strong> is the right place for you!</p><p>We are an innovative FinTech company focused on digital wealth management based on scientifically proven ETF investment ",
+      "url": "https://www.arbeitnow.com/jobs/companies/ginmon-gmbh/working-student-software-engineering-frankfurt-am-main-498877",
+      "remote": false,
+      "tags": [
+        "IT"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790001004,
+      "fetched_at": "2026-09-21T18:58:41.104789",
+      "match_score": 28.49,
+      "score_breakdown": {
+        "semantic_similarity": 0.4239,
+        "semantic_score": 28.49,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832009"
     },
     {
       "id": "arbeitnow_forward-deployed-engineering-senior-architect-london-453875",
@@ -402,7 +332,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789973722,
-      "fetched_at": "2026-09-21T11:16:37.584834",
+      "fetched_at": "2026-09-21T18:58:41.107262",
       "match_score": 25.77,
       "score_breakdown": {
         "semantic_similarity": 0.4024,
@@ -410,30 +340,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756821"
-    },
-    {
-      "id": "arbeitnow_software-engineer-genai-platform-london-481615",
-      "title": "Software Engineer, GenAI Platform",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;Software Engineer, GenAI Platform&lt;/strong&gt;",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-genai-platform-london-481615",
-      "remote": false,
-      "tags": [
-        "Engineering (Data Platform)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587293",
-      "match_score": 25.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.3964,
-        "semantic_score": 25.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757127"
+      "scored_at": "2026-09-21T18:58:57.832223"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-emerging-enterprise-dnb-london-6238",
@@ -448,7 +355,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789973722,
-      "fetched_at": "2026-09-21T11:16:37.584871",
+      "fetched_at": "2026-09-21T18:58:41.107286",
       "match_score": 24.83,
       "score_breakdown": {
         "semantic_similarity": 0.3951,
@@ -456,53 +363,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756845"
+      "scored_at": "2026-09-21T18:58:57.832240"
     },
     {
-      "id": "arbeitnow_software-engineer-all-levels-core-technology-london-342178",
-      "title": "Software Engineer (all levels) - Core Technology",
-      "company": "Aisi",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About the AI Security Institute&lt;/h2&gt;\n&lt;p&gt;The AI Security Institute is the world&#39;s largest and best-funded team dedicated to understanding advanced AI risks and translating that knowledge into action. We\u2019re in the heart of the UK government with direct lines to No. 10 (the Prime Minister&#39;s office), and we work with frontier developers and governments globally.&lt;/p&gt;\n&lt;p&gt;We\u2019re here because governments are critical for",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/software-engineer-all-levels-core-technology-london-342178",
+      "id": "arbeitnow_full-stack-engineer-munich-53732",
+      "title": "Full-stack Engineer (f/m/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "description": "<h4>TYTAN Technologies</h4><p><span style=\"color:#121317\">The </span><strong><span style=\"color:#121317\">PACE</span></strong><span style=\"color:#121317\"> is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who thrive on ownership, embrace challenges, and are energized by meaningful work. If ",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/full-stack-engineer-munich-53732",
       "remote": false,
       "tags": [
-        "Core Technology Team"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908925,
-      "fetched_at": "2026-09-21T11:16:37.585898",
-      "match_score": 24.75,
+      "posted_at": 1790001023,
+      "fetched_at": "2026-09-21T18:58:41.104771",
+      "match_score": 24.41,
       "score_breakdown": {
-        "semantic_similarity": 0.3945,
-        "semantic_score": 24.75,
+        "semantic_similarity": 0.3918,
+        "semantic_score": 24.41,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756960"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-event-streaming-systems-london-489315",
-      "title": "Senior Software Engineer, Event Streaming Systems",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;Senior Software Engineer, Event Streaming System",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-event-streaming-systems-london-489315",
-      "remote": false,
-      "tags": [
-        "Engineering (Infra)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587305",
-      "match_score": 24.34,
-      "score_breakdown": {
-        "semantic_similarity": 0.3912,
-        "semantic_score": 24.34,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757278"
+      "scored_at": "2026-09-21T18:58:57.831983"
     },
     {
       "id": "arbeitnow_manager-i-engineering-code-security-paris-97230",
@@ -517,7 +401,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789912513,
-      "fetched_at": "2026-09-21T11:16:37.589665",
+      "fetched_at": "2026-09-21T18:58:41.108795",
       "match_score": 20.98,
       "score_breakdown": {
         "semantic_similarity": 0.3648,
@@ -525,293 +409,163 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757418"
+      "scored_at": "2026-09-21T18:58:57.832296"
     },
     {
-      "id": "arbeitnow_senior-platform-engineer-developer-platform-london-324896",
-      "title": "Senior Platform Engineer, Developer Platform",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Join us in our mission to transform the way people shop and eat",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-platform-engineer-developer-platform-london-324896",
+      "id": "arbeitnow_android-mobile-engineer-411614",
+      "title": "Android Mobile Engineer",
+      "company": "tripadvisor",
+      "location": "",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Tripadvisor&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world\u2019s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/android-mobile-engineer-411614",
       "remote": false,
       "tags": [
-        "Engineering (Infra)"
+        "Engineering & Technology"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587547",
-      "match_score": 20.4,
+      "posted_at": 1790006104,
+      "fetched_at": "2026-09-21T18:58:41.105579",
+      "match_score": 15.0,
       "score_breakdown": {
-        "semantic_similarity": 0.3603,
-        "semantic_score": 20.4,
+        "semantic_similarity": 0.143,
+        "semantic_score": 0.0,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832118"
+    },
+    {
+      "id": "arbeitnow_senior-electrical-characterisation-engineer-london-uk-336449",
+      "title": "Senior Electrical Characterisation Engineer",
+      "company": "Quantum Motion Technologies - Personio",
+      "location": "London, UK",
+      "description": "<br><strong>About The Role and Team</strong><p><span style=\"color:rgb(0,0,0);font-family:Arial, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">Quantum Motion is a fast-growing quantum computing scale-up based in London founded by internationally renowned researchers from UCL and Oxford University with over 40 years\u2019 experience in developing qubits and quantum computing architectures. Bringing together state-",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum-motion-technologies-personio/senior-electrical-characterisation-engineer-london-uk-336449",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1789992575,
+      "fetched_at": "2026-09-21T18:58:41.107165",
+      "match_score": 12.82,
+      "score_breakdown": {
+        "semantic_similarity": 0.3007,
+        "semantic_score": 12.82,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757375"
+      "scored_at": "2026-09-21T18:58:57.832204"
     },
     {
-      "id": "arbeitnow_staff-software-engineer-dev-environments-london-267926",
-      "title": "Staff Software Engineer, Dev Environments",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Dev Environments team sits within DoorDash&#39;s Foundation",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-267926",
+      "id": "arbeitnow_system-software-engineer-gn-cloud-simulation-dresden-276782",
+      "title": "System Software Engineer (gn) Cloud & Simulation",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "description": "<br><strong>Your mission</strong><p><span style=\"color:rgb(41,42,46);font-family:'Atlassian Sans', 'ui-sans-serif', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif;font-size:16px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;\">At Wandelbots, we are building NOVA, a platform that makes industrial robot programming accessible to everyone. Our Simulation team develops the technologies that allow partners,",
+      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-276782",
       "remote": false,
-      "tags": [
-        "Engineering (Infra)"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587118",
-      "match_score": 19.63,
+      "posted_at": 1789999783,
+      "fetched_at": "2026-09-21T18:58:41.104833",
+      "match_score": 9.86,
       "score_breakdown": {
-        "semantic_similarity": 0.3542,
-        "semantic_score": 19.63,
+        "semantic_similarity": 0.2775,
+        "semantic_score": 9.86,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757037"
+      "scored_at": "2026-09-21T18:58:57.832024"
     },
     {
-      "id": "arbeitnow_software-engineer-ii-full-stack-london-345363",
-      "title": "Software Engineer II - Full-Stack",
-      "company": "Deliveroo",
+      "id": "arbeitnow_lead-software-engineer-medical-os-london-355950",
+      "title": "Lead Software Engineer - Medical OS",
+      "company": "Neko Health",
       "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Why Deliveroo?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;W",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-london-345363",
+      "description": "<h3><strong>Mission</strong></h3><p style=\"min-height:1.5em\">Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. <br /><br />In a single, non-invasive visit under an hour, proprietary technology and direct clinical care combine to deliver personalised, actionable insights. It's a team that thinks in 10x, not 10%. Every rol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/lead-software-engineer-medical-os-london-355950",
       "remote": false,
       "tags": [
-        "Engineering (Ads)"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587291",
-      "match_score": 18.72,
+      "posted_at": 1790005213,
+      "fetched_at": "2026-09-21T18:58:41.105620",
+      "match_score": 8.57,
       "score_breakdown": {
-        "semantic_similarity": 0.3471,
-        "semantic_score": 18.72,
+        "semantic_similarity": 0.2673,
+        "semantic_score": 8.57,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757106"
+      "scored_at": "2026-09-21T18:58:57.832138"
     },
     {
-      "id": "arbeitnow_software-developer-fokus-secure-software-development-nuremberg-169612",
-      "title": "Software Developer - Fokus Secure Software Development (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><strong>Deine Rolle</strong></p>\n<p>Sicherheit ist f\u00fcr uns bei isento ein fester Bestandteil exzellenter Software-Architektur: Wir entwickeln gesch\u00e4ftskritische Web- und Cloudanwendungen, die im Alltag zuverl\u00e4ssig funktionieren und von Grund auf gesch\u00fctzt sind.</p>\n<p>Als Software Developer mit Fokus Secure Software Development entwickelst Du in unseren Projekten aktiv mit Java, Spring Boot, Python oder Angular. Gleichzeitig \u00fcbernimmst Du eine tragende Rolle f\u00fcr den internen Wissensaufbau: Du",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-fokus-secure-software-development-nuremberg-169612",
+      "id": "arbeitnow_senior-engineering-manager-brand-ads-and-promotions-london-342019",
+      "title": "Senior Engineering Manager, Brand Ads and Promotions",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "description": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p>\n<p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.</p></div><h1><strong>Senior Engineering Manager, Brand Ads and Promotions</strong></h1>\n<p>Join us in our mission to transform the way people sho",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-engineering-manager-brand-ads-and-promotions-london-342019",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1790001926,
+      "fetched_at": "2026-09-21T18:58:41.106831",
+      "match_score": 8.08,
+      "score_breakdown": {
+        "semantic_similarity": 0.2635,
+        "semantic_score": 8.08,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832175"
+    },
+    {
+      "id": "arbeitnow_junior-software-engineer-ki-gestutzte-entwicklung-hamburg-316522",
+      "title": "Junior Software Engineer (m/w/d) \u2014 KI-gest\u00fctzte Entwicklung",
+      "company": "data nation GmbH",
+      "location": "Hamburg",
+      "description": "<p><strong>Standort:</strong> Alstertwiete 3, 20099 Hamburg</p><p><strong>\u00dcber uns:<br /></strong>data nation bringt frischen Wind in die Fitnessbranche durch innovative Digitalisierungs- und Automatisierungsans\u00e4tze. Unser Ziel ist es, durch kreative L\u00f6sungen messbare Erfolge zu erzielen und Standards neu zu definieren. Seit unserer Gr\u00fcndung im Jahr 2021 durch Bruno To-Vinh sind Flexibilit\u00e4t, Offenheit, Kundenfokus, Integrit\u00e4t und Verantwortung die S\u00e4ulen unserer Unternehmenskultur.</p><p>Mit <s",
+      "url": "https://www.arbeitnow.com/jobs/companies/data-nation-gmbh/junior-software-engineer-ki-gestutzte-entwicklung-hamburg-316522",
       "remote": false,
       "tags": [
-        "Software Development"
+        "Internet and software",
+        "high school coursework"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789981109,
-      "fetched_at": "2026-09-21T11:16:38.766835",
-      "match_score": 18.54,
+      "posted_at": 1789996810,
+      "fetched_at": "2026-09-21T18:58:41.105445",
+      "match_score": 7.95,
       "score_breakdown": {
-        "semantic_similarity": 0.3064,
-        "semantic_score": 13.54,
+        "semantic_similarity": 0.2232,
+        "semantic_score": 2.95,
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-09-21T11:16:53.757547"
+      "scored_at": "2026-09-21T18:58:57.832076"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-proactive-security-london-352517",
-      "title": "Senior Software Engineer, Proactive Security",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Join ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-352517",
+      "id": "arbeitnow_software-engineer-full-stack-order-tracking-delivery-performance-lille-upline-nord-260434",
+      "title": "Software Engineer Full-Stack\u2013 Order Tracking & Delivery Performance (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Lille, Upline, Nord",
+      "description": "&lt;h3&gt;&lt;strong data-path-to-node=&quot;4&quot; data-index-in-node=&quot;0&quot;&gt;Notre \u00e9quipe Ship &amp;amp; Back recherche un\u00b7e Software Development Engineer Full-Stack bas\u00e9\u00b7e \u00e0 Lille ou Paris.&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-path-to-node=&quot;7&quot;&gt;Au sein du domaine &lt;strong&gt;Value Chain&lt;/strong&gt;, notre \u00e9quipe Ship &amp;amp; Back assure la livraison des commandes e-commerce, leur suivi, ainsi que les retours (entrep\u00f4t et magasin) pour l&#39;ensemble de nos pays vi",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-full-stack-order-tracking-delivery-performance-lille-upline-nord-260434",
       "remote": false,
       "tags": [
-        "Security Engineering (Information Security)"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587300",
-      "match_score": 17.87,
+      "posted_at": 1789998933,
+      "fetched_at": "2026-09-21T18:58:41.107446",
+      "match_score": 5.93,
       "score_breakdown": {
-        "semantic_similarity": 0.3404,
-        "semantic_score": 17.87,
+        "semantic_similarity": 0.2466,
+        "semantic_score": 5.93,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757213"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-android-sdui-london-79443",
-      "title": "Senior Software Engineer, Android SDUI",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Join us in our mission to transform the way people shop and eat",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-android-sdui-london-79443",
-      "remote": false,
-      "tags": [
-        "Engineering (Infra)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587307",
-      "match_score": 17.32,
-      "score_breakdown": {
-        "semantic_similarity": 0.3361,
-        "semantic_score": 17.32,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757301"
-    },
-    {
-      "id": "arbeitnow_software-engineer-london-116718",
-      "title": "Software Engineer",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-116718",
-      "remote": false,
-      "tags": [
-        "Engineering (Trust)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789908905,
-      "fetched_at": "2026-09-21T11:16:37.587296",
-      "match_score": 17.05,
-      "score_breakdown": {
-        "semantic_similarity": 0.334,
-        "semantic_score": 17.05,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757172"
-    },
-    {
-      "id": "arbeitnow_senior-backend-developer-ai-driven-development-wolfsburg-413190",
-      "title": "Senior Backend Developer (m/w/d) \u2013 AI-Driven Development",
-      "company": "Weissenberg Group GmbH",
-      "location": "Wolfsburg",
-      "description": "<h2>Aufgabengebiet</h2>\n<p>Du willst nicht nur Tickets abarbeiten, sondern die technische Richtung einer L\u00f6sung mitpr\u00e4gen? Bei uns verbindest Du langj\u00e4hrige Backend-Erfahrung mit modernen AI Coding Tools. Du entwickelst skalierbare Systeme, triffst belastbare Entscheidungen zur Softwarearchitektur und nutzt Codex, Claude Code, GitHub Copilot oder vergleichbare Coding Agents als produktive Werkzeuge im Entwicklungsalltag.</p>\n<h2>Deine Aufgaben:</h2>\n<ul>\n<li>Du gestaltest anspruchsvolle Backend-",
-      "url": "https://www.arbeitnow.com/jobs/companies/weissenberg-group-gmbh/senior-backend-developer-ai-driven-development-wolfsburg-413190",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789981056,
-      "fetched_at": "2026-09-21T11:16:41.164315",
-      "match_score": 15.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.3231,
-        "semantic_score": 15.67,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757575"
-    },
-    {
-      "id": "arbeitnow_staff-product-engineer-ai-london-145246",
-      "title": "Staff Product Engineer, AI",
-      "company": "intercom",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex custo",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-product-engineer-ai-london-145246",
-      "remote": false,
-      "tags": [
-        "AI Group"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789962913,
-      "fetched_at": "2026-09-21T11:16:37.585195",
-      "match_score": 12.38,
-      "score_breakdown": {
-        "semantic_similarity": 0.2972,
-        "semantic_score": 12.38,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.756868"
-    },
-    {
-      "id": "arbeitnow_software-developer-schwerpunkt-angular-nuremberg-53024",
-      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><strong>Deine Rolle</strong></p>\n<p>Komplexe Prozesse so in ein Frontend zu gie\u00dfen, dass die Bedienung fast schon intuitiv Spa\u00df macht \u2013 genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft daf\u00fcr, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im Alltag durch Geschwindigkeit, Barrierefreiheit und eine erstklassige UX \u00fcberzeugen.</p>\n<p>Dein Zuhause ist das Frontend mit Angular und TypeScript, gleichzeitig bringst du",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-53024",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789981109,
-      "fetched_at": "2026-09-21T11:16:38.766833",
-      "match_score": 11.12,
-      "score_breakdown": {
-        "semantic_similarity": 0.2873,
-        "semantic_score": 11.12,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757520"
-    },
-    {
-      "id": "arbeitnow_quantitative-backend-developer-private-capital-analytics-platform-munchen-112316",
-      "title": "Quantitative Backend Developer (f/m/d) \u2013 Private Capital Analytics Platform",
-      "company": "Assetmetrix Gmbh",
-      "location": "M\u00fcnchen",
-      "description": "<br><strong>Your mission</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;color:rgb(0,0,0);\">As a Quantitative Researcher &amp; Methodology Specialist (f/m/d), you will develop innovative quantitative models for the private capital industry. You will identify new analytical approaches, validate their value, and actively shape the methodological evolution of our products. Your tasks:<br><br><strong>Quantitative Research &amp; Model Development</strong></span><ul><li ",
-      "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/quantitative-backend-developer-private-capital-analytics-platform-munchen-112316",
-      "remote": false,
-      "tags": [
-        "Analytics",
-        "Private Capital",
-        "Alternative Investments",
-        "Private Equity",
-        "Analytics Engineering",
-        "Data Management",
-        "Quantitative Research",
-        "Modellentwicklung",
-        "Modellvalidierung",
-        "Research",
-        "Innovation"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789978199,
-      "fetched_at": "2026-09-21T11:16:41.164869",
-      "match_score": 10.54,
-      "score_breakdown": {
-        "semantic_similarity": 0.2828,
-        "semantic_score": 10.54,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757598"
-    },
-    {
-      "id": "arbeitnow_sales-development-representative-uk-london-239983",
-      "title": "Sales Development Representative (UK)",
-      "company": "Artemis",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">Artemis is building the future of AI-driven defense \u2013 helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.</p><p style=\"min-height:1.5em\">We're backed by First Round Capital, Brightmind, and a group of the cybersecurity industry's most prominent Operators.</p><p style=\"min-height:1.5em\">Our founders, Shachar (ex-Palo Alto Networks, AWS, Demisto) and Dan (ex-Abnormal Security, Twitter) have previously bu",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/artemis/sales-development-representative-uk-london-239983",
-      "remote": false,
-      "tags": [
-        "GTM"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789962006,
-      "fetched_at": "2026-09-21T11:16:37.585439",
-      "match_score": 9.98,
-      "score_breakdown": {
-        "semantic_similarity": 0.2784,
-        "semantic_score": 9.98,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.756903"
+      "scored_at": "2026-09-21T18:58:57.832263"
     },
     {
       "id": "remoteok_1136795",
@@ -839,7 +593,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-09-21T11:16:29.952029",
+      "fetched_at": "2026-09-21T18:58:33.432115",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -847,30 +601,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756674"
-    },
-    {
-      "id": "arbeitnow_senior-software-developer-nuremberg-224680",
-      "title": "(Senior) Software Developer (m/w/d)",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6n",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-nuremberg-224680",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1789981109,
-      "fetched_at": "2026-09-21T11:16:38.766819",
-      "match_score": 4.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2371,
-        "semantic_score": 4.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-09-21T11:16:53.757491"
+      "scored_at": "2026-09-21T18:58:57.831764"
     },
     {
       "id": "remoteok_1136569",
@@ -889,7 +620,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-09-21T11:16:29.952038",
+      "fetched_at": "2026-09-21T18:58:33.432125",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -897,7 +628,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756735"
+      "scored_at": "2026-09-21T18:58:57.831815"
     },
     {
       "id": "arbeitnow_manager-i-engineering-ai-platform-evaluation-annotation-paris-423349",
@@ -912,7 +643,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789912513,
-      "fetched_at": "2026-09-21T11:16:37.589789",
+      "fetched_at": "2026-09-21T18:58:41.108877",
       "match_score": 3.2,
       "score_breakdown": {
         "semantic_similarity": 0.2252,
@@ -920,7 +651,51 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757459"
+      "scored_at": "2026-09-21T18:58:57.832327"
+    },
+    {
+      "id": "arbeitnow_manager-engineering-accounting-data-and-systems-london-343398",
+      "title": "Manager Engineering, Accounting Data and Systems",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "description": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p>\n<p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.</p></div><h1><strong>About the Team</strong></h1>\n<p>It's an exciting time to join our rapidly growing Accounting team with ample development opp",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/manager-engineering-accounting-data-and-systems-london-343398",
+      "remote": false,
+      "tags": [],
+      "source": "Arbeitnow",
+      "posted_at": 1790001926,
+      "fetched_at": "2026-09-21T18:58:41.106802",
+      "match_score": 1.85,
+      "score_breakdown": {
+        "semantic_similarity": 0.2145,
+        "semantic_score": 1.85,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832157"
+    },
+    {
+      "id": "arbeitnow_software-engineer-ii-android-london-442482",
+      "title": "Software Engineer II (Android)",
+      "company": "tripadvisor",
+      "location": "London",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Tripadvisor&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world\u2019s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-ii-android-london-442482",
+      "remote": false,
+      "tags": [
+        "Engineering & Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790006104,
+      "fetched_at": "2026-09-21T18:58:41.105495",
+      "match_score": 1.37,
+      "score_breakdown": {
+        "semantic_similarity": 0.2108,
+        "semantic_score": 1.37,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.832099"
     },
     {
       "id": "remoteok_1136570",
@@ -939,7 +714,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-09-21T11:16:29.952034",
+      "fetched_at": "2026-09-21T18:58:33.432119",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -947,28 +722,85 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756706"
+      "scored_at": "2026-09-21T18:58:57.831792"
     },
     {
-      "id": "arbeitnow_software-engineer-bristol-319178",
-      "title": "Software Engineer",
-      "company": "Ping Identity",
-      "location": "Bristol, England, United Kingdom",
-      "description": "<div class=\"content-intro\"><p><strong>About Ping Identity:&nbsp;</strong></p>\n<p>At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.&nbsp;</p>\n<p>Our intelligent, cloud identity platform lets people shop, w",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ping-identity/software-engineer-bristol-319178",
+      "id": "arbeitnow_engineering-manager-grasbrunn-136517",
+      "title": "Engineering Manager (m/f/d)",
+      "company": "Unzer",
+      "location": "Grasbrunn",
+      "description": "<div>\n<div>\n<h3><strong><span data-contrast=\"none\">ABOUT US</span></strong></h3>\n</div>\n<div>\n<p><span data-contrast=\"auto\">Unzer&nbsp;is a leading European fintech company with a mission to simplify international payments for e-commerce and retail businesses. Our brand was formed from 13 companies that now contribute to building a unique product covering the entire payment flow.&nbsp;</span><span data-ccp-props=\"{&quot;335551550&quot;:6,&quot;335551620&quot;:6}\">&nbsp;</span></p>\n</div>\n<div>\n<",
+      "url": "https://www.arbeitnow.com/jobs/companies/unzer/engineering-manager-grasbrunn-136517",
       "remote": false,
-      "tags": [],
+      "tags": [
+        "Engineering"
+      ],
       "source": "Arbeitnow",
-      "posted_at": 1789951528,
-      "fetched_at": "2026-09-21T11:16:37.585497",
+      "posted_at": 1790011521,
+      "fetched_at": "2026-09-21T18:58:41.103097",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1456,
+        "semantic_similarity": 0.179,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.756931"
+      "scored_at": "2026-09-21T18:58:57.831863"
+    },
+    {
+      "id": "arbeitnow_product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-379558",
+      "title": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
+      "company": "Thermondo",
+      "location": "Berlin (Zentrale)",
+      "description": "<br><strong>We're looking for</strong><p>Join our innovative team at thermondo as a Product Manger (f/m/d and make a significant impact in reducing carbon footprints in private households.\u00a0<br><br>We value proactive problem-solving, innovative technology solutions, and the ability to clearly communicate technical information across departments. If you are a passionate to leverage technology for a sustainable future, thermondo is the place for you.</p><br><strong>If you enjoy this</strong><p><ul>",
+      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-379558",
+      "remote": false,
+      "tags": [
+        "Product",
+        "Customer",
+        "Customercare",
+        "Productmanagement"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790010596,
+      "fetched_at": "2026-09-21T18:58:41.103342",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1473,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.831887"
+    },
+    {
+      "id": "arbeitnow_gtm-uk-intern-working-student-berlin-433298",
+      "title": "GTM UK \u00b7 Intern / Working Student",
+      "company": "Autarcenergy",
+      "location": "Berlin",
+      "description": "<br><strong>Company</strong><p><span style=\"font-family:Inter, '-apple-system', 'system-ui', 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:14px;font-style:normal;font-weight:400;text-transform:none;display:inline;\">Founded in Berlin, autarc is a 65 person start-up which graduated from Y Combinator in San Francisco. Our team consists of people in Sales",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/gtm-uk-intern-working-student-berlin-433298",
+      "remote": false,
+      "tags": [
+        "Go to market internship",
+        "Sales internship",
+        "Founders Associate",
+        "GTM",
+        "BD",
+        "AI",
+        "KI"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1790010577,
+      "fetched_at": "2026-09-21T18:58:41.103565",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1978,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-09-21T18:58:57.831944"
     },
     {
       "id": "arbeitnow_manager-i-engineering-husky-paris-445839",
@@ -983,7 +815,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789912513,
-      "fetched_at": "2026-09-21T11:16:37.589628",
+      "fetched_at": "2026-09-21T18:58:41.108770",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1186,
@@ -991,7 +823,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757393"
+      "scored_at": "2026-09-21T18:58:57.832277"
     },
     {
       "id": "arbeitnow_manager-i-engineering-ai-platform-training-serving-paris-425796",
@@ -1006,7 +838,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1789912513,
-      "fetched_at": "2026-09-21T11:16:37.589704",
+      "fetched_at": "2026-09-21T18:58:41.108821",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1892,
@@ -1014,7 +846,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-09-21T11:16:53.757439"
+      "scored_at": "2026-09-21T18:58:57.832312"
     }
   ]
 }
