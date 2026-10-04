@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "count": 57,
+  "count": 60,
   "jobs": [
     {
       "id": "remoteok_1137411",
@@ -39,7 +39,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-20T00:00:31+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065389",
+      "fetched_at": "2026-10-04T17:54:30.749719",
       "match_score": 66.08,
       "score_breakdown": {
         "semantic_similarity": 0.6013,
@@ -47,7 +47,57 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913305"
+      "scored_at": "2026-10-04T17:54:53.650235"
+    },
+    {
+      "id": "arbeitnow_senior-go-engineer-full-stack-berlin-germany-402937",
+      "title": "Senior Go Engineer, Full Stack",
+      "company": "Topi",
+      "location": "Berlin, Germany",
+      "description": "<br><strong>Your mission</strong><p><p style=\"margin:0px 0px 14px;color:rgb(74,74,74);\">We're looking for product-minded engineers to join our diverse and driven team. We really value collaboration, making an impact, and continuous learning. Our product development team is based in Berlin, but we have folks working all over Europe, and you'll work closely with an experienced and supportive team.</p></p><br><strong>Your profile</strong><p><span>We are looking for a <strong>Senior Fullstack Engine",
+      "url": "https://www.arbeitnow.com/jobs/companies/topi/senior-go-engineer-full-stack-berlin-germany-402937",
+      "remote": false,
+      "tags": [
+        "react",
+        "fullstack",
+        "golang",
+        "typescript",
+        "go"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791112172,
+      "fetched_at": "2026-10-04T17:54:38.082747",
+      "match_score": 52.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.5744,
+        "semantic_score": 47.65,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-10-04T17:54:53.650734"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-solihull-307731",
+      "title": "Senior Software Engineer",
+      "company": "Gymshark",
+      "location": "Solihull",
+      "description": "&lt;p&gt;&lt;strong&gt;OVERVIEW:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;div&gt;We&#39;re looking for a Senior Backend Software Engineer to help build the technology that support Gymshark&#39;s global growth. Working with industry best tools including Golang, Event-Driven Architecture, and AWS Serverless technologies such as Lambda, EventBridge, SQS, and DynamoDB, you&#39;ll design and deliver scalable solutions that support key business priorities. As part of a Tech function you will work with P",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/senior-software-engineer-solihull-307731",
+      "remote": false,
+      "tags": [
+        "Tech: Tech Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791118505,
+      "fetched_at": "2026-10-04T17:54:38.088877",
+      "match_score": 48.11,
+      "score_breakdown": {
+        "semantic_similarity": 0.578,
+        "semantic_score": 48.11,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.652189"
     },
     {
       "id": "remoteok_1136447",
@@ -73,7 +123,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065432",
+      "fetched_at": "2026-10-04T17:54:30.749767",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -81,14 +131,14 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913487"
+      "scored_at": "2026-10-04T17:54:53.650539"
     },
     {
       "id": "remoteok_1137387",
       "title": "Software Engineer",
       "company": "Mirantis",
       "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMTcyLjIwMy4xOTUuNQ== when applying to show you read the job post completely (#RMTcyLjIwMy4xOTUuNQ==). This is a beta feature to avoid spam applicants. Companies c",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RNjQuMjM2LjE0MS4yMDE= when applying to show you read the job post completely (#RNjQuMjM2LjE0MS4yMDE=). This is a beta feature to avoid spam applicants. Companies c",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
       "salary": "",
       "tags": [
@@ -99,38 +149,41 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065403",
-      "match_score": 40.35,
+      "fetched_at": "2026-10-04T17:54:30.749734",
+      "match_score": 39.74,
       "score_breakdown": {
-        "semantic_similarity": 0.3991,
-        "semantic_score": 25.35,
+        "semantic_similarity": 0.3944,
+        "semantic_score": 24.74,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913338"
+      "scored_at": "2026-10-04T17:54:53.650286"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-full-stack-new-verticals-london-396688",
-      "title": "Senior Software Engineer, Full-Stack - New Verticals",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Software Engineer, Full Stack - New Verticals&lt;/h2&gt",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-new-verticals-london-396688",
+      "id": "arbeitnow_full-stack-software-engineer-in-berlin-or-konstanz-174646",
+      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
+      "company": "KNIME AG",
+      "location": "Berlin",
+      "description": "<br><strong>Mission</strong><p><p>Join KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks \u2013 KNIME workflows.</p></p><br><strong>Role Overview</strong><p><p>As a Full-Stack Software Engineer in the user-facing Sleek UX team, you will provide meaningful contributions to enhance the day-to-day experience of the people w",
+      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-174646",
       "remote": false,
       "tags": [
-        "Engineering (Ads)"
+        "full-stack",
+        "full stack",
+        "software engineering",
+        "software developement"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791053710,
-      "fetched_at": "2026-10-04T11:26:37.007281",
-      "match_score": 35.2,
+      "posted_at": 1791112160,
+      "fetched_at": "2026-10-04T17:54:38.082979",
+      "match_score": 35.57,
       "score_breakdown": {
-        "semantic_similarity": 0.4373,
-        "semantic_score": 30.2,
+        "semantic_similarity": 0.4794,
+        "semantic_score": 35.57,
         "location_match": 0,
-        "priority_keywords": 5
+        "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914334"
+      "scored_at": "2026-10-04T17:54:53.650800"
     },
     {
       "id": "arbeitnow_senior-software-engineer-ruby-on-rails-berlin-hybrid-266548",
@@ -151,7 +204,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791101356,
-      "fetched_at": "2026-10-04T11:26:37.000377",
+      "fetched_at": "2026-10-04T17:54:38.084059",
       "match_score": 35.06,
       "score_breakdown": {
         "semantic_similarity": 0.4755,
@@ -159,14 +212,14 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913607"
+      "scored_at": "2026-10-04T17:54:53.650960"
     },
     {
       "id": "remoteok_1137417",
       "title": "Software Developer Security Analytics",
       "company": "RedMimicry",
       "location": "",
-      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 \u00e2\u0080\u0093 77,000We are building a new capability that turns fragmented, noisy security logs...<br/><br/>Please mention the word **CONTINUITY** and tag RMTcyLjIwMy4xOTUuNQ== when applying to show you read the job post completely (#RMTcyLjIwMy4xOTUuNQ==). This is a beta feature to avoid spam applicants. Companies can search ",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 \u00e2\u0080\u0093 77,000We are building a new capability that turns fragmented, noisy security logs...<br/><br/>Please mention the word **CONTINUITY** and tag RNjQuMjM2LjE0MS4yMDE= when applying to show you read the job post completely (#RNjQuMjM2LjE0MS4yMDE=). This is a beta feature to avoid spam applicants. Companies can search ",
       "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
       "salary": "",
       "tags": [
@@ -179,15 +232,15 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-22T09:00:01+00:00",
-      "fetched_at": "2026-10-04T11:26:31.440000",
-      "match_score": 32.73,
+      "fetched_at": "2026-10-04T17:54:32.278639",
+      "match_score": 33.57,
       "score_breakdown": {
-        "semantic_similarity": 0.3393,
-        "semantic_score": 17.73,
+        "semantic_similarity": 0.3459,
+        "semantic_score": 18.57,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913531"
+      "scored_at": "2026-10-04T17:54:53.650611"
     },
     {
       "id": "arbeitnow_junior-backend-developer-c-net-paris-113660",
@@ -204,7 +257,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791035723,
-      "fetched_at": "2026-10-04T11:26:38.200532",
+      "fetched_at": "2026-10-04T17:54:39.461766",
       "match_score": 29.3,
       "score_breakdown": {
         "semantic_similarity": 0.2731,
@@ -212,53 +265,7 @@
         "location_match": 15,
         "priority_keywords": 5
       },
-      "scored_at": "2026-10-04T11:26:51.915082"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-safety-london-395145",
-      "title": "Senior Software Engineer (Safety)",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-software-engineer-safety-london-395145",
-      "remote": false,
-      "tags": [
-        "National Security & Safety"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004419",
-      "match_score": 28.95,
-      "score_breakdown": {
-        "semantic_similarity": 0.4275,
-        "semantic_score": 28.95,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913785"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-engineer-safety-london-99264",
-      "title": "Senior Machine Learning Engineer (Safety)",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-machine-learning-engineer-safety-london-99264",
-      "remote": false,
-      "tags": [
-        "National Security & Safety"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004409",
-      "match_score": 27.35,
-      "score_breakdown": {
-        "semantic_similarity": 0.4149,
-        "semantic_score": 27.35,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913757"
+      "scored_at": "2026-10-04T17:54:53.652943"
     },
     {
       "id": "arbeitnow_software-integration-engineer-agentic-systems-paris-based-18687",
@@ -275,7 +282,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791035723,
-      "fetched_at": "2026-10-04T11:26:37.011177",
+      "fetched_at": "2026-10-04T17:54:38.093205",
       "match_score": 27.11,
       "score_breakdown": {
         "semantic_similarity": 0.2951,
@@ -283,53 +290,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914581"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-engineer-london-396629",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Speechmatics",
-      "location": "London",
-      "description": "&lt;p&gt;We are hiring a Senior Machine Learning Engineer to contribute to cutting-edge Research &amp;amp; Development. As innovators in speech technology, our mission is to Understand Every Voice - a vision that has propelled us to be world leaders of Voice AI. Fuelled by innovation, inclusivity, and a passion for making a global impact through world-leading Speech AI, we&#39;re looking for an experienced Senior Machine Learning Engineer to accelerate our efforts towards exceptional speech solu",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechmatics/senior-machine-learning-engineer-london-396629",
-      "remote": false,
-      "tags": [
-        "Machine Learning"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791096905,
-      "fetched_at": "2026-10-04T11:26:37.005112",
-      "match_score": 26.34,
-      "score_breakdown": {
-        "semantic_similarity": 0.4069,
-        "semantic_score": 26.34,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913975"
-    },
-    {
-      "id": "arbeitnow_senior-machine-learning-engineer-cambridge-294803",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Speechmatics",
-      "location": "Cambridge",
-      "description": "&lt;p&gt;We are hiring a Senior Machine Learning Engineer to contribute to cutting-edge Research &amp;amp; Development. As innovators in speech technology, our mission is to Understand Every Voice - a vision that has propelled us to be world leaders of Voice AI. Fuelled by innovation, inclusivity, and a passion for making a global impact through world-leading Speech AI, we&#39;re looking for an experienced Senior Machine Learning Engineer to accelerate our efforts towards exceptional speech solu",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechmatics/senior-machine-learning-engineer-cambridge-294803",
-      "remote": false,
-      "tags": [
-        "Machine Learning"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791096905,
-      "fetched_at": "2026-10-04T11:26:37.005158",
-      "match_score": 26.34,
-      "score_breakdown": {
-        "semantic_similarity": 0.4069,
-        "semantic_score": 26.34,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914004"
+      "scored_at": "2026-10-04T17:54:53.652526"
     },
     {
       "id": "arbeitnow_infrastructure-software-engineer-zurich-3753",
@@ -344,7 +305,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791038411,
-      "fetched_at": "2026-10-04T11:26:37.013415",
+      "fetched_at": "2026-10-04T17:54:38.094810",
       "match_score": 26.24,
       "score_breakdown": {
         "semantic_similarity": 0.4062,
@@ -352,30 +313,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914711"
-    },
-    {
-      "id": "arbeitnow_software-engineer-safety-london-416110",
-      "title": "Software Engineer (Safety)",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-safety-london-416110",
-      "remote": false,
-      "tags": [
-        "National Security & Safety"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004423",
-      "match_score": 26.05,
-      "score_breakdown": {
-        "semantic_similarity": 0.4047,
-        "semantic_score": 26.05,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913812"
+      "scored_at": "2026-10-04T17:54:53.652570"
     },
     {
       "id": "arbeitnow_senior-frontend-engineer-react-berlin-438870",
@@ -390,7 +328,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791091444,
-      "fetched_at": "2026-10-04T11:26:37.001092",
+      "fetched_at": "2026-10-04T17:54:38.084791",
       "match_score": 25.99,
       "score_breakdown": {
         "semantic_similarity": 0.3649,
@@ -398,7 +336,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-10-04T11:26:51.913648"
+      "scored_at": "2026-10-04T17:54:53.651018"
     },
     {
       "id": "arbeitnow_software-engineer-intern-industrialization-zurich-70030",
@@ -413,7 +351,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1790993066,
-      "fetched_at": "2026-10-04T11:26:37.014465",
+      "fetched_at": "2026-10-04T17:54:38.095886",
       "match_score": 25.29,
       "score_breakdown": {
         "semantic_similarity": 0.3987,
@@ -421,7 +359,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914889"
+      "scored_at": "2026-10-04T17:54:53.652799"
     },
     {
       "id": "arbeitnow_remote-qa-engineer-mobile-berlin-166747",
@@ -437,7 +375,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791102608,
-      "fetched_at": "2026-10-04T11:26:37.000100",
+      "fetched_at": "2026-10-04T17:54:38.083792",
       "match_score": 24.67,
       "score_breakdown": {
         "semantic_similarity": 0.276,
@@ -445,33 +383,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913573"
+      "scored_at": "2026-10-04T17:54:53.650912"
     },
     {
-      "id": "arbeitnow_teamlead-software-development-munich-230313",
-      "title": "Teamlead Software Development (m/f/d)",
-      "company": "Checkmk GmbH",
-      "location": "Munich",
-      "description": "<br><strong>Your mission</strong><p><ul style=\"margin-top:0;margin-bottom:0;\"><li style=\"list-style-type:disc;font-size:15px;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\"><span style=\"color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">You lead a cross-functional team of 4-6 software developers and ensure their further development, both disciplinary",
-      "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/teamlead-software-development-munich-230313",
+      "id": "arbeitnow_senior-software-engineer-event-streaming-systems-berlin-447559",
+      "title": "Senior Software Engineer, Event Streaming Systems",
+      "company": "Deliveroo",
+      "location": "Berlin",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;Senior Software Engineer, Event Streaming System",
+      "url": "https://www.arbeitnow.com/jobs/companies/deliveroo/senior-software-engineer-event-streaming-systems-berlin-447559",
       "remote": false,
       "tags": [
-        "Python",
-        "Teamlead",
-        "Software Development",
-        "Management"
+        "Engineering (Infra)"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791090558,
-      "fetched_at": "2026-10-04T11:26:38.190797",
-      "match_score": 24.04,
+      "posted_at": 1791114904,
+      "fetched_at": "2026-10-04T17:54:38.082325",
+      "match_score": 24.34,
       "score_breakdown": {
-        "semantic_similarity": 0.3889,
-        "semantic_score": 24.04,
+        "semantic_similarity": 0.3912,
+        "semantic_score": 24.34,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.915022"
+      "scored_at": "2026-10-04T17:54:53.650692"
     },
     {
       "id": "arbeitnow_senior-software-engineer-distributed-systems-applied-ai-bordeaux-grenoble-lyon-montpellier-nantes-nice-paris-sophia-antipolis-22228",
@@ -486,7 +421,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791089712,
-      "fetched_at": "2026-10-04T11:26:37.009493",
+      "fetched_at": "2026-10-04T17:54:38.091482",
       "match_score": 23.54,
       "score_breakdown": {
         "semantic_similarity": 0.385,
@@ -494,99 +429,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914430"
+      "scored_at": "2026-10-04T17:54:53.652302"
     },
     {
-      "id": "arbeitnow_software-engineer-london-161665",
-      "title": "Software Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/software-engineer-london-161665",
+      "id": "arbeitnow_staff-machine-learning-engineer-london-159647",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-machine-learning-engineer-london-159647",
       "remote": false,
       "tags": [
-        "National Security & Safety"
+        "ActAI Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004611",
-      "match_score": 23.37,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086471",
+      "match_score": 21.26,
       "score_breakdown": {
-        "semantic_similarity": 0.3836,
-        "semantic_score": 23.37,
+        "semantic_similarity": 0.367,
+        "semantic_score": 21.26,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913885"
-    },
-    {
-      "id": "arbeitnow_software-engineer-ii-full-stack-new-verticals-london-88126",
-      "title": "Software Engineer II, Full-Stack - New Verticals",
-      "company": "Deliveroo",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Why Deliveroo?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-new-verticals-london-88126",
-      "remote": false,
-      "tags": [
-        "Engineering (Ads)"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791053710,
-      "fetched_at": "2026-10-04T11:26:37.007278",
-      "match_score": 21.02,
-      "score_breakdown": {
-        "semantic_similarity": 0.3652,
-        "semantic_score": 21.02,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914303"
-    },
-    {
-      "id": "arbeitnow_lead-software-engineer-london-477419",
-      "title": "Lead Software Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-software-engineer-london-477419",
-      "remote": false,
-      "tags": [
-        "Public Services"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004613",
-      "match_score": 20.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.3628,
-        "semantic_score": 20.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913912"
-    },
-    {
-      "id": "arbeitnow_technical-recruiter-london-279348",
-      "title": "Technical Recruiter",
-      "company": "iwoca",
-      "location": "London",
-      "description": "<h1>Technical Recruiter</h1><p style=\"min-height:1.5em\">Hybrid in London, United Kingdom</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>We\u2019re looking for a Technical Recruiter.</strong></p><p style=\"min-height:1.5em\">You'll hire exceptional people and help build high-performing engineering, data science, and product teams \u2013 shaping hiring decisions with data and collaborating on our tech hiring strategy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><stro",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/technical-recruiter-london-279348",
-      "remote": false,
-      "tags": [
-        "People Operations"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791085210,
-      "fetched_at": "2026-10-04T11:26:37.006280",
-      "match_score": 20.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.3626,
-        "semantic_score": 20.69,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914130"
+      "scored_at": "2026-10-04T17:54:53.651159"
     },
     {
       "id": "arbeitnow_product-engineer-zurich-146931",
@@ -601,7 +467,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791038411,
-      "fetched_at": "2026-10-04T11:26:37.013447",
+      "fetched_at": "2026-10-04T17:54:38.094844",
       "match_score": 20.68,
       "score_breakdown": {
         "semantic_similarity": 0.3625,
@@ -609,30 +475,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914737"
-    },
-    {
-      "id": "arbeitnow_senior-forward-deployed-engineer-london-434639",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "description": "<h2><strong>Why Faculty? </strong></h2><p style=\"min-height:1.5em\"><br />We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://faculty.ai/impact\">here</a>.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-forward-deployed-engineer-london-434639",
-      "remote": false,
-      "tags": [
-        "National Security & Safety"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791106808,
-      "fetched_at": "2026-10-04T11:26:37.004608",
-      "match_score": 20.59,
-      "score_breakdown": {
-        "semantic_similarity": 0.3617,
-        "semantic_score": 20.59,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913838"
+      "scored_at": "2026-10-04T17:54:53.652609"
     },
     {
       "id": "arbeitnow_software-engineer-command-centre-frontend-ui-ux-zurich-339034",
@@ -647,7 +490,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791016806,
-      "fetched_at": "2026-10-04T11:26:37.013928",
+      "fetched_at": "2026-10-04T17:54:38.095327",
       "match_score": 20.56,
       "score_breakdown": {
         "semantic_similarity": 0.3616,
@@ -655,14 +498,14 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914769"
+      "scored_at": "2026-10-04T17:54:53.652657"
     },
     {
       "id": "remoteok_1137427",
       "title": "Software Engineer",
       "company": "Prenosis",
       "location": "",
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RMTcyLjIwMy4xOTUuNQ== when applying to show you read the job post completely (#RMTcyLjIwMy4xOTUuNQ==). This is a beta feature to avoid spam applicants. Companies ",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RNjQuMjM2LjE0MS4yMDE= when applying to show you read the job post completely (#RNjQuMjM2LjE0MS4yMDE=). This is a beta feature to avoid spam applicants. Companies ",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
       "salary": "",
       "tags": [
@@ -673,84 +516,199 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-23T14:00:02+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065372",
-      "match_score": 19.98,
+      "fetched_at": "2026-10-04T17:54:30.749698",
+      "match_score": 20.4,
       "score_breakdown": {
-        "semantic_similarity": 0.2391,
-        "semantic_score": 4.98,
+        "semantic_similarity": 0.2424,
+        "semantic_score": 5.4,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913262"
+      "scored_at": "2026-10-04T17:54:53.650169"
     },
     {
-      "id": "arbeitnow_senior-fullstack-engineer-uk-london-432050",
-      "title": "Senior Fullstack Engineer - UK",
-      "company": "Heidi",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\">We\u2019re Heidi.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 million patient sessions a week across 190+ countries, in 110 languages and over 200 specialties.</p><p style=\"min-height:1.5em\"></p><p style=\"min-hei",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/senior-fullstack-engineer-uk-london-432050",
+      "id": "arbeitnow_engineering-manager-ai-cicd-161384",
+      "title": "Engineering Manager, AI CICD",
+      "company": "chainguard",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/engineering-manager-ai-cicd-161384",
+      "remote": false,
+      "tags": [
+        "R&D Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791129313,
+      "fetched_at": "2026-10-04T17:54:38.085909",
+      "match_score": 20.34,
+      "score_breakdown": {
+        "semantic_similarity": 0.242,
+        "semantic_score": 5.34,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651060"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-stock-trading-app-london-404163",
+      "title": "Lead Engineer - Stock Trading App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-stock-trading-app-london-404163",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791096012,
-      "fetched_at": "2026-10-04T11:26:37.005397",
-      "match_score": 15.88,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087582",
+      "match_score": 20.32,
       "score_breakdown": {
-        "semantic_similarity": 0.3248,
-        "semantic_score": 15.88,
+        "semantic_similarity": 0.3596,
+        "semantic_score": 20.32,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914102"
+      "scored_at": "2026-10-04T17:54:53.652028"
     },
     {
-      "id": "arbeitnow_java-backend-entwickler-luzern-95490",
-      "title": "Java Backend Entwickler",
-      "company": "Callista Group AG",
-      "location": "Luzern, Luzern, Switzerland",
-      "description": "<p>F\u00fcr den Neubau eines Vollpr\u00fcfsystems f\u00fcr Kostengutsprachen bei einem Kunden in einem Versicherungsunternehmen suchen wir einen Senior Backend Software Engineer. Das neue System soll der steigenden Anzahl und Komplexit\u00e4t von Gesuchen um Kosten\u00fcbernahme gerecht werden. Als Teil eines neu zusammengestellten Teams innerhalb eines Agile Release Trains bist du von Beginn an beim Green-Field-Aufbau dabei und gestaltest das System massgeblich mit.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Aufga",
-      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
+      "id": "arbeitnow_lead-engineer-ai-native-email-app-london-435057",
+      "title": "Lead Engineer - AI-Native Email App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-native-email-app-london-435057",
       "remote": false,
       "tags": [
-        "Software Engineering"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1790919009,
-      "fetched_at": "2026-10-04T11:26:37.015664",
-      "match_score": 14.92,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087688",
+      "match_score": 20.25,
       "score_breakdown": {
-        "semantic_similarity": 0.3172,
-        "semantic_score": 14.92,
+        "semantic_similarity": 0.3591,
+        "semantic_score": 20.25,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.915005"
+      "scored_at": "2026-10-04T17:54:53.652106"
     },
     {
-      "id": "arbeitnow_senior-consultant-manager-ai-ml-engineer-london-158112",
-      "title": "Senior Consultant/Manager, AI/ML Engineer",
-      "company": "Baringa",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep industry expertise, and enabled by advanced technology, the firm helps clients to deliver with greater confidence and certainty. With over 2,000 people across the UK, Europe, North Ameri",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-manager-ai-ml-engineer-london-158112",
+      "id": "arbeitnow_lead-engineer-travel-fx-app-london-363425",
+      "title": "Lead Engineer - Travel FX App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-travel-fx-app-london-363425",
       "remote": false,
       "tags": [
-        "Solutions and AI Lab"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791053707,
-      "fetched_at": "2026-10-04T11:26:37.007664",
-      "match_score": 14.75,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087002",
+      "match_score": 18.81,
       "score_breakdown": {
-        "semantic_similarity": 0.3159,
-        "semantic_score": 14.75,
+        "semantic_similarity": 0.3478,
+        "semantic_score": 18.81,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914362"
+      "scored_at": "2026-10-04T17:54:53.651542"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-united-kingdom-london-76041",
+      "title": "Lead Engineer - United Kingdom",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-united-kingdom-london-76041",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086950",
+      "match_score": 17.81,
+      "score_breakdown": {
+        "semantic_similarity": 0.3399,
+        "semantic_score": 17.81,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651500"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-stock-trading-app-london-4677",
+      "title": "Engineering Manager - Stock Trading App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-stock-trading-app-london-4677",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087636",
+      "match_score": 17.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.3375,
+        "semantic_score": 17.5,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.652067"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-travel-fx-app-london-176908",
+      "title": "Engineering Manager - Travel FX App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-travel-fx-app-london-176908",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087479",
+      "match_score": 15.52,
+      "score_breakdown": {
+        "semantic_similarity": 0.322,
+        "semantic_score": 15.52,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651946"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-united-kingdom-london-65906",
+      "title": "Engineering Manager \u2013 United Kingdom",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-united-kingdom-london-65906",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086595",
+      "match_score": 15.45,
+      "score_breakdown": {
+        "semantic_similarity": 0.3214,
+        "semantic_score": 15.45,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651194"
     },
     {
       "id": "arbeitnow_software-engineer-simulation-digital-twins-zurich-198101",
@@ -765,7 +723,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791016806,
-      "fetched_at": "2026-10-04T11:26:37.013930",
+      "fetched_at": "2026-10-04T17:54:38.095334",
       "match_score": 14.57,
       "score_breakdown": {
         "semantic_similarity": 0.3145,
@@ -773,7 +731,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914798"
+      "scored_at": "2026-10-04T17:54:53.652702"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-ai-native-email-app-london-387675",
+      "title": "Engineering Manager - AI-Native Email App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-387675",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087739",
+      "match_score": 14.53,
+      "score_breakdown": {
+        "semantic_similarity": 0.3141,
+        "semantic_score": 14.53,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.652146"
     },
     {
       "id": "arbeitnow_senior-software-engineer-autonomous-ops-maintenance-atom-paris-246497",
@@ -788,7 +769,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791089712,
-      "fetched_at": "2026-10-04T11:26:37.009496",
+      "fetched_at": "2026-10-04T17:54:38.091485",
       "match_score": 13.81,
       "score_breakdown": {
         "semantic_similarity": 0.3085,
@@ -796,101 +777,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914459"
+      "scored_at": "2026-10-04T17:54:53.652331"
     },
     {
-      "id": "arbeitnow_lead-product-engineer-a-stuttgart-92065",
-      "title": "Lead Product Engineer (a)",
-      "company": "Meondi",
-      "location": "Stuttgart",
-      "description": "<br><strong>\u00dcber uns</strong><p>MEONDI ist Unternehmenspartner f\u00fcr Digitalisierung und neue Arbeitsstrukturen. Wir navigieren unsere Kunden ganzheitlich durch Innovations- und Transformationsprozesse sowie agile Produktentwicklungen.<br>Mit <strong>MEONDI Frontier Services</strong> besch\u00e4ftigen wir uns gezielt mit neuen Technologien und den M\u00f6glichkeiten, die daraus f\u00fcr Unternehmen entstehen. Wir beraten unsere Kunden dabei nicht nur, sondern entwickeln gemeinsam mit ihnen neue Konzepte, validie",
-      "url": "https://www.arbeitnow.com/jobs/companies/meondi/lead-product-engineer-a-stuttgart-92065",
-      "remote": false,
-      "tags": [
-        "AI-Produkte",
-        "Product Engineering",
-        "Software Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791079782,
-      "fetched_at": "2026-10-04T11:26:37.003721",
-      "match_score": 11.69,
-      "score_breakdown": {
-        "semantic_similarity": 0.2918,
-        "semantic_score": 11.69,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.913724"
-    },
-    {
-      "id": "arbeitnow_tracking-specialist-intern-paris-112649",
-      "title": "Tracking Specialist Intern",
-      "company": "Backmarket",
-      "location": "Paris",
-      "description": "<h2>Hi, we\u2019re Back Market.</h2><p style=\"min-height:1.5em\">We\u2019re here to help <strong>make tech reliable, affordable, and better than new</strong>. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.</p><p style=\"min-height:1.5em\">Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back",
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/tracking-specialist-intern-paris-112649",
-      "remote": false,
-      "tags": [
-        "INTERNSHIPS"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791024010,
-      "fetched_at": "2026-10-04T11:26:37.012298",
-      "match_score": 11.15,
-      "score_breakdown": {
-        "semantic_similarity": 0.2876,
-        "semantic_score": 11.15,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914616"
-    },
-    {
-      "id": "arbeitnow_lead-software-engineer-hybrid-london-451791",
-      "title": "Lead Software Engineer (Hybrid)",
-      "company": "8Thlightrebuild",
-      "location": "London",
-      "description": "&lt;h3&gt;&lt;strong&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://pages.8thlight.com/hubfs/Juan/New%20Careers%20Banner.svg&quot; alt=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;h1&gt;&lt;strong&gt;Lead Engineer&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Waterloo, London, England, UK | &lt;strong&gt;Hybrid&lt;/strong&gt; (1 day per week in office)&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;Who We Are&amp;nbsp;&lt;/stron",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-451791",
+      "id": "arbeitnow_lead-engineer-wealth-management-app-london-139303",
+      "title": "Lead Engineer - Wealth Management App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-wealth-management-app-london-139303",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791075312,
-      "fetched_at": "2026-10-04T11:26:37.006824",
-      "match_score": 11.0,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087256",
+      "match_score": 11.68,
       "score_breakdown": {
-        "semantic_similarity": 0.2864,
-        "semantic_score": 11.0,
+        "semantic_similarity": 0.2918,
+        "semantic_score": 11.68,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914271"
+      "scored_at": "2026-10-04T17:54:53.651783"
     },
     {
-      "id": "arbeitnow_software-engineering-director-edinburgh-149030",
-      "title": "Software Engineering Director",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "description": "&lt;p&gt;&lt;strong&gt;THE POSITION&lt;br&gt;&lt;/strong&gt;Our roster has an opening with your name on it&lt;/p&gt;\n&lt;p&gt;Much of what decides whether a fan stays with FanDuel happens either side of the bet: the sign-up that takes a minute, the deposit that clears first time on a Sunday afternoon, the withdrawal that lands when we said it would, and the protections that work quietly in the background for the people who need them.&lt;/p&gt;\n&lt;p&gt;We are looking for a Software Engineering D",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineering-director-edinburgh-149030",
+      "id": "arbeitnow_technical-lead-machine-learning-london-343775",
+      "title": "Technical Lead, Machine Learning",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-lead-machine-learning-london-343775",
       "remote": false,
       "tags": [
-        "Engineering & Technology"
+        "ActAI Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791075313,
-      "fetched_at": "2026-10-04T11:26:37.006820",
-      "match_score": 10.78,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086416",
+      "match_score": 10.81,
       "score_breakdown": {
-        "semantic_similarity": 0.2847,
-        "semantic_score": 10.78,
+        "semantic_similarity": 0.285,
+        "semantic_score": 10.81,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914225"
+      "scored_at": "2026-10-04T17:54:53.651106"
     },
     {
       "id": "arbeitnow_software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-362461",
@@ -905,7 +838,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791016806,
-      "fetched_at": "2026-10-04T11:26:37.013966",
+      "fetched_at": "2026-10-04T17:54:38.095372",
       "match_score": 10.33,
       "score_breakdown": {
         "semantic_similarity": 0.2812,
@@ -913,30 +846,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914826"
-    },
-    {
-      "id": "arbeitnow_principal-software-engineer-hybrid-london-269993",
-      "title": "Principal Software Engineer (Hybrid)",
-      "company": "8Thlightrebuild",
-      "location": "London",
-      "description": "&lt;h3&gt;&lt;strong&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://pages.8thlight.com/hubfs/Juan/New%20Careers%20Banner.svg&quot; alt=&quot;&quot; width=&quot;100%&quot;&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;h1&gt;&lt;strong&gt;Principal Engineer&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Waterloo, London, England, UK | &lt;strong&gt;Hybrid&lt;/strong&gt; (1 day per week in office)&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;Who We Are&amp;nbsp;&lt;/",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-269993",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791075312,
-      "fetched_at": "2026-10-04T11:26:37.006822",
-      "match_score": 9.96,
-      "score_breakdown": {
-        "semantic_similarity": 0.2783,
-        "semantic_score": 9.96,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914249"
+      "scored_at": "2026-10-04T17:54:53.652744"
     },
     {
       "id": "arbeitnow_senior-software-engineer-paris-346059",
@@ -951,7 +861,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791078010,
-      "fetched_at": "2026-10-04T11:26:37.009902",
+      "fetched_at": "2026-10-04T17:54:38.091886",
       "match_score": 9.92,
       "score_breakdown": {
         "semantic_similarity": 0.278,
@@ -959,76 +869,78 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914515"
+      "scored_at": "2026-10-04T17:54:53.652389"
     },
     {
-      "id": "arbeitnow_senior-financial-crime-operations-specialist-afc-berlin-315892",
-      "title": "Senior Financial Crime Operations Specialist (AFC) (f/m/x)",
-      "company": "Lemon Markets",
-      "location": "Germany  (Hybrid)",
-      "description": "<p style=\"min-height:1.5em\"><strong>About lemon.markets \ud83c\udf4b</strong></p><p style=\"min-height:1.5em\">We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-being for their customers.</p><p style=\"min-height:1.5em\">lemon.markets is a Brokerage-as-a-Service platform: simple digital access to capital markets through a sing",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-financial-crime-operations-specialist-afc-berlin-315892",
+      "id": "arbeitnow_engineering-manager-ai-payments-app-london-463434",
+      "title": "Engineering Manager - AI Payments App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-463434",
       "remote": false,
       "tags": [
-        "Brokerage Operations"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791081609,
-      "fetched_at": "2026-10-04T11:26:37.002927",
-      "match_score": 6.79,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086646",
+      "match_score": 8.85,
       "score_breakdown": {
-        "semantic_similarity": 0.2534,
-        "semantic_score": 6.79,
+        "semantic_similarity": 0.2695,
+        "semantic_score": 8.85,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913688"
+      "scored_at": "2026-10-04T17:54:53.651224"
     },
     {
-      "id": "arbeitnow_senior-data-scientist-economist-supply-paris-34186",
-      "title": "Senior Data Scientist ( Economist) - Supply",
-      "company": "Backmarket",
-      "location": "Paris",
-      "description": "<h2>Hi, we\u2019re Back Market.</h2><p style=\"min-height:1.5em\">We\u2019re here to help <strong>make tech reliable, affordable, and better than new</strong>. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.</p><p style=\"min-height:1.5em\">Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back",
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-34186",
+      "id": "arbeitnow_engineering-manager-wealth-management-app-london-331046",
+      "title": "Engineering Manager - Wealth Management App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-wealth-management-app-london-331046",
       "remote": false,
       "tags": [
-        "PRODUCT"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791024010,
-      "fetched_at": "2026-10-04T11:26:37.012334",
-      "match_score": 6.29,
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087530",
+      "match_score": 6.21,
       "score_breakdown": {
-        "semantic_similarity": 0.2495,
-        "semantic_score": 6.29,
+        "semantic_similarity": 0.2488,
+        "semantic_score": 6.21,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914649"
+      "scored_at": "2026-10-04T17:54:53.651987"
     },
     {
-      "id": "arbeitnow_vp-senior-backend-developer-blockchain-infrastructure-london-372605",
-      "title": "VP, Senior Backend Developer - Blockchain Infrastructure",
-      "company": "Galaxydigitalservices",
-      "location": "London",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Galaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructu",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/galaxydigitalservices/vp-senior-backend-developer-blockchain-infrastructure-london-372605",
+      "id": "arbeitnow_senior-engineering-project-manager-munchen-363394",
+      "title": "Senior Engineering Project Manager (m/w/d)",
+      "company": "Idealworks",
+      "location": "M\u00fcnchen",
+      "description": "<br><strong>The Role: What to expect </strong><p><span style=\"color:rgb(0,0,0);\">Idealworks builds industrial automation as a coordinated system \u2014 mobile robots, orchestration software, simulation, and increasingly humanoids and physical AI, working together in real production environments rather than as isolated pilots. Since our founding within BMW Group and our integration into Agile Robots SE, we've grown from a Munich-based robotics team into a global player.<br><br>As physical AI and human",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealworks/senior-engineering-project-manager-munchen-363394",
       "remote": false,
       "tags": [
-        "Digital Infrastructure"
+        "Project Managment",
+        "Robotics",
+        "Munich"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1791096906,
-      "fetched_at": "2026-10-04T11:26:37.005063",
-      "match_score": 5.62,
+      "posted_at": 1791112151,
+      "fetched_at": "2026-10-04T17:54:38.083304",
+      "match_score": 5.87,
       "score_breakdown": {
-        "semantic_similarity": 0.2441,
-        "semantic_score": 5.62,
+        "semantic_similarity": 0.2461,
+        "semantic_score": 5.87,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913942"
+      "scored_at": "2026-10-04T17:54:53.650858"
     },
     {
       "id": "remoteok_1136795",
@@ -1056,7 +968,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065421",
+      "fetched_at": "2026-10-04T17:54:30.749754",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -1064,7 +976,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913375"
+      "scored_at": "2026-10-04T17:54:53.650342"
     },
     {
       "id": "remoteok_1136569",
@@ -1083,7 +995,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065428",
+      "fetched_at": "2026-10-04T17:54:30.749762",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -1091,7 +1003,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913453"
+      "scored_at": "2026-10-04T17:54:53.650482"
     },
     {
       "id": "arbeitnow_technical-program-lead-paris-304328",
@@ -1106,7 +1018,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791056405,
-      "fetched_at": "2026-10-04T11:26:38.199945",
+      "fetched_at": "2026-10-04T17:54:39.461151",
       "match_score": 4.1,
       "score_breakdown": {
         "semantic_similarity": 0.2322,
@@ -1114,7 +1026,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.915048"
+      "scored_at": "2026-10-04T17:54:53.652910"
     },
     {
       "id": "arbeitnow_lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-358876",
@@ -1129,7 +1041,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791046510,
-      "fetched_at": "2026-10-04T11:26:37.010669",
+      "fetched_at": "2026-10-04T17:54:38.092696",
       "match_score": 3.93,
       "score_breakdown": {
         "semantic_similarity": 0.2309,
@@ -1137,7 +1049,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914546"
+      "scored_at": "2026-10-04T17:54:53.652467"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-stock-trading-app-london-138304",
+      "title": "Lead Engineer - Stock Trading App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-stock-trading-app-london-138304",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087102",
+      "match_score": 2.95,
+      "score_breakdown": {
+        "semantic_similarity": 0.2232,
+        "semantic_score": 2.95,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651639"
     },
     {
       "id": "arbeitnow_lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-496789",
@@ -1152,7 +1087,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791089704,
-      "fetched_at": "2026-10-04T11:26:37.009673",
+      "fetched_at": "2026-10-04T17:54:38.091664",
       "match_score": 2.6,
       "score_breakdown": {
         "semantic_similarity": 0.2204,
@@ -1160,7 +1095,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914491"
+      "scored_at": "2026-10-04T17:54:53.652366"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-uk-london-257386",
+      "title": "Lead Engineer (UK)",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-uk-london-257386",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086697",
+      "match_score": 2.01,
+      "score_breakdown": {
+        "semantic_similarity": 0.2158,
+        "semantic_score": 2.01,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651252"
     },
     {
       "id": "arbeitnow_lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-184574",
@@ -1175,7 +1133,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1791089713,
-      "fetched_at": "2026-10-04T11:26:37.009488",
+      "fetched_at": "2026-10-04T17:54:38.091477",
       "match_score": 1.54,
       "score_breakdown": {
         "semantic_similarity": 0.2121,
@@ -1183,7 +1141,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914399"
+      "scored_at": "2026-10-04T17:54:53.652246"
     },
     {
       "id": "remoteok_1136570",
@@ -1202,7 +1160,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-10-04T11:26:30.065426",
+      "fetched_at": "2026-10-04T17:54:30.749760",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -1210,122 +1168,260 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.913415"
+      "scored_at": "2026-10-04T17:54:53.650403"
     },
     {
-      "id": "arbeitnow_machine-learning-team-lead-london-478635",
-      "title": "Machine Learning Team Lead",
-      "company": "Speechmatics",
-      "location": "London",
-      "description": "&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;58837b92-873f-41f1-b36f-f2a2763a8598&quot;&gt;We are hiring a Machine Learning Team Lead to lead a team of driven ML engineers working on translating cutting-edge research into ambitious, customer-centric speech solutions.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;180&quot; data-local-id=&quot;906b16a5-6a36-4d28-8294-0ddb2c65e919&quot;&gt;As innovators in speech technology, our mission is to Understand Every Voice \u2014 a ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechmatics/machine-learning-team-lead-london-478635",
-      "remote": false,
-      "tags": [
-        "Machine Learning"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791096905,
-      "fetched_at": "2026-10-04T11:26:37.005222",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1916,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914037"
-    },
-    {
-      "id": "arbeitnow_machine-learning-team-lead-cambridge-244594",
-      "title": "Machine Learning Team Lead",
-      "company": "Speechmatics",
-      "location": "Cambridge",
-      "description": "&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;58837b92-873f-41f1-b36f-f2a2763a8598&quot;&gt;We are hiring a Machine Learning Team Lead to lead a team of driven ML engineers working on translating cutting-edge research into ambitious, customer-centric speech solutions.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;180&quot; data-local-id=&quot;906b16a5-6a36-4d28-8294-0ddb2c65e919&quot;&gt;As innovators in speech technology, our mission is to Understand Every Voice \u2014 a ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechmatics/machine-learning-team-lead-cambridge-244594",
-      "remote": false,
-      "tags": [
-        "Machine Learning"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791096905,
-      "fetched_at": "2026-10-04T11:26:37.005284",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1916,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914067"
-    },
-    {
-      "id": "arbeitnow_director-of-solutions-engineering-emea-strat-london-295251",
-      "title": "Director of Solutions Engineering - EMEA Strat",
-      "company": "Decagon",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><strong>About Decagon</strong></p><p style=\"min-height:1.5em\">Decagon is the leading conversational AI platform empowering every brand to deliver concierge customer experiences.</p><p style=\"min-height:1.5em\">Our technology enables industry-defining enterprises like Avis Budget Group, Block\u2019s Cash App and Square, Chime, Oura Health, and Hunter Douglas to deploy AI agents that power personalized, deeply satisfying interactions across voice, chat, email, SMS, and every ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/director-of-solutions-engineering-emea-strat-london-295251",
-      "remote": false,
-      "tags": [
-        "Sales"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791085203,
-      "fetched_at": "2026-10-04T11:26:37.006772",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1478,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914163"
-    },
-    {
-      "id": "arbeitnow_director-of-solutions-engineering-emea-enterprise-london-341170",
-      "title": "Director of Solutions Engineering - EMEA Enterprise",
-      "company": "Decagon",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><strong>About Decagon</strong></p><p style=\"min-height:1.5em\">Decagon is the leading conversational AI platform empowering every brand to deliver concierge customer experiences.</p><p style=\"min-height:1.5em\">Our technology enables industry-defining enterprises like Avis Budget Group, Block\u2019s Cash App and Square, Chime, Oura Health, and Hunter Douglas to deploy AI agents that power personalized, deeply satisfying interactions across voice, chat, email, SMS, and every ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/director-of-solutions-engineering-emea-enterprise-london-341170",
-      "remote": false,
-      "tags": [
-        "Sales"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1791085203,
-      "fetched_at": "2026-10-04T11:26:37.006818",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1409,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914193"
-    },
-    {
-      "id": "arbeitnow_tech4instore-senior-software-engineer-instore-lille-btwin-village-nord-nantes-loire-atlantique-204750",
-      "title": "Tech4instore Senior Software Engineer - INSTORE (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Lille - Btwin Village, Nord; Nantes, Loire-Atlantique",
-      "description": "&lt;h1&gt;Tech4instore Senior Software Engineer (f/m/d)&lt;/h1&gt;\n&lt;p&gt;Lille ou Nantes, France&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Au sein du domaine &lt;strong&gt;In-Store&lt;/strong&gt;, nous souhaitons offrir le meilleur parcours aux co\u00e9quipiers en magasin et aux clients. La mission de l&#39;\u00e9quipe&lt;strong&gt; Tech4instore&lt;/strong&gt; est d\u2019adresser \u00e0 l\u2019\u00e9chelle du domaine In Store les pain point tech, simplifier et acc\u00e9l\u00e9rer le d\u00e9ploiement pour nos \u00e9quipes, \u00eatre un creu",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/tech4instore-senior-software-engineer-instore-lille-btwin-village-nord-nantes-loire-atlantique-204750",
+      "id": "arbeitnow_lead-engineer-ai-payments-app-london-379785",
+      "title": "Lead Engineer - AI Payments App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-payments-app-london-379785",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1790981708,
-      "fetched_at": "2026-10-04T11:26:37.013050",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086747",
+      "match_score": 0.96,
+      "score_breakdown": {
+        "semantic_similarity": 0.2076,
+        "semantic_score": 0.96,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651279"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-travel-fx-app-london-2214",
+      "title": "Lead Engineer - Travel FX App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-travel-fx-app-london-2214",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086796",
+      "match_score": 0.78,
+      "score_breakdown": {
+        "semantic_similarity": 0.2061,
+        "semantic_score": 0.78,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651332"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-stock-trading-app-london-117538",
+      "title": "Engineering Manager - Stock Trading App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-stock-trading-app-london-117538",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087053",
+      "match_score": 0.4,
+      "score_breakdown": {
+        "semantic_similarity": 0.2032,
+        "semantic_score": 0.4,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651597"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-wealth-management-apps-london-35487",
+      "title": "Lead Engineer - Wealth Management Apps",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-wealth-management-apps-london-35487",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086845",
+      "match_score": 0.3,
+      "score_breakdown": {
+        "semantic_similarity": 0.2024,
+        "semantic_score": 0.3,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651375"
+    },
+    {
+      "id": "arbeitnow_lead-compute-platform-engineer-berlin-435366",
+      "title": "Lead Compute Platform Engineer",
+      "company": "zetaglobal",
+      "location": "Berlin",
+      "description": "&lt;p&gt;&lt;strong&gt;WHO WE ARE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced artificial intelligence (AI) and trillions of consumer signals to make it easier for marketers to acquire, grow, and retain customers more efficiently. Through the Zeta Marketing Platform (ZMP), our vision is to make sophisticated marketing simple by unifying identity, intelligence, and omnichannel activation into a single platform \u2013 pow",
+      "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/lead-compute-platform-engineer-berlin-435366",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791125720,
+      "fetched_at": "2026-10-04T17:54:38.080882",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1808,
+        "semantic_similarity": 0.1629,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914684"
+      "scored_at": "2026-10-04T17:54:53.650656"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-ai-native-email-app-london-491649",
+      "title": "Engineering Manager - AI-Native Email App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-491649",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.086896",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1844,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651454"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-wealth-management-app-london-426615",
+      "title": "Engineering Manager - Wealth Management App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-wealth-management-app-london-426615",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087153",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1643,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651691"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-travel-fx-app-london-229331",
+      "title": "Engineering Manager - Travel FX App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-travel-fx-app-london-229331",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087204",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1827,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651752"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-ai-payments-app-london-386738",
+      "title": "Engineering Manager - AI Payments App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-386738",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087312",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1863,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651817"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-london-79971",
+      "title": "Engineering Manager",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-london-79971",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087368",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1726,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651850"
+    },
+    {
+      "id": "arbeitnow_lead-engineer-ai-native-email-app-london-22765",
+      "title": "Lead Engineer - AI-Native Email App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.</p><p style=\"min-height:1.5em\">Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to he",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-native-email-app-london-22765",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1791128405,
+      "fetched_at": "2026-10-04T17:54:38.087417",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.197,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-04T17:54:53.651901"
     },
     {
       "id": "arbeitnow_data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-germany-or-palo-alto-ca-or-zurich-494569",
@@ -1340,7 +1436,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1790974515,
-      "fetched_at": "2026-10-04T11:26:37.014647",
+      "fetched_at": "2026-10-04T17:54:38.096072",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0762,
@@ -1348,7 +1444,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914922"
+      "scored_at": "2026-10-04T17:54:53.652852"
     },
     {
       "id": "arbeitnow_computational-design-of-biological-experiments-for-model-development-berlin-germany-or-palo-alto-ca-or-zurich-446408",
@@ -1363,7 +1459,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1790974515,
-      "fetched_at": "2026-10-04T11:26:37.014694",
+      "fetched_at": "2026-10-04T17:54:38.096120",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1178,
@@ -1371,30 +1467,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-04T11:26:51.914950"
-    },
-    {
-      "id": "arbeitnow_principal-engineer-classical-cryptography-architecture-geneva-175045",
-      "title": "Principal Engineer - Classical Cryptography & Architecture",
-      "company": "ionq",
-      "location": "Geneva",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About IonQ:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fionq.com%2F&amp;amp;esheet=54451094&amp;amp;newsitemid=20260316477473&amp;amp;lan=en-US&amp;amp;anchor=IonQ%2C+Inc&amp;amp;index=7&amp;amp;md5=0818ffbedc6dbad8c4d1611ac94c2a0f&quot; target=&quot;_blank&quot;&gt;IonQ, Inc&lt;/a&gt;&lt;/u&gt",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ionq/principal-engineer-classical-cryptography-architecture-geneva-175045",
-      "remote": false,
-      "tags": [
-        "Quantum Platform - Network and Security"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1790963708,
-      "fetched_at": "2026-10-04T11:26:37.015423",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1387,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-04T11:26:51.914970"
+      "scored_at": "2026-10-04T17:54:53.652884"
     }
   ]
 }
