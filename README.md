@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-10-14 10:45 UTC
+**Last updated:** 2026-10-14 18:14 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 125 |
-| Jobs found (all time) | 2956 |
-| Jobs found (latest run, 2026-10-14) | 42 |
-| Best match (latest run) | Senior React Full stack Developer at Lemon.io (score 78) |
+| Jobs found (all time) | 2965 |
+| Jobs found (latest run, 2026-10-14) | 51 |
+| Best match (latest run) | Senior .NET Software Engineer at OkWhen (score 66) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
