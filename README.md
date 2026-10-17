@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-10-17 13:20 UTC
+**Last updated:** 2026-10-17 16:44 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 128 |
-| Jobs found (all time) | 3098 |
-| Jobs found (latest run, 2026-10-17) | 54 |
+| Jobs found (all time) | 3092 |
+| Jobs found (latest run, 2026-10-17) | 48 |
 | Best match (latest run) | Senior React Full stack Developer at Lemon.io (score 78) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
