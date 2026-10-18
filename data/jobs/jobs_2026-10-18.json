@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "count": 36,
+  "count": 34,
   "jobs": [
     {
       "id": "remoteok_1137475",
@@ -27,7 +27,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-09T13:09:18+00:00",
-      "fetched_at": "2026-10-18T19:48:46.439663",
+      "fetched_at": "2026-10-18T23:46:56.800867",
       "match_score": 78.29,
       "score_breakdown": {
         "semantic_similarity": 0.6187,
@@ -35,7 +35,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-10-18T19:49:05.081631"
+      "scored_at": "2026-10-18T23:47:14.430071"
     },
     {
       "id": "remoteok_1137411",
@@ -74,7 +74,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-20T00:00:31+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616943",
+      "fetched_at": "2026-10-18T23:46:53.992457",
       "match_score": 66.08,
       "score_breakdown": {
         "semantic_similarity": 0.6013,
@@ -82,7 +82,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081418"
+      "scored_at": "2026-10-18T23:47:14.429906"
     },
     {
       "id": "arbeitnow_software-engineer-adtech-london-255251",
@@ -97,7 +97,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335329,
-      "fetched_at": "2026-10-18T19:48:50.494860",
+      "fetched_at": "2026-10-18T23:47:00.847350",
       "match_score": 49.36,
       "score_breakdown": {
         "semantic_similarity": 0.5879,
@@ -105,7 +105,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081938"
+      "scored_at": "2026-10-18T23:47:14.430326"
     },
     {
       "id": "remoteok_1137538",
@@ -126,7 +126,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-17T01:09:20+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616886",
+      "fetched_at": "2026-10-18T23:46:53.992405",
       "match_score": 45.88,
       "score_breakdown": {
         "semantic_similarity": 0.4426,
@@ -134,7 +134,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081218"
+      "scored_at": "2026-10-18T23:47:14.429783"
     },
     {
       "id": "remoteok_1136447",
@@ -160,7 +160,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T00:00:23+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616977",
+      "fetched_at": "2026-10-18T23:46:53.992485",
       "match_score": 43.77,
       "score_breakdown": {
         "semantic_similarity": 0.4261,
@@ -168,7 +168,33 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081601"
+      "scored_at": "2026-10-18T23:47:14.430048"
+    },
+    {
+      "id": "remoteok_1137387",
+      "title": "Software Engineer",
+      "company": "Mirantis",
+      "location": "",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMTcyLjE3Mi4yMDYuMzI= when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDYuMzI=). This is a beta feature to avoid spam applicants. Companies c",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-09-12T14:00:03+00:00",
+      "fetched_at": "2026-10-18T23:46:53.992463",
+      "match_score": 38.59,
+      "score_breakdown": {
+        "semantic_similarity": 0.3854,
+        "semantic_score": 23.59,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-18T23:47:14.429930"
     },
     {
       "id": "remoteok_1137508",
@@ -209,7 +235,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-13T00:00:18+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616917",
+      "fetched_at": "2026-10-18T23:46:53.992434",
       "match_score": 37.69,
       "score_breakdown": {
         "semantic_similarity": 0.4961,
@@ -217,33 +243,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081298"
-    },
-    {
-      "id": "remoteok_1137387",
-      "title": "Software Engineer",
-      "company": "Mirantis",
-      "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMjAuNTUuODcuMTc4 when applying to show you read the job post completely (#RMjAuNTUuODcuMTc4). This is a beta feature to avoid spam applicants. Companies can searc",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616951",
-      "match_score": 37.12,
-      "score_breakdown": {
-        "semantic_similarity": 0.3738,
-        "semantic_score": 22.12,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-18T19:49:05.081450"
+      "scored_at": "2026-10-18T23:47:14.429849"
     },
     {
       "id": "arbeitnow_software-engineer-london-34520",
@@ -258,7 +258,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335328,
-      "fetched_at": "2026-10-18T19:48:50.495296",
+      "fetched_at": "2026-10-18T23:47:00.847686",
       "match_score": 36.69,
       "score_breakdown": {
         "semantic_similarity": 0.4883,
@@ -266,7 +266,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082014"
+      "scored_at": "2026-10-18T23:47:14.430386"
     },
     {
       "id": "arbeitnow_remote-staff-solutions-architect-ai-subject-matter-expert-456239",
@@ -281,7 +281,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792324527,
-      "fetched_at": "2026-10-18T19:48:50.491934",
+      "fetched_at": "2026-10-18T23:47:00.845771",
       "match_score": 33.67,
       "score_breakdown": {
         "semantic_similarity": 0.3467,
@@ -289,7 +289,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081819"
+      "scored_at": "2026-10-18T23:47:14.430217"
     },
     {
       "id": "arbeitnow_remote-staff-solutions-architect-ai-subject-matter-expert-67927",
@@ -304,7 +304,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792324525,
-      "fetched_at": "2026-10-18T19:48:50.498793",
+      "fetched_at": "2026-10-18T23:47:00.850213",
       "match_score": 33.67,
       "score_breakdown": {
         "semantic_similarity": 0.3467,
@@ -312,7 +312,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082210"
+      "scored_at": "2026-10-18T23:47:14.430474"
     },
     {
       "id": "remoteok_1137527",
@@ -352,7 +352,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-15T16:00:03+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616908",
+      "fetched_at": "2026-10-18T23:46:53.992426",
       "match_score": 30.96,
       "score_breakdown": {
         "semantic_similarity": 0.3254,
@@ -360,7 +360,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081265"
+      "scored_at": "2026-10-18T23:47:14.429823"
     },
     {
       "id": "arbeitnow_software-engineer-zwolle-373189",
@@ -375,7 +375,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792323077,
-      "fetched_at": "2026-10-18T19:48:50.499654",
+      "fetched_at": "2026-10-18T23:47:00.850892",
       "match_score": 30.88,
       "score_breakdown": {
         "semantic_similarity": 0.4426,
@@ -383,7 +383,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082276"
+      "scored_at": "2026-10-18T23:47:14.430525"
     },
     {
       "id": "arbeitnow_staff-software-engineer-germany-250398",
@@ -398,7 +398,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334420,
-      "fetched_at": "2026-10-18T19:48:50.490907",
+      "fetched_at": "2026-10-18T23:47:00.844955",
       "match_score": 28.33,
       "score_breakdown": {
         "semantic_similarity": 0.4226,
@@ -406,7 +406,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081765"
+      "scored_at": "2026-10-18T23:47:14.430175"
     },
     {
       "id": "arbeitnow_lead-software-engineer-germany-311157",
@@ -421,7 +421,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334420,
-      "fetched_at": "2026-10-18T19:48:50.490835",
+      "fetched_at": "2026-10-18T23:47:00.844898",
       "match_score": 27.58,
       "score_breakdown": {
         "semantic_similarity": 0.4167,
@@ -429,7 +429,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081740"
+      "scored_at": "2026-10-18T23:47:14.430156"
     },
     {
       "id": "arbeitnow_principal-software-engineer-germany-173384",
@@ -444,7 +444,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334420,
-      "fetched_at": "2026-10-18T19:48:50.490832",
+      "fetched_at": "2026-10-18T23:47:00.844896",
       "match_score": 25.44,
       "score_breakdown": {
         "semantic_similarity": 0.3999,
@@ -452,33 +452,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081714"
-    },
-    {
-      "id": "remoteok_1137427",
-      "title": "Software Engineer",
-      "company": "Prenosis",
-      "location": "",
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RMjAuNTUuODcuMTc4 when applying to show you read the job post completely (#RMjAuNTUuODcuMTc4). This is a beta feature to avoid spam applicants. Companies can sear",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-09-23T14:00:02+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616937",
-      "match_score": 22.67,
-      "score_breakdown": {
-        "semantic_similarity": 0.2603,
-        "semantic_score": 7.67,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-18T19:49:05.081383"
+      "scored_at": "2026-10-18T23:47:14.430136"
     },
     {
       "id": "arbeitnow_forward-deployed-engineer-bristol-229236",
@@ -493,7 +467,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335330,
-      "fetched_at": "2026-10-18T19:48:50.494776",
+      "fetched_at": "2026-10-18T23:47:00.847283",
       "match_score": 20.72,
       "score_breakdown": {
         "semantic_similarity": 0.3628,
@@ -501,7 +475,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081906"
+      "scored_at": "2026-10-18T23:47:14.430299"
     },
     {
       "id": "arbeitnow_sr-forward-deployed-engineer-london-348520",
@@ -516,7 +490,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335329,
-      "fetched_at": "2026-10-18T19:48:50.495098",
+      "fetched_at": "2026-10-18T23:47:00.847531",
       "match_score": 19.76,
       "score_breakdown": {
         "semantic_similarity": 0.3552,
@@ -524,7 +498,33 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081966"
+      "scored_at": "2026-10-18T23:47:14.430349"
+    },
+    {
+      "id": "remoteok_1137427",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "location": "",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RMTcyLjE3Mi4yMDYuMzI= when applying to show you read the job post completely (#RMTcyLjE3Mi4yMDYuMzI=). This is a beta feature to avoid spam applicants. Companies ",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-09-23T14:00:02+00:00",
+      "fetched_at": "2026-10-18T23:46:53.992452",
+      "match_score": 19.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.2354,
+        "semantic_score": 4.5,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-18T23:47:14.429881"
     },
     {
       "id": "arbeitnow_engineering-lead-germany-488848",
@@ -539,7 +539,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334421,
-      "fetched_at": "2026-10-18T19:48:50.490405",
+      "fetched_at": "2026-10-18T23:47:00.844558",
       "match_score": 18.73,
       "score_breakdown": {
         "semantic_similarity": 0.3471,
@@ -547,7 +547,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081660"
+      "scored_at": "2026-10-18T23:47:14.430094"
     },
     {
       "id": "arbeitnow_engineering-lead-london-449233",
@@ -562,7 +562,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334423,
-      "fetched_at": "2026-10-18T19:48:50.496037",
+      "fetched_at": "2026-10-18T23:47:00.848266",
       "match_score": 18.73,
       "score_breakdown": {
         "semantic_similarity": 0.3471,
@@ -570,7 +570,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082066"
+      "scored_at": "2026-10-18T23:47:14.430425"
     },
     {
       "id": "arbeitnow_technical-lead-germany-199627",
@@ -585,7 +585,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334421,
-      "fetched_at": "2026-10-18T19:48:50.490443",
+      "fetched_at": "2026-10-18T23:47:00.844590",
       "match_score": 18.38,
       "score_breakdown": {
         "semantic_similarity": 0.3444,
@@ -593,7 +593,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081688"
+      "scored_at": "2026-10-18T23:47:14.430115"
     },
     {
       "id": "arbeitnow_senior-software-developer-c-net-data-analysis-tricht-219852",
@@ -608,7 +608,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792333901,
-      "fetched_at": "2026-10-18T19:48:51.680321",
+      "fetched_at": "2026-10-18T23:47:02.017233",
       "match_score": 17.39,
       "score_breakdown": {
         "semantic_similarity": 0.3366,
@@ -616,7 +616,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082367"
+      "scored_at": "2026-10-18T23:47:14.430578"
     },
     {
       "id": "arbeitnow_ios-software-engineer-germany-236317",
@@ -631,7 +631,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792334420,
-      "fetched_at": "2026-10-18T19:48:50.490944",
+      "fetched_at": "2026-10-18T23:47:00.844984",
       "match_score": 16.54,
       "score_breakdown": {
         "semantic_similarity": 0.33,
@@ -639,7 +639,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081792"
+      "scored_at": "2026-10-18T23:47:14.430197"
     },
     {
       "id": "arbeitnow_qa-engineer-london-410012",
@@ -654,7 +654,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335328,
-      "fetched_at": "2026-10-18T19:48:50.495359",
+      "fetched_at": "2026-10-18T23:47:00.847727",
       "match_score": 16.37,
       "score_breakdown": {
         "semantic_similarity": 0.3286,
@@ -662,7 +662,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082039"
+      "scored_at": "2026-10-18T23:47:14.430404"
     },
     {
       "id": "arbeitnow_backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-27129",
@@ -677,7 +677,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792323076,
-      "fetched_at": "2026-10-18T19:48:54.102047",
+      "fetched_at": "2026-10-18T23:47:04.377282",
       "match_score": 16.22,
       "score_breakdown": {
         "semantic_similarity": 0.2096,
@@ -685,7 +685,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082398"
+      "scored_at": "2026-10-18T23:47:14.430603"
     },
     {
       "id": "arbeitnow_technical-delivery-manager-public-sector-london-259986",
@@ -700,7 +700,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792346131,
-      "fetched_at": "2026-10-18T19:48:50.493421",
+      "fetched_at": "2026-10-18T23:47:00.846172",
       "match_score": 10.57,
       "score_breakdown": {
         "semantic_similarity": 0.283,
@@ -708,7 +708,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081856"
+      "scored_at": "2026-10-18T23:47:14.430249"
     },
     {
       "id": "arbeitnow_senior-embedded-software-engineer-delft-356687",
@@ -723,7 +723,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792323078,
-      "fetched_at": "2026-10-18T19:48:50.499126",
+      "fetched_at": "2026-10-18T23:47:00.850485",
       "match_score": 7.52,
       "score_breakdown": {
         "semantic_similarity": 0.2591,
@@ -731,30 +731,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082244"
+      "scored_at": "2026-10-18T23:47:14.430501"
     },
     {
-      "id": "arbeitnow_ai-engineer-80-100-rapperswil-jona-107308",
-      "title": "AI Engineer (m/w/d) 80-100%",
-      "company": "bexio ag",
-      "location": "Rapperswil-Jona",
-      "description": "<h2>Jobbeschreibung</h2>\n<p>Mach mit uns Schweizer Kleinunternehmen noch erfolgreicher! Klingt nach einer grossen Vision? Genau das treibt uns jeden Tag an.</p>\n<p>Wir bei bexio leben die Philosophie, dass erstklassige, effiziente und smarte Softwarel\u00f6sungen f\u00fcr jedes KMU zug\u00e4nglich und erschwinglich sein m\u00fcssen. Mit dieser Mission sind wir heute die f\u00fchrende Anbieterin f\u00fcr webbasierte Business-Software in der Schweiz.</p>\n<p>Unser Expansionskurs geht steil nach oben: \u00dcber 100'000 zufriedene Kun",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bexio-ag/ai-engineer-80-100-rapperswil-jona-107308",
+      "id": "arbeitnow_engineer-systems-integration-avaloq-zurich-205309",
+      "title": "Engineer Systems Integration / Avaloq",
+      "company": "coni+partner AG",
+      "location": "Z\u00fcrich",
+      "description": "<p>coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in D\u00fcsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of successful candidates.</p><p>Our client is the asset management division of an international bank in Zurich. We are searching for a IT specialist (m, f, d) for the fund business as</p>",
+      "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/engineer-systems-integration-avaloq-zurich-205309",
       "remote": false,
       "tags": [
-        "IT"
+        "Information Systems"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1792350058,
-      "fetched_at": "2026-10-18T19:48:50.497774",
-      "match_score": 5.83,
+      "posted_at": 1792353652,
+      "fetched_at": "2026-10-18T23:47:00.849175",
+      "match_score": 7.12,
       "score_breakdown": {
-        "semantic_similarity": 0.2458,
-        "semantic_score": 5.83,
+        "semantic_similarity": 0.2559,
+        "semantic_score": 7.12,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082183"
+      "scored_at": "2026-10-18T23:47:14.430454"
     },
     {
       "id": "remoteok_1136795",
@@ -782,7 +782,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616967",
+      "fetched_at": "2026-10-18T23:46:53.992476",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -790,7 +790,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081484"
+      "scored_at": "2026-10-18T23:47:14.429956"
     },
     {
       "id": "remoteok_1136569",
@@ -809,7 +809,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:04+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616974",
+      "fetched_at": "2026-10-18T23:46:53.992482",
       "match_score": 4.7,
       "score_breakdown": {
         "semantic_similarity": 0.2369,
@@ -817,30 +817,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081566"
-    },
-    {
-      "id": "arbeitnow_senior-fullstack-software-engineer-java-angular-ebanking-zurich-361708",
-      "title": "Senior Fullstack Software Engineer Java / Angular \u2013 eBanking",
-      "company": "PROSTAFF Schweiz GmbH",
-      "location": "Z\u00fcrich",
-      "description": "<p>F\u00fcr unseren Kunden im Bankenumfeld suchen wir einen erfahrenen Senior Fullstack Software Engineer mit DevOps-Verantwortung. Du entwickelst die eBanking-Plattform weiter, insbesondere die Verm\u00f6genssichten f\u00fcr institutionelle Kunden, und stellst gemeinsam mit dem Team den zuverl\u00e4ssigen Betrieb der Services sicher.</p>\n<ul>\n<li><p>Konzeption und Umsetzung neuer Features und fachlicher Anforderungen f\u00fcr die eBanking-Plattform</p>\n</li>\n<li><p>Weiterentwicklung von Services rund um Verm\u00f6gensentwic",
-      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-fullstack-software-engineer-java-angular-ebanking-zurich-361708",
-      "remote": false,
-      "tags": [
-        "Software Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1792350060,
-      "fetched_at": "2026-10-18T19:48:50.497715",
-      "match_score": 4.4,
-      "score_breakdown": {
-        "semantic_similarity": 0.2346,
-        "semantic_score": 4.4,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-18T19:49:05.082147"
+      "scored_at": "2026-10-18T23:47:14.430021"
     },
     {
       "id": "arbeitnow_sr-ai-growth-strategist-london-224997",
@@ -855,7 +832,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792335329,
-      "fetched_at": "2026-10-18T19:48:50.495188",
+      "fetched_at": "2026-10-18T23:47:00.847604",
       "match_score": 3.89,
       "score_breakdown": {
         "semantic_similarity": 0.2306,
@@ -863,7 +840,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081993"
+      "scored_at": "2026-10-18T23:47:14.430369"
     },
     {
       "id": "remoteok_1136570",
@@ -882,7 +859,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-12T16:01:22+00:00",
-      "fetched_at": "2026-10-18T19:48:43.616972",
+      "fetched_at": "2026-10-18T23:46:53.992480",
       "match_score": 1.3,
       "score_breakdown": {
         "semantic_similarity": 0.2102,
@@ -890,7 +867,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081529"
+      "scored_at": "2026-10-18T23:47:14.429992"
     },
     {
       "id": "arbeitnow_principal-engineer-platform-sydney-australia-409539",
@@ -905,7 +882,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792346129,
-      "fetched_at": "2026-10-18T19:48:50.494358",
+      "fetched_at": "2026-10-18T23:47:00.846943",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0719,
@@ -913,31 +890,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.081877"
-    },
-    {
-      "id": "arbeitnow_engineering-manager-hands-on-cdi-montpellier-181303",
-      "title": "Engineering Manager - Hands-on (CDI)",
-      "company": "Bricks.co",
-      "location": "Montpellier",
-      "description": "<p><strong>\ud83c\udfd7\ufe0f \u00c0 propos de Bricks</strong></p><p>Chez Bricks, on construit la fa\u00e7on la plus simple d\u2019investir dans l\u2019immobilier, \u00e0 partir de 10 \u20ac. Aujourd\u2019hui, plus de <strong>670 000 membres</strong> utilisent notre plateforme.</p><p>Quelques jalons : passage chez Capital (M6) en 2022, Tony Parker investisseur et ambassadeur, record europ\u00e9en de vitesse de lev\u00e9e avec <strong>5 M\u20ac collect\u00e9s en 5 secondes</strong>, puis plus de <strong>20 M\u20ac en 10 jours</strong> aupr\u00e8s de notre communaut\u00e9.</p><p>En",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bricksco/engineering-manager-hands-on-cdi-montpellier-181303",
-      "remote": false,
-      "tags": [
-        "Management",
-        "Team Leader"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1792348265,
-      "fetched_at": "2026-10-18T19:48:50.497244",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1699,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-18T19:49:05.082111"
+      "scored_at": "2026-10-18T23:47:14.430279"
     },
     {
       "id": "arbeitnow_afstudeerstage-it-veghel-307290",
@@ -952,7 +905,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1792290735,
-      "fetched_at": "2026-10-18T19:48:50.500518",
+      "fetched_at": "2026-10-18T23:47:00.851572",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1395,
@@ -960,7 +913,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-18T19:49:05.082335"
+      "scored_at": "2026-10-18T23:47:14.430557"
     }
   ]
 }
