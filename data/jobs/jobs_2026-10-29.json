@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "count": 28,
+  "count": 56,
   "jobs": [
     {
       "id": "remoteok_1137475",
@@ -27,7 +27,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-09T13:09:18+00:00",
-      "fetched_at": "2026-10-29T11:54:33.253201",
+      "fetched_at": "2026-10-29T19:20:06.819235",
       "match_score": 78.29,
       "score_breakdown": {
         "semantic_similarity": 0.6187,
@@ -35,7 +35,7 @@
         "location_match": 15,
         "priority_keywords": 10
       },
-      "scored_at": "2026-10-29T11:54:52.874677"
+      "scored_at": "2026-10-29T19:20:27.700828"
     },
     {
       "id": "remoteok_1137571",
@@ -55,7 +55,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-25T12:34:21+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107665",
+      "fetched_at": "2026-10-29T19:20:03.398411",
       "match_score": 48.85,
       "score_breakdown": {
         "semantic_similarity": 0.466,
@@ -63,7 +63,30 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874455"
+      "scored_at": "2026-10-29T19:20:27.700613"
+    },
+    {
+      "id": "arbeitnow_working-student-backend-development-product-creation-assignment-mwd-berlin-272657",
+      "title": "Working Student - Backend Development Product Creation & Assignment (m|w|d)",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "description": "<p class=\"Paragraph SCXW7827552 BCX0\">Are you in your first year of your Master's degree and looking for a working student role where you can contribute to real production systems, learn from experienced engineers, and explore the intersection of backend development, data engineering and AI? Then this could be the right role for you.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW7827552 BCX0\"><strong><span style=\"color:#4F81BD\">About the Team</span></strong><span style=\"colo",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-backend-development-product-creation-assignment-mwd-berlin-272657",
+      "remote": false,
+      "tags": [
+        "Career Starters"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277100,
+      "fetched_at": "2026-10-29T19:20:11.449291",
+      "match_score": 47.04,
+      "score_breakdown": {
+        "semantic_similarity": 0.5696,
+        "semantic_score": 47.04,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700951"
     },
     {
       "id": "remoteok_1137572",
@@ -88,7 +111,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-26T08:00:06+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107645",
+      "fetched_at": "2026-10-29T19:20:03.398402",
       "match_score": 46.0,
       "score_breakdown": {
         "semantic_similarity": 0.4436,
@@ -96,7 +119,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874412"
+      "scored_at": "2026-10-29T19:20:27.700568"
     },
     {
       "id": "remoteok_1137538",
@@ -117,7 +140,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-17T01:09:20+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107695",
+      "fetched_at": "2026-10-29T19:20:03.398433",
       "match_score": 45.88,
       "score_breakdown": {
         "semantic_similarity": 0.4426,
@@ -125,37 +148,14 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874517"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-ai-ml-195477",
-      "title": "Senior Software Engineer - AI/ML",
-      "company": "mitratech",
-      "location": "",
-      "description": "&lt;h4&gt;&lt;strong&gt;At Mitratech, we are a team of technocrats focused on building world-class products that simplify operations in the Legal, Risk, Compliance, and HR functions. We are a close-knit, globally dispersed team that thrives in an ecosystem that supports individual excellence and takes pride in its diverse and inclusive work culture centered around great people practices, learning opportunities, and having fun! Our culture is the ideal blend of entrepreneurial spirit and enterpri",
-      "url": "https://www.arbeitnow.com/jobs/companies/mitratech/senior-software-engineer-ai-ml-195477",
-      "remote": false,
-      "tags": [
-        "Development"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1793267715,
-      "fetched_at": "2026-10-29T11:54:37.703364",
-      "match_score": 45.79,
-      "score_breakdown": {
-        "semantic_similarity": 0.4419,
-        "semantic_score": 30.79,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-29T11:54:52.874700"
+      "scored_at": "2026-10-29T19:20:27.700677"
     },
     {
       "id": "remoteok_1137387",
       "title": "Software Engineer",
       "company": "Mirantis",
       "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RNTIuMTYxLjUxLjY2 when applying to show you read the job post completely (#RNTIuMTYxLjUxLjY2). This is a beta feature to avoid spam applicants. Companies can searc",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RNTIuMTg5LjEwOS4xMDE= when applying to show you read the job post completely (#RNTIuMTg5LjEwOS4xMDE=). This is a beta feature to avoid spam applicants. Companies c",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
       "salary": "",
       "tags": [
@@ -166,15 +166,15 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107747",
-      "match_score": 39.23,
+      "fetched_at": "2026-10-29T19:20:03.398466",
+      "match_score": 41.85,
       "score_breakdown": {
-        "semantic_similarity": 0.3904,
-        "semantic_score": 24.23,
+        "semantic_similarity": 0.411,
+        "semantic_score": 26.85,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874626"
+      "scored_at": "2026-10-29T19:20:27.700801"
     },
     {
       "id": "remoteok_1137508",
@@ -215,7 +215,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-13T00:00:18+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107715",
+      "fetched_at": "2026-10-29T19:20:03.398446",
       "match_score": 37.69,
       "score_breakdown": {
         "semantic_similarity": 0.4961,
@@ -223,7 +223,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874567"
+      "scored_at": "2026-10-29T19:20:27.700736"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-billing-monetization-amsterdam-302049",
+      "title": "Senior Software Engineer, Billing & Monetization",
+      "company": "Datasnipper",
+      "location": "Amsterdam",
+      "description": "<p style=\"min-height:1.5em\">We are looking for a skilled and passionate Senior Software Engineer, Billing &amp; Monetization to join our Billing team in the Amsterdam office. Working in a high-growth scale-up, you\u2019ll have the unique opportunity to drive innovation at scale while contributing to a company transforming the world of audit and finance.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"></p><h2>About the role:</h2><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em",
+      "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/senior-software-engineer-billing-monetization-amsterdam-302049",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277639,
+      "fetched_at": "2026-10-29T19:20:11.454997",
+      "match_score": 37.61,
+      "score_breakdown": {
+        "semantic_similarity": 0.4955,
+        "semantic_score": 37.61,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701927"
     },
     {
       "id": "arbeitnow_electronics-engineer-zurich-481084",
@@ -238,7 +261,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793224526,
-      "fetched_at": "2026-10-29T11:54:37.709168",
+      "fetched_at": "2026-10-29T19:20:11.454549",
       "match_score": 34.48,
       "score_breakdown": {
         "semantic_similarity": 0.4709,
@@ -246,58 +269,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874962"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-nodejs-typescript-london-468247",
-      "title": "Senior software engineer (Node.js/TypeScript)",
-      "company": "Seccl",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><em>Hybrid working based at one of our offices in London, Bath or Edinburgh. Your contract will be hybrid, although we don\u2019t currently require a set number of office days. We support flexible working and trust teams to agree how and where they work best, taking a pragmatic approach based on the needs of the role and team.</em></p><p style=\"min-height:1.5em\"></p><h2><strong>About us</strong></h2><p style=\"min-height:1.5em\">Seccl is the Octopus-owned embedded investment",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-nodejs-typescript-london-468247",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1793245214,
-      "fetched_at": "2026-10-29T11:54:37.707075",
-      "match_score": 34.14,
-      "score_breakdown": {
-        "semantic_similarity": 0.4683,
-        "semantic_score": 34.14,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-29T11:54:52.874734"
-    },
-    {
-      "id": "remoteok_1137545",
-      "title": "Senior Software Engineer",
-      "company": "Sotheby\u00e2\u0080\u0099s",
-      "location": "",
-      "description": "Remote - Established in 1744, Sotheby\u00e2\u0080\u0099s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...<br/><br/>Please mention the word **EVALUATIVE** and tag RNTIuMTYxLjUxLjY2 when applying to show you read the job post completely (#RNTIuMTYxLjUxLjY2). This is a beta feature to avoid spam applicants. Companies can sea",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "senior",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-10-18T19:00:02+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107688",
-      "match_score": 32.25,
-      "score_breakdown": {
-        "semantic_similarity": 0.3355,
-        "semantic_score": 17.25,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-29T11:54:52.874487"
+      "scored_at": "2026-10-29T19:20:27.701879"
     },
     {
       "id": "remoteok_1137527",
@@ -337,7 +309,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-15T16:00:03+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107705",
+      "fetched_at": "2026-10-29T19:20:03.398440",
       "match_score": 30.96,
       "score_breakdown": {
         "semantic_similarity": 0.3254,
@@ -345,7 +317,35 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874543"
+      "scored_at": "2026-10-29T19:20:27.700705"
+    },
+    {
+      "id": "remoteok_1137545",
+      "title": "Senior Software Engineer",
+      "company": "Sotheby\u00e2\u0080\u0099s",
+      "location": "",
+      "description": "Remote - Established in 1744, Sotheby\u00e2\u0080\u0099s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...<br/><br/>Please mention the word **EVALUATIVE** and tag RNTIuMTg5LjEwOS4xMDE= when applying to show you read the job post completely (#RNTIuMTg5LjEwOS4xMDE=). This is a beta feature to avoid spam applicants. Companies",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "senior",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-10-18T19:00:02+00:00",
+      "fetched_at": "2026-10-29T19:20:03.398428",
+      "match_score": 30.15,
+      "score_breakdown": {
+        "semantic_similarity": 0.3191,
+        "semantic_score": 15.15,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700646"
     },
     {
       "id": "arbeitnow_senior-embedded-performance-engineer-zurich-428756",
@@ -360,7 +360,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793224526,
-      "fetched_at": "2026-10-29T11:54:37.709144",
+      "fetched_at": "2026-10-29T19:20:11.454514",
       "match_score": 29.66,
       "score_breakdown": {
         "semantic_similarity": 0.433,
@@ -368,7 +368,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874933"
+      "scored_at": "2026-10-29T19:20:27.701851"
+    },
+    {
+      "id": "arbeitnow_software-engineer-application-platform-tech-lead-bracknell-443476",
+      "title": "Software Engineer (Application Platform/Tech Lead)",
+      "company": "TrustFlight",
+      "location": "Bracknell, Bracknell Forest, United Kingdom",
+      "description": "<h4><strong><a rel=\"noopener\" target=\"_blank\" href=\"https://www.trustflight.com/\">About Us</a></strong></h4><p>At TrustFlight, we are proud to be a global leader in mission-critical software systems and technical services, trusted by aerospace and aviation industries worldwide. Our innovative solutions power the safety and efficiency of aviation operations, ensuring the safety of hundreds of thousands of passengers and crew every month.</p><h4><strong>Why Join TrustFlight</strong></h4><p>\u2708\ufe0f <str",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/software-engineer-application-platform-tech-lead-bracknell-443476",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793287882,
+      "fetched_at": "2026-10-29T19:20:11.450515",
+      "match_score": 26.43,
+      "score_breakdown": {
+        "semantic_similarity": 0.4077,
+        "semantic_score": 26.43,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701125"
+    },
+    {
+      "id": "arbeitnow_senior-systems-software-engineer-gpu-compute-118024",
+      "title": "Senior Systems Software Engineer, GPU Compute",
+      "company": "Nebius",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-systems-software-engineer-gpu-compute-118024",
+      "remote": false,
+      "tags": [
+        "System Engineers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793278516,
+      "fetched_at": "2026-10-29T19:20:11.448986",
+      "match_score": 26.02,
+      "score_breakdown": {
+        "semantic_similarity": 0.2866,
+        "semantic_score": 11.02,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700930"
     },
     {
       "id": "arbeitnow_senior-backend-engineer-energy-optimization-platform-de-lier-6206",
@@ -383,7 +429,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793212276,
-      "fetched_at": "2026-10-29T11:54:37.710958",
+      "fetched_at": "2026-10-29T19:20:11.456265",
       "match_score": 25.48,
       "score_breakdown": {
         "semantic_similarity": 0.4002,
@@ -391,7 +437,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875065"
+      "scored_at": "2026-10-29T19:20:27.702005"
     },
     {
       "id": "arbeitnow_ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
@@ -406,7 +452,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793266831,
-      "fetched_at": "2026-10-29T11:54:37.707656",
+      "fetched_at": "2026-10-29T19:20:11.452814",
       "match_score": 25.4,
       "score_breakdown": {
         "semantic_similarity": 0.2817,
@@ -414,33 +460,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874776"
-    },
-    {
-      "id": "remoteok_1137427",
-      "title": "Software Engineer",
-      "company": "Prenosis",
-      "location": "",
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RNTIuMTYxLjUxLjY2 when applying to show you read the job post completely (#RNTIuMTYxLjUxLjY2). This is a beta feature to avoid spam applicants. Companies can sear",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-09-23T14:00:02+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107738",
-      "match_score": 23.05,
-      "score_breakdown": {
-        "semantic_similarity": 0.2633,
-        "semantic_score": 8.05,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-10-29T11:54:52.874595"
+      "scored_at": "2026-10-29T19:20:27.701636"
     },
     {
       "id": "arbeitnow_engineering-director-building-automation-de-lier-312369",
@@ -455,7 +475,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793212276,
-      "fetched_at": "2026-10-29T11:54:37.710876",
+      "fetched_at": "2026-10-29T19:20:11.456181",
       "match_score": 22.28,
       "score_breakdown": {
         "semantic_similarity": 0.3751,
@@ -463,7 +483,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875043"
+      "scored_at": "2026-10-29T19:20:27.701985"
     },
     {
       "id": "arbeitnow_embedded-staff-engineer-de-lier-89474",
@@ -478,7 +498,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793212276,
-      "fetched_at": "2026-10-29T11:54:37.710668",
+      "fetched_at": "2026-10-29T19:20:11.455975",
       "match_score": 21.68,
       "score_breakdown": {
         "semantic_similarity": 0.3703,
@@ -486,7 +506,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875001"
+      "scored_at": "2026-10-29T19:20:27.701942"
     },
     {
       "id": "arbeitnow_embedded-staff-engineer-de-lier-104075",
@@ -501,7 +521,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793212276,
-      "fetched_at": "2026-10-29T11:54:37.710805",
+      "fetched_at": "2026-10-29T19:20:11.456113",
       "match_score": 21.62,
       "score_breakdown": {
         "semantic_similarity": 0.3699,
@@ -509,30 +529,80 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875021"
+      "scored_at": "2026-10-29T19:20:27.701961"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-88969",
-      "title": "Senior Software Engineer - Distributed Systems",
-      "company": "Datadog",
-      "location": "Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Distributed Systems engineers at Datadog design, implement and run in production the foundational platforms powering our applications. Your data pipelines will ingest, store, analyze and query in real-time billions of events per second from companies all over the globe. The platforms are optimized for durability, high availability, low latency, internet-scale footprint and operability.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&l",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-88969",
+      "id": "remoteok_1137427",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "location": "",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RNTIuMTg5LjEwOS4xMDE= when applying to show you read the job post completely (#RNTIuMTg5LjEwOS4xMDE=). This is a beta feature to avoid spam applicants. Companies ",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-09-23T14:00:02+00:00",
+      "fetched_at": "2026-10-29T19:20:03.398460",
+      "match_score": 20.44,
+      "score_breakdown": {
+        "semantic_similarity": 0.2428,
+        "semantic_score": 5.44,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700767"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-net-c-london-362803",
+      "title": "Senior Software Engineer (.NET/C#)",
+      "company": "Ripple",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Ripple, we\u2019re building a world where value moves like information does today. It\u2019s big, it\u2019s bold, and we\u2019re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the be",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-net-c-london-362803",
       "remote": false,
       "tags": [
-        "Dev Eng"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1793202920,
-      "fetched_at": "2026-10-29T11:54:37.708725",
-      "match_score": 19.14,
+      "posted_at": 1793289344,
+      "fetched_at": "2026-10-29T19:20:11.450114",
+      "match_score": 20.35,
       "score_breakdown": {
-        "semantic_similarity": 0.3504,
-        "semantic_score": 19.14,
+        "semantic_similarity": 0.3599,
+        "semantic_score": 20.35,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874886"
+      "scored_at": "2026-10-29T19:20:27.701076"
+    },
+    {
+      "id": "arbeitnow_senior-full-stack-developer-de-en-fr-es-it-munich-426677",
+      "title": "Senior Full Stack Developer (f/m/d) | DE + EN + FR/ES/IT",
+      "company": "HappyOps",
+      "location": "Munich",
+      "description": "<p><strong>\u00dcber HappyOps</strong></p><p>HappyOps entwickelt moderne Softwarel\u00f6sungen f\u00fcr mittelst\u00e4ndische Industrieunternehmen in Europa. Unsere Kunden kommen aus unterschiedlichen Branchen, darunter der Glas, Metall, Kunststoff und Maschinenbauindustrie. Gemeinsam mit ihnen digitalisieren wir Produktionsprozesse und entwickeln individuelle Softwarel\u00f6sungen, die t\u00e4glich in realen Fabriken eingesetzt werden.</p><p>Wir sind ein profitables, eigenfinanziertes Softwareunternehmen mit einem vollst\u00e4nd",
+      "url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-full-stack-developer-de-en-fr-es-it-munich-426677",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Web Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793293249,
+      "fetched_at": "2026-10-29T19:20:14.438112",
+      "match_score": 20.06,
+      "score_breakdown": {
+        "semantic_similarity": 0.3183,
+        "semantic_score": 15.06,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-10-29T19:20:27.702033"
     },
     {
       "id": "arbeitnow_senior-software-engineer-java-baden-dattwil-305322",
@@ -545,7 +615,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1793244811,
-      "fetched_at": "2026-10-29T11:54:37.709057",
+      "fetched_at": "2026-10-29T19:20:11.454434",
       "match_score": 17.88,
       "score_breakdown": {
         "semantic_similarity": 0.3405,
@@ -553,30 +623,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874913"
+      "scored_at": "2026-10-29T19:20:27.701828"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-fullstack-amsterdam-449365",
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "databricks",
-      "location": "Amsterdam",
-      "description": "&lt;p&gt;P-1321&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about enabling data teams to solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve t",
-      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
+      "id": "arbeitnow_engineering-manager-server-driven-ui-codeless-london-321944",
+      "title": "Engineering Manager \u2013 Server-Driven UI (Codeless)",
+      "company": "Deliveroo",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;We are looking for an Engin",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/engineering-manager-server-driven-ui-codeless-london-321944",
       "remote": false,
       "tags": [
-        "Engineering - Pipeline"
+        "Engineering (Infra)"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1793159724,
-      "fetched_at": "2026-10-29T11:54:37.711611",
-      "match_score": 16.04,
+      "posted_at": 1793289345,
+      "fetched_at": "2026-10-29T19:20:11.450072",
+      "match_score": 15.01,
       "score_breakdown": {
-        "semantic_similarity": 0.326,
-        "semantic_score": 16.04,
+        "semantic_similarity": 0.318,
+        "semantic_score": 15.01,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875094"
+      "scored_at": "2026-10-29T19:20:27.701046"
     },
     {
       "id": "arbeitnow_head-of-software-engineering-hybrid-238343",
@@ -596,7 +666,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793244814,
-      "fetched_at": "2026-10-29T11:54:37.708088",
+      "fetched_at": "2026-10-29T19:20:11.453286",
       "match_score": 14.54,
       "score_breakdown": {
         "semantic_similarity": 0.3142,
@@ -604,45 +674,303 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874831"
+      "scored_at": "2026-10-29T19:20:27.701693"
     },
     {
-      "id": "arbeitnow_frontend-developerin-mit-ui-fokus-tegtmeier-internet-solutions-gmbh-hamburg-326275",
-      "title": "Frontend Developer:in mit UI-Fokus (m/w/d) - Tegtmeier Internet Solutions GmbH",
-      "company": "SinnKontor",
-      "location": "Hamburg",
-      "description": "<p><em>Im Auftrag unseres Mandanten Tegtmeier Internet Solutions GmbH suchen wir \u2013 Sinnkontor GmbH \u2013 eine:n </em>Frontend Developer:in mit UI-Fokus (m/w/d)</p><p></p><p><strong>Warum wir?</strong></p><p>Tegtmeier Internet Solutions: Qualit\u00e4t & Leidenschaft. Seit \u00fcber 20 Jahren liefern wir zuverl\u00e4ssige Softwarel\u00f6sungen \u2013 anything but ordinary.</p><p>Bei uns f\u00fchlen sich Entwickelnde wohl, die gerne in einem starken, enthusiastischen Team auf Augenh\u00f6he gemeinsam wachsen und Leidenschaft f\u00fcr Technik",
-      "url": "https://www.arbeitnow.com/jobs/companies/sinnkontor/frontend-developerin-mit-ui-fokus-tegtmeier-internet-solutions-gmbh-hamburg-326275",
+      "id": "arbeitnow_senior-ux-interaction-designer-industrial-software-teilzeit-munich-417929",
+      "title": "Senior UX & Interaction Designer (m/w/d) | Industrial Software | Teilzeit",
+      "company": "HappyOps",
+      "location": "Munich",
+      "description": "<p>HappyOps entwickelt moderne Softwarel\u00f6sungen f\u00fcr die produzierende Industrie. Unsere Anwendungen unterst\u00fctzen Maschinenbediener, Schichtleiter, Instandhalter und Produktionsmanager bei ihrer t\u00e4glichen Arbeit, von der Produktions\u00fcberwachung \u00fcber Qualit\u00e4tsmanagement bis hin zu digitalen Arbeitsabl\u00e4ufen und KI gest\u00fctzten Assistenzsystemen.</p><p>Wir verf\u00fcgen \u00fcber ein erfahrenes Engineering Team, das unsere Kunden von der Anforderungsanalyse \u00fcber die technische Konzeption bis zur produktiven Umse",
+      "url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-ux-interaction-designer-industrial-software-teilzeit-munich-417929",
       "remote": false,
       "tags": [
-        "Web Development"
+        "Media",
+        "Screen and Web Design"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1793268047,
-      "fetched_at": "2026-10-29T11:54:42.712232",
-      "match_score": 6.42,
+      "posted_at": 1793293252,
+      "fetched_at": "2026-10-29T19:20:11.447729",
+      "match_score": 12.41,
       "score_breakdown": {
-        "semantic_similarity": 0.2505,
-        "semantic_score": 6.42,
+        "semantic_similarity": 0.2975,
+        "semantic_score": 12.41,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.875139"
+      "scored_at": "2026-10-29T19:20:27.700859"
     },
     {
-      "id": "arbeitnow_embedded-software-architect-56372-frauenfeld-296565",
+      "id": "arbeitnow_junior-compute-architect-london-jj-mack-327984",
+      "title": "Junior Compute Architect",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/junior-compute-architect-london-jj-mack-327984",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451382",
+      "match_score": 11.15,
+      "score_breakdown": {
+        "semantic_similarity": 0.2483,
+        "semantic_score": 6.15,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-10-29T19:20:27.701201"
+    },
+    {
+      "id": "arbeitnow_senior-systems-software-engineer-gpu-compute-london-255715",
+      "title": "Senior Systems Software Engineer, GPU Compute",
+      "company": "Nebius",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-systems-software-engineer-gpu-compute-london-255715",
+      "remote": false,
+      "tags": [
+        "System Engineers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793278516,
+      "fetched_at": "2026-10-29T19:20:11.451070",
+      "match_score": 11.02,
+      "score_breakdown": {
+        "semantic_similarity": 0.2866,
+        "semantic_score": 11.02,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701147"
+    },
+    {
+      "id": "arbeitnow_senior-systems-software-engineer-gpu-compute-amsterdam-445239",
+      "title": "Senior Systems Software Engineer, GPU Compute",
+      "company": "Nebius",
+      "location": "Amsterdam",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU ",
+      "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-systems-software-engineer-gpu-compute-amsterdam-445239",
+      "remote": false,
+      "tags": [
+        "System Engineers"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793278517,
+      "fetched_at": "2026-10-29T19:20:11.454765",
+      "match_score": 11.02,
+      "score_breakdown": {
+        "semantic_similarity": 0.2866,
+        "semantic_score": 11.02,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701901"
+    },
+    {
+      "id": "arbeitnow_early-career-system-architect-london-jj-mack-120659",
+      "title": "Early Career System Architect",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/early-career-system-architect-london-jj-mack-120659",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451441",
+      "match_score": 10.94,
+      "score_breakdown": {
+        "semantic_similarity": 0.286,
+        "semantic_score": 10.94,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701256"
+    },
+    {
+      "id": "arbeitnow_ai-software-engineer-bracknell-141407",
+      "title": "AI Software Engineer",
+      "company": "TrustFlight",
+      "location": "Bracknell, Bracknell Forest, United Kingdom",
+      "description": "<h4 style=\"text-align:start;\"><strong><a rel=\"noopener\" target=\"_blank\" href=\"https://www.trustflight.com/\">About Us</a></strong></h4><p class=\"MsoNormal\" style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">TrustFlight is the Aerospace Safety Intelligence Platform - the only company in aviation that integrates safety and security technology, world-class training and consulting, and emergency preparedness and response into a single, connected platform. We serve 1,600+ org",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/ai-software-engineer-bracknell-141407",
+      "remote": false,
+      "tags": [
+        "AI"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793287882,
+      "fetched_at": "2026-10-29T19:20:11.450512",
+      "match_score": 10.01,
+      "score_breakdown": {
+        "semantic_similarity": 0.2787,
+        "semantic_score": 10.01,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701095"
+    },
+    {
+      "id": "arbeitnow_senior-systems-software-engineer-london-jj-mack-309806",
+      "title": "Senior Systems Software Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-systems-software-engineer-london-jj-mack-309806",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451644",
+      "match_score": 8.47,
+      "score_breakdown": {
+        "semantic_similarity": 0.2665,
+        "semantic_score": 8.47,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701427"
+    },
+    {
+      "id": "arbeitnow_working-student-cyber-security-engineering-berlin-329336",
+      "title": "Working Student (m/w/d) - Cyber Security Engineering",
+      "company": "Imtf",
+      "location": "Berlin, Germany",
+      "description": "<p>As a leading global software product company in Compliance &amp; Automation, IMTF Group develops innovative RegTech solutions focusing on Anti-Money Laundering, Know Your Customer, and Anti-Fraud. Our technology helps financial institutions fight financial crime and meet demanding regulatory requirements.</p><p>At IMTF, we value innovation, technical excellence, and continuous learning. We encourage our teams to explore new technologies, challenge existing approaches, and continuously improve",
+      "url": "https://www.arbeitnow.com/jobs/companies/imtf/working-student-cyber-security-engineering-berlin-329336",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "Information Technology and Services",
+        "Research and Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793287215,
+      "fetched_at": "2026-10-29T19:20:11.448416",
+      "match_score": 8.22,
+      "score_breakdown": {
+        "semantic_similarity": 0.2646,
+        "semantic_score": 8.22,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700884"
+    },
+    {
+      "id": "arbeitnow_working-student-cyber-security-engineering-bensheim-277188",
+      "title": "Working Student (m/w/d) - Cyber Security Engineering",
+      "company": "Imtf",
+      "location": "Bensheim, Germany",
+      "description": "<p>As a leading global software product company in Compliance &amp; Automation, IMTF Group develops innovative RegTech solutions focusing on Anti-Money Laundering, Know Your Customer, and Anti-Fraud. Our technology helps financial institutions fight financial crime and meet demanding regulatory requirements.</p><p>At IMTF, we value innovation, technical excellence, and continuous learning. We encourage our teams to explore new technologies, challenge existing approaches, and continuously improve",
+      "url": "https://www.arbeitnow.com/jobs/companies/imtf/working-student-cyber-security-engineering-bensheim-277188",
+      "remote": false,
+      "tags": [
+        "Engineering",
+        "Information Technology and Services",
+        "Research and Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793287215,
+      "fetched_at": "2026-10-29T19:20:11.448421",
+      "match_score": 8.22,
+      "score_breakdown": {
+        "semantic_similarity": 0.2646,
+        "semantic_score": 8.22,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700907"
+    },
+    {
+      "id": "arbeitnow_engineering-manager-compilers-london-jj-mack-465801",
+      "title": "Engineering Manager - Compilers",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/engineering-manager-compilers-london-jj-mack-465801",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451706",
+      "match_score": 7.35,
+      "score_breakdown": {
+        "semantic_similarity": 0.2577,
+        "semantic_score": 7.35,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701475"
+    },
+    {
+      "id": "arbeitnow_senior-embedded-performance-engineer-london-jj-mack-92595",
+      "title": "Senior Embedded Performance Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-embedded-performance-engineer-london-jj-mack-92595",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451735",
+      "match_score": 6.12,
+      "score_breakdown": {
+        "semantic_similarity": 0.2481,
+        "semantic_score": 6.12,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701499"
+    },
+    {
+      "id": "arbeitnow_semiconductor-product-engineer-london-jj-mack-122657",
+      "title": "Semiconductor Product Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/semiconductor-product-engineer-london-jj-mack-122657",
+      "remote": false,
+      "tags": [
+        "Manufacturing"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451476",
+      "match_score": 5.88,
+      "score_breakdown": {
+        "semantic_similarity": 0.2462,
+        "semantic_score": 5.88,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701280"
+    },
+    {
+      "id": "arbeitnow_embedded-software-architect-56372-frauenfeld-285282",
       "title": "Embedded Software Architect (56372)",
       "company": "IQ Plus AG",
       "location": "Frauenfeld",
       "description": "<p>F\u00fcr unseren Kunden suchen wir einen erfahrenen Embedded Software Architect. In dieser anspruchsvollen Funktion \u00fcbernehmen Sie die Verantwortung f\u00fcr die Architektur und strategische Weiterentwicklung einer Embedded-Software-Plattform. Sie bewerten neue Technologien, definieren nachhaltige Technologiestandards und stellen durch Architektur-Governance, Entwicklungsrichtlinien sowie moderne Test- und Automatisierungskonzepte eine hohe Softwarequalit\u00e4t sicher. Zudem stimmen Sie architektonische An",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/embedded-software-architect-56372-frauenfeld-296565",
+      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/embedded-software-architect-56372-frauenfeld-285282",
       "remote": false,
       "tags": [
         "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1793205075,
-      "fetched_at": "2026-10-29T11:54:37.709224",
+      "posted_at": 1793284283,
+      "fetched_at": "2026-10-29T19:20:11.454033",
       "match_score": 5.74,
       "score_breakdown": {
         "semantic_similarity": 0.2451,
@@ -650,66 +978,331 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874987"
+      "scored_at": "2026-10-29T19:20:27.701780"
     },
     {
-      "id": "remoteok_1136795",
-      "title": "Senior Software Engineer Case Execution",
-      "company": "Pivotal Health",
-      "location": "New York City",
-      "description": "<h1>About Pivotal Health</h1><p style=\"min-height:1.5em\">Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.</p><p style=\"min-height:1.5em\">Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While processes like IDR (Independent Dispute Resolution) were designed to promote fairness, they\u00e2\u0080\u0099re often administrative-heavy, time-cons",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-      "salary": "",
+      "id": "arbeitnow_modelling-engineer-london-jj-mack-150271",
+      "title": "Modelling Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/modelling-engineer-london-jj-mack-150271",
+      "remote": false,
       "tags": [
-        "dev",
-        "front end",
-        "python",
-        "customer support",
-        "design",
-        "admin",
-        "exec",
-        "senior",
-        "ops",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
+        "Software"
       ],
-      "source": "RemoteOK",
-      "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-10-29T11:54:30.107766",
-      "match_score": 4.99,
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451642",
+      "match_score": 5.73,
       "score_breakdown": {
-        "semantic_similarity": 0.2392,
-        "semantic_score": 4.99,
+        "semantic_similarity": 0.245,
+        "semantic_score": 5.73,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874654"
+      "scored_at": "2026-10-29T19:20:27.701402"
     },
     {
-      "id": "arbeitnow_software-engineer-agentic-ai-manchester-449001",
-      "title": "Software Engineer, Agentic AI",
-      "company": "Roku",
-      "location": "Manchester",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/software-engineer-agentic-ai-manchester-449001",
+      "id": "arbeitnow_member-of-technical-staff-security-engineering-london-jj-mack-128747",
+      "title": "Member of Technical Staff - Security Engineering",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/member-of-technical-staff-security-engineering-london-jj-mack-128747",
       "remote": false,
       "tags": [
-        "260 - Roku TV NPI Americas"
+        "Software"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1793235324,
-      "fetched_at": "2026-10-29T11:54:37.707275",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451784",
+      "match_score": 4.38,
+      "score_breakdown": {
+        "semantic_similarity": 0.2344,
+        "semantic_score": 4.38,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701523"
+    },
+    {
+      "id": "arbeitnow_early-career-soc-architect-london-jj-mack-154407",
+      "title": "Early Career SoC Architect",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/early-career-soc-architect-london-jj-mack-154407",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451413",
+      "match_score": 4.3,
+      "score_breakdown": {
+        "semantic_similarity": 0.2338,
+        "semantic_score": 4.3,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701230"
+    },
+    {
+      "id": "arbeitnow_silicon-infrastructure-engineer-london-jj-mack-251163",
+      "title": "Silicon Infrastructure Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/silicon-infrastructure-engineer-london-jj-mack-251163",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451586",
+      "match_score": 3.65,
+      "score_breakdown": {
+        "semantic_similarity": 0.2287,
+        "semantic_score": 3.65,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701354"
+    },
+    {
+      "id": "arbeitnow_senior-data-engineer-villejuif-140285",
+      "title": "Senior Data Engineer",
+      "company": "Orakl Oncology",
+      "location": "Villejuif",
+      "description": "<h1><strong>About Orakl Oncology</strong></h1><p style=\"min-height:1.5em\">At Orakl Oncology, we are accelerating the development of oncology treatments. Today, fewer than 5% of new cancer drugs succeed in clinical trials. Clearly, new methods are needed. We combine <strong>cutting-edge biology</strong> and <strong>AI</strong> to build the next generation of insight platforms with the world\u2019s largest cohort of patient tumor avatars. These avatars fuel our <strong>AI-powered predictive engine</str",
+      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-data-engineer-villejuif-140285",
+      "remote": false,
+      "tags": [
+        "Computational Biology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277639,
+      "fetched_at": "2026-10-29T19:20:11.452358",
+      "match_score": 3.49,
+      "score_breakdown": {
+        "semantic_similarity": 0.2274,
+        "semantic_score": 3.49,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701614"
+    },
+    {
+      "id": "arbeitnow_senior-ml-compiler-engineer-london-jj-mack-482301",
+      "title": "Senior ML Compiler Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-ml-compiler-engineer-london-jj-mack-482301",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451812",
+      "match_score": 2.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.2227,
+        "semantic_score": 2.89,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701560"
+    },
+    {
+      "id": "arbeitnow_senior-logical-design-engineer-london-jj-mack-95096",
+      "title": "Senior Logical Design Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-logical-design-engineer-london-jj-mack-95096",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451558",
+      "match_score": 2.27,
+      "score_breakdown": {
+        "semantic_similarity": 0.2179,
+        "semantic_score": 2.27,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701330"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-ruby-on-rails-100-remote-berlin-362971",
+      "title": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
+      "company": "easybill GmbH",
+      "location": "Berlin",
+      "description": "<p>Nicht jede gute Software steht im Rampenlicht. Aber sie sorgt daf\u00fcr, dass Unternehmen jeden Tag zuverl\u00e4ssig arbeiten k\u00f6nnen. Bei <strong>easybill</strong> bauen wir Software, die \u00fcber 27.000 Unternehmen dabei unterst\u00fctzt, Rechnungen, Prozesse und Integrationen einfacher, schneller und automatisierter zu steuern. E-Rechnung wird Pflicht. E-Commerce wird komplexer. KI ver\u00e4ndert, wie gute Software entsteht. Und genau hier setzen wir an.</p>\n<p>F\u00fcr unsere E-Commerce-Anwendung <strong>easybill Con",
+      "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-berlin-362971",
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277069,
+      "fetched_at": "2026-10-29T19:20:11.449355",
+      "match_score": 1.71,
+      "score_breakdown": {
+        "semantic_similarity": 0.2134,
+        "semantic_score": 1.71,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.700979"
+    },
+    {
+      "id": "arbeitnow_senior-principal-dft-engineer-london-jj-mack-33473",
+      "title": "Senior/Principal DFT Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-principal-dft-engineer-london-jj-mack-33473",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451612",
+      "match_score": 0.5,
+      "score_breakdown": {
+        "semantic_similarity": 0.2039,
+        "semantic_score": 0.5,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701378"
+    },
+    {
+      "id": "arbeitnow_senior-data-engineer-azure-cloud-berlin-276748",
+      "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
+      "company": "KRALLMANN AG",
+      "location": "Berlin",
+      "description": "<p>Du willst in Microsoft Azure Datenplattformen bauen, die Unternehmens- und Maschinendaten unserer Kunden f\u00fcr Auswertungen und KI nutzbar machen \u2013 mit klarer Perspektive zum Principal Architect? Dann lies weiter.</p><p>Die KRALLMANN AG ist ein inhabergef\u00fchrtes Familienunternehmen, 2006 gegr\u00fcndet von Prof. Dr. Hermann Krallmann, emeritiertem Professor der TU Berlin, der bis heute aktiv mitwirkt. Wir bieten Strategieberatung, KI-Beratung und -Implementierung, Business Process Management, Enterpr",
+      "url": "https://www.arbeitnow.com/jobs/companies/krallmann-ag/senior-data-engineer-azure-cloud-berlin-276748",
+      "remote": false,
+      "tags": [
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793288848,
+      "fetched_at": "2026-10-29T19:20:11.449658",
+      "match_score": 0.14,
+      "score_breakdown": {
+        "semantic_similarity": 0.2011,
+        "semantic_score": 0.14,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701017"
+    },
+    {
+      "id": "arbeitnow_senior-linux-kernel-driver-engineer-london-jj-mack-494484",
+      "title": "Senior Linux Kernel Driver Engineer",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/senior-linux-kernel-driver-engineer-london-jj-mack-494484",
+      "remote": false,
+      "tags": [
+        "Software"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451673",
+      "match_score": 0.1,
+      "score_breakdown": {
+        "semantic_similarity": 0.2008,
+        "semantic_score": 0.1,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701451"
+    },
+    {
+      "id": "arbeitnow_gtm-engineer-london-108437",
+      "title": "GTM Engineer",
+      "company": "Kernel",
+      "location": "London",
+      "description": "<h2>About Kernel</h2><p style=\"min-height:1.5em\">Agents are starting to sell, buy and operate on behalf of companies. But before an agent can close a deal, qualify an account, route a lead or assess risk, it has to answer a basic question: which company is this?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Today, that answer is messy, and no one answers it reliably. Business identity lives across CRMs, ERPs and third-party datasets full of duplicates, missing parent companies, ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kernel/gtm-engineer-london-108437",
+      "remote": false,
+      "tags": [
+        "Operations"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277638,
+      "fetched_at": "2026-10-29T19:20:11.451211",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1291,
+        "semantic_similarity": 0.179,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874755"
+      "scored_at": "2026-10-29T19:20:27.701169"
+    },
+    {
+      "id": "arbeitnow_quality-manager-manufacturing-operations-london-jj-mack-53608",
+      "title": "Quality Manager - Manufacturing Operations",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/quality-manager-manufacturing-operations-london-jj-mack-53608",
+      "remote": false,
+      "tags": [
+        "Manufacturing"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451513",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1836,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701305"
+    },
+    {
+      "id": "arbeitnow_semiconductor-test-engineering-team-leader-london-jj-mack-6396",
+      "title": "Semiconductor Test Engineering Team Leader",
+      "company": "Fractile",
+      "location": "London - JJ Mack",
+      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/semiconductor-test-engineering-team-leader-london-jj-mack-6396",
+      "remote": false,
+      "tags": [
+        "Hardware"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277637,
+      "fetched_at": "2026-10-29T19:20:11.451853",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1949,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701584"
     },
     {
       "id": "arbeitnow_it-engineer-paris-france-342847",
@@ -724,7 +1317,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793266826,
-      "fetched_at": "2026-10-29T11:54:37.707875",
+      "fetched_at": "2026-10-29T19:20:11.453053",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.0771,
@@ -732,7 +1325,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874805"
+      "scored_at": "2026-10-29T19:20:27.701666"
     },
     {
       "id": "arbeitnow_senior-product-manager-checkout-experience-paris-paris-116617",
@@ -747,7 +1340,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1793235324,
-      "fetched_at": "2026-10-29T11:54:37.708185",
+      "fetched_at": "2026-10-29T19:20:11.453380",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1309,
@@ -755,7 +1348,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-10-29T11:54:52.874864"
+      "scored_at": "2026-10-29T19:20:27.701728"
+    },
+    {
+      "id": "arbeitnow_software-engineer-lausanne-229275",
+      "title": "Software Engineer",
+      "company": "NIRLAB AG (part of 908 Devices Inc.)",
+      "location": "Lausanne",
+      "description": "<h2>About NIRLAB AG</h2><p>The <strong>NIRLAB team at 908 Devices</strong>, based in Lausanne, Switzerland, develops advanced handheld spectroscopy solutions that combine near-infrared (NIR) spectroscopy with machine learning. Our technology enables rapid, on-the-spot analysis of materials, providing users with immediate insight into material composition wherever it is needed.<br>NIRLAB was established in 2018 and its technology is used by customers across 40 countries worldwide. Today, as part ",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nirlab-ag-part-of-908-devices-inc/software-engineer-lausanne-229275",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793287860,
+      "fetched_at": "2026-10-29T19:20:11.453955",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1212,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701753"
+    },
+    {
+      "id": "arbeitnow_senior-ai-engineer-zurich-162742",
+      "title": "Senior AI Engineer",
+      "company": "Rivia",
+      "location": "Zurich",
+      "description": "<h2><strong>About Rivia</strong></h2><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://rivia.com/\">Rivia</a> is a technology company building a data engine that powers the future of clinical trial intelligence. Rivia was founded on the belief that new drugs can be brought to market more successfully with a fraction of today's capital.</p><p style=\"min-height:1.5em\">Biotechs are the source of most therapeutic innovation, yet clinical development is con",
+      "url": "https://www.arbeitnow.ch/jobs/companies/rivia/senior-ai-engineer-zurich-162742",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1793277640,
+      "fetched_at": "2026-10-29T19:20:11.454201",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1972,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-10-29T19:20:27.701801"
     }
   ]
 }
