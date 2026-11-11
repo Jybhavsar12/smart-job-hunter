@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "count": 51,
+  "count": 39,
   "jobs": [
     {
       "id": "remoteok_1137571",
@@ -20,7 +20,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-25T12:34:21+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488692",
+      "fetched_at": "2026-11-11T13:04:43.411001",
       "match_score": 48.85,
       "score_breakdown": {
         "semantic_similarity": 0.466,
@@ -28,53 +28,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426099"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-london-378614",
-      "title": "Senior Software Engineer",
-      "company": "Radiant",
-      "location": "London",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Senior Software Engineer, you will own major parts of Radiant's AI cloud platform, joining one of five teams: Infra, Cluster, Observability, MLOps Training, or MLOps Inference. We'll match you to the team that fits your experience.</p><p style=\"min-height:1.5em\">You'll design, build, and run distributed services at datacentre scale, working closely with product, infrastructure, SRE, and the other engineering teams.</p><p st",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-software-engineer-london-378614",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378605",
-      "match_score": 46.61,
-      "score_breakdown": {
-        "semantic_similarity": 0.5662,
-        "semantic_score": 46.61,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426935"
-    },
-    {
-      "id": "arbeitnow_senior-devops-engineer-united-kingdom-362190",
-      "title": "Senior DevOps Engineer",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Senior DevOps Engineer, you will be embedded in one of our engineering teams, not in a central team, owning how that team builds, tests, ships, and runs its software.</p><p style=\"min-height:1.5em\">You'll work day to day with the team's software engineers, and closely with platform engineers, SRE, and Infra Ops.</p><p style=\"min-height:1.5em\"><u>The teams</u></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">I",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-devops-engineer-united-kingdom-362190",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378591",
-      "match_score": 46.11,
-      "score_breakdown": {
-        "semantic_similarity": 0.5623,
-        "semantic_score": 46.11,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426768"
+      "scored_at": "2026-11-11T13:05:05.006334"
     },
     {
       "id": "remoteok_1137572",
@@ -99,7 +53,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-26T08:00:06+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488690",
+      "fetched_at": "2026-11-11T13:04:43.410999",
       "match_score": 46.0,
       "score_breakdown": {
         "semantic_similarity": 0.4436,
@@ -107,109 +61,14 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426060"
-    },
-    {
-      "id": "arbeitnow_principal-software-engineer-united-kingdom-352899",
-      "title": "Principal Software Engineer",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal Software Engineer, you will help set the technical direction for a core part of Radiant's AI cloud, joining one of four teams: Infra &amp; Cluster, Observability, MLOps Training, or MLOps Inference. We'll match you to the team that fits your experience.</p><p style=\"min-height:1.5em\">You'll lead the design and delivery of the distributed systems that run GPU infrastructure and AI workloads at scale, partnering clo",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-software-engineer-united-kingdom-352899",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378607",
-      "match_score": 41.98,
-      "score_breakdown": {
-        "semantic_similarity": 0.5299,
-        "semantic_score": 41.98,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426961"
-    },
-    {
-      "id": "arbeitnow_principal-platform-engineer-united-kingdom-133198",
-      "title": "Principal Platform Engineer",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal Platform Engineer, you will help set the technical direction for the platform one of our engineering teams builds on: the infrastructure, tooling, and automation that let us run GPU clusters, Kubernetes, and our managed services reliably at scale.</p><p style=\"min-height:1.5em\">You'll partner closely with software engineers, SRE, Infra Ops, and the other platform engineers across Radiant.</p><p style=\"min-height:1",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-platform-engineer-united-kingdom-133198",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378649",
-      "match_score": 41.56,
-      "score_breakdown": {
-        "semantic_similarity": 0.5265,
-        "semantic_score": 41.56,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426987"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-storage-united-kingdom-47791",
-      "title": "Senior Software Engineer - Storage",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Senior Software Engineer - Storage, you will design, build, and operate the storage services and data capabilities that run demanding cloud and AI workloads at scale on Radiant's platform.</p><p style=\"min-height:1.5em\">You'll work across object, block, and file storage, data lifecycle, performance, resilience, APIs, and platform integrations. You'll partner closely with product, infrastructure, SRE, networking, and securit",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-software-engineer-storage-united-kingdom-47791",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378737",
-      "match_score": 41.29,
-      "score_breakdown": {
-        "semantic_similarity": 0.5244,
-        "semantic_score": 41.29,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.427089"
-    },
-    {
-      "id": "remoteok_1137387",
-      "title": "Software Engineer",
-      "company": "Mirantis",
-      "location": "",
-      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMTU3LjU1LjE4OS4xOA== when applying to show you read the job post completely (#RMTU3LjU1LjE4OS4xOA==). This is a beta feature to avoid spam applicants. Companies c",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-09-12T14:00:03+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488723",
-      "match_score": 41.03,
-      "score_breakdown": {
-        "semantic_similarity": 0.4045,
-        "semantic_score": 26.03,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426274"
+      "scored_at": "2026-11-11T13:05:05.006310"
     },
     {
       "id": "remoteok_1137713",
       "title": "Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane",
       "company": "Buoyant",
       "location": "",
-      "description": "San Francisco, United States - Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT \u00e2\u0080\u0094 PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...<br/><br/>Please mention the word **FECILITOUS** and tag RMTU3LjU1LjE4OS4xOA== when applying to show you read the job post completely (#RMTU3LjU1LjE4OS4xOA==). This is a beta feature to avoid spam applicants",
+      "description": "San Francisco, United States - Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT \u00e2\u0080\u0094 PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally designed ...<br/><br/>Please mention the word **FECILITOUS** and tag RMjAuNjQuNDkuMjE3 when applying to show you read the job post completely (#RMjAuNjQuNDkuMjE3). This is a beta feature to avoid spam applicants. Compan",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
       "salary": "",
       "tags": [
@@ -222,15 +81,15 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-09T22:00:02+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488632",
-      "match_score": 38.94,
+      "fetched_at": "2026-11-11T13:04:43.410959",
+      "match_score": 40.42,
       "score_breakdown": {
-        "semantic_similarity": 0.3881,
-        "semantic_score": 23.94,
+        "semantic_similarity": 0.3997,
+        "semantic_score": 25.42,
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.425930"
+      "scored_at": "2026-11-11T13:05:05.006223"
     },
     {
       "id": "remoteok_1137508",
@@ -271,7 +130,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-13T00:00:18+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488712",
+      "fetched_at": "2026-11-11T13:04:43.411013",
       "match_score": 37.69,
       "score_breakdown": {
         "semantic_similarity": 0.4961,
@@ -279,145 +138,84 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426207"
+      "scored_at": "2026-11-11T13:05:05.006403"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-security-united-kingdom-447791",
-      "title": "Senior Software Engineer - Security",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Senior Software Engineer - Security, you will design, build, and operate the security capabilities that protect Radiant's cloud platform and infrastructure.</p><p style=\"min-height:1.5em\">You'll work across identity, access control, secrets, network security, platform hardening, auditability, and compliance controls. You'll partner closely with product, infrastructure, SRE, networking, security, and compliance teams, and wi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/senior-software-engineer-security-united-kingdom-447791",
+      "id": "remoteok_1137387",
+      "title": "Software Engineer",
+      "company": "Mirantis",
+      "location": "",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...<br/><br/>Please mention the word **SEAMLESS** and tag RMjAuNjQuNDkuMjE3 when applying to show you read the job post completely (#RMjAuNjQuNDkuMjE3). This is a beta feature to avoid spam applicants. Companies can searc",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "salary": "",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-09-12T14:00:03+00:00",
+      "fetched_at": "2026-11-11T13:04:43.411020",
+      "match_score": 37.03,
+      "score_breakdown": {
+        "semantic_similarity": 0.3731,
+        "semantic_score": 22.03,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006445"
+    },
+    {
+      "id": "arbeitnow_senior-embedded-linux-software-engineer-zurich-2268",
+      "title": "Senior Embedded Linux Software Engineer",
+      "company": "Auterion",
+      "location": "Zurich",
+      "description": "&lt;p&gt;Auterion builds a cutting-edge operating system for autonomous robotic systems that empower a diverse range of platforms to perform surveillance, reconnaissance, inspection, mapping and logistics tasks. Our industry-leading software drives the adoption of robotic fleets and is recognized by the U.S. government as the future standard for its drone programs.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Embedded Linux Software Engineer taking on tasks within the AuterionOS ecos",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-2268",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378595",
-      "match_score": 36.68,
+      "posted_at": 1794369318,
+      "fetched_at": "2026-11-11T13:04:51.029154",
+      "match_score": 33.73,
       "score_breakdown": {
-        "semantic_similarity": 0.4882,
-        "semantic_score": 36.68,
+        "semantic_similarity": 0.4651,
+        "semantic_score": 33.73,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426795"
+      "scored_at": "2026-11-11T13:05:05.006848"
     },
     {
-      "id": "arbeitnow_software-engineer-network-united-kingdom-99208",
-      "title": "Software Engineer - Network",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Software Engineer - Network, you will help build the software that runs our cluster networks: the fabric connecting thousands of GPUs, and the Managed Networks our customers rely on.</p><p style=\"min-height:1.5em\">You'll work alongside senior engineers on the Network team, owning features end to end and growing your expertise in high-performance networking.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/software-engineer-network-united-kingdom-99208",
-      "remote": false,
+      "id": "remoteok_1137545",
+      "title": "Senior Software Engineer",
+      "company": "Sotheby\u00e2\u0080\u0099s",
+      "location": "",
+      "description": "Remote - Established in 1744, Sotheby\u00e2\u0080\u0099s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...<br/><br/>Please mention the word **EVALUATIVE** and tag RMjAuNjQuNDkuMjE3 when applying to show you read the job post completely (#RMjAuNjQuNDkuMjE3). This is a beta feature to avoid spam applicants. Companies can sea",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+      "salary": "",
       "tags": [
-        "Engineering"
+        "golang",
+        "dev",
+        "senior",
+        "sales",
+        "engineer",
+        "digital nomad"
       ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378698",
-      "match_score": 35.33,
+      "source": "RemoteOK",
+      "posted_at": "2026-10-18T19:00:02+00:00",
+      "fetched_at": "2026-11-11T13:04:43.411004",
+      "match_score": 32.39,
       "score_breakdown": {
-        "semantic_similarity": 0.4776,
-        "semantic_score": 35.33,
-        "location_match": 0,
+        "semantic_similarity": 0.3367,
+        "semantic_score": 17.39,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427039"
-    },
-    {
-      "id": "arbeitnow_principal-software-engineer-storage-united-kingdom-257881",
-      "title": "Principal Software Engineer - Storage",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal Software Engineer - Storage, you will help set the technical direction for Radiant's cloud storage offering and lead the design and delivery of the storage services and data capabilities required to run demanding cloud and AI workloads at scale.</p><p style=\"min-height:1.5em\">You'll work across object, block, and file storage, data lifecycle, performance, resilience, APIs, and platform integrations. You'll partner",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-software-engineer-storage-united-kingdom-257881",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378602",
-      "match_score": 34.75,
-      "score_breakdown": {
-        "semantic_similarity": 0.473,
-        "semantic_score": 34.75,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426908"
-    },
-    {
-      "id": "arbeitnow_principal-software-engineer-security-united-kingdom-324713",
-      "title": "Principal Software Engineer - Security",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal Software Engineer - Security, you will help set the technical direction for Radiant's security capabilities across the cloud platform and infrastructure, leading the design and delivery of the systems that underpin them.</p><p style=\"min-height:1.5em\">You'll work across identity, access control, secrets, network security, platform hardening, auditability, and compliance controls. You'll partner closely with produc",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-software-engineer-security-united-kingdom-324713",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378600",
-      "match_score": 34.61,
-      "score_breakdown": {
-        "semantic_similarity": 0.472,
-        "semantic_score": 34.61,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426881"
-    },
-    {
-      "id": "arbeitnow_senior-applied-ai-engineer-cologne-112638",
-      "title": "Senior Applied AI Engineer",
-      "company": "Jupus",
-      "location": "Cologne",
-      "description": "<p style=\"min-height:1.5em\">We\u2019re seeking a driven Senior Applied <strong>AI Engineer</strong> to join one of the fastest-growing legal tech companies in Europe as we expand our core AI team.</p><p style=\"min-height:1.5em\">This role focuses on <strong>applied generative AI in a production environment</strong>, building systems such as RAG pipelines, agentic workflows, and AI features used directly by lawyers.</p><p style=\"min-height:1.5em\"><strong>Reporting to the AI Lead</strong>, you\u2019ll work h",
-      "url": "https://www.arbeitnow.com/jobs/companies/jupus/senior-applied-ai-engineer-cologne-112638",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357618,
-      "fetched_at": "2026-11-11T01:34:14.375259",
-      "match_score": 32.5,
-      "score_breakdown": {
-        "semantic_similarity": 0.4554,
-        "semantic_score": 32.5,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426348"
-    },
-    {
-      "id": "arbeitnow_principal-software-engineer-networking-united-kingdom-353392",
-      "title": "Principal Software Engineer - Networking",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal Software Engineer - Networking, you will help set the technical direction for Radiant's networking software, and lead the design and delivery of the systems that build, automate, and operate the fabric connecting our GPU clusters.</p><p style=\"min-height:1.5em\">You'll work across high-performance cluster fabrics, network automation, Managed Networks, and multi-tenant isolation. You'll partner closely with product,",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-software-engineer-networking-united-kingdom-353392",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378597",
-      "match_score": 31.46,
-      "score_breakdown": {
-        "semantic_similarity": 0.4472,
-        "semantic_score": 31.46,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426855"
+      "scored_at": "2026-11-11T13:05:05.006357"
     },
     {
       "id": "remoteok_1137527",
@@ -457,7 +255,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-10-15T16:00:03+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488707",
+      "fetched_at": "2026-11-11T13:04:43.411010",
       "match_score": 30.96,
       "score_breakdown": {
         "semantic_similarity": 0.3254,
@@ -465,7 +263,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426169"
+      "scored_at": "2026-11-11T13:05:05.006377"
     },
     {
       "id": "arbeitnow_software-engineer-intern-fullstack-amsterdam-377938",
@@ -480,7 +278,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794336039,
-      "fetched_at": "2026-11-11T01:34:14.383971",
+      "fetched_at": "2026-11-11T13:04:51.030344",
       "match_score": 29.51,
       "score_breakdown": {
         "semantic_similarity": 0.4319,
@@ -488,58 +286,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427478"
-    },
-    {
-      "id": "remoteok_1137545",
-      "title": "Senior Software Engineer",
-      "company": "Sotheby\u00e2\u0080\u0099s",
-      "location": "",
-      "description": "Remote - Established in 1744, Sotheby\u00e2\u0080\u0099s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...<br/><br/>Please mention the word **EVALUATIVE** and tag RMTU3LjU1LjE4OS4xOA== when applying to show you read the job post completely (#RMTU3LjU1LjE4OS4xOA==). This is a beta feature to avoid spam applicants. Companies",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "senior",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-10-18T19:00:02+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488698",
-      "match_score": 29.19,
-      "score_breakdown": {
-        "semantic_similarity": 0.3115,
-        "semantic_score": 14.19,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426137"
-    },
-    {
-      "id": "arbeitnow_data-analyst-6335",
-      "title": "Data Analyst",
-      "company": "Everway",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Every mind is unique. Yet much of the world is still built for what\u2019s considered &quot;normal,&quot; leaving too many people behind. At Everway, we change that by creating technology that helps everyone understand and be understood. By understanding and addressing the unique needs of each individual, we&#39;re creating a world where differences are recognized and valued.&lt;/p&gt;\n&lt;p&gt;Our careers fit real life. When you join us, you\u2019re not",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/data-analyst-6335",
-      "remote": false,
-      "tags": [
-        "Info Sys"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794347715,
-      "fetched_at": "2026-11-11T01:34:14.379459",
-      "match_score": 27.09,
-      "score_breakdown": {
-        "semantic_similarity": 0.295,
-        "semantic_score": 12.09,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.427159"
+      "scored_at": "2026-11-11T13:05:05.006958"
     },
     {
       "id": "arbeitnow_senior-integration-software-engineer-amsterdam-441860",
@@ -554,7 +301,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794346279,
-      "fetched_at": "2026-11-11T01:34:14.383393",
+      "fetched_at": "2026-11-11T13:04:51.029996",
       "match_score": 26.21,
       "score_breakdown": {
         "semantic_similarity": 0.406,
@@ -562,54 +309,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427448"
-    },
-    {
-      "id": "arbeitnow_software-engineer-stage-paris-11702",
-      "title": "Software Engineer - Stage",
-      "company": "Alassio",
-      "location": "Paris",
-      "description": "<p style=\"min-height:1.5em\"><strong>Alassio recherche son (sa) prochain(e) Software Engineer Intern !</strong></p><p style=\"min-height:1.5em\">En travaillant aux c\u00f4t\u00e9s de l'\u00e9quipe fondatrice, <strong>tu plongeras au c\u0153ur des chantiers techniques les plus structurants et participeras directement aux b\u00eata-tests avec nos cabinets partenaires.</strong></p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><h2>Mis",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alassio/software-engineer-stage-paris-11702",
-      "remote": false,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794325235,
-      "fetched_at": "2026-11-11T01:34:14.381862",
-      "match_score": 25.09,
-      "score_breakdown": {
-        "semantic_similarity": 0.3972,
-        "semantic_score": 25.09,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.427280"
-    },
-    {
-      "id": "arbeitnow_remote-senior-application-security-engineer-all-genders-berlin-457264",
-      "title": "Senior Application Security Engineer (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Remote job",
-      "description": "<p><strong>Distribusion</strong> is the world\u2019s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com.</p><p style=\"min-height: 1.7em;\"></p><p>We are shaping the future of travel and building the largest global network of tr",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-457264",
-      "remote": true,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794335484,
-      "fetched_at": "2026-11-11T01:34:14.378028",
-      "match_score": 24.89,
-      "score_breakdown": {
-        "semantic_similarity": 0.2777,
-        "semantic_score": 9.89,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426742"
+      "scored_at": "2026-11-11T13:05:05.006939"
     },
     {
       "id": "arbeitnow_medior-senior-full-stack-developer-delft-484749",
@@ -624,7 +324,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794324681,
-      "fetched_at": "2026-11-11T01:34:16.875058",
+      "fetched_at": "2026-11-11T13:04:53.483450",
       "match_score": 24.35,
       "score_breakdown": {
         "semantic_similarity": 0.352,
@@ -632,76 +332,54 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-11-11T01:34:29.427505"
+      "scored_at": "2026-11-11T13:05:05.006976"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-paris-400600",
-      "title": "Senior Software Engineer",
-      "company": "Alassio",
-      "location": "Paris",
-      "description": "<p style=\"min-height:1.5em\"><strong>Alassio recherche son (sa) prochain(e) Senior Software Engineer !</strong></p><p style=\"min-height:1.5em\">En travaillant aux c\u00f4t\u00e9s de l'\u00e9quipe fondatrice, tu plongeras au c\u0153ur des chantiers techniques les plus structurants et participeras directement au d\u00e9ploiement de notre solution chez nos clients.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><h2>Missions</h2><d",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alassio/senior-software-engineer-paris-400600",
+      "id": "arbeitnow_software-engineer-backend-bi-platform-london-184954",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "description": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p>\n<p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.</p></div><p>Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engi",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-184954",
       "remote": false,
-      "tags": [
-        "Product & Engineering"
-      ],
+      "tags": [],
       "source": "Arbeitnow",
-      "posted_at": 1794325235,
-      "fetched_at": "2026-11-11T01:34:14.381964",
-      "match_score": 23.63,
+      "posted_at": 1794386725,
+      "fetched_at": "2026-11-11T13:04:51.027469",
+      "match_score": 23.53,
       "score_breakdown": {
-        "semantic_similarity": 0.3857,
-        "semantic_score": 23.63,
+        "semantic_similarity": 0.3849,
+        "semantic_score": 23.53,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427306"
+      "scored_at": "2026-11-11T13:05:05.006667"
     },
     {
-      "id": "arbeitnow_engineering-manager-united-kingdom-38608",
-      "title": "Engineering Manager",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As an Engineering Manager, you will lead a team building and operating a core part of Radiant's AI cloud, joining one of three teams: Network, Observability, or MLOps Training. We hire strong managers first, then agree your team with you based on your strengths and interests.</p><p style=\"min-height:1.5em\">You'll combine people leadership, technical judgement, delivery ownership, and cross-functional collaboration, working close",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/engineering-manager-united-kingdom-38608",
-      "remote": false,
+      "id": "remoteok_1137427",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "location": "",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RMjAuNjQuNDkuMjE3 when applying to show you read the job post completely (#RMjAuNjQuNDkuMjE3). This is a beta feature to avoid spam applicants. Companies can sear",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "salary": "",
       "tags": [
-        "Engineering"
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
       ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378696",
-      "match_score": 23.35,
+      "source": "RemoteOK",
+      "posted_at": "2026-09-23T14:00:02+00:00",
+      "fetched_at": "2026-11-11T13:04:43.411016",
+      "match_score": 22.79,
       "score_breakdown": {
-        "semantic_similarity": 0.3835,
-        "semantic_score": 23.35,
-        "location_match": 0,
+        "semantic_similarity": 0.2612,
+        "semantic_score": 7.79,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427012"
-    },
-    {
-      "id": "arbeitnow_principal-sdet-united-kingdom-212191",
-      "title": "Principal SDET",
-      "company": "Radiant",
-      "location": "United Kingdom",
-      "description": "<h2><strong>What You'll Do</strong></h2><p style=\"min-height:1.5em\">As a Principal SDET, you will help set the technical direction for testing and quality in one of our engineering teams. This is not traditional QA: you'll build the test infrastructure and developer experience that let the team ship quickly and safely.</p><p style=\"min-height:1.5em\">You'll partner closely with software engineers, platform engineers, and SRE.</p><p style=\"min-height:1.5em\">This is a hands-on technical leadership ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-sdet-united-kingdom-212191",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378735",
-      "match_score": 23.25,
-      "score_breakdown": {
-        "semantic_similarity": 0.3827,
-        "semantic_score": 23.25,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.427065"
+      "scored_at": "2026-11-11T13:05:05.006426"
     },
     {
       "id": "remoteok_1137685",
@@ -718,7 +396,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-04T15:09:09+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488674",
+      "fetched_at": "2026-11-11T13:04:43.410989",
       "match_score": 22.08,
       "score_breakdown": {
         "semantic_similarity": 0.2557,
@@ -726,194 +404,214 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.425987"
+      "scored_at": "2026-11-11T13:05:05.006262"
     },
     {
-      "id": "remoteok_1137427",
-      "title": "Software Engineer",
-      "company": "Prenosis",
-      "location": "",
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunix\u00e2\u0084\u00a2 precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...<br/><br/>Please mention the word **STELLARLY** and tag RMTU3LjU1LjE4OS4xOA== when applying to show you read the job post completely (#RMTU3LjU1LjE4OS4xOA==). This is a beta feature to avoid spam applicants. Companies ",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-      "salary": "",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-09-23T14:00:02+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488718",
-      "match_score": 20.59,
-      "score_breakdown": {
-        "semantic_similarity": 0.244,
-        "semantic_score": 5.59,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426244"
-    },
-    {
-      "id": "arbeitnow_software-engineer-paris-491285",
-      "title": "Software Engineer",
-      "company": "Alassio",
+      "id": "arbeitnow_devops-core-platform-paris-148388",
+      "title": "DevOps, Core Platform",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
       "location": "Paris",
-      "description": "<p style=\"min-height:1.5em\"><strong>Alassio recherche son (sa) prochain(e) Software Engineer !</strong></p><p style=\"min-height:1.5em\">En travaillant aux c\u00f4t\u00e9s de l'\u00e9quipe fondatrice, tu plongeras au c\u0153ur des chantiers techniques les plus structurants et participeras directement aux b\u00eata-tests avec nos cabinets partenaires.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><h2>Missions</h2><div style=\"mi",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alassio/software-engineer-paris-491285",
-      "remote": false,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794325235,
-      "fetched_at": "2026-11-11T01:34:14.381966",
-      "match_score": 19.78,
-      "score_breakdown": {
-        "semantic_similarity": 0.3554,
-        "semantic_score": 19.78,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.427330"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-london-142278",
-      "title": "Senior Software Engineer",
-      "company": "Snyk",
-      "location": "United Kingdom - London Office",
-      "description": "<h2><strong>Unleash AI Innovators, Securely</strong></h2><p style=\"min-height:1.5em\">Software is being rewritten in real time. AI agents are starting to write more code than humans do, at a speed no security team has ever had to match, and that single shift is opening up the biggest opportunity our industry has seen in a decade. We're not bracing for it, we're building the company that owns it.</p><p style=\"min-height:1.5em\">Snyk is building the next generation security platform where security i",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/snyk/senior-software-engineer-london-142278",
+      "description": "<h3><strong>About Us</strong></h3><p style=\"min-height:1.5em\">Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.</p><p style=\"min-height:1.5em\">Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting am",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/devops-core-platform-paris-148388",
       "remote": false,
       "tags": [
         "R&D"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346826,
-      "fetched_at": "2026-11-11T01:34:14.379738",
-      "match_score": 18.58,
+      "posted_at": 1794390014,
+      "fetched_at": "2026-11-11T13:04:51.027930",
+      "match_score": 20.76,
       "score_breakdown": {
-        "semantic_similarity": 0.346,
-        "semantic_score": 18.58,
+        "semantic_similarity": 0.3631,
+        "semantic_score": 20.76,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427224"
+      "scored_at": "2026-11-11T13:05:05.006727"
     },
     {
-      "id": "arbeitnow_applied-ai-engineer-germany-47716",
-      "title": "Applied AI Engineer",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About ActAI </strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. </p><p style=\"min-height:1.5em\">Our first application is an agent-first mobile communic",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-germany-47716",
+      "id": "arbeitnow_senior-software-engineer-behavioral-security-products-280947",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "company": "Abnormalsecurity",
+      "location": "",
+      "description": "&lt;p&gt;At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The T",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-software-engineer-behavioral-security-products-280947",
       "remote": false,
       "tags": [
-        "ActAI Engineering"
+        "Behavioral Security Products"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376188",
-      "match_score": 18.36,
+      "posted_at": 1794390914,
+      "fetched_at": "2026-11-11T13:04:51.026825",
+      "match_score": 17.52,
       "score_breakdown": {
-        "semantic_similarity": 0.3443,
-        "semantic_score": 18.36,
+        "semantic_similarity": 0.2198,
+        "semantic_score": 2.52,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006618"
+    },
+    {
+      "id": "arbeitnow_full-stack-software-engineer-for-web-platform-net-3d-ml-schlieren-387085",
+      "title": "Full-Stack Software Engineer for Web Platform .NET / 3D / ML",
+      "company": "Inspacion AG",
+      "location": "Schlieren",
+      "description": "<h2>Building the future of workspace design at Inspacion</h2><p>Inspacion is a 100% bootstrapped ETH Spin-off based in Schlieren, Zurich. Our SaaS product is being used by major hospitals, manufacturing companies, and partners within Europe.</p><p>Our web platform and VR software currently enables whole teams in various industries, ranging from healthcare to manufacturing, to design optimal workspaces. As a software engineer at Inspacion, you will be part of a team building the future of how org",
+      "url": "https://www.arbeitnow.ch/jobs/companies/inspacion-ag/full-stack-software-engineer-for-web-platform-net-3d-ml-schlieren-387085",
+      "remote": false,
+      "tags": [
+        "Software Development"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1794394875,
+      "fetched_at": "2026-11-11T13:04:51.028987",
+      "match_score": 17.36,
+      "score_breakdown": {
+        "semantic_similarity": 0.3364,
+        "semantic_score": 17.36,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426465"
+      "scored_at": "2026-11-11T13:05:05.006831"
     },
     {
-      "id": "arbeitnow_infrastructure-tooling-observability-engineer-uk-london-469492",
-      "title": "Infrastructure Tooling & Observability Engineer (UK)",
-      "company": "Radiant",
+      "id": "arbeitnow_remote-full-stack-engineer-elevenapi-488657",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequ",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenapi-488657",
+      "remote": true,
+      "tags": [
+        "Engineering & Product"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1794379213,
+      "fetched_at": "2026-11-11T13:04:51.026424",
+      "match_score": 16.97,
+      "score_breakdown": {
+        "semantic_similarity": 0.2155,
+        "semantic_score": 1.97,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006515"
+    },
+    {
+      "id": "arbeitnow_deployed-engineering-manager-northern-europe-dach-amsterdam-6336",
+      "title": "Deployed Engineering Manager, Northern Europe & DACH",
+      "company": "LangChain",
+      "location": "Amsterdam",
+      "description": "<h1><strong>About Us</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and have grown to also offer a platform for building, evaluating, deploying, and operating agents at scale.</p><p style=\"min-height:1.",
+      "url": "https://www.arbeitnow.nl/jobs/companies/langchain/deployed-engineering-manager-northern-europe-dach-amsterdam-6336",
+      "remote": false,
+      "tags": [
+        "Deployed Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1794379212,
+      "fetched_at": "2026-11-11T13:04:51.029774",
+      "match_score": 16.32,
+      "score_breakdown": {
+        "semantic_similarity": 0.3283,
+        "semantic_score": 16.32,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006925"
+    },
+    {
+      "id": "arbeitnow_senior-platform-engineer-london-302865",
+      "title": "Senior Platform Engineer",
+      "company": "Trainline",
       "location": "London",
-      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">We\u2019re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable.</p><p style=\"min-height:1.5em\"></p><h2>Role Overview</h2><p style=\"min-height:1.5em\">We are seeking an Infrastructure Tooling &amp; Observability Engineer to act a",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/infrastructure-tooling-observability-engineer-uk-london-469492",
+      "description": "<p style=\"min-height:1.5em\"><strong>About us</strong></p><p style=\"min-height:1.5em\">At Trainline, our purpose is to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.thetrainline.com/terms/sustainability-faqs\">empower greener travel choices, connecting people and places.</a> Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels.\u00a0</p>",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-platform-engineer-london-302865",
       "remote": false,
       "tags": [
-        "Infrastructure Operations"
+        "Technology"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794357617,
-      "fetched_at": "2026-11-11T01:34:14.378989",
-      "match_score": 18.3,
+      "posted_at": 1794390013,
+      "fetched_at": "2026-11-11T13:04:51.027320",
+      "match_score": 15.52,
       "score_breakdown": {
-        "semantic_similarity": 0.3438,
-        "semantic_score": 18.3,
+        "semantic_similarity": 0.3219,
+        "semantic_score": 15.52,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427123"
+      "scored_at": "2026-11-11T13:05:05.006648"
     },
     {
-      "id": "arbeitnow_backend-engineer-ai-systems-germany-166466",
-      "title": "Backend Engineer, AI Systems",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About ActAI</strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. </p><p style=\"min-height:1.5em\">Our first application is an agent-first mobile communica",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-engineer-ai-systems-germany-166466",
+      "id": "arbeitnow_senior-staff-software-engineer-platform-london-329055",
+      "title": "Senior/Staff Software Engineer, Platform",
+      "company": "Orbitalindustries",
+      "location": "London, UK",
+      "description": "<p style=\"min-height:1.5em\">Orbital Industries is an AI Industrial company, with frontier AI embedded at every step in the production of critical physical products - from creating advanced materials to engineering and manufacturing.</p><p style=\"min-height:1.5em\">Every Orbital Industries product is developed using CurieOS, our AI operating system, uniting AI-automated hardware engineering with AI-designed material science to achieve breakthrough real-world performance. We also offer CurieOS to o",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/senior-staff-software-engineer-platform-london-329055",
       "remote": false,
       "tags": [
-        "ActAI Engineering"
+        "AI"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376164",
-      "match_score": 17.7,
+      "posted_at": 1794379212,
+      "fetched_at": "2026-11-11T13:04:51.027803",
+      "match_score": 14.95,
       "score_breakdown": {
-        "semantic_similarity": 0.3391,
-        "semantic_score": 17.7,
+        "semantic_similarity": 0.3175,
+        "semantic_score": 14.95,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426441"
+      "scored_at": "2026-11-11T13:05:05.006710"
     },
     {
-      "id": "arbeitnow_android-software-engineer-germany-274240",
-      "title": "Android Software Engineer",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About ActAI</strong></h2><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. </p><p style=\"min-height:1.5em\">Our first application is an agent-first mobile communica",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-germany-274240",
+      "id": "arbeitnow_embedded-linux-engineer-yocto-specialist-paris-158729",
+      "title": "Embedded Linux Engineer (Yocto Specialist)",
+      "company": "Genesis",
+      "location": "Paris",
+      "description": "<h2><strong>About Genesis</strong></h2><p style=\"min-height:1.5em\">Genesis is a physical AI lab and full-stack robotics company building general-purpose robots, with teams in Paris and the Bay Area. Our people have built some of the most widely used platforms in robotics research including the open-source Genesis simulator, pioneered generative simulation and led foundation-model work at some of the world's leading AI labs. We own the whole stack: hardware, embedded systems, simulation, data and",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/embedded-linux-engineer-yocto-specialist-paris-158729",
       "remote": false,
       "tags": [
-        "ActAI Engineering"
+        "Engineering & Research"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376085",
-      "match_score": 15.81,
+      "posted_at": 1794379212,
+      "fetched_at": "2026-11-11T13:04:51.028051",
+      "match_score": 14.46,
       "score_breakdown": {
-        "semantic_similarity": 0.3242,
-        "semantic_score": 15.81,
+        "semantic_similarity": 0.3136,
+        "semantic_score": 14.46,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426415"
+      "scored_at": "2026-11-11T13:05:05.006778"
     },
     {
-      "id": "arbeitnow_android-software-engineer-ai-neobank-app-germany-110312",
-      "title": "Android Software Engineer - AI Neobank App",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find.",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-neobank-app-germany-110312",
+      "id": "arbeitnow_software-engineering-intern-summer-2027-edinburgh-246251",
+      "title": "Software Engineering Intern - Summer 2027",
+      "company": "Addepar1",
+      "location": "Edinburgh",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelligence. Addepar unifies portfolio, market and client data in a total portfolio view and delivers AI-powered insights within investment and client workflows. More than 1,500 firms in",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/software-engineering-intern-summer-2027-edinburgh-246251",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Interns"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376693",
-      "match_score": 15.23,
+      "posted_at": 1794390916,
+      "fetched_at": "2026-11-11T13:04:51.026670",
+      "match_score": 13.58,
       "score_breakdown": {
-        "semantic_similarity": 0.3196,
-        "semantic_score": 15.23,
+        "semantic_similarity": 0.3067,
+        "semantic_score": 13.58,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426587"
+      "scored_at": "2026-11-11T13:05:05.006600"
     },
     {
       "id": "remoteok_1137614",
@@ -939,7 +637,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-02T00:00:13+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488680",
+      "fetched_at": "2026-11-11T13:04:43.410993",
       "match_score": 13.21,
       "score_breakdown": {
         "semantic_similarity": 0.3038,
@@ -947,53 +645,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426026"
+      "scored_at": "2026-11-11T13:05:05.006288"
     },
     {
-      "id": "arbeitnow_android-developer-ai-finance-agent-germany-109811",
-      "title": "Android Developer - AI Finance Agent",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About Doit</strong></h2><p style=\"min-height:1.5em\">We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe.   </p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find.",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-developer-ai-finance-agent-germany-109811",
+      "id": "arbeitnow_senior-product-engineer-revenue-engine-london-60807",
+      "title": "Senior Product Engineer, Revenue Engine",
+      "company": "Conveo",
+      "location": "London",
+      "description": "<h2><strong>\ud83d\udc4b Hey! We're </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Conveo.ai\"><strong>Conveo.ai</strong></a></h2><p style=\"min-height:1.5em\">Conveo is a Y Combinator-backed company in an active growth period. We started this year as a team of ~20 and are on track to reach ~120 people by year end. The people who join now have an outsized chance to shape how this company is built.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We raised a $50M Seri",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/conveo/senior-product-engineer-revenue-engine-london-60807",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Product & Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376378",
-      "match_score": 12.53,
+      "posted_at": 1794379213,
+      "fetched_at": "2026-11-11T13:04:51.027736",
+      "match_score": 12.49,
       "score_breakdown": {
-        "semantic_similarity": 0.2984,
-        "semantic_score": 12.53,
+        "semantic_similarity": 0.2981,
+        "semantic_score": 12.49,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426528"
+      "scored_at": "2026-11-11T13:05:05.006692"
     },
     {
-      "id": "arbeitnow_full-stack-software-engineer-ai-finance-agent-germany-180812",
-      "title": "Full Stack Software Engineer - AI Finance Agent",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<p style=\"min-height:1.5em\"><strong>About BJAK</strong></p><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-180812",
+      "id": "arbeitnow_genesis-world-core-simulation-engine-engineer-paris-76776",
+      "title": "Genesis-World: Core Simulation Engine Engineer",
+      "company": "Genesis",
+      "location": "Paris",
+      "description": "<h2>What we\u2019re building</h2><p style=\"min-height:1.5em\">Robots will learn in simulation before they hit the factory. Genesis-World is our bet on that future.</p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/Genesis-Embodied-AI/genesis-world\">Genesis-World</a> is an open-source, general-purpose simulation platform for physical AI from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.genesis.ai/\">Genesis AI</a>. On",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/genesis-world-core-simulation-engine-engineer-paris-76776",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Engineering & Research"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346821,
-      "fetched_at": "2026-11-11T01:34:14.376830",
-      "match_score": 11.42,
+      "posted_at": 1794379212,
+      "fetched_at": "2026-11-11T13:04:51.028130",
+      "match_score": 11.92,
       "score_breakdown": {
-        "semantic_similarity": 0.2504,
-        "semantic_score": 6.42,
+        "semantic_similarity": 0.2936,
+        "semantic_score": 11.92,
         "location_match": 0,
-        "priority_keywords": 5
+        "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426659"
+      "scored_at": "2026-11-11T13:05:05.006794"
     },
     {
       "id": "arbeitnow_backend-engineer-integration-platform-zurich-349456",
@@ -1008,7 +706,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794325236,
-      "fetched_at": "2026-11-11T01:34:14.382632",
+      "fetched_at": "2026-11-11T13:04:51.029549",
       "match_score": 9.83,
       "score_breakdown": {
         "semantic_similarity": 0.2772,
@@ -1016,30 +714,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427391"
+      "scored_at": "2026-11-11T13:05:05.006887"
     },
     {
-      "id": "arbeitnow_lab-technician-bristol-62659",
-      "title": "Lab Technician",
-      "company": "Fractile",
-      "location": "Bristol, UK",
-      "description": "<h1><strong>About Fractile</strong></h1><p style=\"min-height:1.5em\">Fractile was founded in 2022 on the bet that, eventually, the world\u2019s most capable AI systems would be limited in their impact by the time taken to produce useful outputs. We bet everything on the logical conclusion: that the only way to truly unlock this latent value, to make speed viable at scale, was to radically re-invent the hardware that we run our frontier AI models on. Ever since, we have been building chips and systems ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/lab-technician-bristol-62659",
+      "id": "arbeitnow_senior-technical-product-manager-carbon-and-environmental-models-all-genders-berlin-302944",
+      "title": "Senior Technical Product Manager - Carbon and Environmental Models (all genders)",
+      "company": "Klim",
+      "location": "Berlin, Germany",
+      "description": "<p style=\"min-height:1.5em\"> </p><p style=\"min-height:1.5em\">The team at Klim is building the operating system for regenerative agriculture. We help farms restore their soil - and we turn that into real, measurable business value for the food companies, banks and insurers who depend on it.<br /><br />We\u2019re a Berlin-based agritech startup backed by $22M in Series A funding, partnering with global food leaders such as Nestl\u00e9 and ADM to build supply chain resilience through regenerative agriculture",
+      "url": "https://www.arbeitnow.com/jobs/companies/klim/senior-technical-product-manager-carbon-and-environmental-models-all-genders-berlin-302944",
       "remote": false,
       "tags": [
-        "Hardware"
+        "Product"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346826,
-      "fetched_at": "2026-11-11T01:34:14.379712",
-      "match_score": 9.38,
+      "posted_at": 1794390011,
+      "fetched_at": "2026-11-11T13:04:51.025728",
+      "match_score": 9.33,
       "score_breakdown": {
-        "semantic_similarity": 0.2737,
-        "semantic_score": 9.38,
+        "semantic_similarity": 0.2733,
+        "semantic_score": 9.33,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427195"
+      "scored_at": "2026-11-11T13:05:05.006497"
+    },
+    {
+      "id": "arbeitnow_platform-engineer-london-390936",
+      "title": "Platform Engineer",
+      "company": "Trainline",
+      "location": "London",
+      "description": "<p style=\"min-height:1.5em\"><strong>About us</strong></p><p style=\"min-height:1.5em\">At Trainline, our purpose is to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.thetrainline.com/terms/sustainability-faqs\">empower greener travel choices, connecting people and places.</a> Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels.\u00a0</p>",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/platform-engineer-london-390936",
+      "remote": false,
+      "tags": [
+        "Technology"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1794390013,
+      "fetched_at": "2026-11-11T13:04:51.027292",
+      "match_score": 9.21,
+      "score_breakdown": {
+        "semantic_similarity": 0.2723,
+        "semantic_score": 9.21,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006634"
     },
     {
       "id": "arbeitnow_software-engineer-knowledge-engine-data-infrastructure-zurich-412838",
@@ -1054,7 +775,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794346821,
-      "fetched_at": "2026-11-11T01:34:14.382098",
+      "fetched_at": "2026-11-11T13:04:51.029245",
       "match_score": 8.94,
       "score_breakdown": {
         "semantic_similarity": 0.2702,
@@ -1062,7 +783,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427360"
+      "scored_at": "2026-11-11T13:05:05.006866"
     },
     {
       "id": "arbeitnow_cfd-workflow-automation-intern-toulouse-482340",
@@ -1077,7 +798,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1794335451,
-      "fetched_at": "2026-11-11T01:34:14.380578",
+      "fetched_at": "2026-11-11T13:04:51.028534",
       "match_score": 8.29,
       "score_breakdown": {
         "semantic_similarity": 0.2651,
@@ -1085,7 +806,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427253"
+      "scored_at": "2026-11-11T13:05:05.006812"
     },
     {
       "id": "remoteok_1136795",
@@ -1113,7 +834,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-08-16T00:00:03+00:00",
-      "fetched_at": "2026-11-11T01:34:06.488736",
+      "fetched_at": "2026-11-11T13:04:43.411029",
       "match_score": 4.99,
       "score_breakdown": {
         "semantic_similarity": 0.2392,
@@ -1121,168 +842,168 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426306"
+      "scored_at": "2026-11-11T13:05:05.006465"
     },
     {
-      "id": "arbeitnow_backend-software-engineer-ai-finance-agent-germany-234682",
-      "title": "Backend Software Engineer - AI Finance Agent",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-software-engineer-ai-finance-agent-germany-234682",
+      "id": "arbeitnow_senior-site-reliability-engineer-persistence-amsterdam-436511",
+      "title": "Senior Site Reliability Engineer, Persistence",
+      "company": "Vinteden",
+      "location": "Amsterdam",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to make second-hand the first choice, and we&#39;re looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third. &lt;br&gt;The ",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-site-reliability-engineer-persistence-amsterdam-436511",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376695",
-      "match_score": 4.37,
+      "posted_at": 1794390918,
+      "fetched_at": "2026-11-11T13:04:51.029653",
+      "match_score": 4.4,
       "score_breakdown": {
-        "semantic_similarity": 0.2343,
-        "semantic_score": 4.37,
+        "semantic_similarity": 0.2346,
+        "semantic_score": 4.4,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426616"
+      "scored_at": "2026-11-11T13:05:05.006907"
     },
     {
-      "id": "arbeitnow_full-stack-software-engineer-st-gallen-189991",
-      "title": "Full-Stack Software Engineer",
-      "company": "riok GmbH",
-      "location": "St. Gallen",
-      "description": "<p>Du entwickelst gerne durch den ganzen Stack, eignest dir selbstst\u00e4ndig Neues an und hast ein Auge f\u00fcr gute Benutzeroberfl\u00e4chen? Dann m\u00f6chten wir dich kennenlernen.</p><p>Bei riok entwickeln wir individuelle Software, von der Datenbank \u00fcber die API bis zur Benutzeroberfl\u00e4che. Wir suchen eine engagierte Person, die mitdenkt, Verantwortung \u00fcbernimmt und Software bauen m\u00f6chte, die technisch \u00fcberzeugt und sich gut bedienen l\u00e4sst.</p><h2>Deine Aufgaben</h2><ul><li><p>Du entwickelst Anwendungen im F",
-      "url": "https://www.arbeitnow.ch/jobs/companies/riok-gmbh/full-stack-software-engineer-st-gallen-189991",
+      "id": "arbeitnow_software-engineer-performance-marketing-paris-56583",
+      "title": "Software Engineer - Performance Marketing",
+      "company": "Voodoo",
+      "location": "Paris",
+      "description": "<h1><strong>About Voodoo</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 1,000+ employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Paper.io, alongside popular apps such as BeReal a",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/software-engineer-performance-marketing-paris-56583",
       "remote": false,
       "tags": [
-        "Web Development"
+        "Growth"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794321045,
-      "fetched_at": "2026-11-11T01:34:14.382752",
-      "match_score": 2.86,
+      "posted_at": 1794390012,
+      "fetched_at": "2026-11-11T13:04:51.027979",
+      "match_score": 0.77,
       "score_breakdown": {
-        "semantic_similarity": 0.2225,
-        "semantic_score": 2.86,
+        "semantic_similarity": 0.2061,
+        "semantic_score": 0.77,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427426"
+      "scored_at": "2026-11-11T13:05:05.006761"
     },
     {
-      "id": "arbeitnow_applied-ai-engineer-ai-finance-agent-germany-108044",
-      "title": "Applied AI Engineer - AI Finance Agent",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-ai-finance-agent-germany-108044",
-      "remote": false,
-      "tags": [
-        "Engineering"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1794346821,
-      "fetched_at": "2026-11-11T01:34:14.376863",
-      "match_score": 0.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.2029,
-        "semantic_score": 0.37,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-11T01:34:29.426704"
-    },
-    {
-      "id": "arbeitnow_android-software-engineer-ai-finance-agent-germany-290048",
-      "title": "Android Software Engineer - AI Finance Agent",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-290048",
+      "id": "arbeitnow_staff-senior-staff-security-engineer-vinted-pay-london-306029",
+      "title": "Staff / Senior Staff Security Engineer, Vinted Pay",
+      "company": "Vinteden",
+      "location": "London",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot;&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to make second-hand the first choice, and we&#39;re looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third. &lt;br&gt;The ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vinteden/staff-senior-staff-security-engineer-vinted-pay-london-306029",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376618",
-      "match_score": 0.34,
+      "posted_at": 1794390917,
+      "fetched_at": "2026-11-11T13:04:51.026664",
+      "match_score": 0.3,
       "score_breakdown": {
-        "semantic_similarity": 0.2027,
-        "semantic_score": 0.34,
+        "semantic_similarity": 0.2023,
+        "semantic_score": 0.3,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426561"
+      "scored_at": "2026-11-11T13:05:05.006538"
     },
     {
-      "id": "arbeitnow_senior-quality-assurance-engineer-hamburg-20782",
-      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
-      "description": "<p style=\"min-height:1.5em\">ZEAL Network SE is a dynamic, international group of companies that has been creating exciting and innovative lottery experiences for over 20 years. As Germany\u2019s largest provider of online lotteries through our brands LOTTO24 and Tipp24, and a trusted partner of Spain\u2019s ONCE, the second-largest national lottery, we\u2019re shaping the future of the lottery industry. We are passionate about driving innovation, as demonstrated by our newest brands, Freiheit+ and Traumhausver",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-20782",
+      "id": "arbeitnow_software-engineer-agentic-ai-cambridge-251973",
+      "title": "Software Engineer, Agentic AI",
+      "company": "Roku",
+      "location": "Cambridge",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/software-engineer-agentic-ai-cambridge-251973",
       "remote": false,
       "tags": [
-        "Technology"
+        "260 - Roku TV NPI Americas"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346824,
-      "fetched_at": "2026-11-11T01:34:14.375917",
+      "posted_at": 1794390916,
+      "fetched_at": "2026-11-11T13:04:51.026666",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1661,
+        "semantic_similarity": 0.1291,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426385"
+      "scored_at": "2026-11-11T13:05:05.006555"
     },
     {
-      "id": "arbeitnow_android-software-engineer-germany-54438",
-      "title": "Android Software Engineer",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-germany-54438",
+      "id": "arbeitnow_senior-software-engineer-infrastructure-efficiency-productivity-cambridge-117731",
+      "title": "Senior Software Engineer, Infrastructure / Efficiency / Productivity",
+      "company": "Roku",
+      "location": "Cambridge",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-infrastructure-efficiency-productivity-cambridge-117731",
       "remote": false,
       "tags": [
-        "Engineering"
+        "278 - Roku TV NPI EUR"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346822,
-      "fetched_at": "2026-11-11T01:34:14.376310",
+      "posted_at": 1794390916,
+      "fetched_at": "2026-11-11T13:04:51.026667",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.177,
+        "semantic_similarity": 0.1195,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.426500"
+      "scored_at": "2026-11-11T13:05:05.006570"
     },
     {
-      "id": "arbeitnow_backend-developer-germany-495638",
-      "title": "Backend Developer",
-      "company": "Bjak",
-      "location": "Germany",
-      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-developer-germany-495638",
+      "id": "arbeitnow_senior-software-engineer-infrastructure-and-efficiency-manchester-434384",
+      "title": "Senior Software Engineer, Infrastructure and Efficiency",
+      "company": "Roku",
+      "location": "Manchester",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;&quot;&gt;Teamwork makes the stream work.&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3 style=&quot;font-family: GothamBold,Helvetica,Arial,sans-serif;&quot;&gt;&lt;strong&gt;Roku is changing how the world watches TV&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we&#39;ve set our sights on powering every ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-infrastructure-and-efficiency-manchester-434384",
       "remote": false,
       "tags": [
-        "Engineering"
+        "278 - Roku TV NPI EUR"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1794346821,
-      "fetched_at": "2026-11-11T01:34:18.153503",
+      "posted_at": 1794390916,
+      "fetched_at": "2026-11-11T13:04:51.026669",
       "match_score": 0.0,
       "score_breakdown": {
-        "semantic_similarity": 0.1882,
+        "semantic_similarity": 0.1111,
         "semantic_score": 0.0,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-11T01:34:29.427540"
+      "scored_at": "2026-11-11T13:05:05.006584"
+    },
+    {
+      "id": "arbeitnow_lead-software-engineer-performance-marketing-paris-114717",
+      "title": "Lead Software Engineer - Performance Marketing",
+      "company": "Voodoo",
+      "location": "Paris",
+      "description": "<h1><strong>About Voodoo</strong></h1><p style=\"min-height:1.5em\">Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Block Jam, alongside popular apps such as BeReal and Wizz.</p><div style=\"min-height",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/lead-software-engineer-performance-marketing-paris-114717",
+      "remote": false,
+      "tags": [
+        "Growth"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1794390012,
+      "fetched_at": "2026-11-11T13:04:51.027978",
+      "match_score": 0.0,
+      "score_breakdown": {
+        "semantic_similarity": 0.1936,
+        "semantic_score": 0.0,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-11T13:05:05.006745"
     }
   ]
 }
