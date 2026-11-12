@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-11 21:00 UTC
+**Last updated:** 2026-11-12 02:37 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 153 |
-| Jobs found (all time) | 4174 |
-| Jobs found (latest run, 2026-11-11) | 37 |
+| Search runs | 154 |
+| Jobs found (all time) | 4216 |
+| Jobs found (latest run, 2026-11-12) | 42 |
 | Best match (latest run) | Senior Software Engineer at Klardaten (score 49) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
