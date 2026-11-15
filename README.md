@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-14 18:54 UTC
+**Last updated:** 2026-11-15 01:25 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 156 |
-| Jobs found (all time) | 4318 |
-| Jobs found (latest run, 2026-11-14) | 46 |
-| Best match (latest run) | Software Engineer (All Levels), United Kingdom at Koboldmetals (score 57) |
+| Search runs | 157 |
+| Jobs found (all time) | 4364 |
+| Jobs found (latest run, 2026-11-15) | 46 |
+| Best match (latest run) | Software Engineer AI Tooling at Supabase (score 53) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
