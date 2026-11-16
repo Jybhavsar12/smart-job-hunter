@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-16 01:28 UTC
+**Last updated:** 2026-11-16 14:08 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 158 |
-| Jobs found (all time) | 4424 |
-| Jobs found (latest run, 2026-11-16) | 51 |
+| Jobs found (all time) | 4421 |
+| Jobs found (latest run, 2026-11-16) | 48 |
 | Best match (latest run) | Software Engineer AI Tooling at Supabase (score 53) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
