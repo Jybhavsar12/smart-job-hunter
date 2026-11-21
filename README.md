@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-20 23:28 UTC
+**Last updated:** 2026-11-21 13:49 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 162 |
-| Jobs found (all time) | 4591 |
-| Jobs found (latest run, 2026-11-20) | 27 |
-| Best match (latest run) | Software Engineer AI Tooling at Supabase (score 53) |
+| Search runs | 163 |
+| Jobs found (all time) | 4637 |
+| Jobs found (latest run, 2026-11-21) | 46 |
+| Best match (latest run) | Senior Software Developer - Canada at Clover Health (score 52) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
