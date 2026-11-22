@@ -65,13 +65,13 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-22 01:45 UTC
+**Last updated:** 2026-11-22 13:42 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 164 |
-| Jobs found (all time) | 4680 |
-| Jobs found (latest run, 2026-11-22) | 46 |
+| Jobs found (all time) | 4676 |
+| Jobs found (latest run, 2026-11-22) | 42 |
 | Best match (latest run) | Senior Software Developer - Canada at Clover Health (score 52) |
 | Applications tracked | 0 |
 <!-- STATS_END -->

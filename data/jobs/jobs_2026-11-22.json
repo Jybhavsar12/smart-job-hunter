@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "count": 46,
+  "count": 42,
   "jobs": [
     {
       "id": "remoteok_1137872",
@@ -15,7 +15,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-20T01:45:13+00:00",
-      "fetched_at": "2026-11-22T01:44:44.424395",
+      "fetched_at": "2026-11-22T13:42:33.607177",
       "match_score": 52.4,
       "score_breakdown": {
         "semantic_similarity": 0.4939,
@@ -23,53 +23,7 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052071"
-    },
-    {
-      "id": "arbeitnow_senior-electronics-engineer-munich-bavaria-328785",
-      "title": "(Senior) Electronics Engineer (m/f/d)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "description": "&lt;p&gt;&lt;strong&gt;The Robotics &amp;amp; Mechatronics Teams at Agile Robots&lt;/strong&gt; are looking for a &lt;strong&gt;(Senior) Electronics Engineer (m/f/d)&lt;/strong&gt; who will help develop PCB-level electronics for our robot arms, from safety-circuit design through to production-ready schematics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;PCB Design:&lt;/strong&gt; Create and review schematics, PCB layouts, and wiri",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-electronics-engineer-munich-bavaria-328785",
-      "remote": false,
-      "tags": [
-        "Mechatronics Hardware"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795287327,
-      "fetched_at": "2026-11-22T01:44:50.611747",
-      "match_score": 39.51,
-      "score_breakdown": {
-        "semantic_similarity": 0.5104,
-        "semantic_score": 39.51,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052207"
-    },
-    {
-      "id": "remoteok_1137857",
-      "title": "Infrastructure Software Engineer",
-      "company": "Dropbox",
-      "location": "North America",
-      "description": "<div>\n<h2><span>Role Description</span></h2>\n</div>\n<p><span>As an Infrastructure Engineer, your role will be crucial in shaping and constructing the robust systems that not only support our current flagship products but also lay the groundwork for the next wave of engineering innovations. From optimizing user experiences across various projects to ensuring seamless scalability and data integrity, you'll be at the forefront of shaping the technological backbone of our platform.</span></p>\n<p><sp",
-      "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
-      "salary": "",
-      "tags": [
-        "programming"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-11-19T20:30:17+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933956",
-      "match_score": 37.02,
-      "score_breakdown": {
-        "semantic_similarity": 0.4909,
-        "semantic_score": 37.02,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.051954"
+      "scored_at": "2026-11-22T13:42:53.283501"
     },
     {
       "id": "arbeitnow_senior-site-reliability-engineer-trading-infrastructure-python-linux-amsterdam-140713",
@@ -84,7 +38,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795286433,
-      "fetched_at": "2026-11-22T01:44:50.618771",
+      "fetched_at": "2026-11-22T13:42:39.199651",
       "match_score": 35.48,
       "score_breakdown": {
         "semantic_similarity": 0.4395,
@@ -92,30 +46,7 @@
         "location_match": 0,
         "priority_keywords": 5
       },
-      "scored_at": "2026-11-22T01:45:31.052837"
-    },
-    {
-      "id": "remoteok_1137844",
-      "title": "Staff Software Engineer (Interfaces)",
-      "company": "Netlify",
-      "location": "Worldwide",
-      "description": "<p><strong>About the Team</strong></p>\n<p>As a Staff Software Engineer at Netlify, you'll join a collaborative team that values continuous learning, mutual support, and shared growth. Together, we create tools that help developers build faster, more intuitively, and with greater impact. Our Experience team owns the core product experience at Netlify, which is every way a human or an agent interacts with the platform, from our React-based web application to CLI, MCP, SDK, and API. If users intera",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-      "salary": "",
-      "tags": [
-        "programming"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-11-19T17:15:52+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933963",
-      "match_score": 34.63,
-      "score_breakdown": {
-        "semantic_similarity": 0.4328,
-        "semantic_score": 29.63,
-        "location_match": 0,
-        "priority_keywords": 5
-      },
-      "scored_at": "2026-11-22T01:45:31.052036"
+      "scored_at": "2026-11-22T13:42:53.284121"
     },
     {
       "id": "remoteok_1137871",
@@ -130,7 +61,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-20T01:30:14+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933949",
+      "fetched_at": "2026-11-22T13:42:32.128454",
       "match_score": 34.44,
       "score_breakdown": {
         "semantic_similarity": 0.4706,
@@ -138,30 +69,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.051926"
+      "scored_at": "2026-11-22T13:42:53.283468"
     },
     {
-      "id": "arbeitnow_full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
-      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "description": "&lt;p&gt;&lt;strong&gt;The AI Teams at Agile Robots&lt;/strong&gt; are looking for a &lt;strong&gt;Full-Stack Developer Intern (m/f/d) Robotics Data Collection&lt;/strong&gt;. Join our team in Munich, where you will help keep the software behind our robotics data-collection farm stable. We are seeking a hands-on student or recent graduate who has built and tested a full-stack web application.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;st",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
+      "id": "arbeitnow_principal-software-engineer-vector-search-elasticsearch-483019",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-vector-search-elasticsearch-483019",
       "remote": false,
       "tags": [
-        "AI Solutions"
+        "Platform - Elasticsearch"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795287327,
-      "fetched_at": "2026-11-22T01:44:50.611796",
-      "match_score": 33.49,
+      "posted_at": 1795319730,
+      "fetched_at": "2026-11-22T13:42:39.198628",
+      "match_score": 33.8,
       "score_breakdown": {
-        "semantic_similarity": 0.4631,
-        "semantic_score": 33.49,
+        "semantic_similarity": 0.3477,
+        "semantic_score": 18.8,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.284037"
+    },
+    {
+      "id": "arbeitnow_senior-embedded-linux-software-engineer-zurich-271814",
+      "title": "Senior Embedded Linux Software Engineer",
+      "company": "Auterion",
+      "location": "Zurich",
+      "description": "&lt;p&gt;Auterion builds a cutting-edge operating system for autonomous robotic systems that empower a diverse range of platforms to perform surveillance, reconnaissance, inspection, mapping and logistics tasks. Our industry-leading software drives the adoption of robotic fleets and is recognized by the U.S. government as the future standard for its drone programs.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Embedded Linux Software Engineer taking on tasks within the AuterionOS ecos",
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-embedded-linux-software-engineer-zurich-271814",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795352119,
+      "fetched_at": "2026-11-22T13:42:39.198463",
+      "match_score": 33.73,
+      "score_breakdown": {
+        "semantic_similarity": 0.4651,
+        "semantic_score": 33.73,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052226"
+      "scored_at": "2026-11-22T13:42:53.283948"
     },
     {
       "id": "arbeitnow_senior-data-architect-hanover-37286",
@@ -176,7 +130,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795308010,
-      "fetched_at": "2026-11-22T01:44:51.774212",
+      "fetched_at": "2026-11-22T13:42:40.347115",
       "match_score": 32.62,
       "score_breakdown": {
         "semantic_similarity": 0.4563,
@@ -184,30 +138,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052925"
+      "scored_at": "2026-11-22T13:42:53.284248"
     },
     {
-      "id": "arbeitnow_senior-software-engineer-zurich-229997",
-      "title": "Senior Software Engineer",
-      "company": "Auterion",
-      "location": "Zurich",
-      "description": "&lt;p&gt;We are looking for a hands-on Autonomous Drone Software Engineer to join a swarming programme. As an engineer on a lean, high-impact team, you will have the opportunity to drive development of new features, have a say in architecture and design decisions and have real impact across all the team\u2019s projects.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will not be siloed; this role spans the entire autonomy lifecycle, from developing autonomy capabilities to investigating real-world flight-test data.",
-      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-software-engineer-zurich-229997",
+      "id": "arbeitnow_principal-software-engineer-search-infra-elasticsearch-9780",
+      "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-software-engineer-search-infra-elasticsearch-9780",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Platform - Elasticsearch"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795190117,
-      "fetched_at": "2026-11-22T01:44:50.618216",
-      "match_score": 31.47,
+      "posted_at": 1795319730,
+      "fetched_at": "2026-11-22T13:42:39.198630",
+      "match_score": 30.9,
       "score_breakdown": {
-        "semantic_similarity": 0.4472,
-        "semantic_score": 31.47,
-        "location_match": 0,
+        "semantic_similarity": 0.3249,
+        "semantic_score": 15.9,
+        "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052816"
+      "scored_at": "2026-11-22T13:42:53.284058"
+    },
+    {
+      "id": "arbeitnow_senior-software-engineer-vector-search-elasticsearch-102741",
+      "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+      "company": "Elastic",
+      "location": "",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing a",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/senior-software-engineer-vector-search-elasticsearch-102741",
+      "remote": false,
+      "tags": [
+        "Platform - Elasticsearch"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795319730,
+      "fetched_at": "2026-11-22T13:42:39.198627",
+      "match_score": 30.24,
+      "score_breakdown": {
+        "semantic_similarity": 0.3197,
+        "semantic_score": 15.24,
+        "location_match": 15,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.284015"
     },
     {
       "id": "arbeitnow_software-engineering-intern-2027-start-berlin-356841",
@@ -222,7 +199,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795308922,
-      "fetched_at": "2026-11-22T01:44:50.610871",
+      "fetched_at": "2026-11-22T13:42:39.195024",
       "match_score": 29.53,
       "score_breakdown": {
         "semantic_similarity": 0.432,
@@ -230,30 +207,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052146"
+      "scored_at": "2026-11-22T13:42:53.283677"
     },
     {
-      "id": "arbeitnow_enterprise-sales-engineer-france-333058",
-      "title": "Enterprise Sales Engineer - France",
-      "company": "chainguard",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
-      "url": "https://www.arbeitnow.fr/jobs/companies/chainguard/enterprise-sales-engineer-france-333058",
+      "id": "arbeitnow_forward-deployed-engineer-munich-153891",
+      "title": "Forward Deployed Engineer",
+      "company": "Auterion",
+      "location": "Munich",
+      "description": "&lt;p&gt;As a Forward Deployed Engineer at Auterion, you will build software that runs on real drones. You will take Auterion\u2019s platform into a specific customer program and make it work on their hardware, for their mission, in the field.&lt;/p&gt;\n&lt;p&gt;This is a software engineering role. You will design, write, integrate and debug C++ and Python code on a Linux-based autonomy stack, working with AuterionOS, our operating system for autonomous vehicles, and Skynode, our flight and mission c",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-153891",
       "remote": false,
       "tags": [
-        "International Sales Engineering"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795287328,
-      "fetched_at": "2026-11-22T01:44:50.615972",
-      "match_score": 29.41,
+      "posted_at": 1795352122,
+      "fetched_at": "2026-11-22T13:42:39.193033",
+      "match_score": 29.11,
       "score_breakdown": {
-        "semantic_similarity": 0.3132,
-        "semantic_score": 14.41,
-        "location_match": 15,
-        "priority_keywords": 0
+        "semantic_similarity": 0.3894,
+        "semantic_score": 24.11,
+        "location_match": 0,
+        "priority_keywords": 5
       },
-      "scored_at": "2026-11-22T01:45:31.052528"
+      "scored_at": "2026-11-22T13:42:53.283534"
     },
     {
       "id": "arbeitnow_engineering-lead-connectivity-domain-rotterdam-65222",
@@ -268,7 +245,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795188699,
-      "fetched_at": "2026-11-22T01:44:50.619693",
+      "fetched_at": "2026-11-22T13:42:39.200445",
       "match_score": 26.4,
       "score_breakdown": {
         "semantic_similarity": 0.4075,
@@ -276,100 +253,99 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052904"
+      "scored_at": "2026-11-22T13:42:53.284188"
     },
     {
-      "id": "arbeitnow_senior-backend-engineer-team-atlas-berlin-497741",
-      "title": "Senior Backend Engineer - Team Atlas",
-      "company": "Taktile",
-      "location": "Berlin Office",
-      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">Banks and fintechs use Taktile to automate critical decisions, like credit and risk, in real time. We're building the infrastructure that makes financial institutions truly AI-native, and the backend is where the hard problems live.</p><p style=\"min-height:1.5em\">We're growing rapidly with enterprise customers across banking and insurance, and we're looking for a Senior Backend Engineer to join Team Atlas : a small, high-ownersh",
-      "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-backend-engineer-team-atlas-berlin-497741",
+      "id": "arbeitnow_infrastructure-software-engineer-zurich-162653",
+      "title": "Infrastructure Software Engineer",
+      "company": "Namespace",
+      "location": "Switzerland",
+      "description": "<h1><strong>Join our mission</strong></h1><p style=\"min-height:1.5em\"><strong>We're proud to work with many incredible companies, accelerating their ability to build their products.</strong></p><p style=\"min-height:1.5em\">We've spent years watching talented engineering teams lose momentum to the same frustrating bottleneck: waiting. Waiting for CI to finish. Waiting for builds to complete. Waiting for tests to run.</p><p style=\"min-height:1.5em\">After experiencing this pain firsthand at companie",
+      "url": "https://www.arbeitnow.ch/jobs/companies/namespace/infrastructure-software-engineer-zurich-162653",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795275621,
-      "fetched_at": "2026-11-22T01:44:50.612733",
-      "match_score": 24.68,
+      "posted_at": 1795340413,
+      "fetched_at": "2026-11-22T13:42:39.198607",
+      "match_score": 26.24,
       "score_breakdown": {
-        "semantic_similarity": 0.394,
-        "semantic_score": 24.68,
+        "semantic_similarity": 0.4062,
+        "semantic_score": 26.24,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052268"
+      "scored_at": "2026-11-22T13:42:53.283968"
     },
     {
-      "id": "arbeitnow_senior-forward-deployed-engineer-paris-332330",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "UiPath",
-      "location": "Paris",
-      "description": "<h1><strong>Life at UiPath</strong></h1><p style=\"min-height:1.5em\">The people at UiPath believe in the transformative power of automation to change how the world works. We\u2019re committed to creating category-leading enterprise software that unleashes that power.</p><p style=\"min-height:1.5em\">To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care\u2014about each other, ab",
-      "url": "https://www.arbeitnow.fr/jobs/companies/uipath/senior-forward-deployed-engineer-paris-332330",
+      "id": "remoteok_1137945",
+      "title": "Principal Software Engineer, Infrastructure",
+      "company": "Reddit",
+      "location": "US Only",
+      "description": "<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>Reddit is a community of communities. It\u00e2\u0080\u0099s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u00e2\u0080\u0099s largest sources of information. For more information, visit <a href=\"http://www.r",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+      "salary": "",
+      "tags": [
+        "devops"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-11-21T04:40:06+00:00",
+      "fetched_at": "2026-11-22T13:42:32.128427",
+      "match_score": 22.82,
+      "score_breakdown": {
+        "semantic_similarity": 0.3793,
+        "semantic_score": 22.82,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283359"
+    },
+    {
+      "id": "arbeitnow_staff-software-engineer-munich-352022",
+      "title": "Staff Software Engineer (w/m/d)",
+      "company": "Skalar",
+      "location": "M\u00fcnchen",
+      "description": "<h2>TL;DR</h2><p style=\"min-height:1.5em\">Staff Software Engineer. Set the technical direction of an AI-native tax &amp; accounting firm. Own the cross-cutting systems everything else is built on \u2013 tax data model, AI correctness, integrations \u2013 and multiply the engineering team around you. Work directly with the founders (scaled to millions of users, $100m+ exits).</p><h2>The opportunity</h2><p style=\"min-height:1.5em\">How taxation, accounting and payroll work today is a pain for everyone. Still",
+      "url": "https://www.arbeitnow.com/jobs/companies/skalar/staff-software-engineer-munich-352022",
       "remote": false,
       "tags": [
         "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795232600,
-      "fetched_at": "2026-11-22T01:44:50.617316",
-      "match_score": 23.0,
+      "posted_at": 1795340416,
+      "fetched_at": "2026-11-22T13:42:39.193919",
+      "match_score": 21.73,
       "score_breakdown": {
-        "semantic_similarity": 0.3807,
-        "semantic_score": 23.0,
+        "semantic_similarity": 0.3707,
+        "semantic_score": 21.73,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052774"
+      "scored_at": "2026-11-22T13:42:53.283562"
     },
     {
-      "id": "arbeitnow_senior-manager-professional-services-emea-426107",
-      "title": "Senior Manager, Professional Services - EMEA",
-      "company": "chainguard",
-      "location": "",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.&amp;nbsp;&lt;br&gt;&lt;br&gt;Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and S",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/senior-manager-professional-services-emea-426107",
+      "id": "arbeitnow_data-engineering-intern-amsterdam-200037",
+      "title": "Data Engineering Intern",
+      "company": "Metyis AG",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "description": "<p>Metyis is growing! We are looking for a Data Engineering Intern to join our Data and Analytics team, in Amsterdam. As a Data Engineering Intern, you will be involved in turning our clients\u00b4 business into a more data-driven one. </p> <br> <h2>Who we are</h2><p>Metyis is a global and forward-thinking firm operating across a wide range of industries, developing and delivering Big Data, Digital Commerce, Marketing &amp; Design solutions and Advisory services. At Metyis, our long-term partnership ",
+      "url": "https://www.arbeitnow.nl/jobs/companies/metyis-ag/data-engineering-intern-amsterdam-200037",
       "remote": false,
       "tags": [
-        "Professional Services"
+        "Data & Analytics"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795287328,
-      "fetched_at": "2026-11-22T01:44:50.615302",
-      "match_score": 21.82,
-      "score_breakdown": {
-        "semantic_similarity": 0.2536,
-        "semantic_score": 6.82,
-        "location_match": 15,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052510"
-    },
-    {
-      "id": "arbeitnow_c2-software-engineer-nuremberg-125744",
-      "title": "C2 Software Engineer",
-      "company": "Walaris",
-      "location": "Nuremberg, Germany",
-      "description": "<p><em>Walaris designs and develops AI-driven, software-defined, and hardware-enabled autonomous systems for defense and security applications. Our software platform uses artificial intelligence, sensor fusion, and edge computing to provide real-time situational awareness for air, land, and sea domains, enabling rapid decisions at machine speed. Our cutting-edge technology is utilized by customers across the defense, national security, government, marine, and critical infrastructure protection m",
-      "url": "https://www.arbeitnow.com/jobs/companies/walaris/c2-software-engineer-nuremberg-125744",
-      "remote": false,
-      "tags": [
-        "Engineering",
-        "Information Technology and Services"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795274413,
-      "fetched_at": "2026-11-22T01:44:50.613043",
-      "match_score": 21.72,
+      "posted_at": 1795341110,
+      "fetched_at": "2026-11-22T13:42:39.199408",
+      "match_score": 21.71,
       "score_breakdown": {
         "semantic_similarity": 0.3706,
-        "semantic_score": 21.72,
+        "semantic_score": 21.71,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052371"
+      "scored_at": "2026-11-22T13:42:53.284100"
     },
     {
       "id": "arbeitnow_senior-devops-engineer-cologne-457952",
@@ -382,7 +358,7 @@
       "tags": [],
       "source": "Arbeitnow",
       "posted_at": 1795297528,
-      "fetched_at": "2026-11-22T01:44:50.611494",
+      "fetched_at": "2026-11-22T13:42:39.195551",
       "match_score": 21.32,
       "score_breakdown": {
         "semantic_similarity": 0.3675,
@@ -390,7 +366,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052169"
+      "scored_at": "2026-11-22T13:42:53.283699"
+    },
+    {
+      "id": "arbeitnow_product-engineer-zurich-396650",
+      "title": "Product Engineer",
+      "company": "Namespace",
+      "location": "Switzerland",
+      "description": "<h1><strong>Join our mission</strong></h1><p style=\"min-height:1.5em\"><strong>We're proud to work with many incredible companies, accelerating their ability to build their products.</strong></p><p style=\"min-height:1.5em\">We've spent years watching talented engineering teams lose momentum to the same frustrating bottleneck: waiting. Waiting for CI to finish. Waiting for builds to complete. Waiting for tests to run.</p><p style=\"min-height:1.5em\">After experiencing this pain firsthand at companie",
+      "url": "https://www.arbeitnow.ch/jobs/companies/namespace/product-engineer-zurich-396650",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795340413,
+      "fetched_at": "2026-11-22T13:42:39.198625",
+      "match_score": 20.68,
+      "score_breakdown": {
+        "semantic_similarity": 0.3625,
+        "semantic_score": 20.68,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283986"
     },
     {
       "id": "arbeitnow_software-engineer-industrial-robot-control-munich-bavaria-367702",
@@ -405,7 +404,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795287327,
-      "fetched_at": "2026-11-22T01:44:50.611716",
+      "fetched_at": "2026-11-22T13:42:39.195719",
       "match_score": 18.65,
       "score_breakdown": {
         "semantic_similarity": 0.3465,
@@ -413,76 +412,122 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052188"
+      "scored_at": "2026-11-22T13:42:53.283717"
     },
     {
-      "id": "arbeitnow_staff-ai-engineer-agent-evaluation-platform-levallois-perret-333679",
-      "title": "Staff AI Engineer - Agent Evaluation Platform (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris",
-      "description": "<p style=\"min-height:1.5em\">Join a team of passionate and hardworking entrepreneurs to transform healthcare!</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><p style=\"min-height:1.5em\">Working in the tech team at Doctolib involves building innovative products and features to improve the daily lives of care teams and patients. We work in feature teams in an agile environment, while collaborating with product, design, and business teams.</p><div style=\"min-height:1.2em;mar",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/staff-ai-engineer-agent-evaluation-platform-levallois-perret-333679",
+      "id": "arbeitnow_software-developer-junior-typescript-groovy-essen-121371",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "company": "MESKRU GmbH",
+      "location": "Essen",
+      "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbind",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
       "remote": false,
       "tags": [
-        "AI"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795232601,
-      "fetched_at": "2026-11-22T01:44:50.617139",
-      "match_score": 17.77,
+      "posted_at": 1795341659,
+      "fetched_at": "2026-11-22T13:42:40.345246",
+      "match_score": 17.89,
       "score_breakdown": {
-        "semantic_similarity": 0.3396,
-        "semantic_score": 17.77,
+        "semantic_similarity": 0.3013,
+        "semantic_score": 12.89,
         "location_match": 0,
-        "priority_keywords": 0
+        "priority_keywords": 5
       },
-      "scored_at": "2026-11-22T01:45:31.052749"
+      "scored_at": "2026-11-22T13:42:53.284209"
     },
     {
-      "id": "remoteok_1137856",
-      "title": "Senior Software Engineer",
-      "company": "Tebra",
-      "location": "US Only",
-      "description": "<div><p>Tebra only initiates contact with candidates via email from an official Tebra email address (@<a href=\"http://tebra.com/\">tebra.com</a>, @<a href=\"http://patientpop.com/\">patientpop.com</a>, or @<a href=\"http://kareo.com/\">kareo.com</a>) or through our applicant tracking system, Greenhouse.\u00c2\u00a0We will only ask you to provide sensitive personal information through our official application portal \u00e2\u0080\u0094 not via social media or text message. We do not conduct interviews via instant messaging.</p",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
-      "salary": "",
-      "tags": [
-        "programming"
-      ],
-      "source": "RemoteOK",
-      "posted_at": "2026-11-19T20:15:13+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933958",
-      "match_score": 17.62,
-      "score_breakdown": {
-        "semantic_similarity": 0.3385,
-        "semantic_score": 17.62,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.051982"
-    },
-    {
-      "id": "arbeitnow_senior-fullstack-engineer-berlin-80839",
-      "title": "Senior Fullstack Engineer (f/m/d)",
-      "company": "Upvest",
-      "location": "Berlin",
-      "description": "<p style=\"min-height:1.5em\">At Upvest, we are on a <strong>mission to make investing as easy as spending money</strong>. Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest\u2019s Investment API is easy to integrate so that fintechs and financial institutions can save resources and fully focus on their core business.</p><p style=\"min-height:1.5em\">We are proud to partner with Europe\u2019s",
-      "url": "https://www.arbeitnow.com/jobs/companies/upvest/senior-fullstack-engineer-berlin-80839",
+      "id": "arbeitnow_software-developer-junior-typescript-groovy-munich-310261",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "company": "MESKRU GmbH",
+      "location": "Munich",
+      "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbind",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-310261",
       "remote": false,
       "tags": [
-        "Engineering"
+        "Software Development"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795275618,
-      "fetched_at": "2026-11-22T01:44:50.612975",
-      "match_score": 17.01,
+      "posted_at": 1795341659,
+      "fetched_at": "2026-11-22T13:42:40.345261",
+      "match_score": 17.89,
       "score_breakdown": {
-        "semantic_similarity": 0.3337,
-        "semantic_score": 17.01,
+        "semantic_similarity": 0.3013,
+        "semantic_score": 12.89,
+        "location_match": 0,
+        "priority_keywords": 5
+      },
+      "scored_at": "2026-11-22T13:42:53.284228"
+    },
+    {
+      "id": "arbeitnow_senior-linux-distribution-validation-engineer-cambridge-365769",
+      "title": "Senior Linux Distribution & Validation Engineer",
+      "company": "Graphcore",
+      "location": "Cambridge",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Senior: GBP 73,500 - 99,500&lt;/span&gt;&lt;/strong&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Staff: GBP 97,300 - 131,700&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Subject to alignment to the responsibilities and duties of the role - we currently have multiple positions available at both Senior and Staff level.&amp;nbsp;&lt;/span&gt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-linux-distribution-validation-engineer-cambridge-365769",
+      "remote": false,
+      "tags": [
+        "System Software Integration"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795341317,
+      "fetched_at": "2026-11-22T13:42:39.196257",
+      "match_score": 17.55,
+      "score_breakdown": {
+        "semantic_similarity": 0.3379,
+        "semantic_score": 17.55,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052350"
+      "scored_at": "2026-11-22T13:42:53.283786"
+    },
+    {
+      "id": "arbeitnow_senior-linux-distribution-validation-engineer-london-377705",
+      "title": "Senior Linux Distribution & Validation Engineer",
+      "company": "Graphcore",
+      "location": "London",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Senior: GBP 73,500 - 99,500&lt;/span&gt;&lt;/strong&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Staff: GBP 97,300 - 131,700&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Subject to alignment to the responsibilities and duties of the role - we currently have multiple positions available at both Senior and Staff level.&amp;nbsp;&lt;/span&gt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-linux-distribution-validation-engineer-london-377705",
+      "remote": false,
+      "tags": [
+        "System Software Integration"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795341317,
+      "fetched_at": "2026-11-22T13:42:39.196308",
+      "match_score": 17.55,
+      "score_breakdown": {
+        "semantic_similarity": 0.3379,
+        "semantic_score": 17.55,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283801"
+    },
+    {
+      "id": "arbeitnow_senior-linux-distribution-validation-engineer-bristol-209434",
+      "title": "Senior Linux Distribution & Validation Engineer",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Senior: GBP 73,500 - 99,500&lt;/span&gt;&lt;/strong&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Staff: GBP 97,300 - 131,700&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Subject to alignment to the responsibilities and duties of the role - we currently have multiple positions available at both Senior and Staff level.&amp;nbsp;&lt;/span&gt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-linux-distribution-validation-engineer-bristol-209434",
+      "remote": false,
+      "tags": [
+        "System Software Integration"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795341317,
+      "fetched_at": "2026-11-22T13:42:39.196358",
+      "match_score": 17.55,
+      "score_breakdown": {
+        "semantic_similarity": 0.3379,
+        "semantic_score": 17.55,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283828"
     },
     {
       "id": "arbeitnow_ai-solutions-engineer-all-genders-berlin-300151",
@@ -497,7 +542,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795308922,
-      "fetched_at": "2026-11-22T01:44:50.610816",
+      "fetched_at": "2026-11-22T13:42:39.194983",
       "match_score": 15.12,
       "score_breakdown": {
         "semantic_similarity": 0.3188,
@@ -505,7 +550,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052094"
+      "scored_at": "2026-11-22T13:42:53.283635"
     },
     {
       "id": "arbeitnow_ai-solutions-engineer-all-genders-munich-bavaria-147383",
@@ -520,7 +565,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795308922,
-      "fetched_at": "2026-11-22T01:44:50.610868",
+      "fetched_at": "2026-11-22T13:42:39.195021",
       "match_score": 15.12,
       "score_breakdown": {
         "semantic_similarity": 0.3188,
@@ -528,7 +573,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052113"
+      "scored_at": "2026-11-22T13:42:53.283652"
     },
     {
       "id": "remoteok_1137924",
@@ -543,7 +588,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-21T01:20:20+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933912",
+      "fetched_at": "2026-11-22T13:42:32.128436",
       "match_score": 15.0,
       "score_breakdown": {
         "semantic_similarity": 0.178,
@@ -551,124 +596,145 @@
         "location_match": 15,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.051853"
+      "scored_at": "2026-11-22T13:42:53.283387"
     },
     {
-      "id": "arbeitnow_remote-1226-front-end-developer-germany-84712",
-      "title": "1226 | Front-end Developer",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Front-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting g",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
-      "remote": true,
-      "tags": [
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795263617,
-      "fetched_at": "2026-11-22T01:44:50.613421",
-      "match_score": 14.33,
-      "score_breakdown": {
-        "semantic_similarity": 0.3126,
-        "semantic_score": 14.33,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052424"
-    },
-    {
-      "id": "arbeitnow_remote-1227-back-end-developer-germany-388586",
-      "title": "1227 | Back-end Developer",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Back-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting gl",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
-      "remote": true,
-      "tags": [
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795263617,
-      "fetched_at": "2026-11-22T01:44:50.613406",
-      "match_score": 13.08,
-      "score_breakdown": {
-        "semantic_similarity": 0.3028,
-        "semantic_score": 13.08,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052400"
-    },
-    {
-      "id": "arbeitnow_staff-product-engineer-ai-berlin-488644",
-      "title": "Staff Product Engineer, AI",
-      "company": "intercom",
-      "location": "Berlin",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex custo",
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-engineer-ai-berlin-488644",
+      "id": "arbeitnow_senior-software-engineer-munich-266738",
+      "title": "Senior Software Engineer (w/m/d)",
+      "company": "Skalar",
+      "location": "M\u00fcnchen",
+      "description": "<h2>TL;DR</h2><p style=\"min-height:1.5em\">Senior Software Engineer. Build v1 \u2192 v10 of an AI-native tax &amp; accounting firm. Own a product area end-to-end \u2013 from data model to UI \u2013 alongside experienced entrepreneurs (scaled to millions of users, $100m+ exits).</p><h2>The opportunity</h2><p style=\"min-height:1.5em\">How taxation, accounting and payroll work today is a pain for everyone. Still every business must do it continuously. It is the backbone our economy runs on.</p><p style=\"min-height:",
+      "url": "https://www.arbeitnow.com/jobs/companies/skalar/senior-software-engineer-munich-266738",
       "remote": false,
       "tags": [
-        "AI Group"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795276525,
-      "fetched_at": "2026-11-22T01:44:50.612295",
-      "match_score": 12.38,
+      "posted_at": 1795340416,
+      "fetched_at": "2026-11-22T13:42:39.193923",
+      "match_score": 14.13,
       "score_breakdown": {
-        "semantic_similarity": 0.2972,
-        "semantic_score": 12.38,
+        "semantic_similarity": 0.311,
+        "semantic_score": 14.13,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052246"
+      "scored_at": "2026-11-22T13:42:53.283588"
     },
     {
-      "id": "remoteok_1137849",
-      "title": "Senior Software Engineer Guest & Host",
-      "company": "Airbnb",
+      "id": "remoteok_1137948",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "company": "Abnormal",
+      "location": "UK Only",
+      "description": "<p>At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.\u00c2\u00a0</p>\n<p>Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in August 2024.\u00c2\u00a0</p>\n<p><strong>About The Team\u00c2\u00a0</strong></p>\n<p>The team is responsible for th",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+      "salary": "",
+      "tags": [
+        "devops"
+      ],
+      "source": "RemoteOK",
+      "posted_at": "2026-11-21T05:20:05+00:00",
+      "fetched_at": "2026-11-22T13:42:32.128425",
+      "match_score": 13.87,
+      "score_breakdown": {
+        "semantic_similarity": 0.309,
+        "semantic_score": 13.87,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283332"
+    },
+    {
+      "id": "remoteok_1137955",
+      "title": "Staff Software Engineer, Agentic Tools",
+      "company": "Cribl",
       "location": "US Only",
-      "description": "<div><p><span>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><strong>The Community You Will Join:</strong></p>\n<p>Airbnb\u00e2\u0080\u0099s mission is to create a world where anyone",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-guest-host-airbnb-1137849",
+      "description": "<div><p>Join the company that\u00e2\u0080\u0099s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u00e2\u0080\u0099s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u00e2\u0080\u0099s next.</p>\n<p>We\u00e2\u0080\u0099re one of the fastest\u00e2\u0080",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
       "salary": "",
       "tags": [
         "programming"
       ],
       "source": "RemoteOK",
-      "posted_at": "2026-11-19T18:30:15+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933961",
-      "match_score": 9.84,
+      "posted_at": "2026-11-21T09:40:06+00:00",
+      "fetched_at": "2026-11-22T13:42:32.128386",
+      "match_score": 13.83,
       "score_breakdown": {
-        "semantic_similarity": 0.2773,
-        "semantic_score": 9.84,
+        "semantic_similarity": 0.3087,
+        "semantic_score": 13.83,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052011"
+      "scored_at": "2026-11-22T13:42:53.283266"
     },
     {
-      "id": "arbeitnow_growth-manager-london-415780",
-      "title": "Growth Manager",
-      "company": "Dex",
-      "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><strong>Our Mission</strong><br />Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance?</p><p style=\"min-height:1.5em\">Dex\u2019s mission is to close the gap between Talent &amp; Opportunity, we believe that work, and being productive, is part of the human condition, that rega",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/growth-manager-london-415780",
+      "id": "arbeitnow_chief-of-staff-tech-engineering-paris-142427",
+      "title": "Chief of Staff Tech - Engineering",
+      "company": "Pennylane SAS",
+      "location": "Paris",
+      "description": "<p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)?</p><p style=\"min-height:1.5em\">Are you looking for a work environment that values trust, proactivity, and autonomy?</p><p style=\"min-height:1.5em\">Then Pennylane is the right place for you !</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00a0</div><p style=\"min-height:1.5em\"><strong>Our vision</strong></p>",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/chief-of-staff-tech-engineering-paris-142427",
       "remote": false,
       "tags": [
-        "Dex"
+        "Strategy & Operations"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795308011,
-      "fetched_at": "2026-11-22T01:44:50.614162",
-      "match_score": 9.14,
+      "posted_at": 1795340416,
+      "fetched_at": "2026-11-22T13:42:39.197500",
+      "match_score": 13.76,
       "score_breakdown": {
-        "semantic_similarity": 0.2719,
-        "semantic_score": 9.14,
+        "semantic_similarity": 0.3081,
+        "semantic_score": 13.76,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052489"
+      "scored_at": "2026-11-22T13:42:53.283874"
+    },
+    {
+      "id": "arbeitnow_simulation-engineer-drone-physical-models-integration-paris-199402",
+      "title": "Simulation Engineer - Drone Physical Models Integration",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "description": "<h3><strong>About Us</strong></h3><p style=\"min-height:1.5em\">Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical systems to allied forces.</p><p style=\"min-height:1.5em\">Our work is guided by clear values: building technologies with real-world impact, pursuing excellence in everything we do, setting am",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/simulation-engineer-drone-physical-models-integration-paris-199402",
+      "remote": false,
+      "tags": [
+        "R&D"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795329613,
+      "fetched_at": "2026-11-22T13:42:39.197578",
+      "match_score": 11.6,
+      "score_breakdown": {
+        "semantic_similarity": 0.2912,
+        "semantic_score": 11.6,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283895"
+    },
+    {
+      "id": "arbeitnow_principal-consultant-enterprise-modernisation-architect-london-manchester-83219",
+      "title": "Principal Consultant (Enterprise Modernisation Architect)",
+      "company": "thoughtworks",
+      "location": "London; Manchester",
+      "description": "&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;The Solution architect for Enterprise Modernization in Europe is a senior subject matter expert responsible for technical excellence, solution integrity, and capability development within the service line.&lt;/p&gt;\n&lt;p&gt;This hands-on role leads high-impact client engagements, contributes to pre-sales and solution design, and ensures the regional adoption and evolution of service-specific delivery frameworks, tools, and best practice",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thoughtworks/principal-consultant-enterprise-modernisation-architect-london-manchester-83219",
+      "remote": false,
+      "tags": [
+        "1X_UKNOR SL EMPC"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795341318,
+      "fetched_at": "2026-11-22T13:42:39.196178",
+      "match_score": 9.91,
+      "score_breakdown": {
+        "semantic_similarity": 0.2779,
+        "semantic_score": 9.91,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283768"
     },
     {
       "id": "arbeitnow_senior-software-engineer-customs-amsterdam-73882",
@@ -683,7 +749,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795200918,
-      "fetched_at": "2026-11-22T01:44:50.619375",
+      "fetched_at": "2026-11-22T13:42:39.200166",
       "match_score": 8.91,
       "score_breakdown": {
         "semantic_similarity": 0.27,
@@ -691,30 +757,30 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052884"
+      "scored_at": "2026-11-22T13:42:53.284167"
     },
     {
-      "id": "arbeitnow_growth-associate-london-258702",
-      "title": "Growth Associate",
-      "company": "Dex",
+      "id": "arbeitnow_forward-deployed-engineer-london-414813",
+      "title": "Forward Deployed Engineer",
+      "company": "Flow Engineering",
       "location": "London",
-      "description": "<p style=\"min-height:1.5em\"><strong>Our Mission</strong><br />Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance?</p><p style=\"min-height:1.5em\">Dex\u2019s mission is to close the gap between Talent &amp; Opportunity, we believe that work, and being productive, is part of the human condition, that rega",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/growth-associate-london-258702",
+      "description": "<h2><strong>About Flow</strong></h2><p style=\"min-height:1.5em\">Flow is reinventing how humanity builds its most complex machines. We are <em>the</em> tool for complex systems engineering used by next gen teams building the future of space, defense, automotive, aviation and robotics. If a company is aiming for the Moon, developing fusion power, or establishing the first interplanetary colony, they\u2019re likely using Flow to get there.</p><p style=\"min-height:1.5em\">We\u2019re backed by Sequoia Capital w",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flow-engineering/forward-deployed-engineer-london-414813",
       "remote": false,
       "tags": [
-        "Dex"
+        "Engineering"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795308011,
-      "fetched_at": "2026-11-22T01:44:50.614124",
-      "match_score": 8.43,
+      "posted_at": 1795351214,
+      "fetched_at": "2026-11-22T13:42:39.195947",
+      "match_score": 8.72,
       "score_breakdown": {
-        "semantic_similarity": 0.2663,
-        "semantic_score": 8.43,
+        "semantic_similarity": 0.2685,
+        "semantic_score": 8.72,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052465"
+      "scored_at": "2026-11-22T13:42:53.283748"
     },
     {
       "id": "remoteok_1137923",
@@ -729,7 +795,7 @@
       ],
       "source": "RemoteOK",
       "posted_at": "2026-11-21T01:00:06+00:00",
-      "fetched_at": "2026-11-22T01:44:42.933924",
+      "fetched_at": "2026-11-22T13:42:32.128437",
       "match_score": 7.82,
       "score_breakdown": {
         "semantic_similarity": 0.2614,
@@ -737,7 +803,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.051895"
+      "scored_at": "2026-11-22T13:42:53.283442"
+    },
+    {
+      "id": "arbeitnow_founding-engineer-mo-team-ai-health-companion-paris-france-85470",
+      "title": "Founding engineer- Mo team (AI Health Companion)",
+      "company": "Alan",
+      "location": "Paris, France",
+      "description": "<h1><strong>\ud83e\udd16 Who we are</strong></h1><p style=\"min-height:1.5em\"><strong>We\u2019re building Mo \u2014 a health companion for everyone.</strong></p><p style=\"min-height:1.5em\">We\u2019re a small team within Alan, on a mission to redefine the future of care by <strong>democratizing access to medical expertise</strong>. We are building <strong>Mo,</strong> an intelligent, empathetic, multimodal <strong>LLM-based conversational AI assistant able</strong> to <strong>prescribe, triage, and proactively follow up</s",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/founding-engineer-mo-team-ai-health-companion-paris-france-85470",
+      "remote": false,
+      "tags": [
+        "Engineering"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795318987,
+      "fetched_at": "2026-11-22T13:42:39.198235",
+      "match_score": 7.15,
+      "score_breakdown": {
+        "semantic_similarity": 0.2562,
+        "semantic_score": 7.15,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283926"
+    },
+    {
+      "id": "arbeitnow_senior-data-scientist-economist-supply-paris-123026",
+      "title": "Senior Data Scientist ( Economist) - Supply",
+      "company": "Backmarket",
+      "location": "Paris",
+      "description": "<h2>Hi, we\u2019re Back Market.</h2><p style=\"min-height:1.5em\">We\u2019re here to help <strong>make tech reliable, affordable, and better than new</strong>. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.</p><p style=\"min-height:1.5em\">Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device purchased on Back",
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-123026",
+      "remote": false,
+      "tags": [
+        "DATA"
+      ],
+      "source": "Arbeitnow",
+      "posted_at": 1795351213,
+      "fetched_at": "2026-11-22T13:42:39.197116",
+      "match_score": 6.89,
+      "score_breakdown": {
+        "semantic_similarity": 0.2541,
+        "semantic_score": 6.89,
+        "location_match": 0,
+        "priority_keywords": 0
+      },
+      "scored_at": "2026-11-22T13:42:53.283855"
     },
     {
       "id": "arbeitnow_remote-backend-software-developer-hilversum-417173",
@@ -753,7 +865,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795210287,
-      "fetched_at": "2026-11-22T01:44:51.782164",
+      "fetched_at": "2026-11-22T13:42:40.351957",
       "match_score": 5.83,
       "score_breakdown": {
         "semantic_similarity": 0.2458,
@@ -761,260 +873,53 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052952"
+      "scored_at": "2026-11-22T13:42:53.284274"
     },
     {
-      "id": "arbeitnow_senior-ai-engineer-freelance-product-paris-35952",
-      "title": "Senior AI Engineer Freelance - Product",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-paris-35952",
+      "id": "arbeitnow_senior-security-engineer-hamburg-422270",
+      "title": "Senior Security Engineer",
+      "company": "freiheit.com technologies",
+      "location": "Hamburg",
+      "description": "<div>\n<p><strong>\u00dcBER UNSERE COMPANY</strong></p>\n<p>freiheit.com wurde 1999 in Hamburg gegr\u00fcndet und entwickelt seitdem custom large-scale Softwareprodukte. Unsere Mission ist: \u201cShip great software\u201d.</p>\n<p>In mehr als zwei Jahrzehnten haben wir immer das ausgeliefert, was wir versprochen haben \u2013 \u201calways on time, on budget, on target and on quality\u201d.</p>\n<p>85% unserer Members sind Software Engineers mit Abschl\u00fcssen in Informatik, Physik oder Mathematik, viele auch mit fundierten Kenntnissen in",
+      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/senior-security-engineer-hamburg-422270",
       "remote": false,
       "tags": [
-        "Tech"
+        "Security"
       ],
       "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616670",
-      "match_score": 5.44,
+      "posted_at": 1795316866,
+      "fetched_at": "2026-11-22T13:42:39.194344",
+      "match_score": 5.4,
       "score_breakdown": {
-        "semantic_similarity": 0.2427,
-        "semantic_score": 5.44,
+        "semantic_similarity": 0.2424,
+        "semantic_score": 5.4,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052666"
+      "scored_at": "2026-11-22T13:42:53.283615"
     },
     {
-      "id": "arbeitnow_senior-ai-engineer-freelance-product-bordeaux-115463",
-      "title": "Senior AI Engineer Freelance - Product",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-freelance-product-bordeaux-115463",
-      "remote": false,
+      "id": "remoteok_1137954",
+      "title": "Senior Software Engineer, Partner Integrations",
+      "company": "Airbnb",
+      "location": "US Only",
+      "description": "<div><p><span>Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span><strong>The Community You Will Join: </strong></span></p>\n<p>The Partner Integration team is respon",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+      "salary": "",
       "tags": [
-        "Tech"
+        "programming"
       ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616718",
-      "match_score": 5.44,
+      "source": "RemoteOK",
+      "posted_at": "2026-11-21T09:40:04+00:00",
+      "fetched_at": "2026-11-22T13:42:32.128420",
+      "match_score": 1.99,
       "score_breakdown": {
-        "semantic_similarity": 0.2427,
-        "semantic_score": 5.44,
+        "semantic_similarity": 0.2156,
+        "semantic_score": 1.99,
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052687"
-    },
-    {
-      "id": "arbeitnow_senior-applied-ai-engineer-all-genders-munchen-457807",
-      "title": "Senior Applied AI Engineer (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "description": "<p style=\"min-height:1.5em\">Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">As <strong>Senior Applied AI Engineer</strong> (all genders), you work like a forward deployed engineer, embedded with our in",
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-applied-ai-engineer-all-genders-munchen-457807",
-      "remote": false,
-      "tags": [
-        "Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795275619,
-      "fetched_at": "2026-11-22T01:44:50.612824",
-      "match_score": 4.77,
-      "score_breakdown": {
-        "semantic_similarity": 0.2375,
-        "semantic_score": 4.77,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052320"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-product-bordeaux-416821",
-      "title": "Senior AI Engineer - Product",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-bordeaux-416821",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616572",
-      "match_score": 3.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.2265,
-        "semantic_score": 3.37,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052625"
-    },
-    {
-      "id": "arbeitnow_senior-ai-engineer-product-paris-100724",
-      "title": "Senior AI Engineer - Product",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-product-paris-100724",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616622",
-      "match_score": 3.37,
-      "score_breakdown": {
-        "semantic_similarity": 0.2265,
-        "semantic_score": 3.37,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052646"
-    },
-    {
-      "id": "arbeitnow_senior-software-engineer-data-platform-paris-104008",
-      "title": "Senior Software Engineer, Data Platform",
-      "company": "Algolia",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;span id=&quot;m_8220454926977230902gmail-docs-internal-guid-9a9f34f4-7fff-014a-c97c-98ca90610a47&quot;&gt;Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platfor",
-      "url": "https://www.arbeitnow.fr/jobs/companies/algolia/senior-software-engineer-data-platform-paris-104008",
-      "remote": false,
-      "tags": [
-        "R&D"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795244119,
-      "fetched_at": "2026-11-22T01:44:50.616341",
-      "match_score": 3.18,
-      "score_breakdown": {
-        "semantic_similarity": 0.225,
-        "semantic_score": 3.18,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052547"
-    },
-    {
-      "id": "arbeitnow_ai-engineer-devex-automation-paris-253225",
-      "title": "AI Engineer, DevEx & Automation",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616932",
-      "match_score": 2.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2214,
-        "semantic_score": 2.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052708"
-    },
-    {
-      "id": "arbeitnow_ai-engineer-devex-automation-bordeaux-394620",
-      "title": "AI Engineer, DevEx & Automation",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616979",
-      "match_score": 2.72,
-      "score_breakdown": {
-        "semantic_similarity": 0.2214,
-        "semantic_score": 2.72,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052728"
-    },
-    {
-      "id": "arbeitnow_applied-ai-engineer-all-genders-munchen-243027",
-      "title": "Applied AI Engineer (all genders)",
-      "company": "Wemolo",
-      "location": "Munich",
-      "description": "<p style=\"min-height:1.5em\">Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">As<strong> Applied AI Engineer</strong> (all genders), you work like a forward deployed engineer, embedded with our internal ",
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/applied-ai-engineer-all-genders-munchen-243027",
-      "remote": false,
-      "tags": [
-        "Product"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795275619,
-      "fetched_at": "2026-11-22T01:44:50.612794",
-      "match_score": 2.55,
-      "score_breakdown": {
-        "semantic_similarity": 0.22,
-        "semantic_score": 2.55,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052289"
-    },
-    {
-      "id": "arbeitnow_tech-product-manager-agentic-platform-bordeaux-20459",
-      "title": "Tech Product Manager - Agentic Platform",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/tech-product-manager-agentic-platform-bordeaux-20459",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616450",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1994,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052582"
-    },
-    {
-      "id": "arbeitnow_tech-product-manager-agentic-platform-paris-495924",
-      "title": "Tech Product Manager - Agentic Platform",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl\u2019s operating system combines an enterprise marketplace solution (Mirakl Platform) that enables retailers and B2B organizations to launch, scale, and operate marketplaces and dropship, AI-powered multichannel selling",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/tech-product-manager-agentic-platform-paris-495924",
-      "remote": false,
-      "tags": [
-        "Tech"
-      ],
-      "source": "Arbeitnow",
-      "posted_at": 1795233318,
-      "fetched_at": "2026-11-22T01:44:50.616518",
-      "match_score": 0.0,
-      "score_breakdown": {
-        "semantic_similarity": 0.1994,
-        "semantic_score": 0.0,
-        "location_match": 0,
-        "priority_keywords": 0
-      },
-      "scored_at": "2026-11-22T01:45:31.052604"
+      "scored_at": "2026-11-22T13:42:53.283303"
     },
     {
       "id": "arbeitnow_principal-engineer-classical-cryptography-architecture-geneva-126680",
@@ -1029,7 +934,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795265731,
-      "fetched_at": "2026-11-22T01:44:50.617897",
+      "fetched_at": "2026-11-22T13:42:39.199075",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1413,
@@ -1037,7 +942,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052789"
+      "scored_at": "2026-11-22T13:42:53.284072"
     },
     {
       "id": "arbeitnow_sr-engineering-manager-amsterdam-167050",
@@ -1052,7 +957,7 @@
       ],
       "source": "Arbeitnow",
       "posted_at": 1795286433,
-      "fetched_at": "2026-11-22T01:44:50.618889",
+      "fetched_at": "2026-11-22T13:42:39.199753",
       "match_score": 0.0,
       "score_breakdown": {
         "semantic_similarity": 0.1412,
@@ -1060,7 +965,7 @@
         "location_match": 0,
         "priority_keywords": 0
       },
-      "scored_at": "2026-11-22T01:45:31.052858"
+      "scored_at": "2026-11-22T13:42:53.284142"
     }
   ]
 }
