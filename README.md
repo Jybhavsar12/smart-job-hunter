@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-24 03:33 UTC
+**Last updated:** 2026-11-24 16:37 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 166 |
-| Jobs found (all time) | 4750 |
-| Jobs found (latest run, 2026-11-24) | 32 |
-| Best match (latest run) | Senior Software Developer - Canada at Clover Health (score 52) |
+| Jobs found (all time) | 4758 |
+| Jobs found (latest run, 2026-11-24) | 40 |
+| Best match (latest run) | FullStack Engineer - Prospect Data Solutions at Constructor (score 54) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
