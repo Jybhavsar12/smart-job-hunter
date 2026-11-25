@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-25 01:43 UTC
+**Last updated:** 2026-11-25 16:20 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 167 |
-| Jobs found (all time) | 4798 |
-| Jobs found (latest run, 2026-11-25) | 40 |
-| Best match (latest run) | Senior Software Developer - Canada at Clover Health (score 52) |
+| Jobs found (all time) | 4800 |
+| Jobs found (latest run, 2026-11-25) | 42 |
+| Best match (latest run) | Engineering Internships 2027 at Nabla (score 43) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
