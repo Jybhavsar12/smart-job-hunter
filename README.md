@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-26 01:15 UTC
+**Last updated:** 2026-11-26 15:55 UTC
 
 | Metric | Value |
 |--------|-------|
 | Search runs | 168 |
-| Jobs found (all time) | 4845 |
-| Jobs found (latest run, 2026-11-26) | 45 |
-| Best match (latest run) | Senior Software Engineer (Java, React & AWS) at Xdesign (score 53) |
+| Jobs found (all time) | 4839 |
+| Jobs found (latest run, 2026-11-26) | 39 |
+| Best match (latest run) | Medior Software Developer at Vesper (score 41) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
