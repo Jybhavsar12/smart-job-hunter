@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-25 16:20 UTC
+**Last updated:** 2026-11-26 01:15 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 167 |
-| Jobs found (all time) | 4800 |
-| Jobs found (latest run, 2026-11-25) | 42 |
-| Best match (latest run) | Engineering Internships 2027 at Nabla (score 43) |
+| Search runs | 168 |
+| Jobs found (all time) | 4845 |
+| Jobs found (latest run, 2026-11-26) | 45 |
+| Best match (latest run) | Senior Software Engineer (Java, React & AWS) at Xdesign (score 53) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
