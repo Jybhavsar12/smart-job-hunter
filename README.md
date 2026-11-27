@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-26 15:55 UTC
+**Last updated:** 2026-11-27 01:14 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 168 |
-| Jobs found (all time) | 4839 |
-| Jobs found (latest run, 2026-11-26) | 39 |
-| Best match (latest run) | Medior Software Developer at Vesper (score 41) |
+| Search runs | 169 |
+| Jobs found (all time) | 4882 |
+| Jobs found (latest run, 2026-11-27) | 43 |
+| Best match (latest run) | Senior React Native Engineer at S-PRO (score 57) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
