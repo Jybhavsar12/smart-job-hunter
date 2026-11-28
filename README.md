@@ -65,14 +65,14 @@ smart-job-hunter/
 ## Stats
 
 <!-- STATS_START -->
-**Last updated:** 2026-11-27 15:44 UTC
+**Last updated:** 2026-11-28 00:50 UTC
 
 | Metric | Value |
 |--------|-------|
-| Search runs | 169 |
-| Jobs found (all time) | 4883 |
-| Jobs found (latest run, 2026-11-27) | 44 |
-| Best match (latest run) | Senior React Native Engineer at S-PRO (score 57) |
+| Search runs | 170 |
+| Jobs found (all time) | 4909 |
+| Jobs found (latest run, 2026-11-28) | 26 |
+| Best match (latest run) | Senior Software Developer at Loopio Inc. (score 61) |
 | Applications tracked | 0 |
 <!-- STATS_END -->
 
